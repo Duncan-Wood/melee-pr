@@ -1,0 +1,944 @@
+{
+  "slug": "tournament/scss-west-coast-66/event/melee-singles",
+  "event": {
+    "id": 746325,
+    "name": "Melee Singles",
+    "startAt": 1656894600,
+    "numEntrants": 9,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #66",
+      "slug": "tournament/scss-west-coast-66"
+    }
+  },
+  "sets": [
+    {
+      "id": 49183722,
+      "winnerId": 10474084,
+      "displayScore": "YeehawDaniels 3 - Cow 1",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1656901484,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10474084,
+            "participants": [
+              {
+                "player": {
+                  "id": 975581,
+                  "gamerTag": "YeehawDaniels"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10472875,
+            "participants": [
+              {
+                "player": {
+                  "id": 1957918,
+                  "gamerTag": "Cow"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 49183721,
+      "winnerId": 10474084,
+      "displayScore": "Cow 2 - YeehawDaniels 3",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1656897876,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10472875,
+            "participants": [
+              {
+                "player": {
+                  "id": 1957918,
+                  "gamerTag": "Cow"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10474084,
+            "participants": [
+              {
+                "player": {
+                  "id": 975581,
+                  "gamerTag": "YeehawDaniels"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 49183753,
+      "winnerId": 10472875,
+      "displayScore": "Cow 3 - Crispy|HS | Dealer 2",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1656900471,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10472875,
+            "participants": [
+              {
+                "player": {
+                  "id": 1957918,
+                  "gamerTag": "Cow"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10472076,
+            "participants": [
+              {
+                "player": {
+                  "id": 523889,
+                  "gamerTag": "Dealer"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 49183752,
+      "winnerId": 10472076,
+      "displayScore": "Alfy 0 - Crispy|HS | Dealer 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1656899285,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10473313,
+            "participants": [
+              {
+                "player": {
+                  "id": 465461,
+                  "gamerTag": "Alfy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10472076,
+            "participants": [
+              {
+                "player": {
+                  "id": 523889,
+                  "gamerTag": "Dealer"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 49183719,
+      "winnerId": 10472875,
+      "displayScore": "Cow 3 - Alfy 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1656896866,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10472875,
+            "participants": [
+              {
+                "player": {
+                  "id": 1957918,
+                  "gamerTag": "Cow"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10473313,
+            "participants": [
+              {
+                "player": {
+                  "id": 465461,
+                  "gamerTag": "Alfy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 49183720,
+      "winnerId": 10474084,
+      "displayScore": "YeehawDaniels 3 - MIX | Tape 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1656895956,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10474084,
+            "participants": [
+              {
+                "player": {
+                  "id": 975581,
+                  "gamerTag": "YeehawDaniels"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10474158,
+            "participants": [
+              {
+                "player": {
+                  "id": 1388856,
+                  "gamerTag": "Mixtape"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 49183750,
+      "winnerId": 10473313,
+      "displayScore": "Alfy 3 - SIMP | tayborn 1",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1656898422,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10473313,
+            "participants": [
+              {
+                "player": {
+                  "id": 465461,
+                  "gamerTag": "Alfy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10474018,
+            "participants": [
+              {
+                "player": {
+                  "id": 245346,
+                  "gamerTag": "tayborn"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 49183751,
+      "winnerId": 10472076,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1656898031,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10474158,
+            "participants": [
+              {
+                "player": {
+                  "id": 1388856,
+                  "gamerTag": "Mixtape"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10472076,
+            "participants": [
+              {
+                "player": {
+                  "id": 523889,
+                  "gamerTag": "Dealer"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 49183748,
+      "winnerId": 10474018,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1656896651,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10473731,
+            "participants": [
+              {
+                "player": {
+                  "id": 1881044,
+                  "gamerTag": "t0tal90"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10474018,
+            "participants": [
+              {
+                "player": {
+                  "id": 245346,
+                  "gamerTag": "tayborn"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 49183749,
+      "winnerId": 10472076,
+      "displayScore": "Crispy|HS | Dealer 3 - <3 | Chrysanthemum 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1656897370,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10472076,
+            "participants": [
+              {
+                "player": {
+                  "id": 523889,
+                  "gamerTag": "Dealer"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10462847,
+            "participants": [
+              {
+                "player": {
+                  "id": 2854877,
+                  "gamerTag": "Lattice"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 49183715,
+      "winnerId": 10472875,
+      "displayScore": "Cow 3 - <3 | Chrysanthemum 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1656896377,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10472875,
+            "participants": [
+              {
+                "player": {
+                  "id": 1957918,
+                  "gamerTag": "Cow"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10462847,
+            "participants": [
+              {
+                "player": {
+                  "id": 2854877,
+                  "gamerTag": "Lattice"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 49183716,
+      "winnerId": 10473313,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1656895334,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10473313,
+            "participants": [
+              {
+                "player": {
+                  "id": 465461,
+                  "gamerTag": "Alfy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10472076,
+            "participants": [
+              {
+                "player": {
+                  "id": 523889,
+                  "gamerTag": "Dealer"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 49183717,
+      "winnerId": 10474084,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1656895334,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10474084,
+            "participants": [
+              {
+                "player": {
+                  "id": 975581,
+                  "gamerTag": "YeehawDaniels"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10474018,
+            "participants": [
+              {
+                "player": {
+                  "id": 245346,
+                  "gamerTag": "tayborn"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 49183718,
+      "winnerId": 10474158,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1656895334,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10474158,
+            "participants": [
+              {
+                "player": {
+                  "id": 1388856,
+                  "gamerTag": "Mixtape"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10473731,
+            "participants": [
+              {
+                "player": {
+                  "id": 1881044,
+                  "gamerTag": "t0tal90"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 49183744,
+      "winnerId": 10473731,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1656895989,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10473731,
+            "participants": [
+              {
+                "player": {
+                  "id": 1881044,
+                  "gamerTag": "t0tal90"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10473385,
+            "participants": [
+              {
+                "player": {
+                  "id": 2191207,
+                  "gamerTag": "Gottem54"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 49183708,
+      "winnerId": 10462847,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1656895334,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10473385,
+            "participants": [
+              {
+                "player": {
+                  "id": 2191207,
+                  "gamerTag": "Gottem54"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10462847,
+            "participants": [
+              {
+                "player": {
+                  "id": 2854877,
+                  "gamerTag": "Lattice"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 10474084,
+        "participants": [
+          {
+            "player": {
+              "id": 975581,
+              "gamerTag": "YeehawDaniels"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 10472875,
+        "participants": [
+          {
+            "player": {
+              "id": 1957918,
+              "gamerTag": "Cow"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 10472076,
+        "participants": [
+          {
+            "player": {
+              "id": 523889,
+              "gamerTag": "Dealer"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 10473313,
+        "participants": [
+          {
+            "player": {
+              "id": 465461,
+              "gamerTag": "Alfy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 10474018,
+        "participants": [
+          {
+            "player": {
+              "id": 245346,
+              "gamerTag": "tayborn"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 10474158,
+        "participants": [
+          {
+            "player": {
+              "id": 1388856,
+              "gamerTag": "Mixtape"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 10462847,
+        "participants": [
+          {
+            "player": {
+              "id": 2854877,
+              "gamerTag": "Lattice"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 10473731,
+        "participants": [
+          {
+            "player": {
+              "id": 1881044,
+              "gamerTag": "t0tal90"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 10473385,
+        "participants": [
+          {
+            "player": {
+              "id": 2191207,
+              "gamerTag": "Gottem54"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

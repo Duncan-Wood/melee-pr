@@ -18,6 +18,7 @@ The numbers are a starting point for the panel, not the final word.
 | Series | Events | Status |
 |---|---|---|
 | CHUD HOUSE (Mississippi) | 14 (12 count toward the PR) | Dashboard + draft in `output/chudhouse_pr_draft.md` |
+| SCSS (SkyClaw Slippi Sundays, netplay) | 162 East and West Coast singles brackets, 2021–2023 | Dashboard |
 
 ## Running it
 
@@ -35,7 +36,7 @@ Every script takes the series name as its first argument and defaults to `chudho
 
 ## Dashboard
 
-`site/` is the shareable version: a countdown reveal of the top 10/15/20, a sortable ranking with live settings (rating system, minimum events, attendance weight, which events count), a page per player with every set, a head-to-head grid, and an events timeline with notes from the TO.
+`site/` is the shareable version. Click the series name in the header to switch series; each has its own color theme (`:root[data-series=…]` in `site/src/styles.css`) and is registered in `site/src/series.js`. It has a countdown reveal of the top 10/15/20, a sortable ranking with live settings (rating system, minimum events, attendance weight, which events count), a page per player with every set, a head-to-head grid, and an events timeline with notes from the TO.
 
 ```sh
 npm run site             # local dev server
@@ -61,6 +62,7 @@ Create `series/<name>.json`:
 ```
 
 - `timezone` is where the events happen, so dates show the local day. Online-only series still need one.
+- `defaults` (optional) overrides the dashboard's starting settings, such as `{ "minimumEvents": 10 }` for a long series.
 - `note` (optional, per event) is shown on the dashboard's events timeline.
 - `slug` is the part of the start.gg event URL after `start.gg/`.
 - `countsForPR: false` keeps an event in the data but out of the ranking.

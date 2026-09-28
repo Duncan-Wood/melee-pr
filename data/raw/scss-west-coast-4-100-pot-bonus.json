@@ -1,0 +1,2704 @@
+{
+  "slug": "tournament/scss-west-coast-4-100-pot-bonus/event/scss-singles",
+  "event": {
+    "id": 563567,
+    "name": "SCSS Singles",
+    "startAt": 1616977800,
+    "numEntrants": 24,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West coast #4 $100 Pot Bonus",
+      "slug": "tournament/scss-west-coast-4-100-pot-bonus"
+    }
+  },
+  "sets": [
+    {
+      "id": 36325408,
+      "winnerId": 7093441,
+      "displayScore": "DQ",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 7,
+      "completedAt": 1616992365,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7085664,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093441,
+            "participants": [
+              {
+                "player": {
+                  "id": 41486,
+                  "gamerTag": "ChefTony"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325344,
+      "winnerId": 7092568,
+      "displayScore": "DD 3 - Shoyo 2",
+      "fullRoundText": "Grand Final",
+      "round": 6,
+      "completedAt": 1616992163,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7092568,
+            "participants": [
+              {
+                "player": {
+                  "id": 10485,
+                  "gamerTag": "DayDream"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7089827,
+            "participants": [
+              {
+                "player": {
+                  "id": 149065,
+                  "gamerTag": "Shoyo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325343,
+      "winnerId": 7092568,
+      "displayScore": "DD W - Shoyo L",
+      "fullRoundText": "Winners Final",
+      "round": 5,
+      "completedAt": 1616990000,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7089827,
+            "participants": [
+              {
+                "player": {
+                  "id": 149065,
+                  "gamerTag": "Shoyo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7092568,
+            "participants": [
+              {
+                "player": {
+                  "id": 10485,
+                  "gamerTag": "DayDream"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325407,
+      "winnerId": 7089827,
+      "displayScore": "Shoyo W - RSC | Omar L",
+      "fullRoundText": "Losers Final",
+      "round": -10,
+      "completedAt": 1616990113,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7089827,
+            "participants": [
+              {
+                "player": {
+                  "id": 149065,
+                  "gamerTag": "Shoyo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7084223,
+            "participants": [
+              {
+                "player": {
+                  "id": 272474,
+                  "gamerTag": "Omar"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325406,
+      "winnerId": 7084223,
+      "displayScore": "RSC | Omar W - N8v L",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -9,
+      "completedAt": 1616990104,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7084223,
+            "participants": [
+              {
+                "player": {
+                  "id": 272474,
+                  "gamerTag": "Omar"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7089809,
+            "participants": [
+              {
+                "player": {
+                  "id": 617254,
+                  "gamerTag": "N8v"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325341,
+      "winnerId": 7089827,
+      "displayScore": "Shoyo W - Pilot L",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 4,
+      "completedAt": 1616989996,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7089827,
+            "participants": [
+              {
+                "player": {
+                  "id": 149065,
+                  "gamerTag": "Shoyo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7085664,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325342,
+      "winnerId": 7092568,
+      "displayScore": "DD W - nHentai.net | ChefTony L",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 4,
+      "completedAt": 1616989991,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7092568,
+            "participants": [
+              {
+                "player": {
+                  "id": 10485,
+                  "gamerTag": "DayDream"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093441,
+            "participants": [
+              {
+                "player": {
+                  "id": 41486,
+                  "gamerTag": "ChefTony"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325404,
+      "winnerId": 7084223,
+      "displayScore": "RSC | Omar W - nHentai.net | ChefTony L",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -8,
+      "completedAt": 1616990076,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7093441,
+            "participants": [
+              {
+                "player": {
+                  "id": 41486,
+                  "gamerTag": "ChefTony"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7084223,
+            "participants": [
+              {
+                "player": {
+                  "id": 272474,
+                  "gamerTag": "Omar"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325405,
+      "winnerId": 7089809,
+      "displayScore": "N8v W - Pilot L",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -8,
+      "completedAt": 1616990101,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7085664,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7089809,
+            "participants": [
+              {
+                "player": {
+                  "id": 617254,
+                  "gamerTag": "N8v"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325402,
+      "winnerId": 7084223,
+      "displayScore": "RSC | Omar W - RePlay L",
+      "fullRoundText": "Losers Round 4",
+      "round": -7,
+      "completedAt": 1616990072,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7093472,
+            "participants": [
+              {
+                "player": {
+                  "id": 494593,
+                  "gamerTag": "RePlayQuix"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7084223,
+            "participants": [
+              {
+                "player": {
+                  "id": 272474,
+                  "gamerTag": "Omar"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325403,
+      "winnerId": 7089809,
+      "displayScore": "N8v W - Hoppz L",
+      "fullRoundText": "Losers Round 4",
+      "round": -7,
+      "completedAt": 1616990097,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7093017,
+            "participants": [
+              {
+                "player": {
+                  "id": 54253,
+                  "gamerTag": "Hoppz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7089809,
+            "participants": [
+              {
+                "player": {
+                  "id": 617254,
+                  "gamerTag": "N8v"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325337,
+      "winnerId": 7089827,
+      "displayScore": "Shoyo W - RSC | Omar L",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1616989931,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7084223,
+            "participants": [
+              {
+                "player": {
+                  "id": 272474,
+                  "gamerTag": "Omar"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7089827,
+            "participants": [
+              {
+                "player": {
+                  "id": 149065,
+                  "gamerTag": "Shoyo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325338,
+      "winnerId": 7085664,
+      "displayScore": "Pilot W - Rukyy L",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1616989945,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7093388,
+            "participants": [
+              {
+                "player": {
+                  "id": 1624080,
+                  "gamerTag": "Rukyy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7085664,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325339,
+      "winnerId": 7092568,
+      "displayScore": "DD W - LordTourettes L",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1616989963,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7092568,
+            "participants": [
+              {
+                "player": {
+                  "id": 10485,
+                  "gamerTag": "DayDream"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093271,
+            "participants": [
+              {
+                "player": {
+                  "id": 2221234,
+                  "gamerTag": "LordTourettes"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325340,
+      "winnerId": 7093441,
+      "displayScore": "nHentai.net | ChefTony W - Hoppz L",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1616989988,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7093017,
+            "participants": [
+              {
+                "player": {
+                  "id": 54253,
+                  "gamerTag": "Hoppz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093441,
+            "participants": [
+              {
+                "player": {
+                  "id": 41486,
+                  "gamerTag": "ChefTony"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325398,
+      "winnerId": 7093472,
+      "displayScore": "RePlay W - Rukyy L",
+      "fullRoundText": "Losers Round 3",
+      "round": -6,
+      "completedAt": 1616990070,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7093388,
+            "participants": [
+              {
+                "player": {
+                  "id": 1624080,
+                  "gamerTag": "Rukyy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093472,
+            "participants": [
+              {
+                "player": {
+                  "id": 494593,
+                  "gamerTag": "RePlayQuix"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325399,
+      "winnerId": 7084223,
+      "displayScore": "RSC | Omar W - Spokane | Scarecrow L",
+      "fullRoundText": "Losers Round 3",
+      "round": -6,
+      "completedAt": 1616990063,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7084223,
+            "participants": [
+              {
+                "player": {
+                  "id": 272474,
+                  "gamerTag": "Omar"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093419,
+            "participants": [
+              {
+                "player": {
+                  "id": 23914,
+                  "gamerTag": "SizzleBlade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325400,
+      "winnerId": 7093017,
+      "displayScore": "Hoppz W - FNM | | Bond L",
+      "fullRoundText": "Losers Round 3",
+      "round": -6,
+      "completedAt": 1616990061,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7093017,
+            "participants": [
+              {
+                "player": {
+                  "id": 54253,
+                  "gamerTag": "Hoppz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7091561,
+            "participants": [
+              {
+                "player": {
+                  "id": 683052,
+                  "gamerTag": "Bond"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325401,
+      "winnerId": 7089809,
+      "displayScore": "N8v W - LordTourettes L",
+      "fullRoundText": "Losers Round 3",
+      "round": -6,
+      "completedAt": 1616990091,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7093271,
+            "participants": [
+              {
+                "player": {
+                  "id": 2221234,
+                  "gamerTag": "LordTourettes"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7089809,
+            "participants": [
+              {
+                "player": {
+                  "id": 617254,
+                  "gamerTag": "N8v"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325394,
+      "winnerId": 7093472,
+      "displayScore": "RePlay W - SquirtlSquad L",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1616990034,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7093327,
+            "participants": [
+              {
+                "player": {
+                  "id": 227242,
+                  "gamerTag": "SquirtlSquad"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093472,
+            "participants": [
+              {
+                "player": {
+                  "id": 494593,
+                  "gamerTag": "RePlayQuix"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325395,
+      "winnerId": 7093419,
+      "displayScore": "Spokane | Scarecrow W - Stoon L",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1616990047,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7093466,
+            "participants": [
+              {
+                "player": {
+                  "id": 519644,
+                  "gamerTag": "Stoon"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093419,
+            "participants": [
+              {
+                "player": {
+                  "id": 23914,
+                  "gamerTag": "SizzleBlade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325396,
+      "winnerId": 7091561,
+      "displayScore": "FNM | | Bond W - KRISPYTERP L",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1616990057,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7091561,
+            "participants": [
+              {
+                "player": {
+                  "id": 683052,
+                  "gamerTag": "Bond"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7092510,
+            "participants": [
+              {
+                "player": {
+                  "id": 2229035,
+                  "gamerTag": "KRISPYTERP"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325397,
+      "winnerId": 7089809,
+      "displayScore": "N8v W - Kay L",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1616990089,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7089809,
+            "participants": [
+              {
+                "player": {
+                  "id": 617254,
+                  "gamerTag": "N8v"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7091195,
+            "participants": [
+              {
+                "player": {
+                  "id": 2235077,
+                  "gamerTag": "Kay"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325329,
+      "winnerId": 7084223,
+      "displayScore": "RSC | Omar W - Kay L",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1616989920,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7084223,
+            "participants": [
+              {
+                "player": {
+                  "id": 272474,
+                  "gamerTag": "Omar"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7091195,
+            "participants": [
+              {
+                "player": {
+                  "id": 2235077,
+                  "gamerTag": "Kay"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325330,
+      "winnerId": 7089827,
+      "displayScore": "Shoyo W - N8v L",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1616989927,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7089827,
+            "participants": [
+              {
+                "player": {
+                  "id": 149065,
+                  "gamerTag": "Shoyo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7089809,
+            "participants": [
+              {
+                "player": {
+                  "id": 617254,
+                  "gamerTag": "N8v"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325331,
+      "winnerId": 7093388,
+      "displayScore": "Rukyy W - KRISPYTERP L",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1616989938,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7092510,
+            "participants": [
+              {
+                "player": {
+                  "id": 2229035,
+                  "gamerTag": "KRISPYTERP"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093388,
+            "participants": [
+              {
+                "player": {
+                  "id": 1624080,
+                  "gamerTag": "Rukyy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325332,
+      "winnerId": 7085664,
+      "displayScore": "Pilot W - FNM | | Bond L",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1616989943,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7091561,
+            "participants": [
+              {
+                "player": {
+                  "id": 683052,
+                  "gamerTag": "Bond"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7085664,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325333,
+      "winnerId": 7092568,
+      "displayScore": "DD W - SSJ2 L",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1616989953,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7092568,
+            "participants": [
+              {
+                "player": {
+                  "id": 10485,
+                  "gamerTag": "DayDream"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093263,
+            "participants": [
+              {
+                "player": {
+                  "id": 2221266,
+                  "gamerTag": "Turtle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325334,
+      "winnerId": 7093271,
+      "displayScore": "LordTourettes W - Stoon L",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1616989960,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7093271,
+            "participants": [
+              {
+                "player": {
+                  "id": 2221234,
+                  "gamerTag": "LordTourettes"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093466,
+            "participants": [
+              {
+                "player": {
+                  "id": 519644,
+                  "gamerTag": "Stoon"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325335,
+      "winnerId": 7093017,
+      "displayScore": "Hoppz W - buttcakes29 L",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1616989978,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7092748,
+            "participants": [
+              {
+                "player": {
+                  "id": 1998865,
+                  "gamerTag": "buttcakes29"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093017,
+            "participants": [
+              {
+                "player": {
+                  "id": 54253,
+                  "gamerTag": "Hoppz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325336,
+      "winnerId": 7093441,
+      "displayScore": "nHentai.net | ChefTony W - Skyline_ViviD L",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1616989985,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7063747,
+            "participants": [
+              {
+                "player": {
+                  "id": 258828,
+                  "gamerTag": "Skyline_ViviD"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093441,
+            "participants": [
+              {
+                "player": {
+                  "id": 41486,
+                  "gamerTag": "ChefTony"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325387,
+      "winnerId": 7093472,
+      "displayScore": "RePlay W - buttcakes29 L",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1616990029,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7092748,
+            "participants": [
+              {
+                "player": {
+                  "id": 1998865,
+                  "gamerTag": "buttcakes29"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093472,
+            "participants": [
+              {
+                "player": {
+                  "id": 494593,
+                  "gamerTag": "RePlayQuix"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325388,
+      "winnerId": 7093466,
+      "displayScore": "Stoon W - FNM | Brownie L",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1616990039,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7093466,
+            "participants": [
+              {
+                "player": {
+                  "id": 519644,
+                  "gamerTag": "Stoon"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7068609,
+            "participants": [
+              {
+                "player": {
+                  "id": 363202,
+                  "gamerTag": "Brownie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325389,
+      "winnerId": 7093419,
+      "displayScore": "Spokane | Scarecrow W - SSJ2 L",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1616990044,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7093263,
+            "participants": [
+              {
+                "player": {
+                  "id": 2221266,
+                  "gamerTag": "Turtle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093419,
+            "participants": [
+              {
+                "player": {
+                  "id": 23914,
+                  "gamerTag": "SizzleBlade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325390,
+      "winnerId": 7091561,
+      "displayScore": "FNM | | Bond W - Mrwrocks L",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1616990050,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7091561,
+            "participants": [
+              {
+                "player": {
+                  "id": 683052,
+                  "gamerTag": "Bond"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7091409,
+            "participants": [
+              {
+                "player": {
+                  "id": 2221352,
+                  "gamerTag": "Mrwrocks"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325391,
+      "winnerId": 7092510,
+      "displayScore": "KRISPYTERP W - HorseHat L",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1616990054,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7092510,
+            "participants": [
+              {
+                "player": {
+                  "id": 2229035,
+                  "gamerTag": "KRISPYTERP"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7089439,
+            "participants": [
+              {
+                "player": {
+                  "id": 1816441,
+                  "gamerTag": "brodie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325392,
+      "winnerId": 7089809,
+      "displayScore": "N8v W - Hoswayyy#0026 L",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1616990081,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7089809,
+            "participants": [
+              {
+                "player": {
+                  "id": 617254,
+                  "gamerTag": "N8v"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7092520,
+            "participants": [
+              {
+                "player": {
+                  "id": 2229166,
+                  "gamerTag": "Hosway"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325393,
+      "winnerId": 7091195,
+      "displayScore": "Kay W - K.H.D | RE!GN L",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1616990086,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7091195,
+            "participants": [
+              {
+                "player": {
+                  "id": 2235077,
+                  "gamerTag": "Kay"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7087178,
+            "participants": [
+              {
+                "player": {
+                  "id": 18722,
+                  "gamerTag": "REIGN$"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325386,
+      "winnerId": 7093327,
+      "displayScore": "SquirtlSquad W - Skyline_ViviD L",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1616990021,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7063747,
+            "participants": [
+              {
+                "player": {
+                  "id": 258828,
+                  "gamerTag": "Skyline_ViviD"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093327,
+            "participants": [
+              {
+                "player": {
+                  "id": 227242,
+                  "gamerTag": "SquirtlSquad"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325314,
+      "winnerId": 7091195,
+      "displayScore": "Kay W - SquirtlSquad L",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1616989917,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7091195,
+            "participants": [
+              {
+                "player": {
+                  "id": 2235077,
+                  "gamerTag": "Kay"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093327,
+            "participants": [
+              {
+                "player": {
+                  "id": 227242,
+                  "gamerTag": "SquirtlSquad"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325316,
+      "winnerId": 7089809,
+      "displayScore": "N8v W - RePlay L",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1616989925,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7089809,
+            "participants": [
+              {
+                "player": {
+                  "id": 617254,
+                  "gamerTag": "N8v"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093472,
+            "participants": [
+              {
+                "player": {
+                  "id": 494593,
+                  "gamerTag": "RePlayQuix"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325318,
+      "winnerId": 7093388,
+      "displayScore": "Rukyy W - FNM | Brownie L",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1616989935,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7068609,
+            "participants": [
+              {
+                "player": {
+                  "id": 363202,
+                  "gamerTag": "Brownie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093388,
+            "participants": [
+              {
+                "player": {
+                  "id": 1624080,
+                  "gamerTag": "Rukyy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325320,
+      "winnerId": 7085664,
+      "displayScore": "Pilot W - Spokane | Scarecrow L",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1616989941,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7085664,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093419,
+            "participants": [
+              {
+                "player": {
+                  "id": 23914,
+                  "gamerTag": "SizzleBlade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325322,
+      "winnerId": 7093263,
+      "displayScore": "SSJ2 W - Mrwrocks L",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1616989949,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7093263,
+            "participants": [
+              {
+                "player": {
+                  "id": 2221266,
+                  "gamerTag": "Turtle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7091409,
+            "participants": [
+              {
+                "player": {
+                  "id": 2221352,
+                  "gamerTag": "Mrwrocks"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325324,
+      "winnerId": 7093466,
+      "displayScore": "Stoon W - HorseHat L",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1616989958,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7089439,
+            "participants": [
+              {
+                "player": {
+                  "id": 1816441,
+                  "gamerTag": "brodie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093466,
+            "participants": [
+              {
+                "player": {
+                  "id": 519644,
+                  "gamerTag": "Stoon"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325326,
+      "winnerId": 7093017,
+      "displayScore": "Hoppz W - Hoswayyy#0026 L",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1616989972,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7093017,
+            "participants": [
+              {
+                "player": {
+                  "id": 54253,
+                  "gamerTag": "Hoppz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7092520,
+            "participants": [
+              {
+                "player": {
+                  "id": 2229166,
+                  "gamerTag": "Hosway"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36325328,
+      "winnerId": 7093441,
+      "displayScore": "nHentai.net | ChefTony W - K.H.D | RE!GN L",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1616989983,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7087178,
+            "participants": [
+              {
+                "player": {
+                  "id": 18722,
+                  "gamerTag": "REIGN$"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7093441,
+            "participants": [
+              {
+                "player": {
+                  "id": 41486,
+                  "gamerTag": "ChefTony"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 7092568,
+        "participants": [
+          {
+            "player": {
+              "id": 10485,
+              "gamerTag": "DayDream"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 7089827,
+        "participants": [
+          {
+            "player": {
+              "id": 149065,
+              "gamerTag": "Shoyo"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 7084223,
+        "participants": [
+          {
+            "player": {
+              "id": 272474,
+              "gamerTag": "Omar"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 7089809,
+        "participants": [
+          {
+            "player": {
+              "id": 617254,
+              "gamerTag": "N8v"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 7093441,
+        "participants": [
+          {
+            "player": {
+              "id": 41486,
+              "gamerTag": "ChefTony"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 7085664,
+        "participants": [
+          {
+            "player": {
+              "id": 1228401,
+              "gamerTag": "Pilot"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 7093472,
+        "participants": [
+          {
+            "player": {
+              "id": 494593,
+              "gamerTag": "RePlayQuix"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 7093017,
+        "participants": [
+          {
+            "player": {
+              "id": 54253,
+              "gamerTag": "Hoppz"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7093388,
+        "participants": [
+          {
+            "player": {
+              "id": 1624080,
+              "gamerTag": "Rukyy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7093419,
+        "participants": [
+          {
+            "player": {
+              "id": 23914,
+              "gamerTag": "SizzleBlade"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7091561,
+        "participants": [
+          {
+            "player": {
+              "id": 683052,
+              "gamerTag": "Bond"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7093271,
+        "participants": [
+          {
+            "player": {
+              "id": 2221234,
+              "gamerTag": "LordTourettes"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 7091195,
+        "participants": [
+          {
+            "player": {
+              "id": 2235077,
+              "gamerTag": "Kay"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 7093327,
+        "participants": [
+          {
+            "player": {
+              "id": 227242,
+              "gamerTag": "SquirtlSquad"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 7093466,
+        "participants": [
+          {
+            "player": {
+              "id": 519644,
+              "gamerTag": "Stoon"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 7092510,
+        "participants": [
+          {
+            "player": {
+              "id": 2229035,
+              "gamerTag": "KRISPYTERP"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 7068609,
+        "participants": [
+          {
+            "player": {
+              "id": 363202,
+              "gamerTag": "Brownie"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 7093263,
+        "participants": [
+          {
+            "player": {
+              "id": 2221266,
+              "gamerTag": "Turtle"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 7091409,
+        "participants": [
+          {
+            "player": {
+              "id": 2221352,
+              "gamerTag": "Mrwrocks"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 7089439,
+        "participants": [
+          {
+            "player": {
+              "id": 1816441,
+              "gamerTag": "brodie"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 7092520,
+        "participants": [
+          {
+            "player": {
+              "id": 2229166,
+              "gamerTag": "Hosway"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 7087178,
+        "participants": [
+          {
+            "player": {
+              "id": 18722,
+              "gamerTag": "REIGN$"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 7092748,
+        "participants": [
+          {
+            "player": {
+              "id": 1998865,
+              "gamerTag": "buttcakes29"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 7063747,
+        "participants": [
+          {
+            "player": {
+              "id": 258828,
+              "gamerTag": "Skyline_ViviD"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

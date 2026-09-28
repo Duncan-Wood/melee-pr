@@ -1,0 +1,1450 @@
+{
+  "slug": "tournament/scss-west-coast-5/event/scss-singles",
+  "event": {
+    "id": 566181,
+    "name": "SCSS Singles",
+    "startAt": 1617582600,
+    "numEntrants": 13,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #5",
+      "slug": "tournament/scss-west-coast-5"
+    }
+  },
+  "sets": [
+    {
+      "id": 36482195,
+      "winnerId": 7131083,
+      "displayScore": "DQ",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 6,
+      "completedAt": 1617590592,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7130037,
+            "participants": [
+              {
+                "player": {
+                  "id": 1925528,
+                  "gamerTag": "Quark"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7131083,
+            "participants": [
+              {
+                "player": {
+                  "id": 350387,
+                  "gamerTag": "A Wild Catsnake"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482163,
+      "winnerId": 7126032,
+      "displayScore": "Pilot 3 - Jet 2",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1617592192,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7126032,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7131044,
+            "participants": [
+              {
+                "player": {
+                  "id": 2140092,
+                  "gamerTag": "Jet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482162,
+      "winnerId": 7126032,
+      "displayScore": "Phorox 2 - Pilot 3",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1617587623,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7130763,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7126032,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482194,
+      "winnerId": 7131044,
+      "displayScore": "Phorox 2 - Jet 3",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1617591051,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7130763,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7131044,
+            "participants": [
+              {
+                "player": {
+                  "id": 2140092,
+                  "gamerTag": "Jet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482193,
+      "winnerId": 7131044,
+      "displayScore": "Jet 3 - C | Horizon 0",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1617589648,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7131044,
+            "participants": [
+              {
+                "player": {
+                  "id": 2140092,
+                  "gamerTag": "Jet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7129523,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482160,
+      "winnerId": 7130763,
+      "displayScore": "A Wild Catsnake 0 - Phorox 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1617585269,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7131083,
+            "participants": [
+              {
+                "player": {
+                  "id": 350387,
+                  "gamerTag": "A Wild Catsnake"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7130763,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482161,
+      "winnerId": 7126032,
+      "displayScore": "C | Horizon 0 - Pilot 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1617585412,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7129523,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7126032,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482191,
+      "winnerId": 7131044,
+      "displayScore": "A Wild Catsnake 0 - Jet 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1617586894,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7131083,
+            "participants": [
+              {
+                "player": {
+                  "id": 350387,
+                  "gamerTag": "A Wild Catsnake"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7131044,
+            "participants": [
+              {
+                "player": {
+                  "id": 2140092,
+                  "gamerTag": "Jet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482192,
+      "winnerId": 7129523,
+      "displayScore": "C | Horizon 3 - Quark 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1617588778,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7129523,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7130037,
+            "participants": [
+              {
+                "player": {
+                  "id": 1925528,
+                  "gamerTag": "Quark"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482189,
+      "winnerId": 7131044,
+      "displayScore": "Jet 3 - Dis | 1day 0",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1617586332,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7131044,
+            "participants": [
+              {
+                "player": {
+                  "id": 2140092,
+                  "gamerTag": "Jet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7123258,
+            "participants": [
+              {
+                "player": {
+                  "id": 133657,
+                  "gamerTag": "VamVam666"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482190,
+      "winnerId": 7130037,
+      "displayScore": "Kay 1 - Quark 3",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1617587615,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7126876,
+            "participants": [
+              {
+                "player": {
+                  "id": 2235077,
+                  "gamerTag": "Kay"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7130037,
+            "participants": [
+              {
+                "player": {
+                  "id": 1925528,
+                  "gamerTag": "Quark"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482156,
+      "winnerId": 7131083,
+      "displayScore": "A Wild Catsnake 3 - Quark 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1617584569,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7131083,
+            "participants": [
+              {
+                "player": {
+                  "id": 350387,
+                  "gamerTag": "A Wild Catsnake"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7130037,
+            "participants": [
+              {
+                "player": {
+                  "id": 1925528,
+                  "gamerTag": "Quark"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482157,
+      "winnerId": 7130763,
+      "displayScore": "Luigi Gang | Brownie 0 - Phorox 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1617583995,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7121218,
+            "participants": [
+              {
+                "player": {
+                  "id": 363202,
+                  "gamerTag": "Brownie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7130763,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482158,
+      "winnerId": 7129523,
+      "displayScore": "dSwampLord 0 - C | Horizon 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1617584457,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7131299,
+            "participants": [
+              {
+                "player": {
+                  "id": 2241161,
+                  "gamerTag": "dSwampLord"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7129523,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482159,
+      "winnerId": 7126032,
+      "displayScore": "Jet 1 - Pilot 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1617584544,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7131044,
+            "participants": [
+              {
+                "player": {
+                  "id": 2140092,
+                  "gamerTag": "Jet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7126032,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482185,
+      "winnerId": 7131044,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1617585208,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7131044,
+            "participants": [
+              {
+                "player": {
+                  "id": 2140092,
+                  "gamerTag": "Jet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7127596,
+            "participants": [
+              {
+                "player": {
+                  "id": 2087201,
+                  "gamerTag": "JSSN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482186,
+      "winnerId": 7123258,
+      "displayScore": "dSwampLord 1 - Dis | 1day 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1617585785,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7131299,
+            "participants": [
+              {
+                "player": {
+                  "id": 2241161,
+                  "gamerTag": "dSwampLord"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7123258,
+            "participants": [
+              {
+                "player": {
+                  "id": 133657,
+                  "gamerTag": "VamVam666"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482187,
+      "winnerId": 7126876,
+      "displayScore": "Luigi Gang | Brownie 0 - Kay 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1617584345,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7121218,
+            "participants": [
+              {
+                "player": {
+                  "id": 363202,
+                  "gamerTag": "Brownie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7126876,
+            "participants": [
+              {
+                "player": {
+                  "id": 2235077,
+                  "gamerTag": "Kay"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482188,
+      "winnerId": 7130037,
+      "displayScore": "Quark 3 - misfortune 2",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1617586375,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7130037,
+            "participants": [
+              {
+                "player": {
+                  "id": 1925528,
+                  "gamerTag": "Quark"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7131001,
+            "participants": [
+              {
+                "player": {
+                  "id": 2115926,
+                  "gamerTag": "girl"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482182,
+      "winnerId": 7123258,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1617584168,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7131062,
+            "participants": [
+              {
+                "player": {
+                  "id": 2194031,
+                  "gamerTag": "Dorian <3"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7123258,
+            "participants": [
+              {
+                "player": {
+                  "id": 133657,
+                  "gamerTag": "VamVam666"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482149,
+      "winnerId": 7130037,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1617583406,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7130037,
+            "participants": [
+              {
+                "player": {
+                  "id": 1925528,
+                  "gamerTag": "Quark"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7127596,
+            "participants": [
+              {
+                "player": {
+                  "id": 2087201,
+                  "gamerTag": "JSSN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482150,
+      "winnerId": 7121218,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1617583406,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7131062,
+            "participants": [
+              {
+                "player": {
+                  "id": 2194031,
+                  "gamerTag": "Dorian <3"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7121218,
+            "participants": [
+              {
+                "player": {
+                  "id": 363202,
+                  "gamerTag": "Brownie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482151,
+      "winnerId": 7130763,
+      "displayScore": "Phorox 3 - Dis | 1day 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1617583560,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7130763,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7123258,
+            "participants": [
+              {
+                "player": {
+                  "id": 133657,
+                  "gamerTag": "VamVam666"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482153,
+      "winnerId": 7129523,
+      "displayScore": "C | Horizon 3 - Kay 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1617583568,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7129523,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7126876,
+            "participants": [
+              {
+                "player": {
+                  "id": 2235077,
+                  "gamerTag": "Kay"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36482155,
+      "winnerId": 7126032,
+      "displayScore": "misfortune 0 - Pilot 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1617583544,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7131001,
+            "participants": [
+              {
+                "player": {
+                  "id": 2115926,
+                  "gamerTag": "girl"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7126032,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 7126032,
+        "participants": [
+          {
+            "player": {
+              "id": 1228401,
+              "gamerTag": "Pilot"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 7131044,
+        "participants": [
+          {
+            "player": {
+              "id": 2140092,
+              "gamerTag": "Jet"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 7130763,
+        "participants": [
+          {
+            "player": {
+              "id": 1007304,
+              "gamerTag": "Phorox"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 7129523,
+        "participants": [
+          {
+            "player": {
+              "id": 1453020,
+              "gamerTag": "spliffy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 7131083,
+        "participants": [
+          {
+            "player": {
+              "id": 350387,
+              "gamerTag": "A Wild Catsnake"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 7130037,
+        "participants": [
+          {
+            "player": {
+              "id": 1925528,
+              "gamerTag": "Quark"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 7126876,
+        "participants": [
+          {
+            "player": {
+              "id": 2235077,
+              "gamerTag": "Kay"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 7123258,
+        "participants": [
+          {
+            "player": {
+              "id": 133657,
+              "gamerTag": "VamVam666"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7127596,
+        "participants": [
+          {
+            "player": {
+              "id": 2087201,
+              "gamerTag": "JSSN"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7131001,
+        "participants": [
+          {
+            "player": {
+              "id": 2115926,
+              "gamerTag": "girl"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7131299,
+        "participants": [
+          {
+            "player": {
+              "id": 2241161,
+              "gamerTag": "dSwampLord"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7121218,
+        "participants": [
+          {
+            "player": {
+              "id": 363202,
+              "gamerTag": "Brownie"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 7131062,
+        "participants": [
+          {
+            "player": {
+              "id": 2194031,
+              "gamerTag": "Dorian <3"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

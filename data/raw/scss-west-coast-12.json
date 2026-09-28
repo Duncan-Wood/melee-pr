@@ -1,0 +1,1678 @@
+{
+  "slug": "tournament/scss-west-coast-12/event/scss-singles",
+  "event": {
+    "id": 578962,
+    "name": "SCSS Singles",
+    "startAt": 1621816200,
+    "numEntrants": 15,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #12",
+      "slug": "tournament/scss-west-coast-12"
+    }
+  },
+  "sets": [
+    {
+      "id": 37641682,
+      "winnerId": 7413711,
+      "displayScore": "Pilot 1 - Nelly 3",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1621824971,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7411710,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413711,
+            "participants": [
+              {
+                "player": {
+                  "id": 359885,
+                  "gamerTag": "Nelly"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641683,
+      "winnerId": 7411710,
+      "displayScore": "Nelly 2 - Pilot 3",
+      "fullRoundText": "Grand Final Reset",
+      "round": 5,
+      "completedAt": 1621826302,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413711,
+            "participants": [
+              {
+                "player": {
+                  "id": 359885,
+                  "gamerTag": "Nelly"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7411710,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641681,
+      "winnerId": 7411710,
+      "displayScore": "ERGonomics 0 - Pilot 3",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1621820658,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413795,
+            "participants": [
+              {
+                "player": {
+                  "id": 950362,
+                  "gamerTag": "ERGonomics"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7411710,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641713,
+      "winnerId": 7413711,
+      "displayScore": "ERGonomics 0 - Nelly 3",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1621823523,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413795,
+            "participants": [
+              {
+                "player": {
+                  "id": 950362,
+                  "gamerTag": "ERGonomics"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413711,
+            "participants": [
+              {
+                "player": {
+                  "id": 359885,
+                  "gamerTag": "Nelly"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641712,
+      "winnerId": 7413711,
+      "displayScore": "K.H.D | REIGN 0 - Nelly 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1621822764,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7410419,
+            "participants": [
+              {
+                "player": {
+                  "id": 18722,
+                  "gamerTag": "REIGN$"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413711,
+            "participants": [
+              {
+                "player": {
+                  "id": 359885,
+                  "gamerTag": "Nelly"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641679,
+      "winnerId": 7413795,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1621819828,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413728,
+            "participants": [
+              {
+                "player": {
+                  "id": 20991,
+                  "gamerTag": "0kay"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413795,
+            "participants": [
+              {
+                "player": {
+                  "id": 950362,
+                  "gamerTag": "ERGonomics"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641680,
+      "winnerId": 7411710,
+      "displayScore": "Pilot 3 - JHU | Evil Morty 1",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1621820054,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7411710,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413842,
+            "participants": [
+              {
+                "player": {
+                  "id": 67078,
+                  "gamerTag": "Boybortion Performer"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641711,
+      "winnerId": 7413711,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1621821940,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413842,
+            "participants": [
+              {
+                "player": {
+                  "id": 67078,
+                  "gamerTag": "Boybortion Performer"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413711,
+            "participants": [
+              {
+                "player": {
+                  "id": 359885,
+                  "gamerTag": "Nelly"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641710,
+      "winnerId": 7410419,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1621821850,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413728,
+            "participants": [
+              {
+                "player": {
+                  "id": 20991,
+                  "gamerTag": "0kay"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7410419,
+            "participants": [
+              {
+                "player": {
+                  "id": 18722,
+                  "gamerTag": "REIGN$"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641708,
+      "winnerId": 7410419,
+      "displayScore": "K.H.D | REIGN 3 - BEBO 1",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1621821832,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7410419,
+            "participants": [
+              {
+                "player": {
+                  "id": 18722,
+                  "gamerTag": "REIGN$"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413679,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641709,
+      "winnerId": 7413711,
+      "displayScore": "gabbers | erac 0 - Nelly 3",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1621821573,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413873,
+            "participants": [
+              {
+                "player": {
+                  "id": 1738215,
+                  "gamerTag": "erac"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413711,
+            "participants": [
+              {
+                "player": {
+                  "id": 359885,
+                  "gamerTag": "Nelly"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641675,
+      "winnerId": 7413728,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1621819407,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413728,
+            "participants": [
+              {
+                "player": {
+                  "id": 20991,
+                  "gamerTag": "0kay"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413711,
+            "participants": [
+              {
+                "player": {
+                  "id": 359885,
+                  "gamerTag": "Nelly"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641676,
+      "winnerId": 7413795,
+      "displayScore": "gabbers | erac 0 - ERGonomics 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1621818047,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413873,
+            "participants": [
+              {
+                "player": {
+                  "id": 1738215,
+                  "gamerTag": "erac"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413795,
+            "participants": [
+              {
+                "player": {
+                  "id": 950362,
+                  "gamerTag": "ERGonomics"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641677,
+      "winnerId": 7411710,
+      "displayScore": "Pilot 3 - C | Horizon 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1621817942,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7411710,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7409179,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641678,
+      "winnerId": 7413842,
+      "displayScore": "JHU | Evil Morty 3 - K.H.D | REIGN 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1621819017,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413842,
+            "participants": [
+              {
+                "player": {
+                  "id": 67078,
+                  "gamerTag": "Boybortion Performer"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7410419,
+            "participants": [
+              {
+                "player": {
+                  "id": 18722,
+                  "gamerTag": "REIGN$"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641704,
+      "winnerId": 7410419,
+      "displayScore": "K.H.D | REIGN 3 - Nukelele 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1621819932,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7410419,
+            "participants": [
+              {
+                "player": {
+                  "id": 18722,
+                  "gamerTag": "REIGN$"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413868,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641705,
+      "winnerId": 7413679,
+      "displayScore": "C | Horizon 2 - BEBO 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1621820549,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7409179,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413679,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641706,
+      "winnerId": 7413873,
+      "displayScore": "gabbers | erac 3 - Kay 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1621818801,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413873,
+            "participants": [
+              {
+                "player": {
+                  "id": 1738215,
+                  "gamerTag": "erac"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7409178,
+            "participants": [
+              {
+                "player": {
+                  "id": 2235077,
+                  "gamerTag": "Kay"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641707,
+      "winnerId": 7413711,
+      "displayScore": "Nelly 3 - Deleted user 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1621820835,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413711,
+            "participants": [
+              {
+                "player": {
+                  "id": 359885,
+                  "gamerTag": "Nelly"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7412297,
+            "participants": [
+              {
+                "player": {
+                  "id": 6961,
+                  "gamerTag": "Deleted user"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641701,
+      "winnerId": 7413679,
+      "displayScore": "pizza 1 - BEBO 3",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1621818775,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413834,
+            "participants": [
+              {
+                "player": {
+                  "id": 2174682,
+                  "gamerTag": "pizza"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413679,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641702,
+      "winnerId": 7409178,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1621817730,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413823,
+            "participants": [
+              {
+                "player": {
+                  "id": 2295298,
+                  "gamerTag": "Swamp God"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7409178,
+            "participants": [
+              {
+                "player": {
+                  "id": 2235077,
+                  "gamerTag": "Kay"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641703,
+      "winnerId": 7412297,
+      "displayScore": "Deleted user 3 - TitusMelee 1",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1621818918,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7412297,
+            "participants": [
+              {
+                "player": {
+                  "id": 6961,
+                  "gamerTag": "Deleted user"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413097,
+            "participants": [
+              {
+                "player": {
+                  "id": 244748,
+                  "gamerTag": "TitusMelee"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641668,
+      "winnerId": 7413711,
+      "displayScore": "Nukelele 0 - Nelly 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1621817303,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413868,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413711,
+            "participants": [
+              {
+                "player": {
+                  "id": 359885,
+                  "gamerTag": "Nelly"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641669,
+      "winnerId": 7413873,
+      "displayScore": "gabbers | erac 3 - pizza 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1621817449,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413873,
+            "participants": [
+              {
+                "player": {
+                  "id": 1738215,
+                  "gamerTag": "erac"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413834,
+            "participants": [
+              {
+                "player": {
+                  "id": 2174682,
+                  "gamerTag": "pizza"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641670,
+      "winnerId": 7413795,
+      "displayScore": "ERGonomics 3 - BEBO 1",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1621817265,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413795,
+            "participants": [
+              {
+                "player": {
+                  "id": 950362,
+                  "gamerTag": "ERGonomics"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413679,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641671,
+      "winnerId": 7411710,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1621816832,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7411710,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7413823,
+            "participants": [
+              {
+                "player": {
+                  "id": 2295298,
+                  "gamerTag": "Swamp God"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641672,
+      "winnerId": 7409179,
+      "displayScore": "Kay 0 - C | Horizon 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1621817109,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7409178,
+            "participants": [
+              {
+                "player": {
+                  "id": 2235077,
+                  "gamerTag": "Kay"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7409179,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641673,
+      "winnerId": 7413842,
+      "displayScore": "JHU | Evil Morty 3 - Deleted user 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1621817578,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413842,
+            "participants": [
+              {
+                "player": {
+                  "id": 67078,
+                  "gamerTag": "Boybortion Performer"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7412297,
+            "participants": [
+              {
+                "player": {
+                  "id": 6961,
+                  "gamerTag": "Deleted user"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 37641674,
+      "winnerId": 7410419,
+      "displayScore": "TitusMelee 0 - K.H.D | REIGN 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1621817715,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7413097,
+            "participants": [
+              {
+                "player": {
+                  "id": 244748,
+                  "gamerTag": "TitusMelee"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7410419,
+            "participants": [
+              {
+                "player": {
+                  "id": 18722,
+                  "gamerTag": "REIGN$"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 7411710,
+        "participants": [
+          {
+            "player": {
+              "id": 1228401,
+              "gamerTag": "Pilot"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 7413711,
+        "participants": [
+          {
+            "player": {
+              "id": 359885,
+              "gamerTag": "Nelly"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 7413795,
+        "participants": [
+          {
+            "player": {
+              "id": 950362,
+              "gamerTag": "ERGonomics"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 7410419,
+        "participants": [
+          {
+            "player": {
+              "id": 18722,
+              "gamerTag": "REIGN$"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 7413728,
+        "participants": [
+          {
+            "player": {
+              "id": 20991,
+              "gamerTag": "0kay"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 7413842,
+        "participants": [
+          {
+            "player": {
+              "id": 67078,
+              "gamerTag": "Boybortion Performer"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 7413873,
+        "participants": [
+          {
+            "player": {
+              "id": 1738215,
+              "gamerTag": "erac"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 7413679,
+        "participants": [
+          {
+            "player": {
+              "id": 360229,
+              "gamerTag": "BEBO"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7413868,
+        "participants": [
+          {
+            "player": {
+              "id": 2156106,
+              "gamerTag": "Nukelele"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7409178,
+        "participants": [
+          {
+            "player": {
+              "id": 2235077,
+              "gamerTag": "Kay"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7409179,
+        "participants": [
+          {
+            "player": {
+              "id": 1453020,
+              "gamerTag": "spliffy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7412297,
+        "participants": [
+          {
+            "player": {
+              "id": 6961,
+              "gamerTag": "Deleted user"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 7413834,
+        "participants": [
+          {
+            "player": {
+              "id": 2174682,
+              "gamerTag": "pizza"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 7413823,
+        "participants": [
+          {
+            "player": {
+              "id": 2295298,
+              "gamerTag": "Swamp God"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 7413097,
+        "participants": [
+          {
+            "player": {
+              "id": 244748,
+              "gamerTag": "TitusMelee"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

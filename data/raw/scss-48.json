@@ -1,0 +1,1856 @@
+{
+  "slug": "tournament/scss-48/event/scss-singles",
+  "event": {
+    "id": 646650,
+    "name": "SCSS Singles",
+    "startAt": 1636936200,
+    "numEntrants": 17,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS #48",
+      "slug": "tournament/scss-48"
+    }
+  },
+  "sets": [
+    {
+      "id": 42387799,
+      "winnerId": 8755982,
+      "displayScore": "MOM! 3 - Lumbre 0",
+      "fullRoundText": "Grand Final",
+      "round": 6,
+      "completedAt": 1636943326,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8755982,
+            "participants": [
+              {
+                "player": {
+                  "id": 9642,
+                  "gamerTag": "MOM!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8755354,
+            "participants": [
+              {
+                "player": {
+                  "id": 1011310,
+                  "gamerTag": "Lumbre"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387798,
+      "winnerId": 8755982,
+      "displayScore": "MOM! 3 - Lumbre 0",
+      "fullRoundText": "Winners Final",
+      "round": 5,
+      "completedAt": 1636940123,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8755982,
+            "participants": [
+              {
+                "player": {
+                  "id": 9642,
+                  "gamerTag": "MOM!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8755354,
+            "participants": [
+              {
+                "player": {
+                  "id": 1011310,
+                  "gamerTag": "Lumbre"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387862,
+      "winnerId": 8755354,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Final",
+      "round": -10,
+      "completedAt": 1636942427,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8755354,
+            "participants": [
+              {
+                "player": {
+                  "id": 1011310,
+                  "gamerTag": "Lumbre"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8752430,
+            "participants": [
+              {
+                "player": {
+                  "id": 158130,
+                  "gamerTag": "kickflip AK-47"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387861,
+      "winnerId": 8752430,
+      "displayScore": "Leftovers 0 - Jack :) 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -9,
+      "completedAt": 1636942241,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8755823,
+            "participants": [
+              {
+                "player": {
+                  "id": 21002,
+                  "gamerTag": "Leftovers"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8752430,
+            "participants": [
+              {
+                "player": {
+                  "id": 158130,
+                  "gamerTag": "kickflip AK-47"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387796,
+      "winnerId": 8755982,
+      "displayScore": "MOM! 3 - Stickerbrush 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 4,
+      "completedAt": 1636939172,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8755982,
+            "participants": [
+              {
+                "player": {
+                  "id": 9642,
+                  "gamerTag": "MOM!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8754034,
+            "participants": [
+              {
+                "player": {
+                  "id": 231485,
+                  "gamerTag": "Stickerbrush"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387797,
+      "winnerId": 8755354,
+      "displayScore": "Leftovers 0 - Lumbre 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 4,
+      "completedAt": 1636939036,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8755823,
+            "participants": [
+              {
+                "player": {
+                  "id": 21002,
+                  "gamerTag": "Leftovers"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8755354,
+            "participants": [
+              {
+                "player": {
+                  "id": 1011310,
+                  "gamerTag": "Lumbre"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387859,
+      "winnerId": 8755823,
+      "displayScore": "Leftovers 3 - $5.99 Gang | Gamebot 1",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -8,
+      "completedAt": 1636941651,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8755823,
+            "participants": [
+              {
+                "player": {
+                  "id": 21002,
+                  "gamerTag": "Leftovers"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8752678,
+            "participants": [
+              {
+                "player": {
+                  "id": 1713177,
+                  "gamerTag": "Ouroboros"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387860,
+      "winnerId": 8752430,
+      "displayScore": "Stickerbrush 0 - Jack :) 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -8,
+      "completedAt": 1636940424,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8754034,
+            "participants": [
+              {
+                "player": {
+                  "id": 231485,
+                  "gamerTag": "Stickerbrush"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8752430,
+            "participants": [
+              {
+                "player": {
+                  "id": 158130,
+                  "gamerTag": "kickflip AK-47"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387857,
+      "winnerId": 8752678,
+      "displayScore": "$5.99 Gang | Gamebot 3 - phillyhoops 2",
+      "fullRoundText": "Losers Round 4",
+      "round": -7,
+      "completedAt": 1636940742,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8752678,
+            "participants": [
+              {
+                "player": {
+                  "id": 1713177,
+                  "gamerTag": "Ouroboros"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8754098,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387858,
+      "winnerId": 8752430,
+      "displayScore": "Jack :) 3 - Smoker 0",
+      "fullRoundText": "Losers Round 4",
+      "round": -7,
+      "completedAt": 1636939828,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8752430,
+            "participants": [
+              {
+                "player": {
+                  "id": 158130,
+                  "gamerTag": "kickflip AK-47"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8750345,
+            "participants": [
+              {
+                "player": {
+                  "id": 2426511,
+                  "gamerTag": "Smoker"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387792,
+      "winnerId": 8755982,
+      "displayScore": "MOM! 3 - phillyhoops 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1636938188,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8755982,
+            "participants": [
+              {
+                "player": {
+                  "id": 9642,
+                  "gamerTag": "MOM!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8754098,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387793,
+      "winnerId": 8754034,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1636938142,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8754034,
+            "participants": [
+              {
+                "player": {
+                  "id": 231485,
+                  "gamerTag": "Stickerbrush"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8752352,
+            "participants": [
+              {
+                "player": {
+                  "id": 1222893,
+                  "gamerTag": "toontown veteran"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387794,
+      "winnerId": 8755823,
+      "displayScore": "Leftovers 3 - Smoker 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1636938181,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8755823,
+            "participants": [
+              {
+                "player": {
+                  "id": 21002,
+                  "gamerTag": "Leftovers"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8750345,
+            "participants": [
+              {
+                "player": {
+                  "id": 2426511,
+                  "gamerTag": "Smoker"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387795,
+      "winnerId": 8755354,
+      "displayScore": "Lumbre 3 - Jack :) 2",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1636938314,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8755354,
+            "participants": [
+              {
+                "player": {
+                  "id": 1011310,
+                  "gamerTag": "Lumbre"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8752430,
+            "participants": [
+              {
+                "player": {
+                  "id": 158130,
+                  "gamerTag": "kickflip AK-47"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387856,
+      "winnerId": 8750345,
+      "displayScore": "Smoker 3 - The Madman 1",
+      "fullRoundText": "Losers Round 3",
+      "round": -6,
+      "completedAt": 1636939217,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8750345,
+            "participants": [
+              {
+                "player": {
+                  "id": 2426511,
+                  "gamerTag": "Smoker"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8755679,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387853,
+      "winnerId": 8752678,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 3",
+      "round": -6,
+      "completedAt": 1636938429,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8752352,
+            "participants": [
+              {
+                "player": {
+                  "id": 1222893,
+                  "gamerTag": "toontown veteran"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8752678,
+            "participants": [
+              {
+                "player": {
+                  "id": 1713177,
+                  "gamerTag": "Ouroboros"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387854,
+      "winnerId": 8754098,
+      "displayScore": "phillyhoops 3 - Whoops 1",
+      "fullRoundText": "Losers Round 3",
+      "round": -6,
+      "completedAt": 1636939277,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8754098,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8754989,
+            "participants": [
+              {
+                "player": {
+                  "id": 2533356,
+                  "gamerTag": "Whoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387855,
+      "winnerId": 8752430,
+      "displayScore": "Jack :) 3 - Slime | SRM13 0",
+      "fullRoundText": "Losers Round 3",
+      "round": -6,
+      "completedAt": 1636939170,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8752430,
+            "participants": [
+              {
+                "player": {
+                  "id": 158130,
+                  "gamerTag": "kickflip AK-47"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8753806,
+            "participants": [
+              {
+                "player": {
+                  "id": 1623937,
+                  "gamerTag": "SRM13"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387849,
+      "winnerId": 8752678,
+      "displayScore": "$5.99 Gang | Gamebot 3 - Turkish Delight 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1636938066,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8752678,
+            "participants": [
+              {
+                "player": {
+                  "id": 1713177,
+                  "gamerTag": "Ouroboros"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8754627,
+            "participants": [
+              {
+                "player": {
+                  "id": 3454,
+                  "gamerTag": "Turkish Delight"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387850,
+      "winnerId": 8754989,
+      "displayScore": "noob | roy player 0 - Whoops 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1636938008,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8752689,
+            "participants": [
+              {
+                "player": {
+                  "id": 2532561,
+                  "gamerTag": "roy player"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8754989,
+            "participants": [
+              {
+                "player": {
+                  "id": 2533356,
+                  "gamerTag": "Whoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387851,
+      "winnerId": 8753806,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1636937990,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8753028,
+            "participants": [
+              {
+                "player": {
+                  "id": 2393715,
+                  "gamerTag": "JackTheGiant"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8753806,
+            "participants": [
+              {
+                "player": {
+                  "id": 1623937,
+                  "gamerTag": "SRM13"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387852,
+      "winnerId": 8755679,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1636938007,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8750796,
+            "participants": [
+              {
+                "player": {
+                  "id": 2047155,
+                  "gamerTag": "gab"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8755679,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387784,
+      "winnerId": 8755982,
+      "displayScore": "MOM! 3 - The Madman 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1636937443,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8755982,
+            "participants": [
+              {
+                "player": {
+                  "id": 9642,
+                  "gamerTag": "MOM!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8755679,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387785,
+      "winnerId": 8754098,
+      "displayScore": "gab | sigmund fried 0 - phillyhoops 3",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1636937362,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8750796,
+            "participants": [
+              {
+                "player": {
+                  "id": 2047155,
+                  "gamerTag": "gab"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8754098,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387786,
+      "winnerId": 8754034,
+      "displayScore": "Stickerbrush 3 - Slime | SRM13 1",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1636937912,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8754034,
+            "participants": [
+              {
+                "player": {
+                  "id": 231485,
+                  "gamerTag": "Stickerbrush"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8753806,
+            "participants": [
+              {
+                "player": {
+                  "id": 1623937,
+                  "gamerTag": "SRM13"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387787,
+      "winnerId": 8752352,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1636936825,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8752352,
+            "participants": [
+              {
+                "player": {
+                  "id": 1222893,
+                  "gamerTag": "toontown veteran"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8753028,
+            "participants": [
+              {
+                "player": {
+                  "id": 2393715,
+                  "gamerTag": "JackTheGiant"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387788,
+      "winnerId": 8755823,
+      "displayScore": "Leftovers 3 - Whoops 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1636937085,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8755823,
+            "participants": [
+              {
+                "player": {
+                  "id": 21002,
+                  "gamerTag": "Leftovers"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8754989,
+            "participants": [
+              {
+                "player": {
+                  "id": 2533356,
+                  "gamerTag": "Whoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387789,
+      "winnerId": 8750345,
+      "displayScore": "Smoker 3 - noob | roy player 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1636936939,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8750345,
+            "participants": [
+              {
+                "player": {
+                  "id": 2426511,
+                  "gamerTag": "Smoker"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8752689,
+            "participants": [
+              {
+                "player": {
+                  "id": 2532561,
+                  "gamerTag": "roy player"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387790,
+      "winnerId": 8755354,
+      "displayScore": "Lumbre 3 - Turkish Delight 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1636937180,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8755354,
+            "participants": [
+              {
+                "player": {
+                  "id": 1011310,
+                  "gamerTag": "Lumbre"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8754627,
+            "participants": [
+              {
+                "player": {
+                  "id": 3454,
+                  "gamerTag": "Turkish Delight"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387791,
+      "winnerId": 8752430,
+      "displayScore": "Jack :) 3 - $5.99 Gang | Gamebot 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1636936965,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8752430,
+            "participants": [
+              {
+                "player": {
+                  "id": 158130,
+                  "gamerTag": "kickflip AK-47"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8752678,
+            "participants": [
+              {
+                "player": {
+                  "id": 1713177,
+                  "gamerTag": "Ouroboros"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387841,
+      "winnerId": 8752678,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1636937046,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8752678,
+            "participants": [
+              {
+                "player": {
+                  "id": 1713177,
+                  "gamerTag": "Ouroboros"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8752277,
+            "participants": [
+              {
+                "player": {
+                  "id": 2242637,
+                  "gamerTag": "Stop It Russ"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42387769,
+      "winnerId": 8755679,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1636936825,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8752277,
+            "participants": [
+              {
+                "player": {
+                  "id": 2242637,
+                  "gamerTag": "Stop It Russ"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8755679,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 8755982,
+        "participants": [
+          {
+            "player": {
+              "id": 9642,
+              "gamerTag": "MOM!"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 8755354,
+        "participants": [
+          {
+            "player": {
+              "id": 1011310,
+              "gamerTag": "Lumbre"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 8752430,
+        "participants": [
+          {
+            "player": {
+              "id": 158130,
+              "gamerTag": "kickflip AK-47"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 8755823,
+        "participants": [
+          {
+            "player": {
+              "id": 21002,
+              "gamerTag": "Leftovers"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 8754034,
+        "participants": [
+          {
+            "player": {
+              "id": 231485,
+              "gamerTag": "Stickerbrush"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 8752678,
+        "participants": [
+          {
+            "player": {
+              "id": 1713177,
+              "gamerTag": "Ouroboros"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 8754098,
+        "participants": [
+          {
+            "player": {
+              "id": 1482652,
+              "gamerTag": "phillyhoops"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 8750345,
+        "participants": [
+          {
+            "player": {
+              "id": 2426511,
+              "gamerTag": "Smoker"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8753806,
+        "participants": [
+          {
+            "player": {
+              "id": 1623937,
+              "gamerTag": "SRM13"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8752352,
+        "participants": [
+          {
+            "player": {
+              "id": 1222893,
+              "gamerTag": "toontown veteran"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8754989,
+        "participants": [
+          {
+            "player": {
+              "id": 2533356,
+              "gamerTag": "Whoops"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8755679,
+        "participants": [
+          {
+            "player": {
+              "id": 2197580,
+              "gamerTag": "The Madman"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 8750796,
+        "participants": [
+          {
+            "player": {
+              "id": 2047155,
+              "gamerTag": "gab"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 8753028,
+        "participants": [
+          {
+            "player": {
+              "id": 2393715,
+              "gamerTag": "JackTheGiant"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 8752689,
+        "participants": [
+          {
+            "player": {
+              "id": 2532561,
+              "gamerTag": "roy player"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 8754627,
+        "participants": [
+          {
+            "player": {
+              "id": 3454,
+              "gamerTag": "Turkish Delight"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 8752277,
+        "participants": [
+          {
+            "player": {
+              "id": 2242637,
+              "gamerTag": "Stop It Russ"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

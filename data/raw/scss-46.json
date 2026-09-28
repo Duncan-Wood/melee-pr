@@ -1,0 +1,852 @@
+{
+  "slug": "tournament/scss-46/event/scss-singles",
+  "event": {
+    "id": 640976,
+    "name": "SCSS Singles",
+    "startAt": 1635723000,
+    "numEntrants": 6,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS #46",
+      "slug": "tournament/scss-46"
+    }
+  },
+  "sets": [
+    {
+      "id": 41947232,
+      "winnerId": 8639329,
+      "displayScore": "CowCowCowCowCow 3 - a bottle of soap 0",
+      "fullRoundText": "Round 5",
+      "round": 5,
+      "completedAt": 1635726835,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8639329,
+            "participants": [
+              {
+                "player": {
+                  "id": 657464,
+                  "gamerTag": "CowCowCowCowCow"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8643973,
+            "participants": [
+              {
+                "player": {
+                  "id": 2512542,
+                  "gamerTag": "a bottle of soap"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41947233,
+      "winnerId": 8648170,
+      "displayScore": "The Madman 0 - Pal 3",
+      "fullRoundText": "Round 5",
+      "round": 5,
+      "completedAt": 1635729865,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8647327,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8648170,
+            "participants": [
+              {
+                "player": {
+                  "id": 360967,
+                  "gamerTag": "Pal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41947234,
+      "winnerId": 8647849,
+      "displayScore": "phillyhoops 1 - Stickerbrush 3",
+      "fullRoundText": "Round 5",
+      "round": 5,
+      "completedAt": 1635726556,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8647576,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8647849,
+            "participants": [
+              {
+                "player": {
+                  "id": 231485,
+                  "gamerTag": "Stickerbrush"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41947229,
+      "winnerId": 8639329,
+      "displayScore": "CowCowCowCowCow 3 - The Madman 0",
+      "fullRoundText": "Round 4",
+      "round": 4,
+      "completedAt": 1635728146,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8639329,
+            "participants": [
+              {
+                "player": {
+                  "id": 657464,
+                  "gamerTag": "CowCowCowCowCow"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8647327,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41947230,
+      "winnerId": 8647576,
+      "displayScore": "phillyhoops 3 - a bottle of soap 0",
+      "fullRoundText": "Round 4",
+      "round": 4,
+      "completedAt": 1635725237,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8647576,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8643973,
+            "participants": [
+              {
+                "player": {
+                  "id": 2512542,
+                  "gamerTag": "a bottle of soap"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41947231,
+      "winnerId": 8648170,
+      "displayScore": "Stickerbrush 0 - Pal 3",
+      "fullRoundText": "Round 4",
+      "round": 4,
+      "completedAt": 1635727681,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8647849,
+            "participants": [
+              {
+                "player": {
+                  "id": 231485,
+                  "gamerTag": "Stickerbrush"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8648170,
+            "participants": [
+              {
+                "player": {
+                  "id": 360967,
+                  "gamerTag": "Pal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41947226,
+      "winnerId": 8639329,
+      "displayScore": "CowCowCowCowCow 3 - phillyhoops 0",
+      "fullRoundText": "Round 3",
+      "round": 3,
+      "completedAt": 1635727625,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8639329,
+            "participants": [
+              {
+                "player": {
+                  "id": 657464,
+                  "gamerTag": "CowCowCowCowCow"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8647576,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41947227,
+      "winnerId": 8647327,
+      "displayScore": "DQ",
+      "fullRoundText": "Round 3",
+      "round": 3,
+      "completedAt": 1635729469,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8647849,
+            "participants": [
+              {
+                "player": {
+                  "id": 231485,
+                  "gamerTag": "Stickerbrush"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8647327,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41947228,
+      "winnerId": 8648170,
+      "displayScore": "Pal 3 - a bottle of soap 0",
+      "fullRoundText": "Round 3",
+      "round": 3,
+      "completedAt": 1635726205,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8648170,
+            "participants": [
+              {
+                "player": {
+                  "id": 360967,
+                  "gamerTag": "Pal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8643973,
+            "participants": [
+              {
+                "player": {
+                  "id": 2512542,
+                  "gamerTag": "a bottle of soap"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41947223,
+      "winnerId": 8639329,
+      "displayScore": "CowCowCowCowCow 3 - Stickerbrush 0",
+      "fullRoundText": "Round 2",
+      "round": 2,
+      "completedAt": 1635725506,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8639329,
+            "participants": [
+              {
+                "player": {
+                  "id": 657464,
+                  "gamerTag": "CowCowCowCowCow"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8647849,
+            "participants": [
+              {
+                "player": {
+                  "id": 231485,
+                  "gamerTag": "Stickerbrush"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41947224,
+      "winnerId": 8648170,
+      "displayScore": "Pal 3 - phillyhoops 0",
+      "fullRoundText": "Round 2",
+      "round": 2,
+      "completedAt": 1635724023,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8648170,
+            "participants": [
+              {
+                "player": {
+                  "id": 360967,
+                  "gamerTag": "Pal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8647576,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41947225,
+      "winnerId": 8647327,
+      "displayScore": "DQ",
+      "fullRoundText": "Round 2",
+      "round": 2,
+      "completedAt": 1635729986,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8643973,
+            "participants": [
+              {
+                "player": {
+                  "id": 2512542,
+                  "gamerTag": "a bottle of soap"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8647327,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41947220,
+      "winnerId": 8639329,
+      "displayScore": "CowCowCowCowCow 3 - Pal 0",
+      "fullRoundText": "Round 1",
+      "round": 1,
+      "completedAt": 1635724771,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8639329,
+            "participants": [
+              {
+                "player": {
+                  "id": 657464,
+                  "gamerTag": "CowCowCowCowCow"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8648170,
+            "participants": [
+              {
+                "player": {
+                  "id": 360967,
+                  "gamerTag": "Pal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41947221,
+      "winnerId": 8647849,
+      "displayScore": "a bottle of soap 0 - Stickerbrush 3",
+      "fullRoundText": "Round 1",
+      "round": 1,
+      "completedAt": 1635724432,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8643973,
+            "participants": [
+              {
+                "player": {
+                  "id": 2512542,
+                  "gamerTag": "a bottle of soap"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8647849,
+            "participants": [
+              {
+                "player": {
+                  "id": 231485,
+                  "gamerTag": "Stickerbrush"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41947222,
+      "winnerId": 8647576,
+      "displayScore": "The Madman 0 - phillyhoops 3",
+      "fullRoundText": "Round 1",
+      "round": 1,
+      "completedAt": 1635728832,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8647327,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8647576,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 8639329,
+        "participants": [
+          {
+            "player": {
+              "id": 657464,
+              "gamerTag": "CowCowCowCowCow"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 8648170,
+        "participants": [
+          {
+            "player": {
+              "id": 360967,
+              "gamerTag": "Pal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 8647849,
+        "participants": [
+          {
+            "player": {
+              "id": 231485,
+              "gamerTag": "Stickerbrush"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 8647576,
+        "participants": [
+          {
+            "player": {
+              "id": 1482652,
+              "gamerTag": "phillyhoops"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 8647327,
+        "participants": [
+          {
+            "player": {
+              "id": 2197580,
+              "gamerTag": "The Madman"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 8643973,
+        "participants": [
+          {
+            "player": {
+              "id": 2512542,
+              "gamerTag": "a bottle of soap"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

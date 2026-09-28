@@ -1,0 +1,602 @@
+{
+  "slug": "tournament/scss-west-coast-89/event/melee-singles",
+  "event": {
+    "id": 836743,
+    "name": "Melee Singles",
+    "startAt": 1672623000,
+    "numEntrants": 6,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #89",
+      "slug": "tournament/scss-west-coast-89"
+    }
+  },
+  "sets": [
+    {
+      "id": 55510375,
+      "winnerId": 11966692,
+      "displayScore": "Jago 3 - Nova | LanTurN 0",
+      "fullRoundText": "Grand Final",
+      "round": 4,
+      "completedAt": 1672630564,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11966692,
+            "participants": [
+              {
+                "player": {
+                  "id": 19304,
+                  "gamerTag": "Jago"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11968206,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55510374,
+      "winnerId": 11966692,
+      "displayScore": "Nova | LanTurN 0 - Jago 3",
+      "fullRoundText": "Winners Final",
+      "round": 3,
+      "completedAt": 1672626398,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11968206,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11966692,
+            "participants": [
+              {
+                "player": {
+                  "id": 19304,
+                  "gamerTag": "Jago"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55510390,
+      "winnerId": 11968206,
+      "displayScore": "Nova | LanTurN 3 - WT | Nukelele 2",
+      "fullRoundText": "Losers Final",
+      "round": -6,
+      "completedAt": 1672629785,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11968206,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11968436,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55510389,
+      "winnerId": 11968436,
+      "displayScore": "WT | Nukelele 3 - REED 2",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -5,
+      "completedAt": 1672627927,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11968436,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11964904,
+            "participants": [
+              {
+                "player": {
+                  "id": 2715432,
+                  "gamerTag": "Ghislane Maxwell"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55510372,
+      "winnerId": 11968206,
+      "displayScore": "Nova | LanTurN 3 - REED 2",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 2,
+      "completedAt": 1672625448,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11968206,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11964904,
+            "participants": [
+              {
+                "player": {
+                  "id": 2715432,
+                  "gamerTag": "Ghislane Maxwell"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55510373,
+      "winnerId": 11966692,
+      "displayScore": "Jago 3 - WT | Nukelele 1",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 2,
+      "completedAt": 1672625298,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11966692,
+            "participants": [
+              {
+                "player": {
+                  "id": 19304,
+                  "gamerTag": "Jago"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11968436,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55510387,
+      "winnerId": 11968436,
+      "displayScore": "WT | Nukelele 2 - DBE | SG21 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -4,
+      "completedAt": 1672625756,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11968436,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11968266,
+            "participants": [
+              {
+                "player": {
+                  "id": 2388432,
+                  "gamerTag": "SG21"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55510388,
+      "winnerId": 11964904,
+      "displayScore": "REED 3 - daviddotorg 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -4,
+      "completedAt": 1672626253,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11964904,
+            "participants": [
+              {
+                "player": {
+                  "id": 2715432,
+                  "gamerTag": "Ghislane Maxwell"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11964728,
+            "participants": [
+              {
+                "player": {
+                  "id": 2215941,
+                  "gamerTag": "daviddotorg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55510369,
+      "winnerId": 11964904,
+      "displayScore": "DBE | SG21 0 - REED 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 1,
+      "completedAt": 1672624105,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11968266,
+            "participants": [
+              {
+                "player": {
+                  "id": 2388432,
+                  "gamerTag": "SG21"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11964904,
+            "participants": [
+              {
+                "player": {
+                  "id": 2715432,
+                  "gamerTag": "Ghislane Maxwell"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55510371,
+      "winnerId": 11968436,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 1,
+      "completedAt": 1672623794,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11968436,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11964728,
+            "participants": [
+              {
+                "player": {
+                  "id": 2215941,
+                  "gamerTag": "daviddotorg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 11966692,
+        "participants": [
+          {
+            "player": {
+              "id": 19304,
+              "gamerTag": "Jago"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 11968206,
+        "participants": [
+          {
+            "player": {
+              "id": 329937,
+              "gamerTag": "LanTurN"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 11968436,
+        "participants": [
+          {
+            "player": {
+              "id": 2156106,
+              "gamerTag": "Nukelele"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 11964904,
+        "participants": [
+          {
+            "player": {
+              "id": 2715432,
+              "gamerTag": "Ghislane Maxwell"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 11968266,
+        "participants": [
+          {
+            "player": {
+              "id": 2388432,
+              "gamerTag": "SG21"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 11964728,
+        "participants": [
+          {
+            "player": {
+              "id": 2215941,
+              "gamerTag": "daviddotorg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

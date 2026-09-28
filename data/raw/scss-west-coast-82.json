@@ -1,0 +1,880 @@
+{
+  "slug": "tournament/scss-west-coast-82/event/melee-singles",
+  "event": {
+    "id": 811976,
+    "name": "Melee Singles",
+    "startAt": 1667784600,
+    "numEntrants": 8,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #82",
+      "slug": "tournament/scss-west-coast-82"
+    }
+  },
+  "sets": [
+    {
+      "id": 53924891,
+      "winnerId": 11594180,
+      "displayScore": "DQ",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 5,
+      "completedAt": 1667789718,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11594180,
+            "participants": [
+              {
+                "player": {
+                  "id": 2384102,
+                  "gamerTag": "Pon"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596417,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53924875,
+      "winnerId": 11596919,
+      "displayScore": "Nukelele 3 - Andizee 2",
+      "fullRoundText": "Grand Final",
+      "round": 4,
+      "completedAt": 1667794845,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596919,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596398,
+            "participants": [
+              {
+                "player": {
+                  "id": 60704,
+                  "gamerTag": "Andizee"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53924874,
+      "winnerId": 11596919,
+      "displayScore": "Kombeze 0 - Nukelele 3",
+      "fullRoundText": "Winners Final",
+      "round": 3,
+      "completedAt": 1667788820,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11595963,
+            "participants": [
+              {
+                "player": {
+                  "id": 1737518,
+                  "gamerTag": "Kombeze"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596919,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53924890,
+      "winnerId": 11596398,
+      "displayScore": "Kombeze 1 - Andizee 3",
+      "fullRoundText": "Losers Final",
+      "round": -6,
+      "completedAt": 1667792677,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11595963,
+            "participants": [
+              {
+                "player": {
+                  "id": 1737518,
+                  "gamerTag": "Kombeze"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596398,
+            "participants": [
+              {
+                "player": {
+                  "id": 60704,
+                  "gamerTag": "Andizee"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53924889,
+      "winnerId": 11596398,
+      "displayScore": "Burd 2 - Andizee 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -5,
+      "completedAt": 1667790679,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11595632,
+            "participants": [
+              {
+                "player": {
+                  "id": 2539532,
+                  "gamerTag": "Burd"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596398,
+            "participants": [
+              {
+                "player": {
+                  "id": 60704,
+                  "gamerTag": "Andizee"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53924872,
+      "winnerId": 11595963,
+      "displayScore": "Kombeze 3 - Andizee 2",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 2,
+      "completedAt": 1667787789,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11595963,
+            "participants": [
+              {
+                "player": {
+                  "id": 1737518,
+                  "gamerTag": "Kombeze"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596398,
+            "participants": [
+              {
+                "player": {
+                  "id": 60704,
+                  "gamerTag": "Andizee"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53924873,
+      "winnerId": 11596919,
+      "displayScore": "Nukelele 3 - Burd 1",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 2,
+      "completedAt": 1667786848,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596919,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11595632,
+            "participants": [
+              {
+                "player": {
+                  "id": 2539532,
+                  "gamerTag": "Burd"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53924887,
+      "winnerId": 11595632,
+      "displayScore": "Burd 3 - BEBO 1",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -4,
+      "completedAt": 1667788872,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11595632,
+            "participants": [
+              {
+                "player": {
+                  "id": 2539532,
+                  "gamerTag": "Burd"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596417,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53924888,
+      "winnerId": 11596398,
+      "displayScore": "Andizee 3 - IES | Imponstersyndrome 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -4,
+      "completedAt": 1667789048,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596398,
+            "participants": [
+              {
+                "player": {
+                  "id": 60704,
+                  "gamerTag": "Andizee"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11594180,
+            "participants": [
+              {
+                "player": {
+                  "id": 2384102,
+                  "gamerTag": "Pon"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53924885,
+      "winnerId": 11596417,
+      "displayScore": "MiniMosasaur 0 - BEBO 3",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1667787123,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11597060,
+            "participants": [
+              {
+                "player": {
+                  "id": 3114457,
+                  "gamerTag": "MiniMosasaur"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596417,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53924886,
+      "winnerId": 11594180,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1667786416,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11594180,
+            "participants": [
+              {
+                "player": {
+                  "id": 2384102,
+                  "gamerTag": "Pon"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11591399,
+            "participants": [
+              {
+                "player": {
+                  "id": 2902902,
+                  "gamerTag": "aidan!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53924868,
+      "winnerId": 11595963,
+      "displayScore": "Kombeze 3 - MiniMosasaur 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 1,
+      "completedAt": 1667786129,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11595963,
+            "participants": [
+              {
+                "player": {
+                  "id": 1737518,
+                  "gamerTag": "Kombeze"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11597060,
+            "participants": [
+              {
+                "player": {
+                  "id": 3114457,
+                  "gamerTag": "MiniMosasaur"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53924869,
+      "winnerId": 11596398,
+      "displayScore": "BEBO 2 - Andizee 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 1,
+      "completedAt": 1667786326,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596417,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596398,
+            "participants": [
+              {
+                "player": {
+                  "id": 60704,
+                  "gamerTag": "Andizee"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53924870,
+      "winnerId": 11596919,
+      "displayScore": "Nukelele 3 - IES | Imponstersyndrome 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 1,
+      "completedAt": 1667785764,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596919,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11594180,
+            "participants": [
+              {
+                "player": {
+                  "id": 2384102,
+                  "gamerTag": "Pon"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53924871,
+      "winnerId": 11595632,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 1,
+      "completedAt": 1667785269,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11595632,
+            "participants": [
+              {
+                "player": {
+                  "id": 2539532,
+                  "gamerTag": "Burd"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11591399,
+            "participants": [
+              {
+                "player": {
+                  "id": 2902902,
+                  "gamerTag": "aidan!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 11596919,
+        "participants": [
+          {
+            "player": {
+              "id": 2156106,
+              "gamerTag": "Nukelele"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 11596398,
+        "participants": [
+          {
+            "player": {
+              "id": 60704,
+              "gamerTag": "Andizee"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 11595963,
+        "participants": [
+          {
+            "player": {
+              "id": 1737518,
+              "gamerTag": "Kombeze"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 11595632,
+        "participants": [
+          {
+            "player": {
+              "id": 2539532,
+              "gamerTag": "Burd"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 11594180,
+        "participants": [
+          {
+            "player": {
+              "id": 2384102,
+              "gamerTag": "Pon"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 11596417,
+        "participants": [
+          {
+            "player": {
+              "id": 360229,
+              "gamerTag": "BEBO"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 11597060,
+        "participants": [
+          {
+            "player": {
+              "id": 3114457,
+              "gamerTag": "MiniMosasaur"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 11591399,
+        "participants": [
+          {
+            "player": {
+              "id": 2902902,
+              "gamerTag": "aidan!"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

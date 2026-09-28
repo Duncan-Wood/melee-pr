@@ -1,0 +1,1044 @@
+{
+  "slug": "tournament/scss-east-coast-93/event/scss-singles",
+  "event": {
+    "id": 811975,
+    "name": "SCSS Singles",
+    "startAt": 1667781000,
+    "numEntrants": 9,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS East Coast #93",
+      "slug": "tournament/scss-east-coast-93"
+    }
+  },
+  "sets": [
+    {
+      "id": 53923203,
+      "winnerId": 11593354,
+      "displayScore": "DQ",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 6,
+      "completedAt": 1667786236,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596475,
+            "participants": [
+              {
+                "player": {
+                  "id": 2021151,
+                  "gamerTag": "CC_1759"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11593354,
+            "participants": [
+              {
+                "player": {
+                  "id": 3072491,
+                  "gamerTag": "kipperthefrog"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53923171,
+      "winnerId": 11596421,
+      "displayScore": "Weeg 1 - Zimberfizz 3",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1667789092,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596473,
+            "participants": [
+              {
+                "player": {
+                  "id": 63940,
+                  "gamerTag": "Weeg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596421,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53923172,
+      "winnerId": 11596421,
+      "displayScore": "Zimberfizz 3 - Weeg 0",
+      "fullRoundText": "Grand Final Reset",
+      "round": 5,
+      "completedAt": 1667790027,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596421,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596473,
+            "participants": [
+              {
+                "player": {
+                  "id": 63940,
+                  "gamerTag": "Weeg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53923170,
+      "winnerId": 11596473,
+      "displayScore": "Zimberfizz 2 - Weeg 3",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1667784429,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596421,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596473,
+            "participants": [
+              {
+                "player": {
+                  "id": 63940,
+                  "gamerTag": "Weeg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53923202,
+      "winnerId": 11596421,
+      "displayScore": "Zimberfizz 3 - cassie 1",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1667788149,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596421,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596585,
+            "participants": [
+              {
+                "player": {
+                  "id": 2146437,
+                  "gamerTag": "Joana P."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53923201,
+      "winnerId": 11596585,
+      "displayScore": "cassie 3 - JV_Wentworth 2",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1667786959,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596585,
+            "participants": [
+              {
+                "player": {
+                  "id": 2146437,
+                  "gamerTag": "Joana P."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596541,
+            "participants": [
+              {
+                "player": {
+                  "id": 945924,
+                  "gamerTag": "JV_Wentworth"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53923168,
+      "winnerId": 11596421,
+      "displayScore": "cassie 0 - Zimberfizz 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1667783361,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596585,
+            "participants": [
+              {
+                "player": {
+                  "id": 2146437,
+                  "gamerTag": "Joana P."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596421,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53923169,
+      "winnerId": 11596473,
+      "displayScore": "Weeg 3 - JV_Wentworth 2",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1667783187,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596473,
+            "participants": [
+              {
+                "player": {
+                  "id": 63940,
+                  "gamerTag": "Weeg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596541,
+            "participants": [
+              {
+                "player": {
+                  "id": 945924,
+                  "gamerTag": "JV_Wentworth"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53923199,
+      "winnerId": 11596585,
+      "displayScore": "cassie 3 - kipperthefrog 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1667785623,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596585,
+            "participants": [
+              {
+                "player": {
+                  "id": 2146437,
+                  "gamerTag": "Joana P."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11593354,
+            "participants": [
+              {
+                "player": {
+                  "id": 3072491,
+                  "gamerTag": "kipperthefrog"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53923200,
+      "winnerId": 11596541,
+      "displayScore": "JV_Wentworth 3 - CC_1759 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1667784378,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596541,
+            "participants": [
+              {
+                "player": {
+                  "id": 945924,
+                  "gamerTag": "JV_Wentworth"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596475,
+            "participants": [
+              {
+                "player": {
+                  "id": 2021151,
+                  "gamerTag": "CC_1759"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53923197,
+      "winnerId": 11593354,
+      "displayScore": "kipperthefrog 3 - the truth 2",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1667784863,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11593354,
+            "participants": [
+              {
+                "player": {
+                  "id": 3072491,
+                  "gamerTag": "kipperthefrog"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11595682,
+            "participants": [
+              {
+                "player": {
+                  "id": 291216,
+                  "gamerTag": "truths"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53923198,
+      "winnerId": 11596475,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1667783459,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596475,
+            "participants": [
+              {
+                "player": {
+                  "id": 2021151,
+                  "gamerTag": "CC_1759"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11592939,
+            "participants": [
+              {
+                "player": {
+                  "id": 5741,
+                  "gamerTag": "SuperDude"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53923164,
+      "winnerId": 11596585,
+      "displayScore": "cassie 3 - SuperDude 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1667782707,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596585,
+            "participants": [
+              {
+                "player": {
+                  "id": 2146437,
+                  "gamerTag": "Joana P."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11592939,
+            "participants": [
+              {
+                "player": {
+                  "id": 5741,
+                  "gamerTag": "SuperDude"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53923165,
+      "winnerId": 11596421,
+      "displayScore": "Zimberfizz 3 - CC_1759 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1667782424,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596421,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11596475,
+            "participants": [
+              {
+                "player": {
+                  "id": 2021151,
+                  "gamerTag": "CC_1759"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53923166,
+      "winnerId": 11596473,
+      "displayScore": "Weeg 3 - the truth 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1667781966,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596473,
+            "participants": [
+              {
+                "player": {
+                  "id": 63940,
+                  "gamerTag": "Weeg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11595682,
+            "participants": [
+              {
+                "player": {
+                  "id": 291216,
+                  "gamerTag": "truths"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53923167,
+      "winnerId": 11596541,
+      "displayScore": "JV_Wentworth 3 - captncook | captaincook 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1667782056,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11596541,
+            "participants": [
+              {
+                "player": {
+                  "id": 945924,
+                  "gamerTag": "JV_Wentworth"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11592924,
+            "participants": [
+              {
+                "player": {
+                  "id": 2989662,
+                  "gamerTag": "capta1nco0k"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53923193,
+      "winnerId": 11593354,
+      "displayScore": "captncook | captaincook 1 - kipperthefrog 3",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1667783392,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11592924,
+            "participants": [
+              {
+                "player": {
+                  "id": 2989662,
+                  "gamerTag": "capta1nco0k"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11593354,
+            "participants": [
+              {
+                "player": {
+                  "id": 3072491,
+                  "gamerTag": "kipperthefrog"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53923157,
+      "winnerId": 11592939,
+      "displayScore": "kipperthefrog 1 - SuperDude 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1667782203,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11593354,
+            "participants": [
+              {
+                "player": {
+                  "id": 3072491,
+                  "gamerTag": "kipperthefrog"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11592939,
+            "participants": [
+              {
+                "player": {
+                  "id": 5741,
+                  "gamerTag": "SuperDude"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 11596421,
+        "participants": [
+          {
+            "player": {
+              "id": 2600974,
+              "gamerTag": "Zimberfizz"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 11596473,
+        "participants": [
+          {
+            "player": {
+              "id": 63940,
+              "gamerTag": "Weeg"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 11596585,
+        "participants": [
+          {
+            "player": {
+              "id": 2146437,
+              "gamerTag": "Joana P."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 11596541,
+        "participants": [
+          {
+            "player": {
+              "id": 945924,
+              "gamerTag": "JV_Wentworth"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 11593354,
+        "participants": [
+          {
+            "player": {
+              "id": 3072491,
+              "gamerTag": "kipperthefrog"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 11596475,
+        "participants": [
+          {
+            "player": {
+              "id": 2021151,
+              "gamerTag": "CC_1759"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 11595682,
+        "participants": [
+          {
+            "player": {
+              "id": 291216,
+              "gamerTag": "truths"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 11592939,
+        "participants": [
+          {
+            "player": {
+              "id": 5741,
+              "gamerTag": "SuperDude"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 11592924,
+        "participants": [
+          {
+            "player": {
+              "id": 2989662,
+              "gamerTag": "capta1nco0k"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2818 @@
+{
+  "slug": "tournament/scss-east-coast-90/event/scss-singles",
+  "event": {
+    "id": 796973,
+    "name": "SCSS Singles",
+    "startAt": 1665963000,
+    "numEntrants": 25,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS East Coast #90",
+      "slug": "tournament/scss-east-coast-90"
+    }
+  },
+  "sets": [
+    {
+      "id": 53108798,
+      "winnerId": 11404991,
+      "displayScore": "DQ",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 7,
+      "completedAt": 1665969429,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407734,
+            "participants": [
+              {
+                "player": {
+                  "id": 2133183,
+                  "gamerTag": "Drio"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11404991,
+            "participants": [
+              {
+                "player": {
+                  "id": 1294463,
+                  "gamerTag": "macdaddy69"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108734,
+      "winnerId": 11407741,
+      "displayScore": "Akir 3 - Weeg 1",
+      "fullRoundText": "Grand Final",
+      "round": 6,
+      "completedAt": 1665970968,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407741,
+            "participants": [
+              {
+                "player": {
+                  "id": 144798,
+                  "gamerTag": "Akir"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407213,
+            "participants": [
+              {
+                "player": {
+                  "id": 63940,
+                  "gamerTag": "Weeg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108733,
+      "winnerId": 11407741,
+      "displayScore": "Akir 3 - CG | Freezus 2",
+      "fullRoundText": "Winners Final",
+      "round": 5,
+      "completedAt": 1665968720,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407741,
+            "participants": [
+              {
+                "player": {
+                  "id": 144798,
+                  "gamerTag": "Akir"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407237,
+            "participants": [
+              {
+                "player": {
+                  "id": 25924,
+                  "gamerTag": "Freezus"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108797,
+      "winnerId": 11407213,
+      "displayScore": "CG | Freezus 0 - Weeg 3",
+      "fullRoundText": "Losers Final",
+      "round": -10,
+      "completedAt": 1665969969,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407237,
+            "participants": [
+              {
+                "player": {
+                  "id": 25924,
+                  "gamerTag": "Freezus"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407213,
+            "participants": [
+              {
+                "player": {
+                  "id": 63940,
+                  "gamerTag": "Weeg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108796,
+      "winnerId": 11407213,
+      "displayScore": "Weeg 3 - Waddle | Siddward 0",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -9,
+      "completedAt": 1665969237,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407213,
+            "participants": [
+              {
+                "player": {
+                  "id": 63940,
+                  "gamerTag": "Weeg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407667,
+            "participants": [
+              {
+                "player": {
+                  "id": 31487,
+                  "gamerTag": "Siddward"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108731,
+      "winnerId": 11407741,
+      "displayScore": "Akir 3 - Drio 1",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 4,
+      "completedAt": 1665966316,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407741,
+            "participants": [
+              {
+                "player": {
+                  "id": 144798,
+                  "gamerTag": "Akir"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407734,
+            "participants": [
+              {
+                "player": {
+                  "id": 2133183,
+                  "gamerTag": "Drio"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108732,
+      "winnerId": 11407237,
+      "displayScore": "CG | Freezus 3 - macdaddy69 2",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 4,
+      "completedAt": 1665967533,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407237,
+            "participants": [
+              {
+                "player": {
+                  "id": 25924,
+                  "gamerTag": "Freezus"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11404991,
+            "participants": [
+              {
+                "player": {
+                  "id": 1294463,
+                  "gamerTag": "macdaddy69"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108794,
+      "winnerId": 11407213,
+      "displayScore": "macdaddy69 0 - Weeg 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -8,
+      "completedAt": 1665968516,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11404991,
+            "participants": [
+              {
+                "player": {
+                  "id": 1294463,
+                  "gamerTag": "macdaddy69"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407213,
+            "participants": [
+              {
+                "player": {
+                  "id": 63940,
+                  "gamerTag": "Weeg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108795,
+      "winnerId": 11407667,
+      "displayScore": "Drio 2 - Waddle | Siddward 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -8,
+      "completedAt": 1665968805,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407734,
+            "participants": [
+              {
+                "player": {
+                  "id": 2133183,
+                  "gamerTag": "Drio"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407667,
+            "participants": [
+              {
+                "player": {
+                  "id": 31487,
+                  "gamerTag": "Siddward"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108792,
+      "winnerId": 11407213,
+      "displayScore": "Weeg 3 - Zimberfizz 0",
+      "fullRoundText": "Losers Round 5",
+      "round": -7,
+      "completedAt": 1665966944,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407213,
+            "participants": [
+              {
+                "player": {
+                  "id": 63940,
+                  "gamerTag": "Weeg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11406549,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108793,
+      "winnerId": 11407667,
+      "displayScore": "Waddle | Siddward 3 - YungD0nut 1",
+      "fullRoundText": "Losers Round 5",
+      "round": -7,
+      "completedAt": 1665967754,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407667,
+            "participants": [
+              {
+                "player": {
+                  "id": 31487,
+                  "gamerTag": "Siddward"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11406266,
+            "participants": [
+              {
+                "player": {
+                  "id": 15046,
+                  "gamerTag": "yd"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108727,
+      "winnerId": 11407741,
+      "displayScore": "Akir 3 - Zimberfizz 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1665965432,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407741,
+            "participants": [
+              {
+                "player": {
+                  "id": 144798,
+                  "gamerTag": "Akir"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11406549,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108728,
+      "winnerId": 11407734,
+      "displayScore": "Drio 3 - Weeg 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1665964928,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407734,
+            "participants": [
+              {
+                "player": {
+                  "id": 2133183,
+                  "gamerTag": "Drio"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407213,
+            "participants": [
+              {
+                "player": {
+                  "id": 63940,
+                  "gamerTag": "Weeg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108729,
+      "winnerId": 11407237,
+      "displayScore": "CG | Freezus 3 - iGoof 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1665965320,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407237,
+            "participants": [
+              {
+                "player": {
+                  "id": 25924,
+                  "gamerTag": "Freezus"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11404370,
+            "participants": [
+              {
+                "player": {
+                  "id": 2630418,
+                  "gamerTag": "David V.0"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108730,
+      "winnerId": 11404991,
+      "displayScore": "Waddle | Siddward 2 - macdaddy69 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1665965831,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407667,
+            "participants": [
+              {
+                "player": {
+                  "id": 31487,
+                  "gamerTag": "Siddward"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11404991,
+            "participants": [
+              {
+                "player": {
+                  "id": 1294463,
+                  "gamerTag": "macdaddy69"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108788,
+      "winnerId": 11407213,
+      "displayScore": "Weeg 2 - FreeFormJazz 0",
+      "fullRoundText": "Losers Round 4",
+      "round": -6,
+      "completedAt": 1665966097,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407213,
+            "participants": [
+              {
+                "player": {
+                  "id": 63940,
+                  "gamerTag": "Weeg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11403590,
+            "participants": [
+              {
+                "player": {
+                  "id": 258570,
+                  "gamerTag": "FreeFormJazz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108789,
+      "winnerId": 11406549,
+      "displayScore": "Zimberfizz 2 - DFW | fitzy 0",
+      "fullRoundText": "Losers Round 4",
+      "round": -6,
+      "completedAt": 1665965940,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11406549,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11406388,
+            "participants": [
+              {
+                "player": {
+                  "id": 2288649,
+                  "gamerTag": "fitzy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108790,
+      "winnerId": 11407667,
+      "displayScore": "Waddle | Siddward 3 - Fabe 2",
+      "fullRoundText": "Losers Round 4",
+      "round": -6,
+      "completedAt": 1665966929,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407667,
+            "participants": [
+              {
+                "player": {
+                  "id": 31487,
+                  "gamerTag": "Siddward"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11404475,
+            "participants": [
+              {
+                "player": {
+                  "id": 67790,
+                  "gamerTag": "Fabe"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108791,
+      "winnerId": 11406266,
+      "displayScore": "iGoof 0 - YungD0nut 2",
+      "fullRoundText": "Losers Round 4",
+      "round": -6,
+      "completedAt": 1665966442,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11404370,
+            "participants": [
+              {
+                "player": {
+                  "id": 2630418,
+                  "gamerTag": "David V.0"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11406266,
+            "participants": [
+              {
+                "player": {
+                  "id": 15046,
+                  "gamerTag": "yd"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108784,
+      "winnerId": 11403590,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1665965708,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407036,
+            "participants": [
+              {
+                "player": {
+                  "id": 53647,
+                  "gamerTag": "Deleted user"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11403590,
+            "participants": [
+              {
+                "player": {
+                  "id": 258570,
+                  "gamerTag": "FreeFormJazz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108785,
+      "winnerId": 11406388,
+      "displayScore": "Dr.G 0 - DFW | fitzy 2",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1665965403,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407210,
+            "participants": [
+              {
+                "player": {
+                  "id": 2580130,
+                  "gamerTag": "Dr.G"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11406388,
+            "participants": [
+              {
+                "player": {
+                  "id": 2288649,
+                  "gamerTag": "fitzy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108786,
+      "winnerId": 11404475,
+      "displayScore": "Spence 0 - Fabe 2",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1665965622,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11404754,
+            "participants": [
+              {
+                "player": {
+                  "id": 2793064,
+                  "gamerTag": "Spence"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11404475,
+            "participants": [
+              {
+                "player": {
+                  "id": 67790,
+                  "gamerTag": "Fabe"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108787,
+      "winnerId": 11406266,
+      "displayScore": "YungD0nut 2 - nMOG 0",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1665965830,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11406266,
+            "participants": [
+              {
+                "player": {
+                  "id": 15046,
+                  "gamerTag": "yd"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11406574,
+            "participants": [
+              {
+                "player": {
+                  "id": 2795085,
+                  "gamerTag": "nMOG"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108719,
+      "winnerId": 11407741,
+      "displayScore": "Akir 2 - nMOG 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1665964270,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407741,
+            "participants": [
+              {
+                "player": {
+                  "id": 144798,
+                  "gamerTag": "Akir"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11406574,
+            "participants": [
+              {
+                "player": {
+                  "id": 2795085,
+                  "gamerTag": "nMOG"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108720,
+      "winnerId": 11406549,
+      "displayScore": "YungD0nut 0 - Zimberfizz 2",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1665964144,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11406266,
+            "participants": [
+              {
+                "player": {
+                  "id": 15046,
+                  "gamerTag": "yd"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11406549,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108721,
+      "winnerId": 11407734,
+      "displayScore": "Drio 2 - Fabe 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1665964206,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407734,
+            "participants": [
+              {
+                "player": {
+                  "id": 2133183,
+                  "gamerTag": "Drio"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11404475,
+            "participants": [
+              {
+                "player": {
+                  "id": 67790,
+                  "gamerTag": "Fabe"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108722,
+      "winnerId": 11407213,
+      "displayScore": "Weeg 2 - Jackie_FL 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1665964120,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407213,
+            "participants": [
+              {
+                "player": {
+                  "id": 63940,
+                  "gamerTag": "Weeg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407766,
+            "participants": [
+              {
+                "player": {
+                  "id": 2187235,
+                  "gamerTag": "Jackie_FL"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108723,
+      "winnerId": 11407237,
+      "displayScore": "CG | Freezus 2 - Pixel 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1665964314,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407237,
+            "participants": [
+              {
+                "player": {
+                  "id": 25924,
+                  "gamerTag": "Freezus"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11408045,
+            "participants": [
+              {
+                "player": {
+                  "id": 63937,
+                  "gamerTag": "Halftime"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108724,
+      "winnerId": 11404370,
+      "displayScore": "Steven 0 - iGoof 2",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1665964265,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407560,
+            "participants": [
+              {
+                "player": {
+                  "id": 1175688,
+                  "gamerTag": "Steven"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11404370,
+            "participants": [
+              {
+                "player": {
+                  "id": 2630418,
+                  "gamerTag": "David V.0"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108725,
+      "winnerId": 11407667,
+      "displayScore": "Waddle | Siddward 2 - FreeFormJazz 1",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1665964468,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407667,
+            "participants": [
+              {
+                "player": {
+                  "id": 31487,
+                  "gamerTag": "Siddward"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11403590,
+            "participants": [
+              {
+                "player": {
+                  "id": 258570,
+                  "gamerTag": "FreeFormJazz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108726,
+      "winnerId": 11404991,
+      "displayScore": "macdaddy69 2 - Deleted user 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1665964667,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11404991,
+            "participants": [
+              {
+                "player": {
+                  "id": 1294463,
+                  "gamerTag": "macdaddy69"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407036,
+            "participants": [
+              {
+                "player": {
+                  "id": 53647,
+                  "gamerTag": "Deleted user"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108776,
+      "winnerId": 11407036,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1665965168,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407036,
+            "participants": [
+              {
+                "player": {
+                  "id": 53647,
+                  "gamerTag": "Deleted user"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407641,
+            "participants": [
+              {
+                "player": {
+                  "id": 48202,
+                  "gamerTag": "Beekman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108777,
+      "winnerId": 11403590,
+      "displayScore": "FreeFormJazz 2 - The Madman 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1665965035,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11403590,
+            "participants": [
+              {
+                "player": {
+                  "id": 258570,
+                  "gamerTag": "FreeFormJazz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11405176,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108778,
+      "winnerId": 11407210,
+      "displayScore": "Steven 0 - Dr.G 2",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1665964534,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407560,
+            "participants": [
+              {
+                "player": {
+                  "id": 1175688,
+                  "gamerTag": "Steven"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407210,
+            "participants": [
+              {
+                "player": {
+                  "id": 2580130,
+                  "gamerTag": "Dr.G"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108779,
+      "winnerId": 11406388,
+      "displayScore": "Pixel 0 - DFW | fitzy 2",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1665964886,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11408045,
+            "participants": [
+              {
+                "player": {
+                  "id": 63937,
+                  "gamerTag": "Halftime"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11406388,
+            "participants": [
+              {
+                "player": {
+                  "id": 2288649,
+                  "gamerTag": "fitzy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108780,
+      "winnerId": 11404754,
+      "displayScore": "Jackie_FL 1 - Spence 2",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1665965079,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407766,
+            "participants": [
+              {
+                "player": {
+                  "id": 2187235,
+                  "gamerTag": "Jackie_FL"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11404754,
+            "participants": [
+              {
+                "player": {
+                  "id": 2793064,
+                  "gamerTag": "Spence"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108781,
+      "winnerId": 11404475,
+      "displayScore": "Fabe 2 - MagiFan | WoahD_ 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1665964737,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11404475,
+            "participants": [
+              {
+                "player": {
+                  "id": 67790,
+                  "gamerTag": "Fabe"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407652,
+            "participants": [
+              {
+                "player": {
+                  "id": 2249221,
+                  "gamerTag": "WoahD_"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108782,
+      "winnerId": 11406266,
+      "displayScore": "YungD0nut 2 - the truth 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1665964891,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11406266,
+            "participants": [
+              {
+                "player": {
+                  "id": 15046,
+                  "gamerTag": "yd"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11404517,
+            "participants": [
+              {
+                "player": {
+                  "id": 291216,
+                  "gamerTag": "truths"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108783,
+      "winnerId": 11406574,
+      "displayScore": "nMOG 2 - BIRB 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1665965096,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11406574,
+            "participants": [
+              {
+                "player": {
+                  "id": 2795085,
+                  "gamerTag": "nMOG"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407671,
+            "participants": [
+              {
+                "player": {
+                  "id": 2357809,
+                  "gamerTag": "BIRB"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108769,
+      "winnerId": 11405176,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1665963867,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407770,
+            "participants": [
+              {
+                "player": {
+                  "id": 3074217,
+                  "gamerTag": "Klepto"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11405176,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108704,
+      "winnerId": 11406574,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1665963496,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407641,
+            "participants": [
+              {
+                "player": {
+                  "id": 48202,
+                  "gamerTag": "Beekman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11406574,
+            "participants": [
+              {
+                "player": {
+                  "id": 2795085,
+                  "gamerTag": "nMOG"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108705,
+      "winnerId": 11406266,
+      "displayScore": "YungD0nut 2 - dartmonkey11 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1665963484,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11406266,
+            "participants": [
+              {
+                "player": {
+                  "id": 15046,
+                  "gamerTag": "yd"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407770,
+            "participants": [
+              {
+                "player": {
+                  "id": 3074217,
+                  "gamerTag": "Klepto"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108706,
+      "winnerId": 11406549,
+      "displayScore": "Zimberfizz 2 - The Madman 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1665963455,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11406549,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11405176,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108708,
+      "winnerId": 11404475,
+      "displayScore": "Fabe 2 - Dr.G 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1665963619,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11404475,
+            "participants": [
+              {
+                "player": {
+                  "id": 67790,
+                  "gamerTag": "Fabe"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407210,
+            "participants": [
+              {
+                "player": {
+                  "id": 2580130,
+                  "gamerTag": "Dr.G"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108710,
+      "winnerId": 11407766,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1665963496,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11406388,
+            "participants": [
+              {
+                "player": {
+                  "id": 2288649,
+                  "gamerTag": "fitzy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407766,
+            "participants": [
+              {
+                "player": {
+                  "id": 2187235,
+                  "gamerTag": "Jackie_FL"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108712,
+      "winnerId": 11408045,
+      "displayScore": "Spence 1 - Pixel 2",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1665963978,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11404754,
+            "participants": [
+              {
+                "player": {
+                  "id": 2793064,
+                  "gamerTag": "Spence"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11408045,
+            "participants": [
+              {
+                "player": {
+                  "id": 63937,
+                  "gamerTag": "Halftime"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108714,
+      "winnerId": 11404370,
+      "displayScore": "iGoof 2 - MagiFan | WoahD_ 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1665963514,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11404370,
+            "participants": [
+              {
+                "player": {
+                  "id": 2630418,
+                  "gamerTag": "David V.0"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407652,
+            "participants": [
+              {
+                "player": {
+                  "id": 2249221,
+                  "gamerTag": "WoahD_"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108716,
+      "winnerId": 11403590,
+      "displayScore": "FreeFormJazz 2 - the truth 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1665963839,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11403590,
+            "participants": [
+              {
+                "player": {
+                  "id": 258570,
+                  "gamerTag": "FreeFormJazz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11404517,
+            "participants": [
+              {
+                "player": {
+                  "id": 291216,
+                  "gamerTag": "truths"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 53108718,
+      "winnerId": 11407036,
+      "displayScore": "Deleted user 2 - BIRB 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1665964006,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11407036,
+            "participants": [
+              {
+                "player": {
+                  "id": 53647,
+                  "gamerTag": "Deleted user"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11407671,
+            "participants": [
+              {
+                "player": {
+                  "id": 2357809,
+                  "gamerTag": "BIRB"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 11407741,
+        "participants": [
+          {
+            "player": {
+              "id": 144798,
+              "gamerTag": "Akir"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 11407213,
+        "participants": [
+          {
+            "player": {
+              "id": 63940,
+              "gamerTag": "Weeg"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 11407237,
+        "participants": [
+          {
+            "player": {
+              "id": 25924,
+              "gamerTag": "Freezus"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 11407667,
+        "participants": [
+          {
+            "player": {
+              "id": 31487,
+              "gamerTag": "Siddward"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 11404991,
+        "participants": [
+          {
+            "player": {
+              "id": 1294463,
+              "gamerTag": "macdaddy69"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 11407734,
+        "participants": [
+          {
+            "player": {
+              "id": 2133183,
+              "gamerTag": "Drio"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 11406266,
+        "participants": [
+          {
+            "player": {
+              "id": 15046,
+              "gamerTag": "yd"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 11406549,
+        "participants": [
+          {
+            "player": {
+              "id": 2600974,
+              "gamerTag": "Zimberfizz"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 11404475,
+        "participants": [
+          {
+            "player": {
+              "id": 67790,
+              "gamerTag": "Fabe"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 11406388,
+        "participants": [
+          {
+            "player": {
+              "id": 2288649,
+              "gamerTag": "fitzy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 11404370,
+        "participants": [
+          {
+            "player": {
+              "id": 2630418,
+              "gamerTag": "David V.0"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 11403590,
+        "participants": [
+          {
+            "player": {
+              "id": 258570,
+              "gamerTag": "FreeFormJazz"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 11406574,
+        "participants": [
+          {
+            "player": {
+              "id": 2795085,
+              "gamerTag": "nMOG"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 11407210,
+        "participants": [
+          {
+            "player": {
+              "id": 2580130,
+              "gamerTag": "Dr.G"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 11404754,
+        "participants": [
+          {
+            "player": {
+              "id": 2793064,
+              "gamerTag": "Spence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 11407036,
+        "participants": [
+          {
+            "player": {
+              "id": 53647,
+              "gamerTag": "Deleted user"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 11407641,
+        "participants": [
+          {
+            "player": {
+              "id": 48202,
+              "gamerTag": "Beekman"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 11407766,
+        "participants": [
+          {
+            "player": {
+              "id": 2187235,
+              "gamerTag": "Jackie_FL"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 11408045,
+        "participants": [
+          {
+            "player": {
+              "id": 63937,
+              "gamerTag": "Halftime"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 11407652,
+        "participants": [
+          {
+            "player": {
+              "id": 2249221,
+              "gamerTag": "WoahD_"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 11404517,
+        "participants": [
+          {
+            "player": {
+              "id": 291216,
+              "gamerTag": "truths"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 11407671,
+        "participants": [
+          {
+            "player": {
+              "id": 2357809,
+              "gamerTag": "BIRB"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 11407560,
+        "participants": [
+          {
+            "player": {
+              "id": 1175688,
+              "gamerTag": "Steven"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 11405176,
+        "participants": [
+          {
+            "player": {
+              "id": 2197580,
+              "gamerTag": "The Madman"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 25,
+      "entrant": {
+        "id": 11407770,
+        "participants": [
+          {
+            "player": {
+              "id": 3074217,
+              "gamerTag": "Klepto"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

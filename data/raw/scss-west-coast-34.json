@@ -1,0 +1,588 @@
+{
+  "slug": "tournament/scss-west-coast-34/event/scss-west-coast-singles",
+  "event": {
+    "id": 640812,
+    "name": "SCSS West Coast Singles",
+    "startAt": 1635726600,
+    "numEntrants": 5,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #34",
+      "slug": "tournament/scss-west-coast-34"
+    }
+  },
+  "sets": [
+    {
+      "id": 41949157,
+      "winnerId": 8644556,
+      "displayScore": "DQ",
+      "fullRoundText": "Round 5",
+      "round": 5,
+      "completedAt": 1635728850,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8636280,
+            "participants": [
+              {
+                "player": {
+                  "id": 2510049,
+                  "gamerTag": "Bongo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8644556,
+            "participants": [
+              {
+                "player": {
+                  "id": 1030030,
+                  "gamerTag": "DjShinySilver"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41949158,
+      "winnerId": 8648477,
+      "displayScore": "JC 2 - Phorox 3",
+      "fullRoundText": "Round 5",
+      "round": 5,
+      "completedAt": 1635728604,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8648364,
+            "participants": [
+              {
+                "player": {
+                  "id": 323132,
+                  "gamerTag": "JC"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8648477,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41949155,
+      "winnerId": 8636280,
+      "displayScore": "DQ",
+      "fullRoundText": "Round 4",
+      "round": 4,
+      "completedAt": 1635728785,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8636280,
+            "participants": [
+              {
+                "player": {
+                  "id": 2510049,
+                  "gamerTag": "Bongo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8647942,
+            "participants": [
+              {
+                "player": {
+                  "id": 1129130,
+                  "gamerTag": "Mr.Peru"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41949156,
+      "winnerId": 8648364,
+      "displayScore": "DQ",
+      "fullRoundText": "Round 4",
+      "round": 4,
+      "completedAt": 1635728860,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8648364,
+            "participants": [
+              {
+                "player": {
+                  "id": 323132,
+                  "gamerTag": "JC"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8644556,
+            "participants": [
+              {
+                "player": {
+                  "id": 1030030,
+                  "gamerTag": "DjShinySilver"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41949153,
+      "winnerId": 8648364,
+      "displayScore": "DQ",
+      "fullRoundText": "Round 3",
+      "round": 3,
+      "completedAt": 1635728843,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8636280,
+            "participants": [
+              {
+                "player": {
+                  "id": 2510049,
+                  "gamerTag": "Bongo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8648364,
+            "participants": [
+              {
+                "player": {
+                  "id": 323132,
+                  "gamerTag": "JC"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41949154,
+      "winnerId": 8648477,
+      "displayScore": "DQ",
+      "fullRoundText": "Round 3",
+      "round": 3,
+      "completedAt": 1635728812,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8648477,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8647942,
+            "participants": [
+              {
+                "player": {
+                  "id": 1129130,
+                  "gamerTag": "Mr.Peru"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41949151,
+      "winnerId": 8648477,
+      "displayScore": "DQ",
+      "fullRoundText": "Round 2",
+      "round": 2,
+      "completedAt": 1635728835,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8636280,
+            "participants": [
+              {
+                "player": {
+                  "id": 2510049,
+                  "gamerTag": "Bongo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8648477,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41949152,
+      "winnerId": 8644556,
+      "displayScore": "DQ",
+      "fullRoundText": "Round 2",
+      "round": 2,
+      "completedAt": 1635728795,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8644556,
+            "participants": [
+              {
+                "player": {
+                  "id": 1030030,
+                  "gamerTag": "DjShinySilver"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8647942,
+            "participants": [
+              {
+                "player": {
+                  "id": 1129130,
+                  "gamerTag": "Mr.Peru"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41949149,
+      "winnerId": 8648477,
+      "displayScore": "DQ",
+      "fullRoundText": "Round 1",
+      "round": 1,
+      "completedAt": 1635728828,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8644556,
+            "participants": [
+              {
+                "player": {
+                  "id": 1030030,
+                  "gamerTag": "DjShinySilver"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8648477,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41949150,
+      "winnerId": 8648364,
+      "displayScore": "DQ",
+      "fullRoundText": "Round 1",
+      "round": 1,
+      "completedAt": 1635728959,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8647942,
+            "participants": [
+              {
+                "player": {
+                  "id": 1129130,
+                  "gamerTag": "Mr.Peru"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8648364,
+            "participants": [
+              {
+                "player": {
+                  "id": 323132,
+                  "gamerTag": "JC"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 8648477,
+        "participants": [
+          {
+            "player": {
+              "id": 1007304,
+              "gamerTag": "Phorox"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 8648364,
+        "participants": [
+          {
+            "player": {
+              "id": 323132,
+              "gamerTag": "JC"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 8636280,
+        "participants": [
+          {
+            "player": {
+              "id": 2510049,
+              "gamerTag": "Bongo"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 8644556,
+        "participants": [
+          {
+            "player": {
+              "id": 1030030,
+              "gamerTag": "DjShinySilver"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 8647942,
+        "participants": [
+          {
+            "player": {
+              "id": 1129130,
+              "gamerTag": "Mr.Peru"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

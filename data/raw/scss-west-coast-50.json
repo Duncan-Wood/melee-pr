@@ -1,0 +1,1792 @@
+{
+  "slug": "tournament/scss-west-coast-50/event/melee-singles",
+  "event": {
+    "id": 690370,
+    "name": "Melee Singles",
+    "startAt": 1646616600,
+    "numEntrants": 16,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #50",
+      "slug": "tournament/scss-west-coast-50"
+    }
+  },
+  "sets": [
+    {
+      "id": 45185438,
+      "winnerId": 9474804,
+      "displayScore": "Hyruler 3 - CommonEnemy 0",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 6,
+      "completedAt": 1646623274,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9474804,
+            "participants": [
+              {
+                "player": {
+                  "id": 510480,
+                  "gamerTag": "Hyruler"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9474588,
+            "participants": [
+              {
+                "player": {
+                  "id": 1126165,
+                  "gamerTag": "CommonEnemy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185406,
+      "winnerId": 9471816,
+      "displayScore": "SubTails 3 - Phorox 1",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1646625172,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9471816,
+            "participants": [
+              {
+                "player": {
+                  "id": 135091,
+                  "gamerTag": "SubTails"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9475197,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185405,
+      "winnerId": 9471816,
+      "displayScore": "BLM | RATS 0 - SubTails 3",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1646620812,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9476071,
+            "participants": [
+              {
+                "player": {
+                  "id": 264211,
+                  "gamerTag": "RATS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9471816,
+            "participants": [
+              {
+                "player": {
+                  "id": 135091,
+                  "gamerTag": "SubTails"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185437,
+      "winnerId": 9475197,
+      "displayScore": "BLM | RATS 1 - Phorox 3",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1646624202,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9476071,
+            "participants": [
+              {
+                "player": {
+                  "id": 264211,
+                  "gamerTag": "RATS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9475197,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185436,
+      "winnerId": 9475197,
+      "displayScore": "C | Horizon 0 - Phorox 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1646623203,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9475655,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9475197,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185403,
+      "winnerId": 9476071,
+      "displayScore": "BLM | RATS 3 - CommonEnemy 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1646619750,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9476071,
+            "participants": [
+              {
+                "player": {
+                  "id": 264211,
+                  "gamerTag": "RATS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9474588,
+            "participants": [
+              {
+                "player": {
+                  "id": 1126165,
+                  "gamerTag": "CommonEnemy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185404,
+      "winnerId": 9471816,
+      "displayScore": "SubTails 3 - Phorox 1",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1646620135,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9471816,
+            "participants": [
+              {
+                "player": {
+                  "id": 135091,
+                  "gamerTag": "SubTails"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9475197,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185434,
+      "winnerId": 9475655,
+      "displayScore": "CommonEnemy 1 - C | Horizon 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1646622452,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9474588,
+            "participants": [
+              {
+                "player": {
+                  "id": 1126165,
+                  "gamerTag": "CommonEnemy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9475655,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185435,
+      "winnerId": 9475197,
+      "displayScore": "Phorox 3 - Hyruler 1",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1646622512,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9475197,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9474804,
+            "participants": [
+              {
+                "player": {
+                  "id": 510480,
+                  "gamerTag": "Hyruler"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185433,
+      "winnerId": 9474804,
+      "displayScore": "Dads 0 - Hyruler 3",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1646621352,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9475177,
+            "participants": [
+              {
+                "player": {
+                  "id": 10375,
+                  "gamerTag": "Dads"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9474804,
+            "participants": [
+              {
+                "player": {
+                  "id": 510480,
+                  "gamerTag": "Hyruler"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185432,
+      "winnerId": 9475655,
+      "displayScore": "C | Horizon 3 - Help 0",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1646621174,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9475655,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9463715,
+            "participants": [
+              {
+                "player": {
+                  "id": 13765,
+                  "gamerTag": "Help"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185399,
+      "winnerId": 9476071,
+      "displayScore": "BLM | RATS 3 - Hyruler 2",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1646618999,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9476071,
+            "participants": [
+              {
+                "player": {
+                  "id": 264211,
+                  "gamerTag": "RATS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9474804,
+            "participants": [
+              {
+                "player": {
+                  "id": 510480,
+                  "gamerTag": "Hyruler"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185400,
+      "winnerId": 9474588,
+      "displayScore": "Dads 0 - CommonEnemy 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1646618820,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9475177,
+            "participants": [
+              {
+                "player": {
+                  "id": 10375,
+                  "gamerTag": "Dads"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9474588,
+            "participants": [
+              {
+                "player": {
+                  "id": 1126165,
+                  "gamerTag": "CommonEnemy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185401,
+      "winnerId": 9471816,
+      "displayScore": "SubTails 3 - Help 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1646618374,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9471816,
+            "participants": [
+              {
+                "player": {
+                  "id": 135091,
+                  "gamerTag": "SubTails"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9463715,
+            "participants": [
+              {
+                "player": {
+                  "id": 13765,
+                  "gamerTag": "Help"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185402,
+      "winnerId": 9475197,
+      "displayScore": "Phorox 3 - C | Horizon 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1646618952,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9475197,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9475655,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185428,
+      "winnerId": 9475655,
+      "displayScore": "C | Horizon 3 - DMA 2",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1646620279,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9475655,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9475644,
+            "participants": [
+              {
+                "player": {
+                  "id": 312911,
+                  "gamerTag": "DMA"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185429,
+      "winnerId": 9463715,
+      "displayScore": "Help 3 - t0tal90 2",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1646619856,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9463715,
+            "participants": [
+              {
+                "player": {
+                  "id": 13765,
+                  "gamerTag": "Help"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9474283,
+            "participants": [
+              {
+                "player": {
+                  "id": 1881044,
+                  "gamerTag": "t0tal90"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185430,
+      "winnerId": 9475177,
+      "displayScore": "Dads 3 - Unlicensed Car Salesman 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1646619721,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9475177,
+            "participants": [
+              {
+                "player": {
+                  "id": 10375,
+                  "gamerTag": "Dads"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9463599,
+            "participants": [
+              {
+                "player": {
+                  "id": 2593867,
+                  "gamerTag": "Unlicensed Car Salesman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185431,
+      "winnerId": 9474804,
+      "displayScore": "Hyruler 3 - Bangs 1",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1646620608,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9474804,
+            "participants": [
+              {
+                "player": {
+                  "id": 510480,
+                  "gamerTag": "Hyruler"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9463223,
+            "participants": [
+              {
+                "player": {
+                  "id": 18632,
+                  "gamerTag": "Bangs"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185424,
+      "winnerId": 9475644,
+      "displayScore": "smilob 0 - DMA 3",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1646618529,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9465451,
+            "participants": [
+              {
+                "player": {
+                  "id": 2678758,
+                  "gamerTag": "smilob"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9475644,
+            "participants": [
+              {
+                "player": {
+                  "id": 312911,
+                  "gamerTag": "DMA"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185425,
+      "winnerId": 9474283,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1646618588,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9474205,
+            "participants": [
+              {
+                "player": {
+                  "id": 523889,
+                  "gamerTag": "Dealer"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9474283,
+            "participants": [
+              {
+                "player": {
+                  "id": 1881044,
+                  "gamerTag": "t0tal90"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185426,
+      "winnerId": 9463599,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1646618246,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9463599,
+            "participants": [
+              {
+                "player": {
+                  "id": 2593867,
+                  "gamerTag": "Unlicensed Car Salesman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9474184,
+            "participants": [
+              {
+                "player": {
+                  "id": 725508,
+                  "gamerTag": "Megacaat"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185427,
+      "winnerId": 9463223,
+      "displayScore": "shoegayze 2 - Bangs 3",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1646619593,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9474940,
+            "participants": [
+              {
+                "player": {
+                  "id": 1185098,
+                  "gamerTag": "bleh"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9463223,
+            "participants": [
+              {
+                "player": {
+                  "id": 18632,
+                  "gamerTag": "Bangs"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185391,
+      "winnerId": 9476071,
+      "displayScore": "BLM | RATS 3 - smilob 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1646617533,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9476071,
+            "participants": [
+              {
+                "player": {
+                  "id": 264211,
+                  "gamerTag": "RATS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9465451,
+            "participants": [
+              {
+                "player": {
+                  "id": 2678758,
+                  "gamerTag": "smilob"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185392,
+      "winnerId": 9474804,
+      "displayScore": "Hyruler 3 - DMA 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1646617646,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9474804,
+            "participants": [
+              {
+                "player": {
+                  "id": 510480,
+                  "gamerTag": "Hyruler"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9475644,
+            "participants": [
+              {
+                "player": {
+                  "id": 312911,
+                  "gamerTag": "DMA"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185393,
+      "winnerId": 9475177,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1646617337,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9474205,
+            "participants": [
+              {
+                "player": {
+                  "id": 523889,
+                  "gamerTag": "Dealer"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9475177,
+            "participants": [
+              {
+                "player": {
+                  "id": 10375,
+                  "gamerTag": "Dads"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185394,
+      "winnerId": 9474588,
+      "displayScore": "t0tal90 2 - CommonEnemy 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1646617969,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9474283,
+            "participants": [
+              {
+                "player": {
+                  "id": 1881044,
+                  "gamerTag": "t0tal90"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9474588,
+            "participants": [
+              {
+                "player": {
+                  "id": 1126165,
+                  "gamerTag": "CommonEnemy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185395,
+      "winnerId": 9471816,
+      "displayScore": "SubTails 3 - Unlicensed Car Salesman 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1646617628,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9471816,
+            "participants": [
+              {
+                "player": {
+                  "id": 135091,
+                  "gamerTag": "SubTails"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9463599,
+            "participants": [
+              {
+                "player": {
+                  "id": 2593867,
+                  "gamerTag": "Unlicensed Car Salesman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185396,
+      "winnerId": 9463715,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1646617337,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9463715,
+            "participants": [
+              {
+                "player": {
+                  "id": 13765,
+                  "gamerTag": "Help"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9474184,
+            "participants": [
+              {
+                "player": {
+                  "id": 725508,
+                  "gamerTag": "Megacaat"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185397,
+      "winnerId": 9475197,
+      "displayScore": "Phorox 3 - shoegayze 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1646617986,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9475197,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9474940,
+            "participants": [
+              {
+                "player": {
+                  "id": 1185098,
+                  "gamerTag": "bleh"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45185398,
+      "winnerId": 9475655,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1646617337,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9475655,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9463223,
+            "participants": [
+              {
+                "player": {
+                  "id": 18632,
+                  "gamerTag": "Bangs"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 9471816,
+        "participants": [
+          {
+            "player": {
+              "id": 135091,
+              "gamerTag": "SubTails"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 9475197,
+        "participants": [
+          {
+            "player": {
+              "id": 1007304,
+              "gamerTag": "Phorox"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 9476071,
+        "participants": [
+          {
+            "player": {
+              "id": 264211,
+              "gamerTag": "RATS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 9475655,
+        "participants": [
+          {
+            "player": {
+              "id": 1453020,
+              "gamerTag": "spliffy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 9474804,
+        "participants": [
+          {
+            "player": {
+              "id": 510480,
+              "gamerTag": "Hyruler"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 9474588,
+        "participants": [
+          {
+            "player": {
+              "id": 1126165,
+              "gamerTag": "CommonEnemy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 9475177,
+        "participants": [
+          {
+            "player": {
+              "id": 10375,
+              "gamerTag": "Dads"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 9463715,
+        "participants": [
+          {
+            "player": {
+              "id": 13765,
+              "gamerTag": "Help"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 9475644,
+        "participants": [
+          {
+            "player": {
+              "id": 312911,
+              "gamerTag": "DMA"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 9474283,
+        "participants": [
+          {
+            "player": {
+              "id": 1881044,
+              "gamerTag": "t0tal90"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 9463599,
+        "participants": [
+          {
+            "player": {
+              "id": 2593867,
+              "gamerTag": "Unlicensed Car Salesman"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 9463223,
+        "participants": [
+          {
+            "player": {
+              "id": 18632,
+              "gamerTag": "Bangs"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 9465451,
+        "participants": [
+          {
+            "player": {
+              "id": 2678758,
+              "gamerTag": "smilob"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 9474205,
+        "participants": [
+          {
+            "player": {
+              "id": 523889,
+              "gamerTag": "Dealer"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 9474184,
+        "participants": [
+          {
+            "player": {
+              "id": 725508,
+              "gamerTag": "Megacaat"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 9474940,
+        "participants": [
+          {
+            "player": {
+              "id": 1185098,
+              "gamerTag": "bleh"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

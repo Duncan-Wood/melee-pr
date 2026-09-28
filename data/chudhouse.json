@@ -1,5 +1,6 @@
 {
   "name": "CHUD HOUSE",
+  "defaults": {},
   "events": [
     {
       "slug": "tournament/open-house/event/melee-singles",

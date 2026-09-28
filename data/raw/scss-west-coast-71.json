@@ -1,0 +1,1614 @@
+{
+  "slug": "tournament/scss-west-coast-71/event/melee-singles",
+  "event": {
+    "id": 762711,
+    "name": "Melee Singles",
+    "startAt": 1659918600,
+    "numEntrants": 14,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #71",
+      "slug": "tournament/scss-west-coast-71"
+    }
+  },
+  "sets": [
+    {
+      "id": 50489677,
+      "winnerId": 10780034,
+      "displayScore": "DQ",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 6,
+      "completedAt": 1659924853,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10780034,
+            "participants": [
+              {
+                "player": {
+                  "id": 881645,
+                  "gamerTag": "Janks"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10780352,
+            "participants": [
+              {
+                "player": {
+                  "id": 456174,
+                  "gamerTag": "Flop"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489645,
+      "winnerId": 10780517,
+      "displayScore": "Hard Reid 2 - DD 3",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1659927610,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10779938,
+            "participants": [
+              {
+                "player": {
+                  "id": 1223424,
+                  "gamerTag": "Hard Reid"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10780517,
+            "participants": [
+              {
+                "player": {
+                  "id": 10485,
+                  "gamerTag": "DayDream"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489646,
+      "winnerId": 10780517,
+      "displayScore": "DD 3 - Hard Reid 0",
+      "fullRoundText": "Grand Final Reset",
+      "round": 5,
+      "completedAt": 1659928070,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10780517,
+            "participants": [
+              {
+                "player": {
+                  "id": 10485,
+                  "gamerTag": "DayDream"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10779938,
+            "participants": [
+              {
+                "player": {
+                  "id": 1223424,
+                  "gamerTag": "Hard Reid"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489644,
+      "winnerId": 10779938,
+      "displayScore": "68g | poverty 1 - Hard Reid 3",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1659922997,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10773829,
+            "participants": [
+              {
+                "player": {
+                  "id": 32198,
+                  "gamerTag": "povertyy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10779938,
+            "participants": [
+              {
+                "player": {
+                  "id": 1223424,
+                  "gamerTag": "Hard Reid"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489676,
+      "winnerId": 10780517,
+      "displayScore": "68g | poverty 1 - DD 3",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1659926449,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10773829,
+            "participants": [
+              {
+                "player": {
+                  "id": 32198,
+                  "gamerTag": "povertyy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10780517,
+            "participants": [
+              {
+                "player": {
+                  "id": 10485,
+                  "gamerTag": "DayDream"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489675,
+      "winnerId": 10780517,
+      "displayScore": "THIQ#306 | Cassettetape 2 - DD 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1659925533,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10779688,
+            "participants": [
+              {
+                "player": {
+                  "id": 232854,
+                  "gamerTag": "Cassettetape (fox)"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10780517,
+            "participants": [
+              {
+                "player": {
+                  "id": 10485,
+                  "gamerTag": "DayDream"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489642,
+      "winnerId": 10773829,
+      "displayScore": "68g | poverty 3 - Flop 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1659920962,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10773829,
+            "participants": [
+              {
+                "player": {
+                  "id": 32198,
+                  "gamerTag": "povertyy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10780352,
+            "participants": [
+              {
+                "player": {
+                  "id": 456174,
+                  "gamerTag": "Flop"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489643,
+      "winnerId": 10779938,
+      "displayScore": "Hard Reid 3 - Jack 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1659921658,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10779938,
+            "participants": [
+              {
+                "player": {
+                  "id": 1223424,
+                  "gamerTag": "Hard Reid"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10780034,
+            "participants": [
+              {
+                "player": {
+                  "id": 881645,
+                  "gamerTag": "Janks"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489673,
+      "winnerId": 10779688,
+      "displayScore": "Flop 0 - THIQ#306 | Cassettetape 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1659924186,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10780352,
+            "participants": [
+              {
+                "player": {
+                  "id": 456174,
+                  "gamerTag": "Flop"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10779688,
+            "participants": [
+              {
+                "player": {
+                  "id": 232854,
+                  "gamerTag": "Cassettetape (fox)"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489674,
+      "winnerId": 10780517,
+      "displayScore": "Jack 0 - DD 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1659923485,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10780034,
+            "participants": [
+              {
+                "player": {
+                  "id": 881645,
+                  "gamerTag": "Janks"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10780517,
+            "participants": [
+              {
+                "player": {
+                  "id": 10485,
+                  "gamerTag": "DayDream"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489671,
+      "winnerId": 10779688,
+      "displayScore": "BEBO 0 - THIQ#306 | Cassettetape 3",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1659923472,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10780537,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10779688,
+            "participants": [
+              {
+                "player": {
+                  "id": 232854,
+                  "gamerTag": "Cassettetape (fox)"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489672,
+      "winnerId": 10780517,
+      "displayScore": "OnlyWireisGrab 0 - DD 3",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1659922552,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10779629,
+            "participants": [
+              {
+                "player": {
+                  "id": 627911,
+                  "gamerTag": "OnlyWireisGrab"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10780517,
+            "participants": [
+              {
+                "player": {
+                  "id": 10485,
+                  "gamerTag": "DayDream"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489638,
+      "winnerId": 10773829,
+      "displayScore": "DD 0 - 68g | poverty 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1659920263,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10780517,
+            "participants": [
+              {
+                "player": {
+                  "id": 10485,
+                  "gamerTag": "DayDream"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10773829,
+            "participants": [
+              {
+                "player": {
+                  "id": 32198,
+                  "gamerTag": "povertyy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489639,
+      "winnerId": 10780352,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1659919932,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10778342,
+            "participants": [
+              {
+                "player": {
+                  "id": 47501,
+                  "gamerTag": "Wockhard"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10780352,
+            "participants": [
+              {
+                "player": {
+                  "id": 456174,
+                  "gamerTag": "Flop"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489640,
+      "winnerId": 10779938,
+      "displayScore": "Hard Reid 3 - THIQ#306 | Cassettetape 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1659920230,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10779938,
+            "participants": [
+              {
+                "player": {
+                  "id": 1223424,
+                  "gamerTag": "Hard Reid"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10779688,
+            "participants": [
+              {
+                "player": {
+                  "id": 232854,
+                  "gamerTag": "Cassettetape (fox)"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489641,
+      "winnerId": 10780034,
+      "displayScore": "Jack 3 - BEBO 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1659920998,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10780034,
+            "participants": [
+              {
+                "player": {
+                  "id": 881645,
+                  "gamerTag": "Janks"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10780537,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489667,
+      "winnerId": 10780537,
+      "displayScore": "BEBO 3 - Dads 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1659921844,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10780537,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10780367,
+            "participants": [
+              {
+                "player": {
+                  "id": 10375,
+                  "gamerTag": "Dads"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489668,
+      "winnerId": 10779688,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1659920899,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10779688,
+            "participants": [
+              {
+                "player": {
+                  "id": 232854,
+                  "gamerTag": "Cassettetape (fox)"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10772212,
+            "participants": [
+              {
+                "player": {
+                  "id": 2439707,
+                  "gamerTag": "LadiesMan217"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489669,
+      "winnerId": 10779629,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1659920596,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10778342,
+            "participants": [
+              {
+                "player": {
+                  "id": 47501,
+                  "gamerTag": "Wockhard"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10779629,
+            "participants": [
+              {
+                "player": {
+                  "id": 627911,
+                  "gamerTag": "OnlyWireisGrab"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489670,
+      "winnerId": 10780517,
+      "displayScore": "DD 3 - Souppdog 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1659921736,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10780517,
+            "participants": [
+              {
+                "player": {
+                  "id": 10485,
+                  "gamerTag": "DayDream"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10778426,
+            "participants": [
+              {
+                "player": {
+                  "id": 545243,
+                  "gamerTag": "Catbeer"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489664,
+      "winnerId": 10772212,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1659919932,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10772212,
+            "participants": [
+              {
+                "player": {
+                  "id": 2439707,
+                  "gamerTag": "LadiesMan217"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10773709,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489666,
+      "winnerId": 10778426,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1659920532,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10778426,
+            "participants": [
+              {
+                "player": {
+                  "id": 545243,
+                  "gamerTag": "Catbeer"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10775627,
+            "participants": [
+              {
+                "player": {
+                  "id": 2613117,
+                  "gamerTag": "Price"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489631,
+      "winnerId": 10773829,
+      "displayScore": "68g | poverty 3 - Dads 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1659919276,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10773829,
+            "participants": [
+              {
+                "player": {
+                  "id": 32198,
+                  "gamerTag": "povertyy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10780367,
+            "participants": [
+              {
+                "player": {
+                  "id": 10375,
+                  "gamerTag": "Dads"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489632,
+      "winnerId": 10778342,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1659919273,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10778342,
+            "participants": [
+              {
+                "player": {
+                  "id": 47501,
+                  "gamerTag": "Wockhard"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10772212,
+            "participants": [
+              {
+                "player": {
+                  "id": 2439707,
+                  "gamerTag": "LadiesMan217"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489633,
+      "winnerId": 10780352,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1659919273,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10773709,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10780352,
+            "participants": [
+              {
+                "player": {
+                  "id": 456174,
+                  "gamerTag": "Flop"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489635,
+      "winnerId": 10779688,
+      "displayScore": "THIQ#306 | Cassettetape 3 - OnlyWireisGrab 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1659919436,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10779688,
+            "participants": [
+              {
+                "player": {
+                  "id": 232854,
+                  "gamerTag": "Cassettetape (fox)"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10779629,
+            "participants": [
+              {
+                "player": {
+                  "id": 627911,
+                  "gamerTag": "OnlyWireisGrab"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489636,
+      "winnerId": 10780034,
+      "displayScore": "Jack 3 - Souppdog 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1659919926,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10780034,
+            "participants": [
+              {
+                "player": {
+                  "id": 881645,
+                  "gamerTag": "Janks"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10778426,
+            "participants": [
+              {
+                "player": {
+                  "id": 545243,
+                  "gamerTag": "Catbeer"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 50489637,
+      "winnerId": 10780537,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1659919273,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10775627,
+            "participants": [
+              {
+                "player": {
+                  "id": 2613117,
+                  "gamerTag": "Price"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10780537,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 10780517,
+        "participants": [
+          {
+            "player": {
+              "id": 10485,
+              "gamerTag": "DayDream"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 10779938,
+        "participants": [
+          {
+            "player": {
+              "id": 1223424,
+              "gamerTag": "Hard Reid"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 10773829,
+        "participants": [
+          {
+            "player": {
+              "id": 32198,
+              "gamerTag": "povertyy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 10779688,
+        "participants": [
+          {
+            "player": {
+              "id": 232854,
+              "gamerTag": "Cassettetape (fox)"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 10780034,
+        "participants": [
+          {
+            "player": {
+              "id": 881645,
+              "gamerTag": "Janks"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 10780352,
+        "participants": [
+          {
+            "player": {
+              "id": 456174,
+              "gamerTag": "Flop"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 10779629,
+        "participants": [
+          {
+            "player": {
+              "id": 627911,
+              "gamerTag": "OnlyWireisGrab"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 10780537,
+        "participants": [
+          {
+            "player": {
+              "id": 360229,
+              "gamerTag": "BEBO"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 10780367,
+        "participants": [
+          {
+            "player": {
+              "id": 10375,
+              "gamerTag": "Dads"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 10778342,
+        "participants": [
+          {
+            "player": {
+              "id": 47501,
+              "gamerTag": "Wockhard"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 10772212,
+        "participants": [
+          {
+            "player": {
+              "id": 2439707,
+              "gamerTag": "LadiesMan217"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 10778426,
+        "participants": [
+          {
+            "player": {
+              "id": 545243,
+              "gamerTag": "Catbeer"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 10773709,
+        "participants": [
+          {
+            "player": {
+              "id": 2156106,
+              "gamerTag": "Nukelele"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 10775627,
+        "participants": [
+          {
+            "player": {
+              "id": 2613117,
+              "gamerTag": "Price"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "tournament/scss-west-coast-91/event/melee-singles",
+  "event": {
+    "id": 843324,
+    "name": "Melee Singles",
+    "startAt": 1673832600,
+    "numEntrants": 2,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #91",
+      "slug": "tournament/scss-west-coast-91"
+    }
+  },
+  "sets": [
+    {
+      "id": 55931718,
+      "winnerId": 12073705,
+      "displayScore": "DQ",
+      "fullRoundText": "Grand Final",
+      "round": 2,
+      "completedAt": 1673833748,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12073705,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12071034,
+            "participants": [
+              {
+                "player": {
+                  "id": 1938076,
+                  "gamerTag": "Froot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55931717,
+      "winnerId": 12073705,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Final",
+      "round": 1,
+      "completedAt": 1673833215,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12073705,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12071034,
+            "participants": [
+              {
+                "player": {
+                  "id": 1938076,
+                  "gamerTag": "Froot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 12073705,
+        "participants": [
+          {
+            "player": {
+              "id": 2156106,
+              "gamerTag": "Nukelele"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 12071034,
+        "participants": [
+          {
+            "player": {
+              "id": 1938076,
+              "gamerTag": "Froot"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

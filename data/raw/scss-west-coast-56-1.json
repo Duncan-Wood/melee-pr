@@ -1,0 +1,1158 @@
+{
+  "slug": "tournament/scss-west-coast-56-1/event/melee-singles",
+  "event": {
+    "id": 710148,
+    "name": "Melee Singles",
+    "startAt": 1650846600,
+    "numEntrants": 10,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #56",
+      "slug": "tournament/scss-west-coast-56-1"
+    }
+  },
+  "sets": [
+    {
+      "id": 46706172,
+      "winnerId": 9865856,
+      "displayScore": "DQ",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 6,
+      "completedAt": 1650852568,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9866975,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9865856,
+            "participants": [
+              {
+                "player": {
+                  "id": 155147,
+                  "gamerTag": "hexmyheaven"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706140,
+      "winnerId": 9867443,
+      "displayScore": "INDY 0 - Phorox 3",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1650854662,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9867322,
+            "participants": [
+              {
+                "player": {
+                  "id": 37865,
+                  "gamerTag": "INDY"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9867443,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706141,
+      "winnerId": 9867443,
+      "displayScore": "Phorox 3 - INDY 0",
+      "fullRoundText": "Grand Final Reset",
+      "round": 5,
+      "completedAt": 1650855510,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9867443,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9867322,
+            "participants": [
+              {
+                "player": {
+                  "id": 37865,
+                  "gamerTag": "INDY"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706139,
+      "winnerId": 9867322,
+      "displayScore": "Phorox 2 - INDY 3",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1650852011,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9867443,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9867322,
+            "participants": [
+              {
+                "player": {
+                  "id": 37865,
+                  "gamerTag": "INDY"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706171,
+      "winnerId": 9867443,
+      "displayScore": "Phorox 3 - kiko 2",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1650853931,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9867443,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9867639,
+            "participants": [
+              {
+                "player": {
+                  "id": 171821,
+                  "gamerTag": "kiko"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706170,
+      "winnerId": 9867639,
+      "displayScore": "kiko 3 - Nukelele 1",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1650852844,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9867639,
+            "participants": [
+              {
+                "player": {
+                  "id": 171821,
+                  "gamerTag": "kiko"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9867511,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706137,
+      "winnerId": 9867443,
+      "displayScore": "Phorox 3 - kiko 1",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1650850676,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9867443,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9867639,
+            "participants": [
+              {
+                "player": {
+                  "id": 171821,
+                  "gamerTag": "kiko"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706138,
+      "winnerId": 9867322,
+      "displayScore": "INDY 3 - C | Horizon 2",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1650850114,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9867322,
+            "participants": [
+              {
+                "player": {
+                  "id": 37865,
+                  "gamerTag": "INDY"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9866975,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706168,
+      "winnerId": 9867639,
+      "displayScore": "kiko 3 - nina | JustAddLogic 2",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1650851936,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9867639,
+            "participants": [
+              {
+                "player": {
+                  "id": 171821,
+                  "gamerTag": "kiko"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9865856,
+            "participants": [
+              {
+                "player": {
+                  "id": 155147,
+                  "gamerTag": "hexmyheaven"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706169,
+      "winnerId": 9867511,
+      "displayScore": "C | Horizon 2 - Nukelele 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1650851587,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9866975,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9867511,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706166,
+      "winnerId": 9865856,
+      "displayScore": "Smoo 2 - nina | JustAddLogic 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1650850607,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9867385,
+            "participants": [
+              {
+                "player": {
+                  "id": 689284,
+                  "gamerTag": "Smoo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9865856,
+            "participants": [
+              {
+                "player": {
+                  "id": 155147,
+                  "gamerTag": "hexmyheaven"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706167,
+      "winnerId": 9867511,
+      "displayScore": "Nukelele 3 - moi 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1650850344,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9867511,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9866672,
+            "participants": [
+              {
+                "player": {
+                  "id": 500697,
+                  "gamerTag": "moi"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706133,
+      "winnerId": 9867443,
+      "displayScore": "Phorox 3 - moi 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1650849309,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9867443,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9866672,
+            "participants": [
+              {
+                "player": {
+                  "id": 500697,
+                  "gamerTag": "moi"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706134,
+      "winnerId": 9867639,
+      "displayScore": "kiko 3 - Nukelele 2",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1650847971,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9867639,
+            "participants": [
+              {
+                "player": {
+                  "id": 171821,
+                  "gamerTag": "kiko"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9867511,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706135,
+      "winnerId": 9867322,
+      "displayScore": "INDY 3 - nina | JustAddLogic 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1650848593,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9867322,
+            "participants": [
+              {
+                "player": {
+                  "id": 37865,
+                  "gamerTag": "INDY"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9865856,
+            "participants": [
+              {
+                "player": {
+                  "id": 155147,
+                  "gamerTag": "hexmyheaven"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706136,
+      "winnerId": 9866975,
+      "displayScore": "C | Horizon 3 - Smoo 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1650847666,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9866975,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9867385,
+            "participants": [
+              {
+                "player": {
+                  "id": 689284,
+                  "gamerTag": "Smoo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706162,
+      "winnerId": 9867385,
+      "displayScore": "Smoo 3 - Asada 1",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1650849509,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9867385,
+            "participants": [
+              {
+                "player": {
+                  "id": 689284,
+                  "gamerTag": "Smoo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9867205,
+            "participants": [
+              {
+                "player": {
+                  "id": 285312,
+                  "gamerTag": "Asada"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706164,
+      "winnerId": 9867511,
+      "displayScore": "Nukelele 3 - OxC | smilob 0",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1650848959,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9867511,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9867369,
+            "participants": [
+              {
+                "player": {
+                  "id": 2678758,
+                  "gamerTag": "smilob"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706126,
+      "winnerId": 9866672,
+      "displayScore": "moi 3 - Asada 2",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1650848263,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9866672,
+            "participants": [
+              {
+                "player": {
+                  "id": 500697,
+                  "gamerTag": "moi"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9867205,
+            "participants": [
+              {
+                "player": {
+                  "id": 285312,
+                  "gamerTag": "Asada"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 46706130,
+      "winnerId": 9865856,
+      "displayScore": "nina | JustAddLogic 3 - OxC | smilob 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1650847680,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9865856,
+            "participants": [
+              {
+                "player": {
+                  "id": 155147,
+                  "gamerTag": "hexmyheaven"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9867369,
+            "participants": [
+              {
+                "player": {
+                  "id": 2678758,
+                  "gamerTag": "smilob"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 9867443,
+        "participants": [
+          {
+            "player": {
+              "id": 1007304,
+              "gamerTag": "Phorox"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 9867322,
+        "participants": [
+          {
+            "player": {
+              "id": 37865,
+              "gamerTag": "INDY"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 9867639,
+        "participants": [
+          {
+            "player": {
+              "id": 171821,
+              "gamerTag": "kiko"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 9867511,
+        "participants": [
+          {
+            "player": {
+              "id": 2156106,
+              "gamerTag": "Nukelele"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 9865856,
+        "participants": [
+          {
+            "player": {
+              "id": 155147,
+              "gamerTag": "hexmyheaven"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 9866975,
+        "participants": [
+          {
+            "player": {
+              "id": 1453020,
+              "gamerTag": "spliffy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 9866672,
+        "participants": [
+          {
+            "player": {
+              "id": 500697,
+              "gamerTag": "moi"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 9867385,
+        "participants": [
+          {
+            "player": {
+              "id": 689284,
+              "gamerTag": "Smoo"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 9867205,
+        "participants": [
+          {
+            "player": {
+              "id": 285312,
+              "gamerTag": "Asada"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 9867369,
+        "participants": [
+          {
+            "player": {
+              "id": 2678758,
+              "gamerTag": "smilob"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

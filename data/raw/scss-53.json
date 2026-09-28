@@ -1,0 +1,1272 @@
+{
+  "slug": "tournament/scss-53/event/scss-singles",
+  "event": {
+    "id": 664661,
+    "name": "SCSS Singles",
+    "startAt": 1641169800,
+    "numEntrants": 11,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS #53",
+      "slug": "tournament/scss-53"
+    }
+  },
+  "sets": [
+    {
+      "id": 43504463,
+      "winnerId": 9034808,
+      "displayScore": "DQ",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 6,
+      "completedAt": 1641174510,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9034808,
+            "participants": [
+              {
+                "player": {
+                  "id": 1194651,
+                  "gamerTag": "Pound"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9036495,
+            "participants": [
+              {
+                "player": {
+                  "id": 224897,
+                  "gamerTag": "Brodyn"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504431,
+      "winnerId": 9036590,
+      "displayScore": "swaggerbee 0 - Epoodle 3",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1641176166,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036252,
+            "participants": [
+              {
+                "player": {
+                  "id": 1687384,
+                  "gamerTag": "swaggerbee"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9036590,
+            "participants": [
+              {
+                "player": {
+                  "id": 1375808,
+                  "gamerTag": "Epoodle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504432,
+      "winnerId": 9036590,
+      "displayScore": "Epoodle 3 - swaggerbee 1",
+      "fullRoundText": "Grand Final Reset",
+      "round": 5,
+      "completedAt": 1641177334,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036590,
+            "participants": [
+              {
+                "player": {
+                  "id": 1375808,
+                  "gamerTag": "Epoodle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9036252,
+            "participants": [
+              {
+                "player": {
+                  "id": 1687384,
+                  "gamerTag": "swaggerbee"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504430,
+      "winnerId": 9036252,
+      "displayScore": "swaggerbee 3 - Drio 2",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1641173670,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036252,
+            "participants": [
+              {
+                "player": {
+                  "id": 1687384,
+                  "gamerTag": "swaggerbee"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9036190,
+            "participants": [
+              {
+                "player": {
+                  "id": 2133183,
+                  "gamerTag": "Drio"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504462,
+      "winnerId": 9036590,
+      "displayScore": "Drio 2 - Epoodle 3",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1641175059,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036190,
+            "participants": [
+              {
+                "player": {
+                  "id": 2133183,
+                  "gamerTag": "Drio"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9036590,
+            "participants": [
+              {
+                "player": {
+                  "id": 1375808,
+                  "gamerTag": "Epoodle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504461,
+      "winnerId": 9036590,
+      "displayScore": "Maui 0 - Epoodle 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1641173976,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036333,
+            "participants": [
+              {
+                "player": {
+                  "id": 220438,
+                  "gamerTag": "FAT COW"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9036590,
+            "participants": [
+              {
+                "player": {
+                  "id": 1375808,
+                  "gamerTag": "Epoodle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504428,
+      "winnerId": 9036252,
+      "displayScore": "Brodyn 0 - swaggerbee 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1641172259,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036495,
+            "participants": [
+              {
+                "player": {
+                  "id": 224897,
+                  "gamerTag": "Brodyn"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9036252,
+            "participants": [
+              {
+                "player": {
+                  "id": 1687384,
+                  "gamerTag": "swaggerbee"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504429,
+      "winnerId": 9036190,
+      "displayScore": "Epoodle 0 - Drio 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1641171978,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036590,
+            "participants": [
+              {
+                "player": {
+                  "id": 1375808,
+                  "gamerTag": "Epoodle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9036190,
+            "participants": [
+              {
+                "player": {
+                  "id": 2133183,
+                  "gamerTag": "Drio"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504459,
+      "winnerId": 9036333,
+      "displayScore": "Brodyn 0 - Maui 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1641173285,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036495,
+            "participants": [
+              {
+                "player": {
+                  "id": 224897,
+                  "gamerTag": "Brodyn"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9036333,
+            "participants": [
+              {
+                "player": {
+                  "id": 220438,
+                  "gamerTag": "FAT COW"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504460,
+      "winnerId": 9036590,
+      "displayScore": "Epoodle 3 - gsm | Pound 1",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1641173187,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036590,
+            "participants": [
+              {
+                "player": {
+                  "id": 1375808,
+                  "gamerTag": "Epoodle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9034808,
+            "participants": [
+              {
+                "player": {
+                  "id": 1194651,
+                  "gamerTag": "Pound"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504457,
+      "winnerId": 9036333,
+      "displayScore": "Maui 3 - phillyhoops 1",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1641172657,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036333,
+            "participants": [
+              {
+                "player": {
+                  "id": 220438,
+                  "gamerTag": "FAT COW"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9036406,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504458,
+      "winnerId": 9034808,
+      "displayScore": "gsm | Pound 3 - The Madman 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1641172466,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9034808,
+            "participants": [
+              {
+                "player": {
+                  "id": 1194651,
+                  "gamerTag": "Pound"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9034221,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504424,
+      "winnerId": 9036495,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1641171592,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036004,
+            "participants": [
+              {
+                "player": {
+                  "id": 7277,
+                  "gamerTag": "JSalt"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9036495,
+            "participants": [
+              {
+                "player": {
+                  "id": 224897,
+                  "gamerTag": "Brodyn"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504425,
+      "winnerId": 9036252,
+      "displayScore": "swaggerbee 3 - gsm | Pound 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1641170650,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036252,
+            "participants": [
+              {
+                "player": {
+                  "id": 1687384,
+                  "gamerTag": "swaggerbee"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9034808,
+            "participants": [
+              {
+                "player": {
+                  "id": 1194651,
+                  "gamerTag": "Pound"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504426,
+      "winnerId": 9036590,
+      "displayScore": "Epoodle 3 - phillyhoops 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1641171410,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036590,
+            "participants": [
+              {
+                "player": {
+                  "id": 1375808,
+                  "gamerTag": "Epoodle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9036406,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504427,
+      "winnerId": 9036190,
+      "displayScore": "Drio 3 - Maui 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1641171114,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036190,
+            "participants": [
+              {
+                "player": {
+                  "id": 2133183,
+                  "gamerTag": "Drio"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9036333,
+            "participants": [
+              {
+                "player": {
+                  "id": 220438,
+                  "gamerTag": "FAT COW"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504453,
+      "winnerId": 9036333,
+      "displayScore": "Maui 3 - CC_1759 0",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1641171821,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036333,
+            "participants": [
+              {
+                "player": {
+                  "id": 220438,
+                  "gamerTag": "FAT COW"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9034886,
+            "participants": [
+              {
+                "player": {
+                  "id": 2021151,
+                  "gamerTag": "CC_1759"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504455,
+      "winnerId": 9034808,
+      "displayScore": "gsm | Pound 3 - Azmu 0",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1641171646,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9034808,
+            "participants": [
+              {
+                "player": {
+                  "id": 1194651,
+                  "gamerTag": "Pound"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9036439,
+            "participants": [
+              {
+                "player": {
+                  "id": 2224205,
+                  "gamerTag": "Azmu"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504456,
+      "winnerId": 9034221,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1641171711,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036004,
+            "participants": [
+              {
+                "player": {
+                  "id": 7277,
+                  "gamerTag": "JSalt"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9034221,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504417,
+      "winnerId": 9036495,
+      "displayScore": "Brodyn 3 - CC_1759 1",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1641170798,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036495,
+            "participants": [
+              {
+                "player": {
+                  "id": 224897,
+                  "gamerTag": "Brodyn"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9034886,
+            "participants": [
+              {
+                "player": {
+                  "id": 2021151,
+                  "gamerTag": "CC_1759"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504421,
+      "winnerId": 9036406,
+      "displayScore": "phillyhoops 3 - Azmu 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1641170723,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036406,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9036439,
+            "participants": [
+              {
+                "player": {
+                  "id": 2224205,
+                  "gamerTag": "Azmu"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43504423,
+      "winnerId": 9036333,
+      "displayScore": "Maui 3 - The Madman 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1641170431,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9036333,
+            "participants": [
+              {
+                "player": {
+                  "id": 220438,
+                  "gamerTag": "FAT COW"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9034221,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 9036590,
+        "participants": [
+          {
+            "player": {
+              "id": 1375808,
+              "gamerTag": "Epoodle"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 9036252,
+        "participants": [
+          {
+            "player": {
+              "id": 1687384,
+              "gamerTag": "swaggerbee"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 9036190,
+        "participants": [
+          {
+            "player": {
+              "id": 2133183,
+              "gamerTag": "Drio"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 9036333,
+        "participants": [
+          {
+            "player": {
+              "id": 220438,
+              "gamerTag": "FAT COW"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 9034808,
+        "participants": [
+          {
+            "player": {
+              "id": 1194651,
+              "gamerTag": "Pound"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 9036495,
+        "participants": [
+          {
+            "player": {
+              "id": 224897,
+              "gamerTag": "Brodyn"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 9036406,
+        "participants": [
+          {
+            "player": {
+              "id": 1482652,
+              "gamerTag": "phillyhoops"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 9034221,
+        "participants": [
+          {
+            "player": {
+              "id": 2197580,
+              "gamerTag": "The Madman"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 9034886,
+        "participants": [
+          {
+            "player": {
+              "id": 2021151,
+              "gamerTag": "CC_1759"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 9036439,
+        "participants": [
+          {
+            "player": {
+              "id": 2224205,
+              "gamerTag": "Azmu"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 9036004,
+        "participants": [
+          {
+            "player": {
+              "id": 7277,
+              "gamerTag": "JSalt"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

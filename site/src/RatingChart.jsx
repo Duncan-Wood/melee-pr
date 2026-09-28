@@ -62,7 +62,7 @@ export default function RatingChart({ player, events, deviations }) {
         {band && <path className="chart-band" d={band} />}
         <path className="chart-line" d={line} />
         {points.filter((point) => point.placement).map((point) => (
-          <circle key={point.eventSlug} className={point.placement === 1 ? 'chart-dot chart-dot-won' : 'chart-dot'} cx={x(point.index)} cy={y(point.rating)} r="5" />
+          <circle key={point.eventSlug} className={point.placement === 1 ? 'chart-dot chart-dot-won' : 'chart-dot'} cx={x(point.index)} cy={y(point.rating)} r={(events.length > 40 ? 3 : 5) + (point.placement === 1 ? 2 : 0)} />
         ))}
         {hovered && <line className="chart-crosshair" x1={x(hovered.index)} x2={x(hovered.index)} y1={MARGIN.top} y2={MARGIN.top + plotHeight} />}
       </svg>
@@ -75,7 +75,7 @@ export default function RatingChart({ player, events, deviations }) {
         </div>
       )}
       <figcaption>
-        Rating after each counted event. Dots mark events they entered{points.some((point) => point.placement === 1) ? ', red dots are wins' : ''}.
+        Rating after each counted event. Dots mark events they entered{points.some((point) => point.placement === 1) ? ', and the larger, highlighted ones are wins' : ''}.
         {showBand ? ` The shaded band is the rating ± ${deviations}× uncertainty; its bottom edge is the PR score.` : ''}
       </figcaption>
     </figure>

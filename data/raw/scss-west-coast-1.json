@@ -1,0 +1,880 @@
+{
+  "slug": "tournament/scss-west-coast-1/event/scss-singles",
+  "event": {
+    "id": 558121,
+    "name": "SCSS Singles",
+    "startAt": 1615163400,
+    "numEntrants": 8,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast 1",
+      "slug": "tournament/scss-west-coast-1"
+    }
+  },
+  "sets": [
+    {
+      "id": 35825324,
+      "winnerId": 6972903,
+      "displayScore": "DQ",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 5,
+      "completedAt": 1615170369,
+      "slots": [
+        {
+          "entrant": {
+            "id": 6972903,
+            "participants": [
+              {
+                "player": {
+                  "id": 350387,
+                  "gamerTag": "A Wild Catsnake"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 6968850,
+            "participants": [
+              {
+                "player": {
+                  "id": 1918774,
+                  "gamerTag": "spookydascary"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 35825308,
+      "winnerId": 6941564,
+      "displayScore": "SitS 3 - Phorox 0",
+      "fullRoundText": "Grand Final",
+      "round": 4,
+      "completedAt": 1615170148,
+      "slots": [
+        {
+          "entrant": {
+            "id": 6941564,
+            "participants": [
+              {
+                "player": {
+                  "id": 664437,
+                  "gamerTag": "SitS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 6972908,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 35825307,
+      "winnerId": 6941564,
+      "displayScore": "SitS 3 - Phorox 0",
+      "fullRoundText": "Winners Final",
+      "round": 3,
+      "completedAt": 1615166802,
+      "slots": [
+        {
+          "entrant": {
+            "id": 6941564,
+            "participants": [
+              {
+                "player": {
+                  "id": 664437,
+                  "gamerTag": "SitS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 6972908,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 35825323,
+      "winnerId": 6972908,
+      "displayScore": "Phorox 3 - Spokane | Scarecrow 0",
+      "fullRoundText": "Losers Final",
+      "round": -6,
+      "completedAt": 1615169389,
+      "slots": [
+        {
+          "entrant": {
+            "id": 6972908,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 6972851,
+            "participants": [
+              {
+                "player": {
+                  "id": 23914,
+                  "gamerTag": "SizzleBlade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 35825322,
+      "winnerId": 6972851,
+      "displayScore": "Ginyu 0 - Spokane | Scarecrow 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -5,
+      "completedAt": 1615168528,
+      "slots": [
+        {
+          "entrant": {
+            "id": 6973086,
+            "participants": [
+              {
+                "player": {
+                  "id": 14486,
+                  "gamerTag": "Ginyu"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 6972851,
+            "participants": [
+              {
+                "player": {
+                  "id": 23914,
+                  "gamerTag": "SizzleBlade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 35825305,
+      "winnerId": 6941564,
+      "displayScore": "SitS 3 - Spokane | Scarecrow 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 2,
+      "completedAt": 1615165935,
+      "slots": [
+        {
+          "entrant": {
+            "id": 6941564,
+            "participants": [
+              {
+                "player": {
+                  "id": 664437,
+                  "gamerTag": "SitS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 6972851,
+            "participants": [
+              {
+                "player": {
+                  "id": 23914,
+                  "gamerTag": "SizzleBlade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 35825306,
+      "winnerId": 6972908,
+      "displayScore": "Phorox 3 - Gorgonzola 1",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 2,
+      "completedAt": 1615165609,
+      "slots": [
+        {
+          "entrant": {
+            "id": 6972908,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 6968850,
+            "participants": [
+              {
+                "player": {
+                  "id": 1918774,
+                  "gamerTag": "spookydascary"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 35825320,
+      "winnerId": 6973086,
+      "displayScore": "Gorgonzola 0 - Ginyu 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -4,
+      "completedAt": 1615167241,
+      "slots": [
+        {
+          "entrant": {
+            "id": 6968850,
+            "participants": [
+              {
+                "player": {
+                  "id": 1918774,
+                  "gamerTag": "spookydascary"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 6973086,
+            "participants": [
+              {
+                "player": {
+                  "id": 14486,
+                  "gamerTag": "Ginyu"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 35825321,
+      "winnerId": 6972851,
+      "displayScore": "Spokane | Scarecrow 3 - A Wild Catsnake 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -4,
+      "completedAt": 1615166629,
+      "slots": [
+        {
+          "entrant": {
+            "id": 6972851,
+            "participants": [
+              {
+                "player": {
+                  "id": 23914,
+                  "gamerTag": "SizzleBlade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 6972903,
+            "participants": [
+              {
+                "player": {
+                  "id": 350387,
+                  "gamerTag": "A Wild Catsnake"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 35825318,
+      "winnerId": 6973086,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1615165000,
+      "slots": [
+        {
+          "entrant": {
+            "id": 6973086,
+            "participants": [
+              {
+                "player": {
+                  "id": 14486,
+                  "gamerTag": "Ginyu"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 6972225,
+            "participants": [
+              {
+                "player": {
+                  "id": 170695,
+                  "gamerTag": "PalmChi"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 35825319,
+      "winnerId": 6972903,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1615164728,
+      "slots": [
+        {
+          "entrant": {
+            "id": 6972903,
+            "participants": [
+              {
+                "player": {
+                  "id": 350387,
+                  "gamerTag": "A Wild Catsnake"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 6972207,
+            "participants": [
+              {
+                "player": {
+                  "id": 617254,
+                  "gamerTag": "N8v"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 35825301,
+      "winnerId": 6941564,
+      "displayScore": "SitS 3 - Ginyu 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 1,
+      "completedAt": 1615164944,
+      "slots": [
+        {
+          "entrant": {
+            "id": 6941564,
+            "participants": [
+              {
+                "player": {
+                  "id": 664437,
+                  "gamerTag": "SitS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 6973086,
+            "participants": [
+              {
+                "player": {
+                  "id": 14486,
+                  "gamerTag": "Ginyu"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 35825302,
+      "winnerId": 6972851,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 1,
+      "completedAt": 1615164415,
+      "slots": [
+        {
+          "entrant": {
+            "id": 6972851,
+            "participants": [
+              {
+                "player": {
+                  "id": 23914,
+                  "gamerTag": "SizzleBlade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 6972225,
+            "participants": [
+              {
+                "player": {
+                  "id": 170695,
+                  "gamerTag": "PalmChi"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 35825303,
+      "winnerId": 6972908,
+      "displayScore": "Phorox 3 - A Wild Catsnake 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 1,
+      "completedAt": 1615164229,
+      "slots": [
+        {
+          "entrant": {
+            "id": 6972908,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 6972903,
+            "participants": [
+              {
+                "player": {
+                  "id": 350387,
+                  "gamerTag": "A Wild Catsnake"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 35825304,
+      "winnerId": 6968850,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 1,
+      "completedAt": 1615164435,
+      "slots": [
+        {
+          "entrant": {
+            "id": 6972207,
+            "participants": [
+              {
+                "player": {
+                  "id": 617254,
+                  "gamerTag": "N8v"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 6968850,
+            "participants": [
+              {
+                "player": {
+                  "id": 1918774,
+                  "gamerTag": "spookydascary"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 6941564,
+        "participants": [
+          {
+            "player": {
+              "id": 664437,
+              "gamerTag": "SitS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 6972908,
+        "participants": [
+          {
+            "player": {
+              "id": 1007304,
+              "gamerTag": "Phorox"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 6972851,
+        "participants": [
+          {
+            "player": {
+              "id": 23914,
+              "gamerTag": "SizzleBlade"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 6973086,
+        "participants": [
+          {
+            "player": {
+              "id": 14486,
+              "gamerTag": "Ginyu"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 6972903,
+        "participants": [
+          {
+            "player": {
+              "id": 350387,
+              "gamerTag": "A Wild Catsnake"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 6968850,
+        "participants": [
+          {
+            "player": {
+              "id": 1918774,
+              "gamerTag": "spookydascary"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 6972225,
+        "participants": [
+          {
+            "player": {
+              "id": 170695,
+              "gamerTag": "PalmChi"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 6972207,
+        "participants": [
+          {
+            "player": {
+              "id": 617254,
+              "gamerTag": "N8v"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

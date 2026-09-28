@@ -12,7 +12,7 @@ function cellTone(wins, losses) {
   return 'loss-strong';
 }
 
-export default function HeadToHead({ results }) {
+export default function HeadToHead({ results, base }) {
   const [size, setSize] = useState(12);
   const [hovered, setHovered] = useState(null);
   const grid = results.ranked.slice(0, size);
@@ -56,7 +56,7 @@ export default function HeadToHead({ results }) {
             {grid.map((row) => (
               <tr key={row.playerId}>
                 <th scope="row">
-                  <a href={`#/player/${row.playerId}`}>{row.tag}</a>
+                  <a href={`${base}/player/${row.playerId}`}>{row.tag}</a>
                 </th>
                 {grid.map((column) => {
                   if (row.playerId === column.playerId) return <td key={column.playerId} className="h2h-self" />;

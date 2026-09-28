@@ -14,7 +14,7 @@ export function methodSummary(settings) {
 }
 
 export default function Rankings(props) {
-  const { results, settings } = props;
+  const { results, settings, base } = props;
   const scoreLabel = settings.algorithm === 'glicko2' && settings.conservativeDeviations ? 'PR score' : 'Rating';
 
   if (results.events.length === 0) {
@@ -48,10 +48,10 @@ export default function Rankings(props) {
           </thead>
           <tbody>
             {results.ranked.map((player) => (
-              <tr key={player.playerId} onClick={() => (window.location.hash = `#/player/${player.playerId}`)}>
+              <tr key={player.playerId} onClick={() => (window.location.hash = `${base}/player/${player.playerId}`)}>
                 <td className="numeric rank-cell">{player.rank}</td>
                 <th scope="row">
-                  <a href={`#/player/${player.playerId}`}>{player.tag}</a>
+                  <a href={`${base}/player/${player.playerId}`}>{player.tag}</a>
                 </th>
                 <td className="trend-column">
                   <Sparkline history={player.history} />
@@ -66,7 +66,7 @@ export default function Rankings(props) {
           </tbody>
         </table>
       </div>
-      <Mentions results={results} settings={settings} />
+      <Mentions results={results} settings={settings} base={base} />
     </div>
   );
 }

@@ -1,0 +1,994 @@
+{
+  "slug": "tournament/scss-east-coast-98/event/melee-singles",
+  "event": {
+    "id": 829216,
+    "name": "Melee Singles",
+    "startAt": 1670805000,
+    "numEntrants": 9,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS East Coast #98",
+      "slug": "tournament/scss-east-coast-98"
+    }
+  },
+  "sets": [
+    {
+      "id": 55037207,
+      "winnerId": 11861731,
+      "displayScore": "Emperortaco 3 - CheekyJerry 0",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 6,
+      "completedAt": 1670810588,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11861731,
+            "participants": [
+              {
+                "player": {
+                  "id": 764279,
+                  "gamerTag": "Emperortaco"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11861395,
+            "participants": [
+              {
+                "player": {
+                  "id": 2178815,
+                  "gamerTag": "CheekyJerry"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55037175,
+      "winnerId": 11861697,
+      "displayScore": "Zimberfizz 3 - JChu 2",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1670812764,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11861697,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11861783,
+            "participants": [
+              {
+                "player": {
+                  "id": 2785736,
+                  "gamerTag": "JChu"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55037174,
+      "winnerId": 11861697,
+      "displayScore": "Zimberfizz 3 - JChu 2",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1670809706,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11861697,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11861783,
+            "participants": [
+              {
+                "player": {
+                  "id": 2785736,
+                  "gamerTag": "JChu"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55037206,
+      "winnerId": 11861783,
+      "displayScore": "JChu 3 - doubledown8 1",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1670811142,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11861783,
+            "participants": [
+              {
+                "player": {
+                  "id": 2785736,
+                  "gamerTag": "JChu"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11857852,
+            "participants": [
+              {
+                "player": {
+                  "id": 2145653,
+                  "gamerTag": "Double"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55037205,
+      "winnerId": 11857852,
+      "displayScore": "thai 1 - doubledown8 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1670810451,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11861755,
+            "participants": [
+              {
+                "player": {
+                  "id": 2335826,
+                  "gamerTag": "thai"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11857852,
+            "participants": [
+              {
+                "player": {
+                  "id": 2145653,
+                  "gamerTag": "Double"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55037172,
+      "winnerId": 11861697,
+      "displayScore": "Zimberfizz 3 - thai 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1670808050,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11861697,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11861755,
+            "participants": [
+              {
+                "player": {
+                  "id": 2335826,
+                  "gamerTag": "thai"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55037173,
+      "winnerId": 11861783,
+      "displayScore": "JChu 3 - doubledown8 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1670807125,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11861783,
+            "participants": [
+              {
+                "player": {
+                  "id": 2785736,
+                  "gamerTag": "JChu"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11857852,
+            "participants": [
+              {
+                "player": {
+                  "id": 2145653,
+                  "gamerTag": "Double"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55037203,
+      "winnerId": 11861755,
+      "displayScore": "thai 3 - CheekyJerry 1",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1670809289,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11861755,
+            "participants": [
+              {
+                "player": {
+                  "id": 2335826,
+                  "gamerTag": "thai"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11861395,
+            "participants": [
+              {
+                "player": {
+                  "id": 2178815,
+                  "gamerTag": "CheekyJerry"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55037204,
+      "winnerId": 11857852,
+      "displayScore": "doubledown8 3 - Emperortaco 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1670809644,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11857852,
+            "participants": [
+              {
+                "player": {
+                  "id": 2145653,
+                  "gamerTag": "Double"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11861731,
+            "participants": [
+              {
+                "player": {
+                  "id": 764279,
+                  "gamerTag": "Emperortaco"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55037201,
+      "winnerId": 11861395,
+      "displayScore": "The Madman 0 - CheekyJerry 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1670807736,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11858879,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11861395,
+            "participants": [
+              {
+                "player": {
+                  "id": 2178815,
+                  "gamerTag": "CheekyJerry"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55037202,
+      "winnerId": 11861731,
+      "displayScore": "Samoo 2 - Emperortaco 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1670808765,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11862011,
+            "participants": [
+              {
+                "player": {
+                  "id": 3009727,
+                  "gamerTag": "Samoo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11861731,
+            "participants": [
+              {
+                "player": {
+                  "id": 764279,
+                  "gamerTag": "Emperortaco"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55037168,
+      "winnerId": 11861697,
+      "displayScore": "Zimberfizz 3 - Emperortaco 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1670807270,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11861697,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11861731,
+            "participants": [
+              {
+                "player": {
+                  "id": 764279,
+                  "gamerTag": "Emperortaco"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55037169,
+      "winnerId": 11861755,
+      "displayScore": "thai 3 - Samoo 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1670806085,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11861755,
+            "participants": [
+              {
+                "player": {
+                  "id": 2335826,
+                  "gamerTag": "thai"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11862011,
+            "participants": [
+              {
+                "player": {
+                  "id": 3009727,
+                  "gamerTag": "Samoo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55037170,
+      "winnerId": 11861783,
+      "displayScore": "JChu 3 - CheekyJerry 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1670806525,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11861783,
+            "participants": [
+              {
+                "player": {
+                  "id": 2785736,
+                  "gamerTag": "JChu"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11861395,
+            "participants": [
+              {
+                "player": {
+                  "id": 2178815,
+                  "gamerTag": "CheekyJerry"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55037171,
+      "winnerId": 11857852,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1670805620,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11857852,
+            "participants": [
+              {
+                "player": {
+                  "id": 2145653,
+                  "gamerTag": "Double"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11860344,
+            "participants": [
+              {
+                "player": {
+                  "id": 791728,
+                  "gamerTag": "SlawDawg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55037197,
+      "winnerId": 11858879,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1670806824,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11860344,
+            "participants": [
+              {
+                "player": {
+                  "id": 791728,
+                  "gamerTag": "SlawDawg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11858879,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55037161,
+      "winnerId": 11861731,
+      "displayScore": "Emperortaco 3 - The Madman 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1670806315,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11861731,
+            "participants": [
+              {
+                "player": {
+                  "id": 764279,
+                  "gamerTag": "Emperortaco"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11858879,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 11861697,
+        "participants": [
+          {
+            "player": {
+              "id": 2600974,
+              "gamerTag": "Zimberfizz"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 11861783,
+        "participants": [
+          {
+            "player": {
+              "id": 2785736,
+              "gamerTag": "JChu"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 11857852,
+        "participants": [
+          {
+            "player": {
+              "id": 2145653,
+              "gamerTag": "Double"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 11861755,
+        "participants": [
+          {
+            "player": {
+              "id": 2335826,
+              "gamerTag": "thai"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 11861731,
+        "participants": [
+          {
+            "player": {
+              "id": 764279,
+              "gamerTag": "Emperortaco"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 11861395,
+        "participants": [
+          {
+            "player": {
+              "id": 2178815,
+              "gamerTag": "CheekyJerry"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 11862011,
+        "participants": [
+          {
+            "player": {
+              "id": 3009727,
+              "gamerTag": "Samoo"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 11858879,
+        "participants": [
+          {
+            "player": {
+              "id": 2197580,
+              "gamerTag": "The Madman"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 11860344,
+        "participants": [
+          {
+            "player": {
+              "id": 791728,
+              "gamerTag": "SlawDawg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

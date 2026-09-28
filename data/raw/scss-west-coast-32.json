@@ -1,0 +1,1172 @@
+{
+  "slug": "tournament/scss-west-coast-32/event/scss-west-coast-singles",
+  "event": {
+    "id": 634385,
+    "name": "SCSS West Coast Singles",
+    "startAt": 1634517000,
+    "numEntrants": 11,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #32",
+      "slug": "tournament/scss-west-coast-32"
+    }
+  },
+  "sets": [
+    {
+      "id": 41507011,
+      "winnerId": 8532883,
+      "displayScore": "blockie 3 - Phorox 2",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1634524700,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8532883,
+            "participants": [
+              {
+                "player": {
+                  "id": 594541,
+                  "gamerTag": "blockie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8535972,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507010,
+      "winnerId": 8532883,
+      "displayScore": "Phorox 1 - blockie 3",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1634520980,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8535972,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8532883,
+            "participants": [
+              {
+                "player": {
+                  "id": 594541,
+                  "gamerTag": "blockie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507042,
+      "winnerId": 8535972,
+      "displayScore": "Phorox 3 - kiko 0",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1634523523,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8535972,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8535010,
+            "participants": [
+              {
+                "player": {
+                  "id": 171821,
+                  "gamerTag": "kiko"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507041,
+      "winnerId": 8535010,
+      "displayScore": "kiko 3 - Squeemos 0",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1634522636,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8535010,
+            "participants": [
+              {
+                "player": {
+                  "id": 171821,
+                  "gamerTag": "kiko"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8529415,
+            "participants": [
+              {
+                "player": {
+                  "id": 61747,
+                  "gamerTag": "Squeemos"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507008,
+      "winnerId": 8535972,
+      "displayScore": "Phorox 3 - Max$ 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1634520025,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8535972,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8534241,
+            "participants": [
+              {
+                "player": {
+                  "id": 227417,
+                  "gamerTag": "Max$"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507009,
+      "winnerId": 8532883,
+      "displayScore": "blockie 3 - MER#777 | Dr Meredith Grey 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1634519474,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8532883,
+            "participants": [
+              {
+                "player": {
+                  "id": 594541,
+                  "gamerTag": "blockie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8535061,
+            "participants": [
+              {
+                "player": {
+                  "id": 1680411,
+                  "gamerTag": "Greville"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507039,
+      "winnerId": 8535010,
+      "displayScore": "Max$ 0 - kiko 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1634520760,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8534241,
+            "participants": [
+              {
+                "player": {
+                  "id": 227417,
+                  "gamerTag": "Max$"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8535010,
+            "participants": [
+              {
+                "player": {
+                  "id": 171821,
+                  "gamerTag": "kiko"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507040,
+      "winnerId": 8529415,
+      "displayScore": "MER#777 | Dr Meredith Grey 2 - Squeemos 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1634522050,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8535061,
+            "participants": [
+              {
+                "player": {
+                  "id": 1680411,
+                  "gamerTag": "Greville"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8529415,
+            "participants": [
+              {
+                "player": {
+                  "id": 61747,
+                  "gamerTag": "Squeemos"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507037,
+      "winnerId": 8535010,
+      "displayScore": "moi 0 - kiko 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1634519957,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8535305,
+            "participants": [
+              {
+                "player": {
+                  "id": 500697,
+                  "gamerTag": "moi"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8535010,
+            "participants": [
+              {
+                "player": {
+                  "id": 171821,
+                  "gamerTag": "kiko"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507038,
+      "winnerId": 8529415,
+      "displayScore": "Bangs 2 - Squeemos 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1634520806,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8529372,
+            "participants": [
+              {
+                "player": {
+                  "id": 18632,
+                  "gamerTag": "Bangs"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8529415,
+            "participants": [
+              {
+                "player": {
+                  "id": 61747,
+                  "gamerTag": "Squeemos"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507004,
+      "winnerId": 8535972,
+      "displayScore": "Phorox 3 - Squeemos 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1634518917,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8535972,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8529415,
+            "participants": [
+              {
+                "player": {
+                  "id": 61747,
+                  "gamerTag": "Squeemos"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507005,
+      "winnerId": 8534241,
+      "displayScore": "Max$ 3 - Bangs 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1634518102,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8534241,
+            "participants": [
+              {
+                "player": {
+                  "id": 227417,
+                  "gamerTag": "Max$"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8529372,
+            "participants": [
+              {
+                "player": {
+                  "id": 18632,
+                  "gamerTag": "Bangs"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507006,
+      "winnerId": 8532883,
+      "displayScore": "blockie 3 - kiko 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1634518811,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8532883,
+            "participants": [
+              {
+                "player": {
+                  "id": 594541,
+                  "gamerTag": "blockie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8535010,
+            "participants": [
+              {
+                "player": {
+                  "id": 171821,
+                  "gamerTag": "kiko"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507007,
+      "winnerId": 8535061,
+      "displayScore": "MER#777 | Dr Meredith Grey 3 - hijinx 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1634518447,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8535061,
+            "participants": [
+              {
+                "player": {
+                  "id": 1680411,
+                  "gamerTag": "Greville"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8535622,
+            "participants": [
+              {
+                "player": {
+                  "id": 2451010,
+                  "gamerTag": "hijinx"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507033,
+      "winnerId": 8535305,
+      "displayScore": "hijinx 1 - moi 3",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1634519253,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8535622,
+            "participants": [
+              {
+                "player": {
+                  "id": 2451010,
+                  "gamerTag": "hijinx"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8535305,
+            "participants": [
+              {
+                "player": {
+                  "id": 500697,
+                  "gamerTag": "moi"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507035,
+      "winnerId": 8529372,
+      "displayScore": "Bangs 3 - Yolkio 0",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1634518922,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8529372,
+            "participants": [
+              {
+                "player": {
+                  "id": 18632,
+                  "gamerTag": "Bangs"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8535628,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156554,
+                  "gamerTag": "Yolkio"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507036,
+      "winnerId": 8529415,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1634519543,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8529415,
+            "participants": [
+              {
+                "player": {
+                  "id": 61747,
+                  "gamerTag": "Squeemos"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8530407,
+            "participants": [
+              {
+                "player": {
+                  "id": 243757,
+                  "gamerTag": "BeegestYoshi"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41506997,
+      "winnerId": 8529415,
+      "displayScore": "moi 1 - Squeemos 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1634518210,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8535305,
+            "participants": [
+              {
+                "player": {
+                  "id": 500697,
+                  "gamerTag": "moi"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8529415,
+            "participants": [
+              {
+                "player": {
+                  "id": 61747,
+                  "gamerTag": "Squeemos"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507001,
+      "winnerId": 8535010,
+      "displayScore": "kiko 3 - Yolkio 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1634517927,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8535010,
+            "participants": [
+              {
+                "player": {
+                  "id": 171821,
+                  "gamerTag": "kiko"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8535628,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156554,
+                  "gamerTag": "Yolkio"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41507003,
+      "winnerId": 8535622,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1634517684,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8530407,
+            "participants": [
+              {
+                "player": {
+                  "id": 243757,
+                  "gamerTag": "BeegestYoshi"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8535622,
+            "participants": [
+              {
+                "player": {
+                  "id": 2451010,
+                  "gamerTag": "hijinx"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 8532883,
+        "participants": [
+          {
+            "player": {
+              "id": 594541,
+              "gamerTag": "blockie"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 8535972,
+        "participants": [
+          {
+            "player": {
+              "id": 1007304,
+              "gamerTag": "Phorox"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 8535010,
+        "participants": [
+          {
+            "player": {
+              "id": 171821,
+              "gamerTag": "kiko"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 8529415,
+        "participants": [
+          {
+            "player": {
+              "id": 61747,
+              "gamerTag": "Squeemos"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 8534241,
+        "participants": [
+          {
+            "player": {
+              "id": 227417,
+              "gamerTag": "Max$"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 8535061,
+        "participants": [
+          {
+            "player": {
+              "id": 1680411,
+              "gamerTag": "Greville"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 8535305,
+        "participants": [
+          {
+            "player": {
+              "id": 500697,
+              "gamerTag": "moi"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 8529372,
+        "participants": [
+          {
+            "player": {
+              "id": 18632,
+              "gamerTag": "Bangs"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8535628,
+        "participants": [
+          {
+            "player": {
+              "id": 2156554,
+              "gamerTag": "Yolkio"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8530407,
+        "participants": [
+          {
+            "player": {
+              "id": 243757,
+              "gamerTag": "BeegestYoshi"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8535622,
+        "participants": [
+          {
+            "player": {
+              "id": 2451010,
+              "gamerTag": "hijinx"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

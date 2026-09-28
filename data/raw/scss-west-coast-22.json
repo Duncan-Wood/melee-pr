@@ -1,0 +1,1222 @@
+{
+  "slug": "tournament/scss-west-coast-22/event/scss-west-coast-singles",
+  "event": {
+    "id": 604389,
+    "name": "SCSS West Coast Singles",
+    "startAt": 1628469000,
+    "numEntrants": 11,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #22",
+      "slug": "tournament/scss-west-coast-22"
+    }
+  },
+  "sets": [
+    {
+      "id": 39533866,
+      "winnerId": 8034395,
+      "displayScore": "blockie 0 - Phorox 3",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1628475266,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8033624,
+            "participants": [
+              {
+                "player": {
+                  "id": 594541,
+                  "gamerTag": "blockie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8034395,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533867,
+      "winnerId": 8033624,
+      "displayScore": "Phorox 2 - blockie 3",
+      "fullRoundText": "Grand Final Reset",
+      "round": 5,
+      "completedAt": 1628476421,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8034395,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8033624,
+            "participants": [
+              {
+                "player": {
+                  "id": 594541,
+                  "gamerTag": "blockie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533865,
+      "winnerId": 8033624,
+      "displayScore": "blockie 3 - Phorox 1",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1628472346,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8033624,
+            "participants": [
+              {
+                "player": {
+                  "id": 594541,
+                  "gamerTag": "blockie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8034395,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533897,
+      "winnerId": 8034395,
+      "displayScore": "Phorox 3 - CATiCAP 0",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1628474511,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8034395,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8032504,
+            "participants": [
+              {
+                "player": {
+                  "id": 788730,
+                  "gamerTag": "caticap"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533896,
+      "winnerId": 8032504,
+      "displayScore": "CATiCAP 3 - Wynasks 1",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1628473963,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8032504,
+            "participants": [
+              {
+                "player": {
+                  "id": 788730,
+                  "gamerTag": "caticap"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8034240,
+            "participants": [
+              {
+                "player": {
+                  "id": 2270083,
+                  "gamerTag": "howardLiu97"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533863,
+      "winnerId": 8033624,
+      "displayScore": "blockie 3 - CATiCAP 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1628471435,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8033624,
+            "participants": [
+              {
+                "player": {
+                  "id": 594541,
+                  "gamerTag": "blockie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8032504,
+            "participants": [
+              {
+                "player": {
+                  "id": 788730,
+                  "gamerTag": "caticap"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533864,
+      "winnerId": 8034395,
+      "displayScore": "Phorox 3 - EDK 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1628471237,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8034395,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8034394,
+            "participants": [
+              {
+                "player": {
+                  "id": 2331859,
+                  "gamerTag": "EDK"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533894,
+      "winnerId": 8032504,
+      "displayScore": "CATiCAP 3 - Nukelele 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1628472977,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8032504,
+            "participants": [
+              {
+                "player": {
+                  "id": 788730,
+                  "gamerTag": "caticap"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8032117,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533895,
+      "winnerId": 8034240,
+      "displayScore": "EDK 1 - Wynasks 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1628472927,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8034394,
+            "participants": [
+              {
+                "player": {
+                  "id": 2331859,
+                  "gamerTag": "EDK"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8034240,
+            "participants": [
+              {
+                "player": {
+                  "id": 2270083,
+                  "gamerTag": "howardLiu97"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533892,
+      "winnerId": 8032117,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1628471599,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8032117,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8033427,
+            "participants": [
+              {
+                "player": {
+                  "id": 221484,
+                  "gamerTag": "dKiZ"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533893,
+      "winnerId": 8034240,
+      "displayScore": "ledgefiend 0 - Wynasks 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1628471969,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8032216,
+            "participants": [
+              {
+                "player": {
+                  "id": 748365,
+                  "gamerTag": "ledgefiend"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8034240,
+            "participants": [
+              {
+                "player": {
+                  "id": 2270083,
+                  "gamerTag": "howardLiu97"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533859,
+      "winnerId": 8033624,
+      "displayScore": "blockie 3 - Wynasks 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1628470459,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8033624,
+            "participants": [
+              {
+                "player": {
+                  "id": 594541,
+                  "gamerTag": "blockie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8034240,
+            "participants": [
+              {
+                "player": {
+                  "id": 2270083,
+                  "gamerTag": "howardLiu97"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533860,
+      "winnerId": 8032504,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1628470354,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8034404,
+            "participants": [
+              {
+                "player": {
+                  "id": 656088,
+                  "gamerTag": "LATT"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8032504,
+            "participants": [
+              {
+                "player": {
+                  "id": 788730,
+                  "gamerTag": "caticap"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533861,
+      "winnerId": 8034395,
+      "displayScore": "Phorox 3 - dKiZ 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1628470562,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8034395,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8033427,
+            "participants": [
+              {
+                "player": {
+                  "id": 221484,
+                  "gamerTag": "dKiZ"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533862,
+      "winnerId": 8034394,
+      "displayScore": "EDK 3 - Nukelele 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1628470610,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8034394,
+            "participants": [
+              {
+                "player": {
+                  "id": 2331859,
+                  "gamerTag": "EDK"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8032117,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533888,
+      "winnerId": 8032117,
+      "displayScore": "Nukelele 3 - Flame 0",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1628471520,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8032117,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8032123,
+            "participants": [
+              {
+                "player": {
+                  "id": 1844994,
+                  "gamerTag": "Flame"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533890,
+      "winnerId": 8032216,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1628471425,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8034404,
+            "participants": [
+              {
+                "player": {
+                  "id": 656088,
+                  "gamerTag": "LATT"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8032216,
+            "participants": [
+              {
+                "player": {
+                  "id": 748365,
+                  "gamerTag": "ledgefiend"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533891,
+      "winnerId": 8034240,
+      "displayScore": "Wynasks 3 - akot 0",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1628471121,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8034240,
+            "participants": [
+              {
+                "player": {
+                  "id": 2270083,
+                  "gamerTag": "howardLiu97"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8031785,
+            "participants": [
+              {
+                "player": {
+                  "id": 1338084,
+                  "gamerTag": "akot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533852,
+      "winnerId": 8034240,
+      "displayScore": "Flame 0 - Wynasks 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1628469773,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8032123,
+            "participants": [
+              {
+                "player": {
+                  "id": 1844994,
+                  "gamerTag": "Flame"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8034240,
+            "participants": [
+              {
+                "player": {
+                  "id": 2270083,
+                  "gamerTag": "howardLiu97"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533856,
+      "winnerId": 8033427,
+      "displayScore": "dKiZ 3 - ledgefiend 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1628469878,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8033427,
+            "participants": [
+              {
+                "player": {
+                  "id": 221484,
+                  "gamerTag": "dKiZ"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8032216,
+            "participants": [
+              {
+                "player": {
+                  "id": 748365,
+                  "gamerTag": "ledgefiend"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39533858,
+      "winnerId": 8032117,
+      "displayScore": "Nukelele 3 - akot 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1628469847,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8032117,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8031785,
+            "participants": [
+              {
+                "player": {
+                  "id": 1338084,
+                  "gamerTag": "akot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 8033624,
+        "participants": [
+          {
+            "player": {
+              "id": 594541,
+              "gamerTag": "blockie"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 8034395,
+        "participants": [
+          {
+            "player": {
+              "id": 1007304,
+              "gamerTag": "Phorox"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 8032504,
+        "participants": [
+          {
+            "player": {
+              "id": 788730,
+              "gamerTag": "caticap"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 8034240,
+        "participants": [
+          {
+            "player": {
+              "id": 2270083,
+              "gamerTag": "howardLiu97"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 8032117,
+        "participants": [
+          {
+            "player": {
+              "id": 2156106,
+              "gamerTag": "Nukelele"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 8034394,
+        "participants": [
+          {
+            "player": {
+              "id": 2331859,
+              "gamerTag": "EDK"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 8033427,
+        "participants": [
+          {
+            "player": {
+              "id": 221484,
+              "gamerTag": "dKiZ"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 8032216,
+        "participants": [
+          {
+            "player": {
+              "id": 748365,
+              "gamerTag": "ledgefiend"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8032123,
+        "participants": [
+          {
+            "player": {
+              "id": 1844994,
+              "gamerTag": "Flame"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8031785,
+        "participants": [
+          {
+            "player": {
+              "id": 1338084,
+              "gamerTag": "akot"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8034404,
+        "participants": [
+          {
+            "player": {
+              "id": 656088,
+              "gamerTag": "LATT"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

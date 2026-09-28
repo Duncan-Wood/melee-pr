@@ -4,7 +4,7 @@ export function honorableMentions(results, settings, limit = 6) {
   return results.players.filter((player) => player.eventsAttended < settings.minimumEvents).slice(0, limit);
 }
 
-export default function Mentions({ results, settings }) {
+export default function Mentions({ results, settings, base }) {
   const mentions = honorableMentions(results, settings);
   if (mentions.length === 0) return null;
   return (
@@ -14,7 +14,7 @@ export default function Mentions({ results, settings }) {
       <ul className="mentions">
         {mentions.map((player) => (
           <li key={player.playerId}>
-            <a href={`#/player/${player.playerId}`}>{player.tag}</a>
+            <a href={`${base}/player/${player.playerId}`}>{player.tag}</a>
             <span>
               {setRecord(player)} in sets across {player.eventsAttended} {player.eventsAttended === 1 ? 'event' : 'events'}, best finish {ordinal(player.bestPlacement)}
             </span>

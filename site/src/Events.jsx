@@ -1,6 +1,6 @@
 import { eventTitle, fullDate, startggUrl } from './format.js';
 
-export default function Events({ data, settings, setSettings }) {
+export default function Events({ data, settings, setSettings, base }) {
   const included = new Set(settings.includedEventSlugs);
   const largest = Math.max(...data.events.map((event) => event.numEntrants));
 
@@ -38,7 +38,7 @@ export default function Events({ data, settings, setSettings }) {
                 <p className="timeline-winner">
                   {winner ? (
                     <>
-                      Won by <a href={`#/player/${winner.playerId}`}>{data.players[winner.playerId].tag}</a>
+                      Won by <a href={`${base}/player/${winner.playerId}`}>{data.players[winner.playerId].tag}</a>
                     </>
                   ) : (
                     'No winner recorded'

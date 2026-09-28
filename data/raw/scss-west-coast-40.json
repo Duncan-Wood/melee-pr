@@ -1,0 +1,1286 @@
+{
+  "slug": "tournament/scss-west-coast-40/event/scss-west-coast-singles",
+  "event": {
+    "id": 662390,
+    "name": "SCSS West Coast Singles",
+    "startAt": 1640568600,
+    "numEntrants": 12,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #40",
+      "slug": "tournament/scss-west-coast-40"
+    }
+  },
+  "sets": [
+    {
+      "id": 43416934,
+      "winnerId": 9008687,
+      "displayScore": "SubTails 3 - LanTurN 1",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1640576786,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9008687,
+            "participants": [
+              {
+                "player": {
+                  "id": 135091,
+                  "gamerTag": "SubTails"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9008662,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416933,
+      "winnerId": 9008687,
+      "displayScore": "SubTails 3 - Socktastic 0",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1640573138,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9008687,
+            "participants": [
+              {
+                "player": {
+                  "id": 135091,
+                  "gamerTag": "SubTails"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9005532,
+            "participants": [
+              {
+                "player": {
+                  "id": 619346,
+                  "gamerTag": "Socktastic"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416965,
+      "winnerId": 9008662,
+      "displayScore": "Socktastic 1 - LanTurN 3",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1640575808,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9005532,
+            "participants": [
+              {
+                "player": {
+                  "id": 619346,
+                  "gamerTag": "Socktastic"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9008662,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416964,
+      "winnerId": 9008662,
+      "displayScore": "LanTurN 3 - Pop$ 0",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1640574626,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9008662,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9008520,
+            "participants": [
+              {
+                "player": {
+                  "id": 6437,
+                  "gamerTag": "Pop$"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416931,
+      "winnerId": 9008687,
+      "displayScore": "SubTails 3 - LanTurN 2",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1640572152,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9008687,
+            "participants": [
+              {
+                "player": {
+                  "id": 135091,
+                  "gamerTag": "SubTails"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9008662,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416932,
+      "winnerId": 9005532,
+      "displayScore": "Pop$ 0 - Socktastic 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1640571680,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9008520,
+            "participants": [
+              {
+                "player": {
+                  "id": 6437,
+                  "gamerTag": "Pop$"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9005532,
+            "participants": [
+              {
+                "player": {
+                  "id": 619346,
+                  "gamerTag": "Socktastic"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416962,
+      "winnerId": 9008662,
+      "displayScore": "LanTurN 3 - mrbruh 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1640573287,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9008662,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9008337,
+            "participants": [
+              {
+                "player": {
+                  "id": 2544801,
+                  "gamerTag": "mrbruh"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416963,
+      "winnerId": 9008520,
+      "displayScore": "Pop$ 3 - Noodles 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1640573719,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9008520,
+            "participants": [
+              {
+                "player": {
+                  "id": 6437,
+                  "gamerTag": "Pop$"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9008667,
+            "participants": [
+              {
+                "player": {
+                  "id": 980453,
+                  "gamerTag": "Noodles"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416960,
+      "winnerId": 9008337,
+      "displayScore": "mrbruh 3 - eddb0ii 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1640572620,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9008337,
+            "participants": [
+              {
+                "player": {
+                  "id": 2544801,
+                  "gamerTag": "mrbruh"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9008328,
+            "participants": [
+              {
+                "player": {
+                  "id": 2032235,
+                  "gamerTag": "eddb0ii"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416961,
+      "winnerId": 9008667,
+      "displayScore": "Noodles 3 - Magic 1",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1640572667,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9008667,
+            "participants": [
+              {
+                "player": {
+                  "id": 980453,
+                  "gamerTag": "Noodles"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9008666,
+            "participants": [
+              {
+                "player": {
+                  "id": 352941,
+                  "gamerTag": "Magic"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416927,
+      "winnerId": 9008687,
+      "displayScore": "SubTails 3 - Magic 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1640571022,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9008687,
+            "participants": [
+              {
+                "player": {
+                  "id": 135091,
+                  "gamerTag": "SubTails"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9008666,
+            "participants": [
+              {
+                "player": {
+                  "id": 352941,
+                  "gamerTag": "Magic"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416928,
+      "winnerId": 9008662,
+      "displayScore": "SHRD#209 | Shredder 0 - LanTurN 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1640570549,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9007367,
+            "participants": [
+              {
+                "player": {
+                  "id": 1388856,
+                  "gamerTag": "Mixtape"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9008662,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416929,
+      "winnerId": 9008520,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1640570425,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9007428,
+            "participants": [
+              {
+                "player": {
+                  "id": 4317,
+                  "gamerTag": "20,000 Lions"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9008520,
+            "participants": [
+              {
+                "player": {
+                  "id": 6437,
+                  "gamerTag": "Pop$"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416930,
+      "winnerId": 9005532,
+      "displayScore": "Socktastic 3 - POLYDANK 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1640570603,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9005532,
+            "participants": [
+              {
+                "player": {
+                  "id": 619346,
+                  "gamerTag": "Socktastic"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9007970,
+            "participants": [
+              {
+                "player": {
+                  "id": 2207372,
+                  "gamerTag": "POLYDANK"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416956,
+      "winnerId": 9008337,
+      "displayScore": "POLYDANK 2 - mrbruh 3",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1640571706,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9007970,
+            "participants": [
+              {
+                "player": {
+                  "id": 2207372,
+                  "gamerTag": "POLYDANK"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9008337,
+            "participants": [
+              {
+                "player": {
+                  "id": 2544801,
+                  "gamerTag": "mrbruh"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416957,
+      "winnerId": 9008328,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1640570820,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9007428,
+            "participants": [
+              {
+                "player": {
+                  "id": 4317,
+                  "gamerTag": "20,000 Lions"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9008328,
+            "participants": [
+              {
+                "player": {
+                  "id": 2032235,
+                  "gamerTag": "eddb0ii"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416958,
+      "winnerId": 9008667,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1640571189,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9007367,
+            "participants": [
+              {
+                "player": {
+                  "id": 1388856,
+                  "gamerTag": "Mixtape"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9008667,
+            "participants": [
+              {
+                "player": {
+                  "id": 980453,
+                  "gamerTag": "Noodles"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416959,
+      "winnerId": 9008666,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1640571674,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9008666,
+            "participants": [
+              {
+                "player": {
+                  "id": 352941,
+                  "gamerTag": "Magic"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9004697,
+            "participants": [
+              {
+                "player": {
+                  "id": 2587443,
+                  "gamerTag": "CptnFalco"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416920,
+      "winnerId": 9008666,
+      "displayScore": "Magic 3 - mrbruh 2",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1640570486,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9008666,
+            "participants": [
+              {
+                "player": {
+                  "id": 352941,
+                  "gamerTag": "Magic"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9008337,
+            "participants": [
+              {
+                "player": {
+                  "id": 2544801,
+                  "gamerTag": "mrbruh"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416922,
+      "winnerId": 9008662,
+      "displayScore": "LanTurN 3 - eddb0ii 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1640569367,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9008662,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9008328,
+            "participants": [
+              {
+                "player": {
+                  "id": 2032235,
+                  "gamerTag": "eddb0ii"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416924,
+      "winnerId": 9008520,
+      "displayScore": "Pop$ 3 - Noodles 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1640569586,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9008520,
+            "participants": [
+              {
+                "player": {
+                  "id": 6437,
+                  "gamerTag": "Pop$"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9008667,
+            "participants": [
+              {
+                "player": {
+                  "id": 980453,
+                  "gamerTag": "Noodles"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 43416926,
+      "winnerId": 9007970,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1640569280,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9007970,
+            "participants": [
+              {
+                "player": {
+                  "id": 2207372,
+                  "gamerTag": "POLYDANK"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9004697,
+            "participants": [
+              {
+                "player": {
+                  "id": 2587443,
+                  "gamerTag": "CptnFalco"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 9008687,
+        "participants": [
+          {
+            "player": {
+              "id": 135091,
+              "gamerTag": "SubTails"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 9008662,
+        "participants": [
+          {
+            "player": {
+              "id": 329937,
+              "gamerTag": "LanTurN"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 9005532,
+        "participants": [
+          {
+            "player": {
+              "id": 619346,
+              "gamerTag": "Socktastic"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 9008520,
+        "participants": [
+          {
+            "player": {
+              "id": 6437,
+              "gamerTag": "Pop$"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 9008337,
+        "participants": [
+          {
+            "player": {
+              "id": 2544801,
+              "gamerTag": "mrbruh"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 9008667,
+        "participants": [
+          {
+            "player": {
+              "id": 980453,
+              "gamerTag": "Noodles"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 9008666,
+        "participants": [
+          {
+            "player": {
+              "id": 352941,
+              "gamerTag": "Magic"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 9008328,
+        "participants": [
+          {
+            "player": {
+              "id": 2032235,
+              "gamerTag": "eddb0ii"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 9007970,
+        "participants": [
+          {
+            "player": {
+              "id": 2207372,
+              "gamerTag": "POLYDANK"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 9004697,
+        "participants": [
+          {
+            "player": {
+              "id": 2587443,
+              "gamerTag": "CptnFalco"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 9007367,
+        "participants": [
+          {
+            "player": {
+              "id": 1388856,
+              "gamerTag": "Mixtape"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 9007428,
+        "participants": [
+          {
+            "player": {
+              "id": 4317,
+              "gamerTag": "20,000 Lions"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

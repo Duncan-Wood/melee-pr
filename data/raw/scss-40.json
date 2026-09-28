@@ -1,0 +1,1500 @@
+{
+  "slug": "tournament/scss-40/event/scss-singles",
+  "event": {
+    "id": 621965,
+    "name": "SCSS Singles",
+    "startAt": 1632094200,
+    "numEntrants": 13,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS #40",
+      "slug": "tournament/scss-40"
+    }
+  },
+  "sets": [
+    {
+      "id": 40672767,
+      "winnerId": 8320850,
+      "displayScore": "Windwalker 2 - Mattress 3",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 6,
+      "completedAt": 1632101000,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8319923,
+            "participants": [
+              {
+                "player": {
+                  "id": 256804,
+                  "gamerTag": "Windwalker"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8320850,
+            "participants": [
+              {
+                "player": {
+                  "id": 1864464,
+                  "gamerTag": "Mattress"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672735,
+      "winnerId": 8320573,
+      "displayScore": "Rhayven 2 - sampy 3",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1632103475,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8320599,
+            "participants": [
+              {
+                "player": {
+                  "id": 2059100,
+                  "gamerTag": "Quiet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8320573,
+            "participants": [
+              {
+                "player": {
+                  "id": 267902,
+                  "gamerTag": "sampy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672736,
+      "winnerId": 8320599,
+      "displayScore": "sampy 1 - Rhayven 3",
+      "fullRoundText": "Grand Final Reset",
+      "round": 5,
+      "completedAt": 1632105121,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8320573,
+            "participants": [
+              {
+                "player": {
+                  "id": 267902,
+                  "gamerTag": "sampy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8320599,
+            "participants": [
+              {
+                "player": {
+                  "id": 2059100,
+                  "gamerTag": "Quiet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672734,
+      "winnerId": 8320599,
+      "displayScore": "sampy 1 - Rhayven 3",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1632099872,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8320573,
+            "participants": [
+              {
+                "player": {
+                  "id": 267902,
+                  "gamerTag": "sampy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8320599,
+            "participants": [
+              {
+                "player": {
+                  "id": 2059100,
+                  "gamerTag": "Quiet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672766,
+      "winnerId": 8320573,
+      "displayScore": "sampy 3 - Jandy 0",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1632101789,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8320573,
+            "participants": [
+              {
+                "player": {
+                  "id": 267902,
+                  "gamerTag": "sampy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8320615,
+            "participants": [
+              {
+                "player": {
+                  "id": 1302387,
+                  "gamerTag": "Jandy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672765,
+      "winnerId": 8320615,
+      "displayScore": "Jandy 3 - BLAK 1",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1632101014,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8320615,
+            "participants": [
+              {
+                "player": {
+                  "id": 1302387,
+                  "gamerTag": "Jandy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8320728,
+            "participants": [
+              {
+                "player": {
+                  "id": 1508985,
+                  "gamerTag": "Sven T. Uncommon"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672732,
+      "winnerId": 8320573,
+      "displayScore": "Jandy 0 - sampy 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1632097326,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8320615,
+            "participants": [
+              {
+                "player": {
+                  "id": 1302387,
+                  "gamerTag": "Jandy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8320573,
+            "participants": [
+              {
+                "player": {
+                  "id": 267902,
+                  "gamerTag": "sampy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672733,
+      "winnerId": 8320599,
+      "displayScore": "Windwalker 1 - Rhayven 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1632098064,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8319923,
+            "participants": [
+              {
+                "player": {
+                  "id": 256804,
+                  "gamerTag": "Windwalker"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8320599,
+            "participants": [
+              {
+                "player": {
+                  "id": 2059100,
+                  "gamerTag": "Quiet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672763,
+      "winnerId": 8320615,
+      "displayScore": "Jandy 3 - Mattress 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1632099649,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8320615,
+            "participants": [
+              {
+                "player": {
+                  "id": 1302387,
+                  "gamerTag": "Jandy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8320850,
+            "participants": [
+              {
+                "player": {
+                  "id": 1864464,
+                  "gamerTag": "Mattress"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672764,
+      "winnerId": 8320728,
+      "displayScore": "Windwalker 2 - BLAK 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1632099869,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8319923,
+            "participants": [
+              {
+                "player": {
+                  "id": 256804,
+                  "gamerTag": "Windwalker"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8320728,
+            "participants": [
+              {
+                "player": {
+                  "id": 1508985,
+                  "gamerTag": "Sven T. Uncommon"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672761,
+      "winnerId": 8320850,
+      "displayScore": "phillyhoops 0 - Mattress 3",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1632098743,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8317542,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8320850,
+            "participants": [
+              {
+                "player": {
+                  "id": 1864464,
+                  "gamerTag": "Mattress"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672762,
+      "winnerId": 8320728,
+      "displayScore": "TK 1 - BLAK 3",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1632098400,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8320609,
+            "participants": [
+              {
+                "player": {
+                  "id": 2047962,
+                  "gamerTag": "KELLY"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8320728,
+            "participants": [
+              {
+                "player": {
+                  "id": 1508985,
+                  "gamerTag": "Sven T. Uncommon"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672728,
+      "winnerId": 8320615,
+      "displayScore": "BLAK 2 - Jandy 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1632096538,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8320728,
+            "participants": [
+              {
+                "player": {
+                  "id": 1508985,
+                  "gamerTag": "Sven T. Uncommon"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8320615,
+            "participants": [
+              {
+                "player": {
+                  "id": 1302387,
+                  "gamerTag": "Jandy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672729,
+      "winnerId": 8320573,
+      "displayScore": "sampy 3 - TK 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1632095855,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8320573,
+            "participants": [
+              {
+                "player": {
+                  "id": 267902,
+                  "gamerTag": "sampy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8320609,
+            "participants": [
+              {
+                "player": {
+                  "id": 2047962,
+                  "gamerTag": "KELLY"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672730,
+      "winnerId": 8319923,
+      "displayScore": "Windwalker 3 - Mattress 2",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1632096817,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8319923,
+            "participants": [
+              {
+                "player": {
+                  "id": 256804,
+                  "gamerTag": "Windwalker"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8320850,
+            "participants": [
+              {
+                "player": {
+                  "id": 1864464,
+                  "gamerTag": "Mattress"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672731,
+      "winnerId": 8320599,
+      "displayScore": "Rhayven 3 - L. Giya 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1632097064,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8320599,
+            "participants": [
+              {
+                "player": {
+                  "id": 2059100,
+                  "gamerTag": "Quiet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8318291,
+            "participants": [
+              {
+                "player": {
+                  "id": 561371,
+                  "gamerTag": "wutang36genders"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672757,
+      "winnerId": 8317542,
+      "displayScore": "L. Giya 0 - phillyhoops 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1632097766,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8318291,
+            "participants": [
+              {
+                "player": {
+                  "id": 561371,
+                  "gamerTag": "wutang36genders"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8317542,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672758,
+      "winnerId": 8320850,
+      "displayScore": "Mattress 3 - The Madman 1",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1632097967,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8320850,
+            "participants": [
+              {
+                "player": {
+                  "id": 1864464,
+                  "gamerTag": "Mattress"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8317511,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672759,
+      "winnerId": 8320609,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1632096805,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8320609,
+            "participants": [
+              {
+                "player": {
+                  "id": 2047962,
+                  "gamerTag": "KELLY"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8318095,
+            "participants": [
+              {
+                "player": {
+                  "id": 2220906,
+                  "gamerTag": "Seagulls"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672760,
+      "winnerId": 8320728,
+      "displayScore": "BLAK 3 - ENOX | ALMOSTSICC 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1632097565,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8320728,
+            "participants": [
+              {
+                "player": {
+                  "id": 1508985,
+                  "gamerTag": "Sven T. Uncommon"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8319918,
+            "participants": [
+              {
+                "player": {
+                  "id": 2184942,
+                  "gamerTag": "ALMOSTSICC"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672754,
+      "winnerId": 8317511,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1632095374,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8317511,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8310351,
+            "participants": [
+              {
+                "player": {
+                  "id": 2447706,
+                  "gamerTag": "Spowart"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672721,
+      "winnerId": 8320615,
+      "displayScore": "phillyhoops 1 - Jandy 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1632095322,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8317542,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8320615,
+            "participants": [
+              {
+                "player": {
+                  "id": 1302387,
+                  "gamerTag": "Jandy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672722,
+      "winnerId": 8320573,
+      "displayScore": "sampy 3 - The Madman 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1632094894,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8320573,
+            "participants": [
+              {
+                "player": {
+                  "id": 267902,
+                  "gamerTag": "sampy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8317511,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672723,
+      "winnerId": 8320609,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1632095170,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8320609,
+            "participants": [
+              {
+                "player": {
+                  "id": 2047962,
+                  "gamerTag": "KELLY"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8310351,
+            "participants": [
+              {
+                "player": {
+                  "id": 2447706,
+                  "gamerTag": "Spowart"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672725,
+      "winnerId": 8320850,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1632095100,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8320850,
+            "participants": [
+              {
+                "player": {
+                  "id": 1864464,
+                  "gamerTag": "Mattress"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8318095,
+            "participants": [
+              {
+                "player": {
+                  "id": 2220906,
+                  "gamerTag": "Seagulls"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 40672727,
+      "winnerId": 8318291,
+      "displayScore": "L. Giya 3 - ENOX | ALMOSTSICC 1",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1632096136,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8318291,
+            "participants": [
+              {
+                "player": {
+                  "id": 561371,
+                  "gamerTag": "wutang36genders"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8319918,
+            "participants": [
+              {
+                "player": {
+                  "id": 2184942,
+                  "gamerTag": "ALMOSTSICC"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 8320599,
+        "participants": [
+          {
+            "player": {
+              "id": 2059100,
+              "gamerTag": "Quiet"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 8320573,
+        "participants": [
+          {
+            "player": {
+              "id": 267902,
+              "gamerTag": "sampy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 8320615,
+        "participants": [
+          {
+            "player": {
+              "id": 1302387,
+              "gamerTag": "Jandy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 8320728,
+        "participants": [
+          {
+            "player": {
+              "id": 1508985,
+              "gamerTag": "Sven T. Uncommon"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 8320850,
+        "participants": [
+          {
+            "player": {
+              "id": 1864464,
+              "gamerTag": "Mattress"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 8319923,
+        "participants": [
+          {
+            "player": {
+              "id": 256804,
+              "gamerTag": "Windwalker"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 8317542,
+        "participants": [
+          {
+            "player": {
+              "id": 1482652,
+              "gamerTag": "phillyhoops"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 8320609,
+        "participants": [
+          {
+            "player": {
+              "id": 2047962,
+              "gamerTag": "KELLY"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8318095,
+        "participants": [
+          {
+            "player": {
+              "id": 2220906,
+              "gamerTag": "Seagulls"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8318291,
+        "participants": [
+          {
+            "player": {
+              "id": 561371,
+              "gamerTag": "wutang36genders"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8319918,
+        "participants": [
+          {
+            "player": {
+              "id": 2184942,
+              "gamerTag": "ALMOSTSICC"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8317511,
+        "participants": [
+          {
+            "player": {
+              "id": 2197580,
+              "gamerTag": "The Madman"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 8310351,
+        "participants": [
+          {
+            "player": {
+              "id": 2447706,
+              "gamerTag": "Spowart"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

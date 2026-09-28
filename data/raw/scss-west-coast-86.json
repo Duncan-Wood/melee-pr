@@ -1,0 +1,1272 @@
+{
+  "slug": "tournament/scss-west-coast-86/event/melee-singles",
+  "event": {
+    "id": 826024,
+    "name": "Melee Singles",
+    "startAt": 1670203800,
+    "numEntrants": 11,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #86",
+      "slug": "tournament/scss-west-coast-86"
+    }
+  },
+  "sets": [
+    {
+      "id": 54836762,
+      "winnerId": 11814509,
+      "displayScore": "DQ",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 6,
+      "completedAt": 1670209336,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814509,
+            "participants": [
+              {
+                "player": {
+                  "id": 1000214,
+                  "gamerTag": "slap"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11809232,
+            "participants": [
+              {
+                "player": {
+                  "id": 3124797,
+                  "gamerTag": "monjuni"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836730,
+      "winnerId": 11814745,
+      "displayScore": "Nova | LanTurN 1 - WoC | ChefTony 3",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1670211857,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814682,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11814745,
+            "participants": [
+              {
+                "player": {
+                  "id": 41486,
+                  "gamerTag": "ChefTony"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836731,
+      "winnerId": 11814745,
+      "displayScore": "WoC | ChefTony 3 - Nova | LanTurN 2",
+      "fullRoundText": "Grand Final Reset",
+      "round": 5,
+      "completedAt": 1670213191,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814745,
+            "participants": [
+              {
+                "player": {
+                  "id": 41486,
+                  "gamerTag": "ChefTony"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11814682,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836729,
+      "winnerId": 11814682,
+      "displayScore": "Melo 2 - Nova | LanTurN 3",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1670208169,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814471,
+            "participants": [
+              {
+                "player": {
+                  "id": 466221,
+                  "gamerTag": "melo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11814682,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836761,
+      "winnerId": 11814745,
+      "displayScore": "Melo 2 - WoC | ChefTony 3",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1670210675,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814471,
+            "participants": [
+              {
+                "player": {
+                  "id": 466221,
+                  "gamerTag": "melo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11814745,
+            "participants": [
+              {
+                "player": {
+                  "id": 41486,
+                  "gamerTag": "ChefTony"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836760,
+      "winnerId": 11814745,
+      "displayScore": "WoC | ChefTony 3 - Kyle 1",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1670209698,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814745,
+            "participants": [
+              {
+                "player": {
+                  "id": 41486,
+                  "gamerTag": "ChefTony"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11814299,
+            "participants": [
+              {
+                "player": {
+                  "id": 3093610,
+                  "gamerTag": "Kyle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836727,
+      "winnerId": 11814471,
+      "displayScore": "Melo 3 - WoC | ChefTony 2",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1670206451,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814471,
+            "participants": [
+              {
+                "player": {
+                  "id": 466221,
+                  "gamerTag": "melo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11814745,
+            "participants": [
+              {
+                "player": {
+                  "id": 41486,
+                  "gamerTag": "ChefTony"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836728,
+      "winnerId": 11814682,
+      "displayScore": "Kyle 2 - Nova | LanTurN 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1670207098,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814299,
+            "participants": [
+              {
+                "player": {
+                  "id": 3093610,
+                  "gamerTag": "Kyle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11814682,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836758,
+      "winnerId": 11814745,
+      "displayScore": "WoC | ChefTony 3 - Meadows 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1670208118,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814745,
+            "participants": [
+              {
+                "player": {
+                  "id": 41486,
+                  "gamerTag": "ChefTony"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11809232,
+            "participants": [
+              {
+                "player": {
+                  "id": 3124797,
+                  "gamerTag": "monjuni"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836759,
+      "winnerId": 11814299,
+      "displayScore": "Kyle 3 - slap 1",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1670208789,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814299,
+            "participants": [
+              {
+                "player": {
+                  "id": 3093610,
+                  "gamerTag": "Kyle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11814509,
+            "participants": [
+              {
+                "player": {
+                  "id": 1000214,
+                  "gamerTag": "slap"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836756,
+      "winnerId": 11809232,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1670207296,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11809232,
+            "participants": [
+              {
+                "player": {
+                  "id": 3124797,
+                  "gamerTag": "monjuni"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11814681,
+            "participants": [
+              {
+                "player": {
+                  "id": 1737518,
+                  "gamerTag": "Kombeze"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836757,
+      "winnerId": 11814509,
+      "displayScore": "WT | Nukelele 0 - slap 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1670207797,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814574,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11814509,
+            "participants": [
+              {
+                "player": {
+                  "id": 1000214,
+                  "gamerTag": "slap"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836723,
+      "winnerId": 11814471,
+      "displayScore": "Melo 3 - slap 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1670205490,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814471,
+            "participants": [
+              {
+                "player": {
+                  "id": 466221,
+                  "gamerTag": "melo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11814509,
+            "participants": [
+              {
+                "player": {
+                  "id": 1000214,
+                  "gamerTag": "slap"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836724,
+      "winnerId": 11814745,
+      "displayScore": "WT | Nukelele 0 - WoC | ChefTony 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1670204633,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814574,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11814745,
+            "participants": [
+              {
+                "player": {
+                  "id": 41486,
+                  "gamerTag": "ChefTony"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836725,
+      "winnerId": 11814299,
+      "displayScore": "Kyle 3 - Kombeze 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1670205930,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814299,
+            "participants": [
+              {
+                "player": {
+                  "id": 3093610,
+                  "gamerTag": "Kyle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11814681,
+            "participants": [
+              {
+                "player": {
+                  "id": 1737518,
+                  "gamerTag": "Kombeze"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836726,
+      "winnerId": 11814682,
+      "displayScore": "Nova | LanTurN 3 - Meadows 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1670206023,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814682,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11809232,
+            "participants": [
+              {
+                "player": {
+                  "id": 3124797,
+                  "gamerTag": "monjuni"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836752,
+      "winnerId": 11809232,
+      "displayScore": "Meadows 3 - BEBO 0",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1670206798,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11809232,
+            "participants": [
+              {
+                "player": {
+                  "id": 3124797,
+                  "gamerTag": "monjuni"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11814478,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836754,
+      "winnerId": 11814574,
+      "displayScore": "WT | Nukelele 3 - High Caliber | RAVN 0",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1670205499,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814574,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11814667,
+            "participants": [
+              {
+                "player": {
+                  "id": 369437,
+                  "gamerTag": "RAVN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836755,
+      "winnerId": 11814509,
+      "displayScore": "slap 3 - Johandsome 0",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1670206249,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814509,
+            "participants": [
+              {
+                "player": {
+                  "id": 1000214,
+                  "gamerTag": "slap"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11813831,
+            "participants": [
+              {
+                "player": {
+                  "id": 3130130,
+                  "gamerTag": "Johandsome"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836716,
+      "winnerId": 11814509,
+      "displayScore": "slap 3 - BEBO 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1670204872,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814509,
+            "participants": [
+              {
+                "player": {
+                  "id": 1000214,
+                  "gamerTag": "slap"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11814478,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836720,
+      "winnerId": 11814681,
+      "displayScore": "Kombeze 3 - High Caliber | RAVN 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1670204642,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11814681,
+            "participants": [
+              {
+                "player": {
+                  "id": 1737518,
+                  "gamerTag": "Kombeze"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11814667,
+            "participants": [
+              {
+                "player": {
+                  "id": 369437,
+                  "gamerTag": "RAVN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54836722,
+      "winnerId": 11809232,
+      "displayScore": "Meadows 3 - Johandsome 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1670205034,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11809232,
+            "participants": [
+              {
+                "player": {
+                  "id": 3124797,
+                  "gamerTag": "monjuni"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11813831,
+            "participants": [
+              {
+                "player": {
+                  "id": 3130130,
+                  "gamerTag": "Johandsome"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 11814745,
+        "participants": [
+          {
+            "player": {
+              "id": 41486,
+              "gamerTag": "ChefTony"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 11814682,
+        "participants": [
+          {
+            "player": {
+              "id": 329937,
+              "gamerTag": "LanTurN"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 11814471,
+        "participants": [
+          {
+            "player": {
+              "id": 466221,
+              "gamerTag": "melo"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 11814299,
+        "participants": [
+          {
+            "player": {
+              "id": 3093610,
+              "gamerTag": "Kyle"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 11814509,
+        "participants": [
+          {
+            "player": {
+              "id": 1000214,
+              "gamerTag": "slap"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 11809232,
+        "participants": [
+          {
+            "player": {
+              "id": 3124797,
+              "gamerTag": "monjuni"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 11814681,
+        "participants": [
+          {
+            "player": {
+              "id": 1737518,
+              "gamerTag": "Kombeze"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 11814574,
+        "participants": [
+          {
+            "player": {
+              "id": 2156106,
+              "gamerTag": "Nukelele"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 11814478,
+        "participants": [
+          {
+            "player": {
+              "id": 360229,
+              "gamerTag": "BEBO"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 11814667,
+        "participants": [
+          {
+            "player": {
+              "id": 369437,
+              "gamerTag": "RAVN"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 11813831,
+        "participants": [
+          {
+            "player": {
+              "id": 3130130,
+              "gamerTag": "Johandsome"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

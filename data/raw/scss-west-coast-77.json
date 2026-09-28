@@ -1,0 +1,1222 @@
+{
+  "slug": "tournament/scss-west-coast-77/event/melee-singles",
+  "event": {
+    "id": 788139,
+    "name": "Melee Singles",
+    "startAt": 1664152200,
+    "numEntrants": 11,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #77",
+      "slug": "tournament/scss-west-coast-77"
+    }
+  },
+  "sets": [
+    {
+      "id": 52357920,
+      "winnerId": 11217947,
+      "displayScore": "DQ",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 6,
+      "completedAt": 1664157624,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11219273,
+            "participants": [
+              {
+                "player": {
+                  "id": 312911,
+                  "gamerTag": "DMA"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11217947,
+            "participants": [
+              {
+                "player": {
+                  "id": 400187,
+                  "gamerTag": "Jinsu"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357888,
+      "winnerId": 11219211,
+      "displayScore": "Brand0 3 - Valentine 1",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1664160918,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11219211,
+            "participants": [
+              {
+                "player": {
+                  "id": 1117046,
+                  "gamerTag": "Brand0"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11217336,
+            "participants": [
+              {
+                "player": {
+                  "id": 404625,
+                  "gamerTag": "Valentine"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357887,
+      "winnerId": 11219211,
+      "displayScore": "Phorox 0 - Brand0 3",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1664155963,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11216433,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11219211,
+            "participants": [
+              {
+                "player": {
+                  "id": 1117046,
+                  "gamerTag": "Brand0"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357919,
+      "winnerId": 11217336,
+      "displayScore": "Phorox 2 - Valentine 3",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1664159768,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11216433,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11217336,
+            "participants": [
+              {
+                "player": {
+                  "id": 404625,
+                  "gamerTag": "Valentine"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357918,
+      "winnerId": 11217336,
+      "displayScore": "Valentine 3 - Gingerham 0",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1664157780,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11217336,
+            "participants": [
+              {
+                "player": {
+                  "id": 404625,
+                  "gamerTag": "Valentine"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11220043,
+            "participants": [
+              {
+                "player": {
+                  "id": 7194,
+                  "gamerTag": "Gingerham"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357885,
+      "winnerId": 11216433,
+      "displayScore": "Phorox 3 - Valentine 1",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1664155126,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11216433,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11217336,
+            "participants": [
+              {
+                "player": {
+                  "id": 404625,
+                  "gamerTag": "Valentine"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357886,
+      "winnerId": 11219211,
+      "displayScore": "Brand0 3 - Gingerham 1",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1664155061,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11219211,
+            "participants": [
+              {
+                "player": {
+                  "id": 1117046,
+                  "gamerTag": "Brand0"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11220043,
+            "participants": [
+              {
+                "player": {
+                  "id": 7194,
+                  "gamerTag": "Gingerham"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357916,
+      "winnerId": 11217336,
+      "displayScore": "Valentine 3 - Jinsu 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1664157078,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11217336,
+            "participants": [
+              {
+                "player": {
+                  "id": 404625,
+                  "gamerTag": "Valentine"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11217947,
+            "participants": [
+              {
+                "player": {
+                  "id": 400187,
+                  "gamerTag": "Jinsu"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357917,
+      "winnerId": 11220043,
+      "displayScore": "Gingerham 3 - DMA 1",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1664156601,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11220043,
+            "participants": [
+              {
+                "player": {
+                  "id": 7194,
+                  "gamerTag": "Gingerham"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11219273,
+            "participants": [
+              {
+                "player": {
+                  "id": 312911,
+                  "gamerTag": "DMA"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357914,
+      "winnerId": 11217947,
+      "displayScore": "Jinsu 3 - Visk 2",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1664156448,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11217947,
+            "participants": [
+              {
+                "player": {
+                  "id": 400187,
+                  "gamerTag": "Jinsu"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11219720,
+            "participants": [
+              {
+                "player": {
+                  "id": 46210,
+                  "gamerTag": "Fernilicious"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357915,
+      "winnerId": 11219273,
+      "displayScore": "Nukelele 0 - DMA 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1664155557,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11220231,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11219273,
+            "participants": [
+              {
+                "player": {
+                  "id": 312911,
+                  "gamerTag": "DMA"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357881,
+      "winnerId": 11216433,
+      "displayScore": "Phorox 3 - DMA 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1664153756,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11216433,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11219273,
+            "participants": [
+              {
+                "player": {
+                  "id": 312911,
+                  "gamerTag": "DMA"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357882,
+      "winnerId": 11217336,
+      "displayScore": "Valentine 3 - Nukelele 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1664153322,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11217336,
+            "participants": [
+              {
+                "player": {
+                  "id": 404625,
+                  "gamerTag": "Valentine"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11220231,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357883,
+      "winnerId": 11219211,
+      "displayScore": "Brand0 3 - Visk 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1664154275,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11219211,
+            "participants": [
+              {
+                "player": {
+                  "id": 1117046,
+                  "gamerTag": "Brand0"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11219720,
+            "participants": [
+              {
+                "player": {
+                  "id": 46210,
+                  "gamerTag": "Fernilicious"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357884,
+      "winnerId": 11220043,
+      "displayScore": "Gingerham 3 - Jinsu 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1664154174,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11220043,
+            "participants": [
+              {
+                "player": {
+                  "id": 7194,
+                  "gamerTag": "Gingerham"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11217947,
+            "participants": [
+              {
+                "player": {
+                  "id": 400187,
+                  "gamerTag": "Jinsu"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357910,
+      "winnerId": 11217947,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1664154669,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11217947,
+            "participants": [
+              {
+                "player": {
+                  "id": 400187,
+                  "gamerTag": "Jinsu"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11217533,
+            "participants": [
+              {
+                "player": {
+                  "id": 2021151,
+                  "gamerTag": "CC_1759"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357912,
+      "winnerId": 11220231,
+      "displayScore": "Nukelele 3 - eddb0ii 2",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1664154696,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11220231,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11220201,
+            "participants": [
+              {
+                "player": {
+                  "id": 2032235,
+                  "gamerTag": "eddb0ii"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357913,
+      "winnerId": 11219273,
+      "displayScore": "DMA 3 - Koops 0",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1664154479,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11219273,
+            "participants": [
+              {
+                "player": {
+                  "id": 312911,
+                  "gamerTag": "DMA"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11216450,
+            "participants": [
+              {
+                "player": {
+                  "id": 2162185,
+                  "gamerTag": "Koops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357874,
+      "winnerId": 11219273,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1664152995,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11219273,
+            "participants": [
+              {
+                "player": {
+                  "id": 312911,
+                  "gamerTag": "DMA"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11217533,
+            "participants": [
+              {
+                "player": {
+                  "id": 2021151,
+                  "gamerTag": "CC_1759"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357878,
+      "winnerId": 11219720,
+      "displayScore": "Visk 3 - eddb0ii 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1664153253,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11219720,
+            "participants": [
+              {
+                "player": {
+                  "id": 46210,
+                  "gamerTag": "Fernilicious"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11220201,
+            "participants": [
+              {
+                "player": {
+                  "id": 2032235,
+                  "gamerTag": "eddb0ii"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 52357880,
+      "winnerId": 11217947,
+      "displayScore": "Jinsu 3 - Koops 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1664153170,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11217947,
+            "participants": [
+              {
+                "player": {
+                  "id": 400187,
+                  "gamerTag": "Jinsu"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11216450,
+            "participants": [
+              {
+                "player": {
+                  "id": 2162185,
+                  "gamerTag": "Koops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 11219211,
+        "participants": [
+          {
+            "player": {
+              "id": 1117046,
+              "gamerTag": "Brand0"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 11217336,
+        "participants": [
+          {
+            "player": {
+              "id": 404625,
+              "gamerTag": "Valentine"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 11216433,
+        "participants": [
+          {
+            "player": {
+              "id": 1007304,
+              "gamerTag": "Phorox"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 11220043,
+        "participants": [
+          {
+            "player": {
+              "id": 7194,
+              "gamerTag": "Gingerham"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 11217947,
+        "participants": [
+          {
+            "player": {
+              "id": 400187,
+              "gamerTag": "Jinsu"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 11219273,
+        "participants": [
+          {
+            "player": {
+              "id": 312911,
+              "gamerTag": "DMA"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 11219720,
+        "participants": [
+          {
+            "player": {
+              "id": 46210,
+              "gamerTag": "Fernilicious"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 11220231,
+        "participants": [
+          {
+            "player": {
+              "id": 2156106,
+              "gamerTag": "Nukelele"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 11217533,
+        "participants": [
+          {
+            "player": {
+              "id": 2021151,
+              "gamerTag": "CC_1759"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 11220201,
+        "participants": [
+          {
+            "player": {
+              "id": 2032235,
+              "gamerTag": "eddb0ii"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 11216450,
+        "participants": [
+          {
+            "player": {
+              "id": 2162185,
+              "gamerTag": "Koops"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

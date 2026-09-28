@@ -1,0 +1,2932 @@
+{
+  "slug": "tournament/scss-75/event/scss-singles",
+  "event": {
+    "id": 735938,
+    "name": "SCSS Singles",
+    "startAt": 1655076600,
+    "numEntrants": 26,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS #75",
+      "slug": "tournament/scss-75"
+    }
+  },
+  "sets": [
+    {
+      "id": 48387116,
+      "winnerId": 10283316,
+      "displayScore": "DQ",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 7,
+      "completedAt": 1655084352,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283316,
+            "participants": [
+              {
+                "player": {
+                  "id": 848162,
+                  "gamerTag": "Saikou"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283364,
+            "participants": [
+              {
+                "player": {
+                  "id": 212497,
+                  "gamerTag": "tiebex"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387052,
+      "winnerId": 10283261,
+      "displayScore": "JSalt 3 - Cojajy 1",
+      "fullRoundText": "Grand Final",
+      "round": 6,
+      "completedAt": 1655086825,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283261,
+            "participants": [
+              {
+                "player": {
+                  "id": 7277,
+                  "gamerTag": "JSalt"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283464,
+            "participants": [
+              {
+                "player": {
+                  "id": 2627731,
+                  "gamerTag": "Cojajy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387051,
+      "winnerId": 10283261,
+      "displayScore": "JSalt 3 - Spooky! 2",
+      "fullRoundText": "Winners Final",
+      "round": 5,
+      "completedAt": 1655082060,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283261,
+            "participants": [
+              {
+                "player": {
+                  "id": 7277,
+                  "gamerTag": "JSalt"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10282972,
+            "participants": [
+              {
+                "player": {
+                  "id": 151868,
+                  "gamerTag": "Haven"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387115,
+      "winnerId": 10283464,
+      "displayScore": "Spooky! 2 - Cojajy 3",
+      "fullRoundText": "Losers Final",
+      "round": -10,
+      "completedAt": 1655085856,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10282972,
+            "participants": [
+              {
+                "player": {
+                  "id": 151868,
+                  "gamerTag": "Haven"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283464,
+            "participants": [
+              {
+                "player": {
+                  "id": 2627731,
+                  "gamerTag": "Cojajy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387114,
+      "winnerId": 10283464,
+      "displayScore": "MickGCC | Chipotle+ 2 - Cojajy 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -9,
+      "completedAt": 1655084804,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283423,
+            "participants": [
+              {
+                "player": {
+                  "id": 11716,
+                  "gamerTag": "chipotle+"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283464,
+            "participants": [
+              {
+                "player": {
+                  "id": 2627731,
+                  "gamerTag": "Cojajy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387049,
+      "winnerId": 10283261,
+      "displayScore": "JSalt 3 - Saikou 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 4,
+      "completedAt": 1655080444,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283261,
+            "participants": [
+              {
+                "player": {
+                  "id": 7277,
+                  "gamerTag": "JSalt"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283316,
+            "participants": [
+              {
+                "player": {
+                  "id": 848162,
+                  "gamerTag": "Saikou"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387050,
+      "winnerId": 10282972,
+      "displayScore": "tiebex 1 - Spooky! 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 4,
+      "completedAt": 1655080798,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283364,
+            "participants": [
+              {
+                "player": {
+                  "id": 212497,
+                  "gamerTag": "tiebex"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10282972,
+            "participants": [
+              {
+                "player": {
+                  "id": 151868,
+                  "gamerTag": "Haven"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387112,
+      "winnerId": 10283423,
+      "displayScore": "tiebex 0 - MickGCC | Chipotle+ 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -8,
+      "completedAt": 1655083035,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283364,
+            "participants": [
+              {
+                "player": {
+                  "id": 212497,
+                  "gamerTag": "tiebex"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283423,
+            "participants": [
+              {
+                "player": {
+                  "id": 11716,
+                  "gamerTag": "chipotle+"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387113,
+      "winnerId": 10283464,
+      "displayScore": "Saikou 2 - Cojajy 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -8,
+      "completedAt": 1655083714,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283316,
+            "participants": [
+              {
+                "player": {
+                  "id": 848162,
+                  "gamerTag": "Saikou"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283464,
+            "participants": [
+              {
+                "player": {
+                  "id": 2627731,
+                  "gamerTag": "Cojajy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387110,
+      "winnerId": 10283423,
+      "displayScore": "MickGCC | Chipotle+ 3 - gsm | Pound 0",
+      "fullRoundText": "Losers Round 5",
+      "round": -7,
+      "completedAt": 1655082437,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283423,
+            "participants": [
+              {
+                "player": {
+                  "id": 11716,
+                  "gamerTag": "chipotle+"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10281434,
+            "participants": [
+              {
+                "player": {
+                  "id": 1194651,
+                  "gamerTag": "Pound"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387111,
+      "winnerId": 10283464,
+      "displayScore": "Cojajy 3 - jame$ 2",
+      "fullRoundText": "Losers Round 5",
+      "round": -7,
+      "completedAt": 1655082484,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283464,
+            "participants": [
+              {
+                "player": {
+                  "id": 2627731,
+                  "gamerTag": "Cojajy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10280488,
+            "participants": [
+              {
+                "player": {
+                  "id": 2839082,
+                  "gamerTag": "asdf"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387045,
+      "winnerId": 10283261,
+      "displayScore": "JSalt 3 - Becca 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1655079233,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283261,
+            "participants": [
+              {
+                "player": {
+                  "id": 7277,
+                  "gamerTag": "JSalt"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283356,
+            "participants": [
+              {
+                "player": {
+                  "id": 2059100,
+                  "gamerTag": "Quiet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387046,
+      "winnerId": 10283316,
+      "displayScore": "Sawrik 2 - Saikou 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1655079730,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10282270,
+            "participants": [
+              {
+                "player": {
+                  "id": 5702,
+                  "gamerTag": "Sawrik"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283316,
+            "participants": [
+              {
+                "player": {
+                  "id": 848162,
+                  "gamerTag": "Saikou"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387047,
+      "winnerId": 10283364,
+      "displayScore": "tiebex 3 - jame$ 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1655079875,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283364,
+            "participants": [
+              {
+                "player": {
+                  "id": 212497,
+                  "gamerTag": "tiebex"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10280488,
+            "participants": [
+              {
+                "player": {
+                  "id": 2839082,
+                  "gamerTag": "asdf"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387048,
+      "winnerId": 10282972,
+      "displayScore": "Spooky! 3 - Cojajy 2",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1655079186,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10282972,
+            "participants": [
+              {
+                "player": {
+                  "id": 151868,
+                  "gamerTag": "Haven"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283464,
+            "participants": [
+              {
+                "player": {
+                  "id": 2627731,
+                  "gamerTag": "Cojajy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387106,
+      "winnerId": 10283423,
+      "displayScore": "Sawrik 0 - MickGCC | Chipotle+ 3",
+      "fullRoundText": "Losers Round 4",
+      "round": -6,
+      "completedAt": 1655080160,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10282270,
+            "participants": [
+              {
+                "player": {
+                  "id": 5702,
+                  "gamerTag": "Sawrik"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283423,
+            "participants": [
+              {
+                "player": {
+                  "id": 11716,
+                  "gamerTag": "chipotle+"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387107,
+      "winnerId": 10281434,
+      "displayScore": "Becca 0 - gsm | Pound 3",
+      "fullRoundText": "Losers Round 4",
+      "round": -6,
+      "completedAt": 1655081565,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283356,
+            "participants": [
+              {
+                "player": {
+                  "id": 2059100,
+                  "gamerTag": "Quiet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10281434,
+            "participants": [
+              {
+                "player": {
+                  "id": 1194651,
+                  "gamerTag": "Pound"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387108,
+      "winnerId": 10283464,
+      "displayScore": "Cojajy 3 - shoelegend88 1",
+      "fullRoundText": "Losers Round 4",
+      "round": -6,
+      "completedAt": 1655081339,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283464,
+            "participants": [
+              {
+                "player": {
+                  "id": 2627731,
+                  "gamerTag": "Cojajy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10282354,
+            "participants": [
+              {
+                "player": {
+                  "id": 47650,
+                  "gamerTag": "shoelegend"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387109,
+      "winnerId": 10280488,
+      "displayScore": "jame$ 3 - Zimberfizz 0",
+      "fullRoundText": "Losers Round 4",
+      "round": -6,
+      "completedAt": 1655081026,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10280488,
+            "participants": [
+              {
+                "player": {
+                  "id": 2839082,
+                  "gamerTag": "asdf"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10282263,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387102,
+      "winnerId": 10283423,
+      "displayScore": "parhelia 1 - MickGCC | Chipotle+ 3",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1655079715,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10280001,
+            "participants": [
+              {
+                "player": {
+                  "id": 27025,
+                  "gamerTag": "parhelia"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283423,
+            "participants": [
+              {
+                "player": {
+                  "id": 11716,
+                  "gamerTag": "chipotle+"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387103,
+      "winnerId": 10281434,
+      "displayScore": "gsm | Pound 3 - Mattress 0",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1655080941,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10281434,
+            "participants": [
+              {
+                "player": {
+                  "id": 1194651,
+                  "gamerTag": "Pound"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283474,
+            "participants": [
+              {
+                "player": {
+                  "id": 1864464,
+                  "gamerTag": "Mattress"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387104,
+      "winnerId": 10282354,
+      "displayScore": "Petedog 0 - shoelegend88 3",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1655080647,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283263,
+            "participants": [
+              {
+                "player": {
+                  "id": 2148147,
+                  "gamerTag": "Petedog"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10282354,
+            "participants": [
+              {
+                "player": {
+                  "id": 47650,
+                  "gamerTag": "shoelegend"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387105,
+      "winnerId": 10282263,
+      "displayScore": "phillyhoops 0 - Zimberfizz 3",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1655079999,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10280799,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10282263,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387037,
+      "winnerId": 10283261,
+      "displayScore": "JSalt 3 - Zimberfizz 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1655078550,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283261,
+            "participants": [
+              {
+                "player": {
+                  "id": 7277,
+                  "gamerTag": "JSalt"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10282263,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387038,
+      "winnerId": 10283356,
+      "displayScore": "Becca 3 - phillyhoops 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1655078469,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283356,
+            "participants": [
+              {
+                "player": {
+                  "id": 2059100,
+                  "gamerTag": "Quiet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10280799,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387039,
+      "winnerId": 10282270,
+      "displayScore": "Sawrik 3 - shoelegend88 1",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1655078489,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10282270,
+            "participants": [
+              {
+                "player": {
+                  "id": 5702,
+                  "gamerTag": "Sawrik"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10282354,
+            "participants": [
+              {
+                "player": {
+                  "id": 47650,
+                  "gamerTag": "shoelegend"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387040,
+      "winnerId": 10283316,
+      "displayScore": "Saikou 3 - Pigs 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1655078284,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283316,
+            "participants": [
+              {
+                "player": {
+                  "id": 848162,
+                  "gamerTag": "Saikou"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10281465,
+            "participants": [
+              {
+                "player": {
+                  "id": 1795654,
+                  "gamerTag": "Pigs"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387041,
+      "winnerId": 10283364,
+      "displayScore": "tiebex 3 - N80 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1655078721,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283364,
+            "participants": [
+              {
+                "player": {
+                  "id": 212497,
+                  "gamerTag": "tiebex"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283214,
+            "participants": [
+              {
+                "player": {
+                  "id": 36682,
+                  "gamerTag": "N80"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387042,
+      "winnerId": 10280488,
+      "displayScore": "jame$ 3 - gsm | Pound 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1655078677,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10280488,
+            "participants": [
+              {
+                "player": {
+                  "id": 2839082,
+                  "gamerTag": "asdf"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10281434,
+            "participants": [
+              {
+                "player": {
+                  "id": 1194651,
+                  "gamerTag": "Pound"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387043,
+      "winnerId": 10282972,
+      "displayScore": "MickGCC | Chipotle+ 1 - Spooky! 3",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1655078315,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283423,
+            "participants": [
+              {
+                "player": {
+                  "id": 11716,
+                  "gamerTag": "chipotle+"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10282972,
+            "participants": [
+              {
+                "player": {
+                  "id": 151868,
+                  "gamerTag": "Haven"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387044,
+      "winnerId": 10283464,
+      "displayScore": "Cojajy 3 - Mewo 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1655078056,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283464,
+            "participants": [
+              {
+                "player": {
+                  "id": 2627731,
+                  "gamerTag": "Cojajy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283363,
+            "participants": [
+              {
+                "player": {
+                  "id": 675701,
+                  "gamerTag": "Mewo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387094,
+      "winnerId": 10280001,
+      "displayScore": "Mewo 1 - parhelia 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1655078728,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283363,
+            "participants": [
+              {
+                "player": {
+                  "id": 675701,
+                  "gamerTag": "Mewo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10280001,
+            "participants": [
+              {
+                "player": {
+                  "id": 27025,
+                  "gamerTag": "parhelia"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387095,
+      "winnerId": 10283423,
+      "displayScore": "MickGCC | Chipotle+ 3 - Mootu 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1655079028,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283423,
+            "participants": [
+              {
+                "player": {
+                  "id": 11716,
+                  "gamerTag": "chipotle+"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10280858,
+            "participants": [
+              {
+                "player": {
+                  "id": 34279,
+                  "gamerTag": "moneybangs"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387096,
+      "winnerId": 10281434,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1655079319,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10281434,
+            "participants": [
+              {
+                "player": {
+                  "id": 1194651,
+                  "gamerTag": "Pound"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10281837,
+            "participants": [
+              {
+                "player": {
+                  "id": 1562522,
+                  "gamerTag": "PuppyCat"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387097,
+      "winnerId": 10283474,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1655079974,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283214,
+            "participants": [
+              {
+                "player": {
+                  "id": 36682,
+                  "gamerTag": "N80"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283474,
+            "participants": [
+              {
+                "player": {
+                  "id": 1864464,
+                  "gamerTag": "Mattress"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387098,
+      "winnerId": 10283263,
+      "displayScore": "Pigs 1 - Petedog 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1655079930,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10281465,
+            "participants": [
+              {
+                "player": {
+                  "id": 1795654,
+                  "gamerTag": "Pigs"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283263,
+            "participants": [
+              {
+                "player": {
+                  "id": 2148147,
+                  "gamerTag": "Petedog"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387099,
+      "winnerId": 10282354,
+      "displayScore": "shoelegend88 3 - Rambler 1",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1655079689,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10282354,
+            "participants": [
+              {
+                "player": {
+                  "id": 47650,
+                  "gamerTag": "shoelegend"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283428,
+            "participants": [
+              {
+                "player": {
+                  "id": 607268,
+                  "gamerTag": "Rambler"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387100,
+      "winnerId": 10280799,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1655079136,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10280799,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10267219,
+            "participants": [
+              {
+                "player": {
+                  "id": 2768432,
+                  "gamerTag": "WorldPeace"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387101,
+      "winnerId": 10282263,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1655079193,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10282263,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10282238,
+            "participants": [
+              {
+                "player": {
+                  "id": 5630,
+                  "gamerTag": "STOC"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387087,
+      "winnerId": 10280858,
+      "displayScore": "krotil 0 - Mootu 3",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1655078544,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10279839,
+            "participants": [
+              {
+                "player": {
+                  "id": 2836409,
+                  "gamerTag": "krotil"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10280858,
+            "participants": [
+              {
+                "player": {
+                  "id": 34279,
+                  "gamerTag": "moneybangs"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387091,
+      "winnerId": 10283428,
+      "displayScore": "Rambler 3 - The Madman 0",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1655078376,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283428,
+            "participants": [
+              {
+                "player": {
+                  "id": 607268,
+                  "gamerTag": "Rambler"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10280493,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387022,
+      "winnerId": 10282263,
+      "displayScore": "parhelia 0 - Zimberfizz 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1655077844,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10280001,
+            "participants": [
+              {
+                "player": {
+                  "id": 27025,
+                  "gamerTag": "parhelia"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10282263,
+            "participants": [
+              {
+                "player": {
+                  "id": 2600974,
+                  "gamerTag": "Zimberfizz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387023,
+      "winnerId": 10283356,
+      "displayScore": "Becca 3 - krotil 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1655077348,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283356,
+            "participants": [
+              {
+                "player": {
+                  "id": 2059100,
+                  "gamerTag": "Quiet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10279839,
+            "participants": [
+              {
+                "player": {
+                  "id": 2836409,
+                  "gamerTag": "krotil"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387024,
+      "winnerId": 10280799,
+      "displayScore": "phillyhoops 3 - Mootu 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1655077804,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10280799,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10280858,
+            "participants": [
+              {
+                "player": {
+                  "id": 34279,
+                  "gamerTag": "moneybangs"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387026,
+      "winnerId": 10282354,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1655077272,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10282354,
+            "participants": [
+              {
+                "player": {
+                  "id": 47650,
+                  "gamerTag": "shoelegend"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10281837,
+            "participants": [
+              {
+                "player": {
+                  "id": 1562522,
+                  "gamerTag": "PuppyCat"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387028,
+      "winnerId": 10281465,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1655077272,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283474,
+            "participants": [
+              {
+                "player": {
+                  "id": 1864464,
+                  "gamerTag": "Mattress"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10281465,
+            "participants": [
+              {
+                "player": {
+                  "id": 1795654,
+                  "gamerTag": "Pigs"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387030,
+      "winnerId": 10283214,
+      "displayScore": "N80 3 - Petedog 2",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1655078187,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283214,
+            "participants": [
+              {
+                "player": {
+                  "id": 36682,
+                  "gamerTag": "N80"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283263,
+            "participants": [
+              {
+                "player": {
+                  "id": 2148147,
+                  "gamerTag": "Petedog"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387031,
+      "winnerId": 10280488,
+      "displayScore": "Rambler 0 - jame$ 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1655077556,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10283428,
+            "participants": [
+              {
+                "player": {
+                  "id": 607268,
+                  "gamerTag": "Rambler"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10280488,
+            "participants": [
+              {
+                "player": {
+                  "id": 2839082,
+                  "gamerTag": "asdf"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387032,
+      "winnerId": 10281434,
+      "displayScore": "gsm | Pound 3 - The Madman 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1655077227,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10281434,
+            "participants": [
+              {
+                "player": {
+                  "id": 1194651,
+                  "gamerTag": "Pound"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10280493,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387034,
+      "winnerId": 10282972,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1655077272,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10282972,
+            "participants": [
+              {
+                "player": {
+                  "id": 151868,
+                  "gamerTag": "Haven"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10267219,
+            "participants": [
+              {
+                "player": {
+                  "id": 2768432,
+                  "gamerTag": "WorldPeace"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 48387036,
+      "winnerId": 10283363,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1655077272,
+      "slots": [
+        {
+          "entrant": {
+            "id": 10282238,
+            "participants": [
+              {
+                "player": {
+                  "id": 5630,
+                  "gamerTag": "STOC"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 10283363,
+            "participants": [
+              {
+                "player": {
+                  "id": 675701,
+                  "gamerTag": "Mewo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 10283261,
+        "participants": [
+          {
+            "player": {
+              "id": 7277,
+              "gamerTag": "JSalt"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 10283464,
+        "participants": [
+          {
+            "player": {
+              "id": 2627731,
+              "gamerTag": "Cojajy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 10282972,
+        "participants": [
+          {
+            "player": {
+              "id": 151868,
+              "gamerTag": "Haven"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 10283423,
+        "participants": [
+          {
+            "player": {
+              "id": 11716,
+              "gamerTag": "chipotle+"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 10283316,
+        "participants": [
+          {
+            "player": {
+              "id": 848162,
+              "gamerTag": "Saikou"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 10283364,
+        "participants": [
+          {
+            "player": {
+              "id": 212497,
+              "gamerTag": "tiebex"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 10280488,
+        "participants": [
+          {
+            "player": {
+              "id": 2839082,
+              "gamerTag": "asdf"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 10281434,
+        "participants": [
+          {
+            "player": {
+              "id": 1194651,
+              "gamerTag": "Pound"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 10282263,
+        "participants": [
+          {
+            "player": {
+              "id": 2600974,
+              "gamerTag": "Zimberfizz"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 10282354,
+        "participants": [
+          {
+            "player": {
+              "id": 47650,
+              "gamerTag": "shoelegend"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 10282270,
+        "participants": [
+          {
+            "player": {
+              "id": 5702,
+              "gamerTag": "Sawrik"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 10283356,
+        "participants": [
+          {
+            "player": {
+              "id": 2059100,
+              "gamerTag": "Quiet"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 10280001,
+        "participants": [
+          {
+            "player": {
+              "id": 27025,
+              "gamerTag": "parhelia"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 10283474,
+        "participants": [
+          {
+            "player": {
+              "id": 1864464,
+              "gamerTag": "Mattress"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 10283263,
+        "participants": [
+          {
+            "player": {
+              "id": 2148147,
+              "gamerTag": "Petedog"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 10280799,
+        "participants": [
+          {
+            "player": {
+              "id": 1482652,
+              "gamerTag": "phillyhoops"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 10281837,
+        "participants": [
+          {
+            "player": {
+              "id": 1562522,
+              "gamerTag": "PuppyCat"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 10281465,
+        "participants": [
+          {
+            "player": {
+              "id": 1795654,
+              "gamerTag": "Pigs"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 10283214,
+        "participants": [
+          {
+            "player": {
+              "id": 36682,
+              "gamerTag": "N80"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 10267219,
+        "participants": [
+          {
+            "player": {
+              "id": 2768432,
+              "gamerTag": "WorldPeace"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 10282238,
+        "participants": [
+          {
+            "player": {
+              "id": 5630,
+              "gamerTag": "STOC"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 10283363,
+        "participants": [
+          {
+            "player": {
+              "id": 675701,
+              "gamerTag": "Mewo"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 10280858,
+        "participants": [
+          {
+            "player": {
+              "id": 34279,
+              "gamerTag": "moneybangs"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 10283428,
+        "participants": [
+          {
+            "player": {
+              "id": 607268,
+              "gamerTag": "Rambler"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 25,
+      "entrant": {
+        "id": 10279839,
+        "participants": [
+          {
+            "player": {
+              "id": 2836409,
+              "gamerTag": "krotil"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 25,
+      "entrant": {
+        "id": 10280493,
+        "participants": [
+          {
+            "player": {
+              "id": 2197580,
+              "gamerTag": "The Madman"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

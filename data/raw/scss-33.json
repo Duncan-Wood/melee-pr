@@ -1,0 +1,1172 @@
+{
+  "slug": "tournament/scss-33/event/scss-singles",
+  "event": {
+    "id": 603460,
+    "name": "SCSS Singles",
+    "startAt": 1627860600,
+    "numEntrants": 11,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS #33",
+      "slug": "tournament/scss-33"
+    }
+  },
+  "sets": [
+    {
+      "id": 39335639,
+      "winnerId": 7986829,
+      "displayScore": "Rascal 3 - gsm | Pound 2",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1627868311,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7986829,
+            "participants": [
+              {
+                "player": {
+                  "id": 503063,
+                  "gamerTag": "Rascal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7987228,
+            "participants": [
+              {
+                "player": {
+                  "id": 1194651,
+                  "gamerTag": "Pound"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335638,
+      "winnerId": 7986829,
+      "displayScore": "Rascal 3 - LIAM#697 | Shleeum 1",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1627864896,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7986829,
+            "participants": [
+              {
+                "player": {
+                  "id": 503063,
+                  "gamerTag": "Rascal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7987021,
+            "participants": [
+              {
+                "player": {
+                  "id": 67740,
+                  "gamerTag": "Shleeum"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335670,
+      "winnerId": 7987228,
+      "displayScore": "LIAM#697 | Shleeum 2 - gsm | Pound 3",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1627867210,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7987021,
+            "participants": [
+              {
+                "player": {
+                  "id": 67740,
+                  "gamerTag": "Shleeum"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7987228,
+            "participants": [
+              {
+                "player": {
+                  "id": 1194651,
+                  "gamerTag": "Pound"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335669,
+      "winnerId": 7987228,
+      "displayScore": "Pinky 2 - gsm | Pound 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1627865656,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7984545,
+            "participants": [
+              {
+                "player": {
+                  "id": 152940,
+                  "gamerTag": "Clementine"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7987228,
+            "participants": [
+              {
+                "player": {
+                  "id": 1194651,
+                  "gamerTag": "Pound"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335636,
+      "winnerId": 7986829,
+      "displayScore": "Pinky 0 - Rascal 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1627862887,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7984545,
+            "participants": [
+              {
+                "player": {
+                  "id": 152940,
+                  "gamerTag": "Clementine"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7986829,
+            "participants": [
+              {
+                "player": {
+                  "id": 503063,
+                  "gamerTag": "Rascal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335637,
+      "winnerId": 7987021,
+      "displayScore": "gsm | Pound 2 - LIAM#697 | Shleeum 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1627863923,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7987228,
+            "participants": [
+              {
+                "player": {
+                  "id": 1194651,
+                  "gamerTag": "Pound"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7987021,
+            "participants": [
+              {
+                "player": {
+                  "id": 67740,
+                  "gamerTag": "Shleeum"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335667,
+      "winnerId": 7984545,
+      "displayScore": "Pinky 3 - Eastnutz 2",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1627864158,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7984545,
+            "participants": [
+              {
+                "player": {
+                  "id": 152940,
+                  "gamerTag": "Clementine"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7987065,
+            "participants": [
+              {
+                "player": {
+                  "id": 2305751,
+                  "gamerTag": "Eastnutz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335668,
+      "winnerId": 7987228,
+      "displayScore": "gsm | Pound 3 - DULL | Roychu 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1627864325,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7987228,
+            "participants": [
+              {
+                "player": {
+                  "id": 1194651,
+                  "gamerTag": "Pound"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7979812,
+            "participants": [
+              {
+                "player": {
+                  "id": 151027,
+                  "gamerTag": "Shukle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335665,
+      "winnerId": 7987065,
+      "displayScore": "The Madman 0 - Eastnutz 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1627862931,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7986060,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7987065,
+            "participants": [
+              {
+                "player": {
+                  "id": 2305751,
+                  "gamerTag": "Eastnutz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335666,
+      "winnerId": 7979812,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1627863208,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7979433,
+            "participants": [
+              {
+                "player": {
+                  "id": 533603,
+                  "gamerTag": "Stork"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7979812,
+            "participants": [
+              {
+                "player": {
+                  "id": 151027,
+                  "gamerTag": "Shukle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335632,
+      "winnerId": 7984545,
+      "displayScore": "Pinky 3 - DULL | Roychu 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1627862051,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7984545,
+            "participants": [
+              {
+                "player": {
+                  "id": 152940,
+                  "gamerTag": "Clementine"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7979812,
+            "participants": [
+              {
+                "player": {
+                  "id": 151027,
+                  "gamerTag": "Shukle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335633,
+      "winnerId": 7986829,
+      "displayScore": "L_? | Jewel 1 - Rascal 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1627861837,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7979433,
+            "participants": [
+              {
+                "player": {
+                  "id": 533603,
+                  "gamerTag": "Stork"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7986829,
+            "participants": [
+              {
+                "player": {
+                  "id": 503063,
+                  "gamerTag": "Rascal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335634,
+      "winnerId": 7987228,
+      "displayScore": "gsm | Pound 3 - Eastnutz 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1627862227,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7987228,
+            "participants": [
+              {
+                "player": {
+                  "id": 1194651,
+                  "gamerTag": "Pound"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7987065,
+            "participants": [
+              {
+                "player": {
+                  "id": 2305751,
+                  "gamerTag": "Eastnutz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335635,
+      "winnerId": 7987021,
+      "displayScore": "LIAM#697 | Shleeum 3 - The Madman 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1627862207,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7987021,
+            "participants": [
+              {
+                "player": {
+                  "id": 67740,
+                  "gamerTag": "Shleeum"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7986060,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335661,
+      "winnerId": 7986060,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1627862253,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7986060,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7986869,
+            "participants": [
+              {
+                "player": {
+                  "id": 1989729,
+                  "gamerTag": "nips"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335663,
+      "winnerId": 7979433,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1627861978,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7979433,
+            "participants": [
+              {
+                "player": {
+                  "id": 533603,
+                  "gamerTag": "Stork"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7985526,
+            "participants": [
+              {
+                "player": {
+                  "id": 2363545,
+                  "gamerTag": "Drgz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335664,
+      "winnerId": 7979812,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1627862231,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7979812,
+            "participants": [
+              {
+                "player": {
+                  "id": 151027,
+                  "gamerTag": "Shukle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7986973,
+            "participants": [
+              {
+                "player": {
+                  "id": 2373667,
+                  "gamerTag": "Nweed"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335625,
+      "winnerId": 7979812,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1627861282,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7986869,
+            "participants": [
+              {
+                "player": {
+                  "id": 1989729,
+                  "gamerTag": "nips"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7979812,
+            "participants": [
+              {
+                "player": {
+                  "id": 151027,
+                  "gamerTag": "Shukle"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335629,
+      "winnerId": 7987065,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1627861282,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7985526,
+            "participants": [
+              {
+                "player": {
+                  "id": 2363545,
+                  "gamerTag": "Drgz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7987065,
+            "participants": [
+              {
+                "player": {
+                  "id": 2305751,
+                  "gamerTag": "Eastnutz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39335631,
+      "winnerId": 7986060,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1627861282,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7986973,
+            "participants": [
+              {
+                "player": {
+                  "id": 2373667,
+                  "gamerTag": "Nweed"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7986060,
+            "participants": [
+              {
+                "player": {
+                  "id": 2197580,
+                  "gamerTag": "The Madman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 7986829,
+        "participants": [
+          {
+            "player": {
+              "id": 503063,
+              "gamerTag": "Rascal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 7987228,
+        "participants": [
+          {
+            "player": {
+              "id": 1194651,
+              "gamerTag": "Pound"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 7987021,
+        "participants": [
+          {
+            "player": {
+              "id": 67740,
+              "gamerTag": "Shleeum"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 7984545,
+        "participants": [
+          {
+            "player": {
+              "id": 152940,
+              "gamerTag": "Clementine"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 7979812,
+        "participants": [
+          {
+            "player": {
+              "id": 151027,
+              "gamerTag": "Shukle"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 7987065,
+        "participants": [
+          {
+            "player": {
+              "id": 2305751,
+              "gamerTag": "Eastnutz"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 7986060,
+        "participants": [
+          {
+            "player": {
+              "id": 2197580,
+              "gamerTag": "The Madman"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 7979433,
+        "participants": [
+          {
+            "player": {
+              "id": 533603,
+              "gamerTag": "Stork"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7986869,
+        "participants": [
+          {
+            "player": {
+              "id": 1989729,
+              "gamerTag": "nips"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7985526,
+        "participants": [
+          {
+            "player": {
+              "id": 2363545,
+              "gamerTag": "Drgz"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7986973,
+        "participants": [
+          {
+            "player": {
+              "id": 2373667,
+              "gamerTag": "Nweed"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

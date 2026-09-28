@@ -1,0 +1,1400 @@
+{
+  "slug": "tournament/scss-west-coast-38/event/scss-west-coast-singles",
+  "event": {
+    "id": 655653,
+    "name": "SCSS West Coast Singles",
+    "startAt": 1638754200,
+    "numEntrants": 13,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #38",
+      "slug": "tournament/scss-west-coast-38"
+    }
+  },
+  "sets": [
+    {
+      "id": 42962720,
+      "winnerId": 8893215,
+      "displayScore": "MF | Sock 3 - Rasec 1",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1638763300,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8893215,
+            "participants": [
+              {
+                "player": {
+                  "id": 223213,
+                  "gamerTag": "The Prince of Penrith"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8893063,
+            "participants": [
+              {
+                "player": {
+                  "id": 358739,
+                  "gamerTag": "Rasec"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962719,
+      "winnerId": 8893215,
+      "displayScore": "MF | Sock 3 - Rasec 0",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1638758419,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8893215,
+            "participants": [
+              {
+                "player": {
+                  "id": 223213,
+                  "gamerTag": "The Prince of Penrith"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8893063,
+            "participants": [
+              {
+                "player": {
+                  "id": 358739,
+                  "gamerTag": "Rasec"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962751,
+      "winnerId": 8893063,
+      "displayScore": "Rasec 3 - Divine Senator Kelly 1",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1638762243,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8893063,
+            "participants": [
+              {
+                "player": {
+                  "id": 358739,
+                  "gamerTag": "Rasec"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8893768,
+            "participants": [
+              {
+                "player": {
+                  "id": 41492,
+                  "gamerTag": "Divine Senator Kelly"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962750,
+      "winnerId": 8893768,
+      "displayScore": "LanTurN 0 - Divine Senator Kelly 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1638761435,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8893889,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8893768,
+            "participants": [
+              {
+                "player": {
+                  "id": 41492,
+                  "gamerTag": "Divine Senator Kelly"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962717,
+      "winnerId": 8893215,
+      "displayScore": "MF | Sock 3 - GhettoTastic 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1638757117,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8893215,
+            "participants": [
+              {
+                "player": {
+                  "id": 223213,
+                  "gamerTag": "The Prince of Penrith"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8893519,
+            "participants": [
+              {
+                "player": {
+                  "id": 4578,
+                  "gamerTag": "GhettoTastic"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962718,
+      "winnerId": 8893063,
+      "displayScore": "Blue 1 - Rasec 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1638757662,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8893298,
+            "participants": [
+              {
+                "player": {
+                  "id": 2190837,
+                  "gamerTag": "Blue"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8893063,
+            "participants": [
+              {
+                "player": {
+                  "id": 358739,
+                  "gamerTag": "Rasec"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962748,
+      "winnerId": 8893889,
+      "displayScore": "GhettoTastic 0 - LanTurN 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1638760744,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8893519,
+            "participants": [
+              {
+                "player": {
+                  "id": 4578,
+                  "gamerTag": "GhettoTastic"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8893889,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962749,
+      "winnerId": 8893768,
+      "displayScore": "Blue 0 - Divine Senator Kelly 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1638759894,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8893298,
+            "participants": [
+              {
+                "player": {
+                  "id": 2190837,
+                  "gamerTag": "Blue"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8893768,
+            "participants": [
+              {
+                "player": {
+                  "id": 41492,
+                  "gamerTag": "Divine Senator Kelly"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962746,
+      "winnerId": 8893889,
+      "displayScore": "LanTurN 3 - Oswald 1",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1638759900,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8893889,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8893646,
+            "participants": [
+              {
+                "player": {
+                  "id": 1411495,
+                  "gamerTag": "Oswald"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962747,
+      "winnerId": 8893768,
+      "displayScore": "LVD | Meeech 0 - Divine Senator Kelly 3",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1638759261,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8884891,
+            "participants": [
+              {
+                "player": {
+                  "id": 138904,
+                  "gamerTag": "Meeech"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8893768,
+            "participants": [
+              {
+                "player": {
+                  "id": 41492,
+                  "gamerTag": "Divine Senator Kelly"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962713,
+      "winnerId": 8893215,
+      "displayScore": "MF | Sock 3 - Divine Senator Kelly 2",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1638756568,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8893215,
+            "participants": [
+              {
+                "player": {
+                  "id": 223213,
+                  "gamerTag": "The Prince of Penrith"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8893768,
+            "participants": [
+              {
+                "player": {
+                  "id": 41492,
+                  "gamerTag": "Divine Senator Kelly"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962714,
+      "winnerId": 8893519,
+      "displayScore": "GhettoTastic 3 - LVD | Meeech 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1638755650,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8893519,
+            "participants": [
+              {
+                "player": {
+                  "id": 4578,
+                  "gamerTag": "GhettoTastic"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8884891,
+            "participants": [
+              {
+                "player": {
+                  "id": 138904,
+                  "gamerTag": "Meeech"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962715,
+      "winnerId": 8893298,
+      "displayScore": "Blue 3 - Oswald 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1638756378,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8893298,
+            "participants": [
+              {
+                "player": {
+                  "id": 2190837,
+                  "gamerTag": "Blue"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8893646,
+            "participants": [
+              {
+                "player": {
+                  "id": 1411495,
+                  "gamerTag": "Oswald"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962716,
+      "winnerId": 8893063,
+      "displayScore": "Rasec 3 - James Jr 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1638756394,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8893063,
+            "participants": [
+              {
+                "player": {
+                  "id": 358739,
+                  "gamerTag": "Rasec"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8892714,
+            "participants": [
+              {
+                "player": {
+                  "id": 280011,
+                  "gamerTag": "James Jr"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962742,
+      "winnerId": 8893889,
+      "displayScore": "James Jr 0 - LanTurN 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1638757632,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8892714,
+            "participants": [
+              {
+                "player": {
+                  "id": 280011,
+                  "gamerTag": "James Jr"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8893889,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962743,
+      "winnerId": 8893646,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1638757261,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8893646,
+            "participants": [
+              {
+                "player": {
+                  "id": 1411495,
+                  "gamerTag": "Oswald"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8888649,
+            "participants": [
+              {
+                "player": {
+                  "id": 173923,
+                  "gamerTag": "QBALLA"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962744,
+      "winnerId": 8884891,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1638756278,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8884891,
+            "participants": [
+              {
+                "player": {
+                  "id": 138904,
+                  "gamerTag": "Meeech"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8882133,
+            "participants": [
+              {
+                "player": {
+                  "id": 18632,
+                  "gamerTag": "Bangs"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962745,
+      "winnerId": 8893768,
+      "displayScore": "Divine Senator Kelly 3 - BEBO 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1638758387,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8893768,
+            "participants": [
+              {
+                "player": {
+                  "id": 41492,
+                  "gamerTag": "Divine Senator Kelly"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8893527,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962739,
+      "winnerId": 8888649,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1638755540,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8887238,
+            "participants": [
+              {
+                "player": {
+                  "id": 2559718,
+                  "gamerTag": "SecretlyJay"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8888649,
+            "participants": [
+              {
+                "player": {
+                  "id": 173923,
+                  "gamerTag": "QBALLA"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962706,
+      "winnerId": 8893768,
+      "displayScore": "LanTurN 1 - Divine Senator Kelly 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1638755616,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8893889,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8893768,
+            "participants": [
+              {
+                "player": {
+                  "id": 41492,
+                  "gamerTag": "Divine Senator Kelly"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962707,
+      "winnerId": 8893519,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1638754882,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8893519,
+            "participants": [
+              {
+                "player": {
+                  "id": 4578,
+                  "gamerTag": "GhettoTastic"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8887238,
+            "participants": [
+              {
+                "player": {
+                  "id": 2559718,
+                  "gamerTag": "SecretlyJay"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962708,
+      "winnerId": 8884891,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1638754882,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8888649,
+            "participants": [
+              {
+                "player": {
+                  "id": 173923,
+                  "gamerTag": "QBALLA"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8884891,
+            "participants": [
+              {
+                "player": {
+                  "id": 138904,
+                  "gamerTag": "Meeech"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962710,
+      "winnerId": 8893646,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1638754882,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8882133,
+            "participants": [
+              {
+                "player": {
+                  "id": 18632,
+                  "gamerTag": "Bangs"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8893646,
+            "participants": [
+              {
+                "player": {
+                  "id": 1411495,
+                  "gamerTag": "Oswald"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 42962712,
+      "winnerId": 8892714,
+      "displayScore": "James Jr 3 - BEBO 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1638755604,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8892714,
+            "participants": [
+              {
+                "player": {
+                  "id": 280011,
+                  "gamerTag": "James Jr"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8893527,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 8893215,
+        "participants": [
+          {
+            "player": {
+              "id": 223213,
+              "gamerTag": "The Prince of Penrith"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 8893063,
+        "participants": [
+          {
+            "player": {
+              "id": 358739,
+              "gamerTag": "Rasec"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 8893768,
+        "participants": [
+          {
+            "player": {
+              "id": 41492,
+              "gamerTag": "Divine Senator Kelly"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 8893889,
+        "participants": [
+          {
+            "player": {
+              "id": 329937,
+              "gamerTag": "LanTurN"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 8893298,
+        "participants": [
+          {
+            "player": {
+              "id": 2190837,
+              "gamerTag": "Blue"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 8893519,
+        "participants": [
+          {
+            "player": {
+              "id": 4578,
+              "gamerTag": "GhettoTastic"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 8893646,
+        "participants": [
+          {
+            "player": {
+              "id": 1411495,
+              "gamerTag": "Oswald"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 8884891,
+        "participants": [
+          {
+            "player": {
+              "id": 138904,
+              "gamerTag": "Meeech"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8882133,
+        "participants": [
+          {
+            "player": {
+              "id": 18632,
+              "gamerTag": "Bangs"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8892714,
+        "participants": [
+          {
+            "player": {
+              "id": 280011,
+              "gamerTag": "James Jr"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8893527,
+        "participants": [
+          {
+            "player": {
+              "id": 360229,
+              "gamerTag": "BEBO"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8888649,
+        "participants": [
+          {
+            "player": {
+              "id": 173923,
+              "gamerTag": "QBALLA"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 8887238,
+        "participants": [
+          {
+            "player": {
+              "id": 2559718,
+              "gamerTag": "SecretlyJay"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

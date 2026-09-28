@@ -1,0 +1,2362 @@
+{
+  "slug": "tournament/scss-west-coast-24/event/scss-west-coast-singles",
+  "event": {
+    "id": 610435,
+    "name": "SCSS West Coast Singles",
+    "startAt": 1629678600,
+    "numEntrants": 21,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #24",
+      "slug": "tournament/scss-west-coast-24"
+    }
+  },
+  "sets": [
+    {
+      "id": 39910215,
+      "winnerId": 8128475,
+      "displayScore": "Dr. Grin 2 - Cent 3",
+      "fullRoundText": "Grand Final",
+      "round": 6,
+      "completedAt": 1629689097,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8127881,
+            "participants": [
+              {
+                "player": {
+                  "id": 4259,
+                  "gamerTag": "Dr. Grin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128475,
+            "participants": [
+              {
+                "player": {
+                  "id": 623487,
+                  "gamerTag": "Cent"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910216,
+      "winnerId": 8127881,
+      "displayScore": "Cent 2 - Dr. Grin 3",
+      "fullRoundText": "Grand Final Reset",
+      "round": 6,
+      "completedAt": 1629691218,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8128475,
+            "participants": [
+              {
+                "player": {
+                  "id": 623487,
+                  "gamerTag": "Cent"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8127881,
+            "participants": [
+              {
+                "player": {
+                  "id": 4259,
+                  "gamerTag": "Dr. Grin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910214,
+      "winnerId": 8127881,
+      "displayScore": "Dr. Grin 3 - Cent 0",
+      "fullRoundText": "Winners Final",
+      "round": 5,
+      "completedAt": 1629684604,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8127881,
+            "participants": [
+              {
+                "player": {
+                  "id": 4259,
+                  "gamerTag": "Dr. Grin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128475,
+            "participants": [
+              {
+                "player": {
+                  "id": 623487,
+                  "gamerTag": "Cent"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910278,
+      "winnerId": 8128475,
+      "displayScore": "Cent 3 - Niconics 1",
+      "fullRoundText": "Losers Final",
+      "round": -10,
+      "completedAt": 1629687930,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8128475,
+            "participants": [
+              {
+                "player": {
+                  "id": 623487,
+                  "gamerTag": "Cent"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128496,
+            "participants": [
+              {
+                "player": {
+                  "id": 281925,
+                  "gamerTag": "Niconics"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910277,
+      "winnerId": 8128496,
+      "displayScore": "Niconics 2 - N8v 0",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -9,
+      "completedAt": 1629686256,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8128496,
+            "participants": [
+              {
+                "player": {
+                  "id": 281925,
+                  "gamerTag": "Niconics"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128614,
+            "participants": [
+              {
+                "player": {
+                  "id": 617254,
+                  "gamerTag": "N8v"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910212,
+      "winnerId": 8127881,
+      "displayScore": "Dr. Grin 3 - Solomon 1",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 4,
+      "completedAt": 1629682990,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8127881,
+            "participants": [
+              {
+                "player": {
+                  "id": 4259,
+                  "gamerTag": "Dr. Grin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8127527,
+            "participants": [
+              {
+                "player": {
+                  "id": 4317,
+                  "gamerTag": "20,000 Lions"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910213,
+      "winnerId": 8128475,
+      "displayScore": "DMT 2 - Cent 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 4,
+      "completedAt": 1629683680,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8125959,
+            "participants": [
+              {
+                "player": {
+                  "id": 231685,
+                  "gamerTag": "DMT"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128475,
+            "participants": [
+              {
+                "player": {
+                  "id": 623487,
+                  "gamerTag": "Cent"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910275,
+      "winnerId": 8128496,
+      "displayScore": "DMT 2 - Niconics 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -8,
+      "completedAt": 1629685265,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8125959,
+            "participants": [
+              {
+                "player": {
+                  "id": 231685,
+                  "gamerTag": "DMT"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128496,
+            "participants": [
+              {
+                "player": {
+                  "id": 281925,
+                  "gamerTag": "Niconics"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910276,
+      "winnerId": 8128614,
+      "displayScore": "Solomon 1 - N8v 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -8,
+      "completedAt": 1629685790,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8127527,
+            "participants": [
+              {
+                "player": {
+                  "id": 4317,
+                  "gamerTag": "20,000 Lions"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128614,
+            "participants": [
+              {
+                "player": {
+                  "id": 617254,
+                  "gamerTag": "N8v"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910273,
+      "winnerId": 8128496,
+      "displayScore": "SMYD | Lil Sosa 0 - Niconics 3",
+      "fullRoundText": "Losers Round 4",
+      "round": -7,
+      "completedAt": 1629683789,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8127244,
+            "participants": [
+              {
+                "player": {
+                  "id": 2219293,
+                  "gamerTag": "Sosa"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128496,
+            "participants": [
+              {
+                "player": {
+                  "id": 281925,
+                  "gamerTag": "Niconics"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910274,
+      "winnerId": 8128614,
+      "displayScore": "ayeh 1 - N8v 3",
+      "fullRoundText": "Losers Round 4",
+      "round": -7,
+      "completedAt": 1629684886,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8128462,
+            "participants": [
+              {
+                "player": {
+                  "id": 1635677,
+                  "gamerTag": "ayeh"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128614,
+            "participants": [
+              {
+                "player": {
+                  "id": 617254,
+                  "gamerTag": "N8v"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910208,
+      "winnerId": 8127881,
+      "displayScore": "Dr. Grin 3 - Wynasks 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1629681900,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8127881,
+            "participants": [
+              {
+                "player": {
+                  "id": 4259,
+                  "gamerTag": "Dr. Grin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128713,
+            "participants": [
+              {
+                "player": {
+                  "id": 2270083,
+                  "gamerTag": "howardLiu97"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910209,
+      "winnerId": 8127527,
+      "displayScore": "Solomon 3 - SMYD | Lil Sosa 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1629681500,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8127527,
+            "participants": [
+              {
+                "player": {
+                  "id": 4317,
+                  "gamerTag": "20,000 Lions"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8127244,
+            "participants": [
+              {
+                "player": {
+                  "id": 2219293,
+                  "gamerTag": "Sosa"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910210,
+      "winnerId": 8125959,
+      "displayScore": "DMT 3 - N8v 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1629681868,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8125959,
+            "participants": [
+              {
+                "player": {
+                  "id": 231685,
+                  "gamerTag": "DMT"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128614,
+            "participants": [
+              {
+                "player": {
+                  "id": 617254,
+                  "gamerTag": "N8v"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910211,
+      "winnerId": 8128475,
+      "displayScore": "Cent 3 - Trail | HaxMoneyHulkHogan 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 3,
+      "completedAt": 1629681407,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8128475,
+            "participants": [
+              {
+                "player": {
+                  "id": 623487,
+                  "gamerTag": "Cent"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128756,
+            "participants": [
+              {
+                "player": {
+                  "id": 2146437,
+                  "gamerTag": "Joana P."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910269,
+      "winnerId": 8127244,
+      "displayScore": "SMYD | Lil Sosa 3 - FrawgCrew | FrawggyFresh 0",
+      "fullRoundText": "Losers Round 3",
+      "round": -6,
+      "completedAt": 1629683207,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8127244,
+            "participants": [
+              {
+                "player": {
+                  "id": 2219293,
+                  "gamerTag": "Sosa"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8127105,
+            "participants": [
+              {
+                "player": {
+                  "id": 2167761,
+                  "gamerTag": "FrawggyFresh"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910270,
+      "winnerId": 8128496,
+      "displayScore": "Wynasks 0 - Niconics 3",
+      "fullRoundText": "Losers Round 3",
+      "round": -6,
+      "completedAt": 1629682586,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8128713,
+            "participants": [
+              {
+                "player": {
+                  "id": 2270083,
+                  "gamerTag": "howardLiu97"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128496,
+            "participants": [
+              {
+                "player": {
+                  "id": 281925,
+                  "gamerTag": "Niconics"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910271,
+      "winnerId": 8128462,
+      "displayScore": "Trail | HaxMoneyHulkHogan 1 - ayeh 3",
+      "fullRoundText": "Losers Round 3",
+      "round": -6,
+      "completedAt": 1629683478,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8128756,
+            "participants": [
+              {
+                "player": {
+                  "id": 2146437,
+                  "gamerTag": "Joana P."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128462,
+            "participants": [
+              {
+                "player": {
+                  "id": 1635677,
+                  "gamerTag": "ayeh"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910272,
+      "winnerId": 8128614,
+      "displayScore": "N8v 3 - Exia 1",
+      "fullRoundText": "Losers Round 3",
+      "round": -6,
+      "completedAt": 1629682843,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8128614,
+            "participants": [
+              {
+                "player": {
+                  "id": 617254,
+                  "gamerTag": "N8v"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128718,
+            "participants": [
+              {
+                "player": {
+                  "id": 413758,
+                  "gamerTag": "Exia"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910265,
+      "winnerId": 8127105,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1629681321,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8127105,
+            "participants": [
+              {
+                "player": {
+                  "id": 2167761,
+                  "gamerTag": "FrawggyFresh"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128304,
+            "participants": [
+              {
+                "player": {
+                  "id": 1862410,
+                  "gamerTag": "Haunter"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910266,
+      "winnerId": 8128496,
+      "displayScore": "Niconics 3 - akot 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1629681649,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8128496,
+            "participants": [
+              {
+                "player": {
+                  "id": 281925,
+                  "gamerTag": "Niconics"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8126996,
+            "participants": [
+              {
+                "player": {
+                  "id": 1338084,
+                  "gamerTag": "akot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910267,
+      "winnerId": 8128462,
+      "displayScore": "ayeh 3 - GUESS MONSTER 1",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1629681986,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8128462,
+            "participants": [
+              {
+                "player": {
+                  "id": 1635677,
+                  "gamerTag": "ayeh"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8126959,
+            "participants": [
+              {
+                "player": {
+                  "id": 1680063,
+                  "gamerTag": "1000 Rounds of Sumo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910268,
+      "winnerId": 8128718,
+      "displayScore": "Exia 3 - hHerb 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1629681675,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8128718,
+            "participants": [
+              {
+                "player": {
+                  "id": 413758,
+                  "gamerTag": "Exia"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128577,
+            "participants": [
+              {
+                "player": {
+                  "id": 230537,
+                  "gamerTag": "hHerb"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910200,
+      "winnerId": 8127881,
+      "displayScore": "Dr. Grin 3 - hHerb 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1629680806,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8127881,
+            "participants": [
+              {
+                "player": {
+                  "id": 4259,
+                  "gamerTag": "Dr. Grin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128577,
+            "participants": [
+              {
+                "player": {
+                  "id": 230537,
+                  "gamerTag": "hHerb"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910201,
+      "winnerId": 8128713,
+      "displayScore": "Deleted user 1 - Wynasks 3",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1629679609,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8127310,
+            "participants": [
+              {
+                "player": {
+                  "id": 6961,
+                  "gamerTag": "Deleted user"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128713,
+            "participants": [
+              {
+                "player": {
+                  "id": 2270083,
+                  "gamerTag": "howardLiu97"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910202,
+      "winnerId": 8127527,
+      "displayScore": "Solomon 3 - GUESS MONSTER 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1629680053,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8127527,
+            "participants": [
+              {
+                "player": {
+                  "id": 4317,
+                  "gamerTag": "20,000 Lions"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8126959,
+            "participants": [
+              {
+                "player": {
+                  "id": 1680063,
+                  "gamerTag": "1000 Rounds of Sumo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910203,
+      "winnerId": 8127244,
+      "displayScore": "ledgefiend 0 - SMYD | Lil Sosa 3",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1629680360,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8126840,
+            "participants": [
+              {
+                "player": {
+                  "id": 748365,
+                  "gamerTag": "ledgefiend"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8127244,
+            "participants": [
+              {
+                "player": {
+                  "id": 2219293,
+                  "gamerTag": "Sosa"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910204,
+      "winnerId": 8125959,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1629680468,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8117995,
+            "participants": [
+              {
+                "player": {
+                  "id": 175669,
+                  "gamerTag": "Nero"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8125959,
+            "participants": [
+              {
+                "player": {
+                  "id": 231685,
+                  "gamerTag": "DMT"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910205,
+      "winnerId": 8128614,
+      "displayScore": "N8v 3 - Niconics 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1629679805,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8128614,
+            "participants": [
+              {
+                "player": {
+                  "id": 617254,
+                  "gamerTag": "N8v"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128496,
+            "participants": [
+              {
+                "player": {
+                  "id": 281925,
+                  "gamerTag": "Niconics"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910206,
+      "winnerId": 8128475,
+      "displayScore": "haunter 1 - Cent 3",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1629680586,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8128304,
+            "participants": [
+              {
+                "player": {
+                  "id": 1862410,
+                  "gamerTag": "Haunter"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128475,
+            "participants": [
+              {
+                "player": {
+                  "id": 623487,
+                  "gamerTag": "Cent"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910207,
+      "winnerId": 8128756,
+      "displayScore": "Trail | HaxMoneyHulkHogan 3 - Pizza Steve 0",
+      "fullRoundText": "Winners Round 2",
+      "round": 2,
+      "completedAt": 1629679256,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8128756,
+            "participants": [
+              {
+                "player": {
+                  "id": 2146437,
+                  "gamerTag": "Joana P."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8121545,
+            "participants": [
+              {
+                "player": {
+                  "id": 1455145,
+                  "gamerTag": "Pizza Steve"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910263,
+      "winnerId": 8128718,
+      "displayScore": "Deleted user 1 - Exia 3",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1629681012,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8127310,
+            "participants": [
+              {
+                "player": {
+                  "id": 6961,
+                  "gamerTag": "Deleted user"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128718,
+            "participants": [
+              {
+                "player": {
+                  "id": 413758,
+                  "gamerTag": "Exia"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910257,
+      "winnerId": 8127105,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1629680659,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8121545,
+            "participants": [
+              {
+                "player": {
+                  "id": 1455145,
+                  "gamerTag": "Pizza Steve"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8127105,
+            "participants": [
+              {
+                "player": {
+                  "id": 2167761,
+                  "gamerTag": "FrawggyFresh"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910259,
+      "winnerId": 8128496,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1629680422,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8128496,
+            "participants": [
+              {
+                "player": {
+                  "id": 281925,
+                  "gamerTag": "Niconics"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128670,
+            "participants": [
+              {
+                "player": {
+                  "id": 1129130,
+                  "gamerTag": "Mr.Peru"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910260,
+      "winnerId": 8126996,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1629681085,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8117995,
+            "participants": [
+              {
+                "player": {
+                  "id": 175669,
+                  "gamerTag": "Nero"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8126996,
+            "participants": [
+              {
+                "player": {
+                  "id": 1338084,
+                  "gamerTag": "akot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910261,
+      "winnerId": 8128462,
+      "displayScore": "ayeh W - ledgefiend L",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1629680550,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8126840,
+            "participants": [
+              {
+                "player": {
+                  "id": 748365,
+                  "gamerTag": "ledgefiend"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128462,
+            "participants": [
+              {
+                "player": {
+                  "id": 1635677,
+                  "gamerTag": "ayeh"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": null
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910185,
+      "winnerId": 8128577,
+      "displayScore": "hHerb 3 - FrawgCrew | FrawggyFresh 1",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1629680026,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8128577,
+            "participants": [
+              {
+                "player": {
+                  "id": 230537,
+                  "gamerTag": "hHerb"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8127105,
+            "participants": [
+              {
+                "player": {
+                  "id": 2167761,
+                  "gamerTag": "FrawggyFresh"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910189,
+      "winnerId": 8126959,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1629679217,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8126959,
+            "participants": [
+              {
+                "player": {
+                  "id": 1680063,
+                  "gamerTag": "1000 Rounds of Sumo"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128670,
+            "participants": [
+              {
+                "player": {
+                  "id": 1129130,
+                  "gamerTag": "Mr.Peru"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910191,
+      "winnerId": 8127244,
+      "displayScore": "akot 0 - SMYD | Lil Sosa 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1629679418,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8126996,
+            "participants": [
+              {
+                "player": {
+                  "id": 1338084,
+                  "gamerTag": "akot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8127244,
+            "participants": [
+              {
+                "player": {
+                  "id": 2219293,
+                  "gamerTag": "Sosa"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910193,
+      "winnerId": 8125959,
+      "displayScore": "DMT 3 - ayeh 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1629679859,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8125959,
+            "participants": [
+              {
+                "player": {
+                  "id": 231685,
+                  "gamerTag": "DMT"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128462,
+            "participants": [
+              {
+                "player": {
+                  "id": 1635677,
+                  "gamerTag": "ayeh"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 39910197,
+      "winnerId": 8128475,
+      "displayScore": "Exia 0 - Cent 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1629679460,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8128718,
+            "participants": [
+              {
+                "player": {
+                  "id": 413758,
+                  "gamerTag": "Exia"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8128475,
+            "participants": [
+              {
+                "player": {
+                  "id": 623487,
+                  "gamerTag": "Cent"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 8127881,
+        "participants": [
+          {
+            "player": {
+              "id": 4259,
+              "gamerTag": "Dr. Grin"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 8128475,
+        "participants": [
+          {
+            "player": {
+              "id": 623487,
+              "gamerTag": "Cent"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 8128496,
+        "participants": [
+          {
+            "player": {
+              "id": 281925,
+              "gamerTag": "Niconics"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 8128614,
+        "participants": [
+          {
+            "player": {
+              "id": 617254,
+              "gamerTag": "N8v"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 8127527,
+        "participants": [
+          {
+            "player": {
+              "id": 4317,
+              "gamerTag": "20,000 Lions"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 8125959,
+        "participants": [
+          {
+            "player": {
+              "id": 231685,
+              "gamerTag": "DMT"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 8127244,
+        "participants": [
+          {
+            "player": {
+              "id": 2219293,
+              "gamerTag": "Sosa"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 8128462,
+        "participants": [
+          {
+            "player": {
+              "id": 1635677,
+              "gamerTag": "ayeh"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8127105,
+        "participants": [
+          {
+            "player": {
+              "id": 2167761,
+              "gamerTag": "FrawggyFresh"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8128718,
+        "participants": [
+          {
+            "player": {
+              "id": 413758,
+              "gamerTag": "Exia"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8128713,
+        "participants": [
+          {
+            "player": {
+              "id": 2270083,
+              "gamerTag": "howardLiu97"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8128756,
+        "participants": [
+          {
+            "player": {
+              "id": 2146437,
+              "gamerTag": "Joana P."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 8128304,
+        "participants": [
+          {
+            "player": {
+              "id": 1862410,
+              "gamerTag": "Haunter"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 8128577,
+        "participants": [
+          {
+            "player": {
+              "id": 230537,
+              "gamerTag": "hHerb"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 8126959,
+        "participants": [
+          {
+            "player": {
+              "id": 1680063,
+              "gamerTag": "1000 Rounds of Sumo"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 8126996,
+        "participants": [
+          {
+            "player": {
+              "id": 1338084,
+              "gamerTag": "akot"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 8128670,
+        "participants": [
+          {
+            "player": {
+              "id": 1129130,
+              "gamerTag": "Mr.Peru"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 8127310,
+        "participants": [
+          {
+            "player": {
+              "id": 6961,
+              "gamerTag": "Deleted user"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 8126840,
+        "participants": [
+          {
+            "player": {
+              "id": 748365,
+              "gamerTag": "ledgefiend"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 8117995,
+        "participants": [
+          {
+            "player": {
+              "id": 175669,
+              "gamerTag": "Nero"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 8121545,
+        "participants": [
+          {
+            "player": {
+              "id": 1455145,
+              "gamerTag": "Pizza Steve"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

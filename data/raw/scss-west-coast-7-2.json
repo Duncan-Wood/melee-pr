@@ -1,0 +1,1742 @@
+{
+  "slug": "tournament/scss-west-coast-7-2/event/scss-singles",
+  "event": {
+    "id": 569379,
+    "name": "SCSS Singles",
+    "startAt": 1618792200,
+    "numEntrants": 16,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #7",
+      "slug": "tournament/scss-west-coast-7-2"
+    }
+  },
+  "sets": [
+    {
+      "id": 36816993,
+      "winnerId": 7214852,
+      "displayScore": "Jet 3 - Pilot 0",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1618800168,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7214852,
+            "participants": [
+              {
+                "player": {
+                  "id": 2140092,
+                  "gamerTag": "Jet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7212202,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36816992,
+      "winnerId": 7214852,
+      "displayScore": "TSM | dumdumbutts 1 - Jet 3",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1618797247,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7214756,
+            "participants": [
+              {
+                "player": {
+                  "id": 2020258,
+                  "gamerTag": "dumdumbutts"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7214852,
+            "participants": [
+              {
+                "player": {
+                  "id": 2140092,
+                  "gamerTag": "Jet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36817024,
+      "winnerId": 7212202,
+      "displayScore": "TSM | dumdumbutts 1 - Pilot 3",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1618799471,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7214756,
+            "participants": [
+              {
+                "player": {
+                  "id": 2020258,
+                  "gamerTag": "dumdumbutts"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7212202,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36817023,
+      "winnerId": 7212202,
+      "displayScore": "SitS 0 - Pilot 2",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1618798220,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7212995,
+            "participants": [
+              {
+                "player": {
+                  "id": 664437,
+                  "gamerTag": "SitS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7212202,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36816990,
+      "winnerId": 7214756,
+      "displayScore": "Cat Named Virtue 2 - TSM | dumdumbutts 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1618796346,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7213731,
+            "participants": [
+              {
+                "player": {
+                  "id": 138177,
+                  "gamerTag": "Cat Named V"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7214756,
+            "participants": [
+              {
+                "player": {
+                  "id": 2020258,
+                  "gamerTag": "dumdumbutts"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36816991,
+      "winnerId": 7214852,
+      "displayScore": "Jet 3 - Phorox 1",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1618795984,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7214852,
+            "participants": [
+              {
+                "player": {
+                  "id": 2140092,
+                  "gamerTag": "Jet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7214822,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36817021,
+      "winnerId": 7212995,
+      "displayScore": "Cat Named Virtue 0 - SitS 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1618797309,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7213731,
+            "participants": [
+              {
+                "player": {
+                  "id": 138177,
+                  "gamerTag": "Cat Named V"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7212995,
+            "participants": [
+              {
+                "player": {
+                  "id": 664437,
+                  "gamerTag": "SitS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36817022,
+      "winnerId": 7212202,
+      "displayScore": "Phorox 0 - Pilot 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1618797380,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7214822,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7212202,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36817020,
+      "winnerId": 7212202,
+      "displayScore": "Pilot 3 - Cpt.Blade 0",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1618796627,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7212202,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7213615,
+            "participants": [
+              {
+                "player": {
+                  "id": 180797,
+                  "gamerTag": "Cpt.Blade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36817019,
+      "winnerId": 7212995,
+      "displayScore": "Chai_Rockyy 0 - SitS 3",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1618796474,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7212535,
+            "participants": [
+              {
+                "player": {
+                  "id": 260257,
+                  "gamerTag": "Chai_Rockyy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7212995,
+            "participants": [
+              {
+                "player": {
+                  "id": 664437,
+                  "gamerTag": "SitS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36816986,
+      "winnerId": 7213731,
+      "displayScore": "Cat Named Virtue 3 - Cpt.Blade 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1618794195,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7213731,
+            "participants": [
+              {
+                "player": {
+                  "id": 138177,
+                  "gamerTag": "Cat Named V"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7213615,
+            "participants": [
+              {
+                "player": {
+                  "id": 180797,
+                  "gamerTag": "Cpt.Blade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36816987,
+      "winnerId": 7214756,
+      "displayScore": "TSM | dumdumbutts 3 - Pilot 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1618794455,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7214756,
+            "participants": [
+              {
+                "player": {
+                  "id": 2020258,
+                  "gamerTag": "dumdumbutts"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7212202,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36816988,
+      "winnerId": 7214852,
+      "displayScore": "Jet 3 - SitS 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1618793940,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7214852,
+            "participants": [
+              {
+                "player": {
+                  "id": 2140092,
+                  "gamerTag": "Jet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7212995,
+            "participants": [
+              {
+                "player": {
+                  "id": 664437,
+                  "gamerTag": "SitS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36816989,
+      "winnerId": 7214822,
+      "displayScore": "Phorox 3 - Chai_Rockyy 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1618794855,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7214822,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7212535,
+            "participants": [
+              {
+                "player": {
+                  "id": 260257,
+                  "gamerTag": "Chai_Rockyy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36817015,
+      "winnerId": 7212535,
+      "displayScore": "Chai_Rockyy 3 - LordTourettes 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1618795853,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7212535,
+            "participants": [
+              {
+                "player": {
+                  "id": 260257,
+                  "gamerTag": "Chai_Rockyy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7214041,
+            "participants": [
+              {
+                "player": {
+                  "id": 2221234,
+                  "gamerTag": "LordTourettes"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36817016,
+      "winnerId": 7212995,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1618794557,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7212995,
+            "participants": [
+              {
+                "player": {
+                  "id": 664437,
+                  "gamerTag": "SitS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7214736,
+            "participants": [
+              {
+                "player": {
+                  "id": 2221352,
+                  "gamerTag": "Mrwrocks"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36817017,
+      "winnerId": 7212202,
+      "displayScore": "Pilot 3 - EWA | ERGonomics 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1618795886,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7212202,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7214361,
+            "participants": [
+              {
+                "player": {
+                  "id": 950362,
+                  "gamerTag": "ERGonomics"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36817018,
+      "winnerId": 7213615,
+      "displayScore": "Cpt.Blade 3 - EWA | Gorgonzola 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1618795798,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7213615,
+            "participants": [
+              {
+                "player": {
+                  "id": 180797,
+                  "gamerTag": "Cpt.Blade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7209514,
+            "participants": [
+              {
+                "player": {
+                  "id": 1918774,
+                  "gamerTag": "spookydascary"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36817011,
+      "winnerId": 7214041,
+      "displayScore": "A Wild Catsnake 0 - LordTourettes 3",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1618794303,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7208826,
+            "participants": [
+              {
+                "player": {
+                  "id": 350387,
+                  "gamerTag": "A Wild Catsnake"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7214041,
+            "participants": [
+              {
+                "player": {
+                  "id": 2221234,
+                  "gamerTag": "LordTourettes"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36817012,
+      "winnerId": 7214736,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1618793669,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7212184,
+            "participants": [
+              {
+                "player": {
+                  "id": 363202,
+                  "gamerTag": "Brownie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7214736,
+            "participants": [
+              {
+                "player": {
+                  "id": 2221352,
+                  "gamerTag": "Mrwrocks"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36817013,
+      "winnerId": 7214361,
+      "displayScore": "awildcatfox 0 - EWA | ERGonomics 3",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1618793710,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7209418,
+            "participants": [
+              {
+                "player": {
+                  "id": 350389,
+                  "gamerTag": "awildcatfox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7214361,
+            "participants": [
+              {
+                "player": {
+                  "id": 950362,
+                  "gamerTag": "ERGonomics"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36817014,
+      "winnerId": 7209514,
+      "displayScore": "EWA | Gorgonzola 3 - Dusky 1",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1618794958,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7209514,
+            "participants": [
+              {
+                "player": {
+                  "id": 1918774,
+                  "gamerTag": "spookydascary"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7214643,
+            "participants": [
+              {
+                "player": {
+                  "id": 252523,
+                  "gamerTag": "Dusky"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36816978,
+      "winnerId": 7213731,
+      "displayScore": "Cat Named Virtue 3 - A Wild Catsnake 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1618793366,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7213731,
+            "participants": [
+              {
+                "player": {
+                  "id": 138177,
+                  "gamerTag": "Cat Named V"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7208826,
+            "participants": [
+              {
+                "player": {
+                  "id": 350387,
+                  "gamerTag": "A Wild Catsnake"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36816979,
+      "winnerId": 7213615,
+      "displayScore": "LordTourettes 0 - Cpt.Blade 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1618793322,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7214041,
+            "participants": [
+              {
+                "player": {
+                  "id": 2221234,
+                  "gamerTag": "LordTourettes"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7213615,
+            "participants": [
+              {
+                "player": {
+                  "id": 180797,
+                  "gamerTag": "Cpt.Blade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36816980,
+      "winnerId": 7214756,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1618792939,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7214756,
+            "participants": [
+              {
+                "player": {
+                  "id": 2020258,
+                  "gamerTag": "dumdumbutts"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7212184,
+            "participants": [
+              {
+                "player": {
+                  "id": 363202,
+                  "gamerTag": "Brownie"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36816981,
+      "winnerId": 7212202,
+      "displayScore": "Mrwrocks 0 - Pilot 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1618793374,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7214736,
+            "participants": [
+              {
+                "player": {
+                  "id": 2221352,
+                  "gamerTag": "Mrwrocks"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7212202,
+            "participants": [
+              {
+                "player": {
+                  "id": 1228401,
+                  "gamerTag": "Pilot"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36816982,
+      "winnerId": 7214852,
+      "displayScore": "Jet 3 - awildcatfox 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1618792919,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7214852,
+            "participants": [
+              {
+                "player": {
+                  "id": 2140092,
+                  "gamerTag": "Jet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7209418,
+            "participants": [
+              {
+                "player": {
+                  "id": 350389,
+                  "gamerTag": "awildcatfox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36816983,
+      "winnerId": 7212995,
+      "displayScore": "EWA | ERGonomics 0 - SitS 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1618793122,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7214361,
+            "participants": [
+              {
+                "player": {
+                  "id": 950362,
+                  "gamerTag": "ERGonomics"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7212995,
+            "participants": [
+              {
+                "player": {
+                  "id": 664437,
+                  "gamerTag": "SitS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36816984,
+      "winnerId": 7214822,
+      "displayScore": "Phorox 3 - EWA | Gorgonzola 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1618793072,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7214822,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7209514,
+            "participants": [
+              {
+                "player": {
+                  "id": 1918774,
+                  "gamerTag": "spookydascary"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 36816985,
+      "winnerId": 7212535,
+      "displayScore": "Dusky 1 - Chai_Rockyy 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1618793833,
+      "slots": [
+        {
+          "entrant": {
+            "id": 7214643,
+            "participants": [
+              {
+                "player": {
+                  "id": 252523,
+                  "gamerTag": "Dusky"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 7212535,
+            "participants": [
+              {
+                "player": {
+                  "id": 260257,
+                  "gamerTag": "Chai_Rockyy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 7214852,
+        "participants": [
+          {
+            "player": {
+              "id": 2140092,
+              "gamerTag": "Jet"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 7212202,
+        "participants": [
+          {
+            "player": {
+              "id": 1228401,
+              "gamerTag": "Pilot"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 7214756,
+        "participants": [
+          {
+            "player": {
+              "id": 2020258,
+              "gamerTag": "dumdumbutts"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 7212995,
+        "participants": [
+          {
+            "player": {
+              "id": 664437,
+              "gamerTag": "SitS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 7213731,
+        "participants": [
+          {
+            "player": {
+              "id": 138177,
+              "gamerTag": "Cat Named V"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 7214822,
+        "participants": [
+          {
+            "player": {
+              "id": 1007304,
+              "gamerTag": "Phorox"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 7213615,
+        "participants": [
+          {
+            "player": {
+              "id": 180797,
+              "gamerTag": "Cpt.Blade"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 7212535,
+        "participants": [
+          {
+            "player": {
+              "id": 260257,
+              "gamerTag": "Chai_Rockyy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7214041,
+        "participants": [
+          {
+            "player": {
+              "id": 2221234,
+              "gamerTag": "LordTourettes"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7214736,
+        "participants": [
+          {
+            "player": {
+              "id": 2221352,
+              "gamerTag": "Mrwrocks"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7214361,
+        "participants": [
+          {
+            "player": {
+              "id": 950362,
+              "gamerTag": "ERGonomics"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 7209514,
+        "participants": [
+          {
+            "player": {
+              "id": 1918774,
+              "gamerTag": "spookydascary"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 7208826,
+        "participants": [
+          {
+            "player": {
+              "id": 350387,
+              "gamerTag": "A Wild Catsnake"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 7212184,
+        "participants": [
+          {
+            "player": {
+              "id": 363202,
+              "gamerTag": "Brownie"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 7209418,
+        "participants": [
+          {
+            "player": {
+              "id": 350389,
+              "gamerTag": "awildcatfox"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 7214643,
+        "participants": [
+          {
+            "player": {
+              "id": 252523,
+              "gamerTag": "Dusky"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

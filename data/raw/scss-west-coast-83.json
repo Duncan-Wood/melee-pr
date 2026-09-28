@@ -1,0 +1,1450 @@
+{
+  "slug": "tournament/scss-west-coast-83/event/melee-singles",
+  "event": {
+    "id": 815989,
+    "name": "Melee Singles",
+    "startAt": 1668389400,
+    "numEntrants": 13,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #83",
+      "slug": "tournament/scss-west-coast-83"
+    }
+  },
+  "sets": [
+    {
+      "id": 54170431,
+      "winnerId": 11654605,
+      "displayScore": "DQ",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 6,
+      "completedAt": 1668397154,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11653359,
+            "participants": [
+              {
+                "player": {
+                  "id": 2308456,
+                  "gamerTag": "DummyFatHoes"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11654605,
+            "participants": [
+              {
+                "player": {
+                  "id": 1737518,
+                  "gamerTag": "Kombeze"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170399,
+      "winnerId": 11654656,
+      "displayScore": "Phorox 3 - Nova | LanTurN 2",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1668400281,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11654656,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11654570,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170398,
+      "winnerId": 11654656,
+      "displayScore": "Phorox 3 - Nova | LanTurN 0",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1668394695,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11654656,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11654570,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170430,
+      "winnerId": 11654570,
+      "displayScore": "Nova | LanTurN 3 - Nukelele 0",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1668398841,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11654570,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11639525,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170429,
+      "winnerId": 11639525,
+      "displayScore": "Dunkey2 0 - Nukelele 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1668397727,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11654066,
+            "participants": [
+              {
+                "player": {
+                  "id": 946596,
+                  "gamerTag": "Dunkey2"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11639525,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170396,
+      "winnerId": 11654656,
+      "displayScore": "Phorox 3 - Kombeze 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1668392351,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11654656,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11654605,
+            "participants": [
+              {
+                "player": {
+                  "id": 1737518,
+                  "gamerTag": "Kombeze"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170397,
+      "winnerId": 11654570,
+      "displayScore": "Nova | LanTurN 3 - Nukelele 1",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1668393770,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11654570,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11639525,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170427,
+      "winnerId": 11654066,
+      "displayScore": "Kombeze 1 - Dunkey2 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1668396631,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11654605,
+            "participants": [
+              {
+                "player": {
+                  "id": 1737518,
+                  "gamerTag": "Kombeze"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11654066,
+            "participants": [
+              {
+                "player": {
+                  "id": 946596,
+                  "gamerTag": "Dunkey2"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170428,
+      "winnerId": 11639525,
+      "displayScore": "Nukelele 3 - DevFromHev_ 1",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1668396072,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11639525,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11653359,
+            "participants": [
+              {
+                "player": {
+                  "id": 2308456,
+                  "gamerTag": "DummyFatHoes"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170425,
+      "winnerId": 11654066,
+      "displayScore": "Meadows 2 - Dunkey2 3",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1668395182,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11653773,
+            "participants": [
+              {
+                "player": {
+                  "id": 3124797,
+                  "gamerTag": "monjuni"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11654066,
+            "participants": [
+              {
+                "player": {
+                  "id": 946596,
+                  "gamerTag": "Dunkey2"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170426,
+      "winnerId": 11653359,
+      "displayScore": "DevFromHev_ 3 - ArcaneFox 2",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1668394020,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11653359,
+            "participants": [
+              {
+                "player": {
+                  "id": 2308456,
+                  "gamerTag": "DummyFatHoes"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11654809,
+            "participants": [
+              {
+                "player": {
+                  "id": 428826,
+                  "gamerTag": "ArcaneFox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170392,
+      "winnerId": 11654656,
+      "displayScore": "Phorox 3 - ArcaneFox 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1668391369,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11654656,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11654809,
+            "participants": [
+              {
+                "player": {
+                  "id": 428826,
+                  "gamerTag": "ArcaneFox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170393,
+      "winnerId": 11654605,
+      "displayScore": "DevFromHev_ 0 - Kombeze 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1668391599,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11653359,
+            "participants": [
+              {
+                "player": {
+                  "id": 2308456,
+                  "gamerTag": "DummyFatHoes"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11654605,
+            "participants": [
+              {
+                "player": {
+                  "id": 1737518,
+                  "gamerTag": "Kombeze"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170394,
+      "winnerId": 11654570,
+      "displayScore": "Nova | LanTurN 3 - Dunkey2 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1668391185,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11654570,
+            "participants": [
+              {
+                "player": {
+                  "id": 329937,
+                  "gamerTag": "LanTurN"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11654066,
+            "participants": [
+              {
+                "player": {
+                  "id": 946596,
+                  "gamerTag": "Dunkey2"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170395,
+      "winnerId": 11639525,
+      "displayScore": "Nukelele 3 - Meadows 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1668392432,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11639525,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11653773,
+            "participants": [
+              {
+                "player": {
+                  "id": 3124797,
+                  "gamerTag": "monjuni"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170421,
+      "winnerId": 11653773,
+      "displayScore": "Meadows 3 - BEBO 1",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1668393640,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11653773,
+            "participants": [
+              {
+                "player": {
+                  "id": 3124797,
+                  "gamerTag": "monjuni"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11654374,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170422,
+      "winnerId": 11654066,
+      "displayScore": "Dunkey2 3 - Tyler 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1668392114,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11654066,
+            "participants": [
+              {
+                "player": {
+                  "id": 946596,
+                  "gamerTag": "Dunkey2"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11648741,
+            "participants": [
+              {
+                "player": {
+                  "id": 2464102,
+                  "gamerTag": "Spike"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170423,
+      "winnerId": 11653359,
+      "displayScore": "DevFromHev_ 3 - Unlicensed Car Salesman 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1668392251,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11653359,
+            "participants": [
+              {
+                "player": {
+                  "id": 2308456,
+                  "gamerTag": "DummyFatHoes"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11651520,
+            "participants": [
+              {
+                "player": {
+                  "id": 2593867,
+                  "gamerTag": "Unlicensed Car Salesman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170424,
+      "winnerId": 11654809,
+      "displayScore": "ArcaneFox 3 - Kicks 1",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1668392709,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11654809,
+            "participants": [
+              {
+                "player": {
+                  "id": 428826,
+                  "gamerTag": "ArcaneFox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11654593,
+            "participants": [
+              {
+                "player": {
+                  "id": 2572719,
+                  "gamerTag": "Kicks"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170418,
+      "winnerId": 11648741,
+      "displayScore": "Tyler 2 - gaterfish 1",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1668391477,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11648741,
+            "participants": [
+              {
+                "player": {
+                  "id": 2464102,
+                  "gamerTag": "Spike"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11654095,
+            "participants": [
+              {
+                "player": {
+                  "id": 2854080,
+                  "gamerTag": "gaterfish"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170385,
+      "winnerId": 11654809,
+      "displayScore": "BEBO 0 - ArcaneFox 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1668390335,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11654374,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11654809,
+            "participants": [
+              {
+                "player": {
+                  "id": 428826,
+                  "gamerTag": "ArcaneFox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170386,
+      "winnerId": 11653359,
+      "displayScore": "DevFromHev_ 3 - Tyler 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1668390094,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11653359,
+            "participants": [
+              {
+                "player": {
+                  "id": 2308456,
+                  "gamerTag": "DummyFatHoes"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11648741,
+            "participants": [
+              {
+                "player": {
+                  "id": 2464102,
+                  "gamerTag": "Spike"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170387,
+      "winnerId": 11654605,
+      "displayScore": "Kombeze 3 - gaterfish 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1668390514,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11654605,
+            "participants": [
+              {
+                "player": {
+                  "id": 1737518,
+                  "gamerTag": "Kombeze"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11654095,
+            "participants": [
+              {
+                "player": {
+                  "id": 2854080,
+                  "gamerTag": "gaterfish"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170389,
+      "winnerId": 11654066,
+      "displayScore": "Dunkey2 3 - Unlicensed Car Salesman 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1668390341,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11654066,
+            "participants": [
+              {
+                "player": {
+                  "id": 946596,
+                  "gamerTag": "Dunkey2"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11651520,
+            "participants": [
+              {
+                "player": {
+                  "id": 2593867,
+                  "gamerTag": "Unlicensed Car Salesman"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 54170391,
+      "winnerId": 11653773,
+      "displayScore": "Kicks 0 - Meadows 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1668391047,
+      "slots": [
+        {
+          "entrant": {
+            "id": 11654593,
+            "participants": [
+              {
+                "player": {
+                  "id": 2572719,
+                  "gamerTag": "Kicks"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 11653773,
+            "participants": [
+              {
+                "player": {
+                  "id": 3124797,
+                  "gamerTag": "monjuni"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 11654656,
+        "participants": [
+          {
+            "player": {
+              "id": 1007304,
+              "gamerTag": "Phorox"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 11654570,
+        "participants": [
+          {
+            "player": {
+              "id": 329937,
+              "gamerTag": "LanTurN"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 11639525,
+        "participants": [
+          {
+            "player": {
+              "id": 2156106,
+              "gamerTag": "Nukelele"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 11654066,
+        "participants": [
+          {
+            "player": {
+              "id": 946596,
+              "gamerTag": "Dunkey2"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 11654605,
+        "participants": [
+          {
+            "player": {
+              "id": 1737518,
+              "gamerTag": "Kombeze"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 11653359,
+        "participants": [
+          {
+            "player": {
+              "id": 2308456,
+              "gamerTag": "DummyFatHoes"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 11654809,
+        "participants": [
+          {
+            "player": {
+              "id": 428826,
+              "gamerTag": "ArcaneFox"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 11653773,
+        "participants": [
+          {
+            "player": {
+              "id": 3124797,
+              "gamerTag": "monjuni"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 11654374,
+        "participants": [
+          {
+            "player": {
+              "id": 360229,
+              "gamerTag": "BEBO"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 11651520,
+        "participants": [
+          {
+            "player": {
+              "id": 2593867,
+              "gamerTag": "Unlicensed Car Salesman"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 11654593,
+        "participants": [
+          {
+            "player": {
+              "id": 2572719,
+              "gamerTag": "Kicks"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 11648741,
+        "participants": [
+          {
+            "player": {
+              "id": 2464102,
+              "gamerTag": "Spike"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 11654095,
+        "participants": [
+          {
+            "player": {
+              "id": 2854080,
+              "gamerTag": "gaterfish"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

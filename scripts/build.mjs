@@ -88,6 +88,6 @@ for (const { config, raw } of rawEvents) {
   });
 }
 
-await writeFile(`data/${seriesName}.json`, JSON.stringify({ name: series.name, events, players, sets }, null, 2));
+await writeFile(`data/${seriesName}.json`, JSON.stringify({ name: series.name, defaults: series.defaults ?? {}, events, players, sets }, null, 2));
 console.log(`${events.length} events, ${Object.keys(players).length} players, ${sets.length} sets`);
 console.log(`skipped: ${JSON.stringify(skipped)}`);

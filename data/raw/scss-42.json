@@ -1,0 +1,1450 @@
+{
+  "slug": "tournament/scss-42/event/scss-singles",
+  "event": {
+    "id": 627848,
+    "name": "SCSS Singles",
+    "startAt": 1633303800,
+    "numEntrants": 13,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS #42",
+      "slug": "tournament/scss-42"
+    }
+  },
+  "sets": [
+    {
+      "id": 41095259,
+      "winnerId": 8427970,
+      "displayScore": "DQ",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 6,
+      "completedAt": 1633310710,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8427970,
+            "participants": [
+              {
+                "player": {
+                  "id": 2059100,
+                  "gamerTag": "Quiet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8422885,
+            "participants": [
+              {
+                "player": {
+                  "id": 1015163,
+                  "gamerTag": "hapi"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095227,
+      "winnerId": 8423349,
+      "displayScore": "CowCowCowCowCow 3 - AJC 2",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1633313930,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8423349,
+            "participants": [
+              {
+                "player": {
+                  "id": 657464,
+                  "gamerTag": "CowCowCowCowCow"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8424187,
+            "participants": [
+              {
+                "player": {
+                  "id": 657032,
+                  "gamerTag": "AJC"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095226,
+      "winnerId": 8423349,
+      "displayScore": "AJC 2 - CowCowCowCowCow 3",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1633309646,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8424187,
+            "participants": [
+              {
+                "player": {
+                  "id": 657032,
+                  "gamerTag": "AJC"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8423349,
+            "participants": [
+              {
+                "player": {
+                  "id": 657464,
+                  "gamerTag": "CowCowCowCowCow"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095258,
+      "winnerId": 8424187,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1633312802,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8424187,
+            "participants": [
+              {
+                "player": {
+                  "id": 657032,
+                  "gamerTag": "AJC"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8422950,
+            "participants": [
+              {
+                "player": {
+                  "id": 2014871,
+                  "gamerTag": "Ch0pper"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095257,
+      "winnerId": 8422950,
+      "displayScore": "phillyhoops 1 - Ch0pper 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1633311674,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8427982,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8422950,
+            "participants": [
+              {
+                "player": {
+                  "id": 2014871,
+                  "gamerTag": "Ch0pper"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095224,
+      "winnerId": 8424187,
+      "displayScore": "AJC 3 - hapi 1",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1633308088,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8424187,
+            "participants": [
+              {
+                "player": {
+                  "id": 657032,
+                  "gamerTag": "AJC"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8422885,
+            "participants": [
+              {
+                "player": {
+                  "id": 1015163,
+                  "gamerTag": "hapi"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095225,
+      "winnerId": 8423349,
+      "displayScore": "CowCowCowCowCow 3 - Ch0pper 1",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1633306375,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8423349,
+            "participants": [
+              {
+                "player": {
+                  "id": 657464,
+                  "gamerTag": "CowCowCowCowCow"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8422950,
+            "participants": [
+              {
+                "player": {
+                  "id": 2014871,
+                  "gamerTag": "Ch0pper"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095255,
+      "winnerId": 8427982,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1633310099,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8422885,
+            "participants": [
+              {
+                "player": {
+                  "id": 1015163,
+                  "gamerTag": "hapi"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8427982,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095256,
+      "winnerId": 8422950,
+      "displayScore": "Ch0pper 3 - Becca 1",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1633307758,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8422950,
+            "participants": [
+              {
+                "player": {
+                  "id": 2014871,
+                  "gamerTag": "Ch0pper"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8427970,
+            "participants": [
+              {
+                "player": {
+                  "id": 2059100,
+                  "gamerTag": "Quiet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095253,
+      "winnerId": 8427982,
+      "displayScore": "phillyhoops 3 - Mikeish 1",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1633308298,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8427982,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8423517,
+            "participants": [
+              {
+                "player": {
+                  "id": 1992351,
+                  "gamerTag": "Mikeish"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095254,
+      "winnerId": 8427970,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1633306682,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8422730,
+            "participants": [
+              {
+                "player": {
+                  "id": 1222893,
+                  "gamerTag": "toontown veteran"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8427970,
+            "participants": [
+              {
+                "player": {
+                  "id": 2059100,
+                  "gamerTag": "Quiet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095220,
+      "winnerId": 8424187,
+      "displayScore": "Becca 1 - AJC 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1633306598,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8427970,
+            "participants": [
+              {
+                "player": {
+                  "id": 2059100,
+                  "gamerTag": "Quiet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8424187,
+            "participants": [
+              {
+                "player": {
+                  "id": 657032,
+                  "gamerTag": "AJC"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095221,
+      "winnerId": 8422885,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1633305938,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8427756,
+            "participants": [
+              {
+                "player": {
+                  "id": 231485,
+                  "gamerTag": "Stickerbrush"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8422885,
+            "participants": [
+              {
+                "player": {
+                  "id": 1015163,
+                  "gamerTag": "hapi"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095222,
+      "winnerId": 8423349,
+      "displayScore": "CowCowCowCowCow 3 - Mikeish 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1633305469,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8423349,
+            "participants": [
+              {
+                "player": {
+                  "id": 657464,
+                  "gamerTag": "CowCowCowCowCow"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8423517,
+            "participants": [
+              {
+                "player": {
+                  "id": 1992351,
+                  "gamerTag": "Mikeish"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095223,
+      "winnerId": 8422950,
+      "displayScore": "Ch0pper 3 - AWaveDash 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1633305426,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8422950,
+            "participants": [
+              {
+                "player": {
+                  "id": 2014871,
+                  "gamerTag": "Ch0pper"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8427954,
+            "participants": [
+              {
+                "player": {
+                  "id": 224897,
+                  "gamerTag": "Brodyn"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095249,
+      "winnerId": 8427982,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1633305625,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8427954,
+            "participants": [
+              {
+                "player": {
+                  "id": 224897,
+                  "gamerTag": "Brodyn"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8427982,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095250,
+      "winnerId": 8423517,
+      "displayScore": "Mikeish 3 - Stop It Russ 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1633307232,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8423517,
+            "participants": [
+              {
+                "player": {
+                  "id": 1992351,
+                  "gamerTag": "Mikeish"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8403315,
+            "participants": [
+              {
+                "player": {
+                  "id": 2242637,
+                  "gamerTag": "Stop It Russ"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095251,
+      "winnerId": 8422730,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1633305949,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8427756,
+            "participants": [
+              {
+                "player": {
+                  "id": 231485,
+                  "gamerTag": "Stickerbrush"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8422730,
+            "participants": [
+              {
+                "player": {
+                  "id": 1222893,
+                  "gamerTag": "toontown veteran"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095252,
+      "winnerId": 8427970,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1633306654,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8427970,
+            "participants": [
+              {
+                "player": {
+                  "id": 2059100,
+                  "gamerTag": "Quiet"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8420580,
+            "participants": [
+              {
+                "player": {
+                  "id": 1953730,
+                  "gamerTag": "Blippys"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095246,
+      "winnerId": 8403315,
+      "displayScore": "Stop It Russ 3 - prey 0",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1633306396,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8403315,
+            "participants": [
+              {
+                "player": {
+                  "id": 2242637,
+                  "gamerTag": "Stop It Russ"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8427590,
+            "participants": [
+              {
+                "player": {
+                  "id": 2283549,
+                  "gamerTag": "Ms. Gooble"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095213,
+      "winnerId": 8424187,
+      "displayScore": "phillyhoops 2 - AJC 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1633305140,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8427982,
+            "participants": [
+              {
+                "player": {
+                  "id": 1482652,
+                  "gamerTag": "phillyhoops"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8424187,
+            "participants": [
+              {
+                "player": {
+                  "id": 657032,
+                  "gamerTag": "AJC"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095214,
+      "winnerId": 8427756,
+      "displayScore": "Stickerbrush 3 - Stop It Russ 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1633305309,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8427756,
+            "participants": [
+              {
+                "player": {
+                  "id": 231485,
+                  "gamerTag": "Stickerbrush"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8403315,
+            "participants": [
+              {
+                "player": {
+                  "id": 2242637,
+                  "gamerTag": "Stop It Russ"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095215,
+      "winnerId": 8422885,
+      "displayScore": "hapi 3 - prey 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1633305456,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8422885,
+            "participants": [
+              {
+                "player": {
+                  "id": 1015163,
+                  "gamerTag": "hapi"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8427590,
+            "participants": [
+              {
+                "player": {
+                  "id": 2283549,
+                  "gamerTag": "Ms. Gooble"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095217,
+      "winnerId": 8423517,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1633304718,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8422730,
+            "participants": [
+              {
+                "player": {
+                  "id": 1222893,
+                  "gamerTag": "toontown veteran"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8423517,
+            "participants": [
+              {
+                "player": {
+                  "id": 1992351,
+                  "gamerTag": "Mikeish"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 41095219,
+      "winnerId": 8427954,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1633304719,
+      "slots": [
+        {
+          "entrant": {
+            "id": 8420580,
+            "participants": [
+              {
+                "player": {
+                  "id": 1953730,
+                  "gamerTag": "Blippys"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 8427954,
+            "participants": [
+              {
+                "player": {
+                  "id": 224897,
+                  "gamerTag": "Brodyn"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 8423349,
+        "participants": [
+          {
+            "player": {
+              "id": 657464,
+              "gamerTag": "CowCowCowCowCow"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 8424187,
+        "participants": [
+          {
+            "player": {
+              "id": 657032,
+              "gamerTag": "AJC"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 8422950,
+        "participants": [
+          {
+            "player": {
+              "id": 2014871,
+              "gamerTag": "Ch0pper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 8427982,
+        "participants": [
+          {
+            "player": {
+              "id": 1482652,
+              "gamerTag": "phillyhoops"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 8427970,
+        "participants": [
+          {
+            "player": {
+              "id": 2059100,
+              "gamerTag": "Quiet"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 8422885,
+        "participants": [
+          {
+            "player": {
+              "id": 1015163,
+              "gamerTag": "hapi"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 8422730,
+        "participants": [
+          {
+            "player": {
+              "id": 1222893,
+              "gamerTag": "toontown veteran"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 8423517,
+        "participants": [
+          {
+            "player": {
+              "id": 1992351,
+              "gamerTag": "Mikeish"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8420580,
+        "participants": [
+          {
+            "player": {
+              "id": 1953730,
+              "gamerTag": "Blippys"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8427954,
+        "participants": [
+          {
+            "player": {
+              "id": 224897,
+              "gamerTag": "Brodyn"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8427756,
+        "participants": [
+          {
+            "player": {
+              "id": 231485,
+              "gamerTag": "Stickerbrush"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 8403315,
+        "participants": [
+          {
+            "player": {
+              "id": 2242637,
+              "gamerTag": "Stop It Russ"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 8427590,
+        "participants": [
+          {
+            "player": {
+              "id": 2283549,
+              "gamerTag": "Ms. Gooble"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

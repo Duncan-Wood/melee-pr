@@ -1,0 +1,1272 @@
+{
+  "slug": "tournament/scss-west-coast-52/event/melee-singles",
+  "event": {
+    "id": 696713,
+    "name": "Melee Singles",
+    "startAt": 1647822600,
+    "numEntrants": 11,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #52",
+      "slug": "tournament/scss-west-coast-52"
+    }
+  },
+  "sets": [
+    {
+      "id": 45583003,
+      "winnerId": 9579836,
+      "displayScore": "DQ",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 6,
+      "completedAt": 1647828563,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9579836,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9579833,
+            "participants": [
+              {
+                "player": {
+                  "id": 2438021,
+                  "gamerTag": "I Banged Ur GF Hugs86"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582971,
+      "winnerId": 9576822,
+      "displayScore": "Phorox 2 - BLM | RATS 3",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1647832235,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9580261,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9576822,
+            "participants": [
+              {
+                "player": {
+                  "id": 264211,
+                  "gamerTag": "RATS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582972,
+      "winnerId": 9576822,
+      "displayScore": "BLM | RATS 3 - Phorox 0",
+      "fullRoundText": "Grand Final Reset",
+      "round": 5,
+      "completedAt": 1647833093,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9576822,
+            "participants": [
+              {
+                "player": {
+                  "id": 264211,
+                  "gamerTag": "RATS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9580261,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582970,
+      "winnerId": 9580261,
+      "displayScore": "Phorox 3 - BLM | RATS 0",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1647827238,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9580261,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9576822,
+            "participants": [
+              {
+                "player": {
+                  "id": 264211,
+                  "gamerTag": "RATS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45583002,
+      "winnerId": 9576822,
+      "displayScore": "BLM | RATS 3 - C | Horizon 2",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1647830800,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9576822,
+            "participants": [
+              {
+                "player": {
+                  "id": 264211,
+                  "gamerTag": "RATS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9580384,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45583001,
+      "winnerId": 9580384,
+      "displayScore": "Hyruler 1 - C | Horizon 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1647829341,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9578190,
+            "participants": [
+              {
+                "player": {
+                  "id": 510480,
+                  "gamerTag": "Hyruler"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9580384,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582968,
+      "winnerId": 9580261,
+      "displayScore": "Phorox 3 - Hyruler 1",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1647826288,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9580261,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9578190,
+            "participants": [
+              {
+                "player": {
+                  "id": 510480,
+                  "gamerTag": "Hyruler"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582969,
+      "winnerId": 9576822,
+      "displayScore": "BLM | RATS 3 - Nukelele 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1647825836,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9576822,
+            "participants": [
+              {
+                "player": {
+                  "id": 264211,
+                  "gamerTag": "RATS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9579836,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582999,
+      "winnerId": 9578190,
+      "displayScore": "Hyruler 3 - I Banged Ur GF Hugs86 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1647827002,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9578190,
+            "participants": [
+              {
+                "player": {
+                  "id": 510480,
+                  "gamerTag": "Hyruler"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9579833,
+            "participants": [
+              {
+                "player": {
+                  "id": 2438021,
+                  "gamerTag": "I Banged Ur GF Hugs86"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45583000,
+      "winnerId": 9580384,
+      "displayScore": "Nukelele 1 - C | Horizon 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1647827943,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9579836,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9580384,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582997,
+      "winnerId": 9579833,
+      "displayScore": "OxC | smilob 0 - I Banged Ur GF Hugs86 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1647826106,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9569550,
+            "participants": [
+              {
+                "player": {
+                  "id": 2678758,
+                  "gamerTag": "smilob"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9579833,
+            "participants": [
+              {
+                "player": {
+                  "id": 2438021,
+                  "gamerTag": "I Banged Ur GF Hugs86"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582998,
+      "winnerId": 9580384,
+      "displayScore": "C | Horizon 3 - Dads 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1647826667,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9580384,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9579229,
+            "participants": [
+              {
+                "player": {
+                  "id": 10375,
+                  "gamerTag": "Dads"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582964,
+      "winnerId": 9580261,
+      "displayScore": "Phorox 3 - Dads 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1647824832,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9580261,
+            "participants": [
+              {
+                "player": {
+                  "id": 1007304,
+                  "gamerTag": "Phorox"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9579229,
+            "participants": [
+              {
+                "player": {
+                  "id": 10375,
+                  "gamerTag": "Dads"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582965,
+      "winnerId": 9578190,
+      "displayScore": "C | Horizon 1 - Hyruler 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1647823780,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9580384,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9578190,
+            "participants": [
+              {
+                "player": {
+                  "id": 510480,
+                  "gamerTag": "Hyruler"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582966,
+      "winnerId": 9576822,
+      "displayScore": "BLM | RATS 3 - I Banged Ur GF Hugs86 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1647824970,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9576822,
+            "participants": [
+              {
+                "player": {
+                  "id": 264211,
+                  "gamerTag": "RATS"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9579833,
+            "participants": [
+              {
+                "player": {
+                  "id": 2438021,
+                  "gamerTag": "I Banged Ur GF Hugs86"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582967,
+      "winnerId": 9579836,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1647823947,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9579836,
+            "participants": [
+              {
+                "player": {
+                  "id": 2156106,
+                  "gamerTag": "Nukelele"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9578743,
+            "participants": [
+              {
+                "player": {
+                  "id": 312911,
+                  "gamerTag": "DMA"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582993,
+      "winnerId": 9569550,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1647824604,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9578743,
+            "participants": [
+              {
+                "player": {
+                  "id": 312911,
+                  "gamerTag": "DMA"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9569550,
+            "participants": [
+              {
+                "player": {
+                  "id": 2678758,
+                  "gamerTag": "smilob"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582995,
+      "winnerId": 9580384,
+      "displayScore": "C | Horizon 3 - CatLover 0",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1647825539,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9580384,
+            "participants": [
+              {
+                "player": {
+                  "id": 1453020,
+                  "gamerTag": "spliffy"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9572790,
+            "participants": [
+              {
+                "player": {
+                  "id": 2700789,
+                  "gamerTag": "CatLover"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582996,
+      "winnerId": 9579229,
+      "displayScore": "DQ",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1647825507,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9579229,
+            "participants": [
+              {
+                "player": {
+                  "id": 10375,
+                  "gamerTag": "Dads"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9575493,
+            "participants": [
+              {
+                "player": {
+                  "id": 2463448,
+                  "gamerTag": "punnner"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582957,
+      "winnerId": 9579229,
+      "displayScore": "Dads 3 - OxC | smilob 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1647823685,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9579229,
+            "participants": [
+              {
+                "player": {
+                  "id": 10375,
+                  "gamerTag": "Dads"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9569550,
+            "participants": [
+              {
+                "player": {
+                  "id": 2678758,
+                  "gamerTag": "smilob"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582961,
+      "winnerId": 9579833,
+      "displayScore": "I Banged Ur GF Hugs86 3 - CatLover 2",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1647824264,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9579833,
+            "participants": [
+              {
+                "player": {
+                  "id": 2438021,
+                  "gamerTag": "I Banged Ur GF Hugs86"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9572790,
+            "participants": [
+              {
+                "player": {
+                  "id": 2700789,
+                  "gamerTag": "CatLover"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 45582963,
+      "winnerId": 9578743,
+      "displayScore": "DQ",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1647823288,
+      "slots": [
+        {
+          "entrant": {
+            "id": 9578743,
+            "participants": [
+              {
+                "player": {
+                  "id": 312911,
+                  "gamerTag": "DMA"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 9575493,
+            "participants": [
+              {
+                "player": {
+                  "id": 2463448,
+                  "gamerTag": "punnner"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": -1
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 9576822,
+        "participants": [
+          {
+            "player": {
+              "id": 264211,
+              "gamerTag": "RATS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 9580261,
+        "participants": [
+          {
+            "player": {
+              "id": 1007304,
+              "gamerTag": "Phorox"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 9580384,
+        "participants": [
+          {
+            "player": {
+              "id": 1453020,
+              "gamerTag": "spliffy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 9578190,
+        "participants": [
+          {
+            "player": {
+              "id": 510480,
+              "gamerTag": "Hyruler"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 9579836,
+        "participants": [
+          {
+            "player": {
+              "id": 2156106,
+              "gamerTag": "Nukelele"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 9579833,
+        "participants": [
+          {
+            "player": {
+              "id": 2438021,
+              "gamerTag": "I Banged Ur GF Hugs86"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 9579229,
+        "participants": [
+          {
+            "player": {
+              "id": 10375,
+              "gamerTag": "Dads"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 9569550,
+        "participants": [
+          {
+            "player": {
+              "id": 2678758,
+              "gamerTag": "smilob"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 9572790,
+        "participants": [
+          {
+            "player": {
+              "id": 2700789,
+              "gamerTag": "CatLover"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 9578743,
+        "participants": [
+          {
+            "player": {
+              "id": 312911,
+              "gamerTag": "DMA"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 9575493,
+        "participants": [
+          {
+            "player": {
+              "id": 2463448,
+              "gamerTag": "punnner"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,994 @@
+{
+  "slug": "tournament/scss-west-coast-90/event/melee-singles",
+  "event": {
+    "id": 839959,
+    "name": "Melee Singles",
+    "startAt": 1673227800,
+    "numEntrants": 9,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "SCSS West Coast #90",
+      "slug": "tournament/scss-west-coast-90"
+    }
+  },
+  "sets": [
+    {
+      "id": 55703547,
+      "winnerId": 12011312,
+      "displayScore": "ICT | Swaggermuffin 3 - BowWowBowser 2",
+      "fullRoundText": "5th Place Tiebreak",
+      "round": 6,
+      "completedAt": 1673233919,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12011312,
+            "participants": [
+              {
+                "player": {
+                  "id": 312289,
+                  "gamerTag": "Swaggermuffin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12013911,
+            "participants": [
+              {
+                "player": {
+                  "id": 3062814,
+                  "gamerTag": "BowWowBowser"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55703515,
+      "winnerId": 12012860,
+      "displayScore": "DevFromHev_ 3 - Pi2z 0",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1673234847,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12012860,
+            "participants": [
+              {
+                "player": {
+                  "id": 2308456,
+                  "gamerTag": "DummyFatHoes"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12013909,
+            "participants": [
+              {
+                "player": {
+                  "id": 159198,
+                  "gamerTag": "Chelsea"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55703514,
+      "winnerId": 12012860,
+      "displayScore": "Pi2z 2 - DevFromHev_ 3",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1673231768,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12013909,
+            "participants": [
+              {
+                "player": {
+                  "id": 159198,
+                  "gamerTag": "Chelsea"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12012860,
+            "participants": [
+              {
+                "player": {
+                  "id": 2308456,
+                  "gamerTag": "DummyFatHoes"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55703546,
+      "winnerId": 12013909,
+      "displayScore": "Pi2z 3 - BEBO 1",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1673234174,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12013909,
+            "participants": [
+              {
+                "player": {
+                  "id": 159198,
+                  "gamerTag": "Chelsea"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12013939,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55703545,
+      "winnerId": 12013939,
+      "displayScore": "Drrty | Grrty 2 - BEBO 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1673233286,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12013988,
+            "participants": [
+              {
+                "player": {
+                  "id": 46968,
+                  "gamerTag": "Grrty"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12013939,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55703512,
+      "winnerId": 12013909,
+      "displayScore": "Pi2z 3 - Drrty | Grrty 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1673230558,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12013909,
+            "participants": [
+              {
+                "player": {
+                  "id": 159198,
+                  "gamerTag": "Chelsea"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12013988,
+            "participants": [
+              {
+                "player": {
+                  "id": 46968,
+                  "gamerTag": "Grrty"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55703513,
+      "winnerId": 12012860,
+      "displayScore": "DevFromHev_ 3 - ICT | Swaggermuffin 1",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1673229677,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12012860,
+            "participants": [
+              {
+                "player": {
+                  "id": 2308456,
+                  "gamerTag": "DummyFatHoes"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12011312,
+            "participants": [
+              {
+                "player": {
+                  "id": 312289,
+                  "gamerTag": "Swaggermuffin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55703543,
+      "winnerId": 12013988,
+      "displayScore": "Drrty | Grrty 3 - BowWowBowser 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1673232243,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12013988,
+            "participants": [
+              {
+                "player": {
+                  "id": 46968,
+                  "gamerTag": "Grrty"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12013911,
+            "participants": [
+              {
+                "player": {
+                  "id": 3062814,
+                  "gamerTag": "BowWowBowser"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55703544,
+      "winnerId": 12013939,
+      "displayScore": "ICT | Swaggermuffin 1 - BEBO 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1673232226,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12011312,
+            "participants": [
+              {
+                "player": {
+                  "id": 312289,
+                  "gamerTag": "Swaggermuffin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12013939,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55703541,
+      "winnerId": 12013911,
+      "displayScore": "BowWowBowser 3 - daviddotorg 1",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1673231145,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12013911,
+            "participants": [
+              {
+                "player": {
+                  "id": 3062814,
+                  "gamerTag": "BowWowBowser"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12006875,
+            "participants": [
+              {
+                "player": {
+                  "id": 2215941,
+                  "gamerTag": "daviddotorg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55703542,
+      "winnerId": 12013939,
+      "displayScore": "BEBO 3 - SwatGandalf 1",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1673231268,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12013939,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12013353,
+            "participants": [
+              {
+                "player": {
+                  "id": 2825786,
+                  "gamerTag": "SwatGandalf"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55703508,
+      "winnerId": 12013909,
+      "displayScore": "Pi2z 3 - SwatGandalf 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1673229835,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12013909,
+            "participants": [
+              {
+                "player": {
+                  "id": 159198,
+                  "gamerTag": "Chelsea"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12013353,
+            "participants": [
+              {
+                "player": {
+                  "id": 2825786,
+                  "gamerTag": "SwatGandalf"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55703509,
+      "winnerId": 12013988,
+      "displayScore": "BEBO 1 - Drrty | Grrty 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1673229219,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12013939,
+            "participants": [
+              {
+                "player": {
+                  "id": 360229,
+                  "gamerTag": "BEBO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12013988,
+            "participants": [
+              {
+                "player": {
+                  "id": 46968,
+                  "gamerTag": "Grrty"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55703510,
+      "winnerId": 12012860,
+      "displayScore": "DevFromHev_ 3 - daviddotorg 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1673228449,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12012860,
+            "participants": [
+              {
+                "player": {
+                  "id": 2308456,
+                  "gamerTag": "DummyFatHoes"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12006875,
+            "participants": [
+              {
+                "player": {
+                  "id": 2215941,
+                  "gamerTag": "daviddotorg"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55703511,
+      "winnerId": 12011312,
+      "displayScore": "BowWowBowser 1 - ICT | Swaggermuffin 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1673228901,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12013911,
+            "participants": [
+              {
+                "player": {
+                  "id": 3062814,
+                  "gamerTag": "BowWowBowser"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12011312,
+            "participants": [
+              {
+                "player": {
+                  "id": 312289,
+                  "gamerTag": "Swaggermuffin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55703537,
+      "winnerId": 12013911,
+      "displayScore": "BowWowBowser 3 - Javascriptgold 0",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1673229935,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12013911,
+            "participants": [
+              {
+                "player": {
+                  "id": 3062814,
+                  "gamerTag": "BowWowBowser"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12007211,
+            "participants": [
+              {
+                "player": {
+                  "id": 2439707,
+                  "gamerTag": "LadiesMan217"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 55703501,
+      "winnerId": 12013353,
+      "displayScore": "Javascriptgold 0 - SwatGandalf 3",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1673228840,
+      "slots": [
+        {
+          "entrant": {
+            "id": 12007211,
+            "participants": [
+              {
+                "player": {
+                  "id": 2439707,
+                  "gamerTag": "LadiesMan217"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 12013353,
+            "participants": [
+              {
+                "player": {
+                  "id": 2825786,
+                  "gamerTag": "SwatGandalf"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 12012860,
+        "participants": [
+          {
+            "player": {
+              "id": 2308456,
+              "gamerTag": "DummyFatHoes"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 12013909,
+        "participants": [
+          {
+            "player": {
+              "id": 159198,
+              "gamerTag": "Chelsea"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 12013939,
+        "participants": [
+          {
+            "player": {
+              "id": 360229,
+              "gamerTag": "BEBO"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 12013988,
+        "participants": [
+          {
+            "player": {
+              "id": 46968,
+              "gamerTag": "Grrty"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 12011312,
+        "participants": [
+          {
+            "player": {
+              "id": 312289,
+              "gamerTag": "Swaggermuffin"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 6,
+      "entrant": {
+        "id": 12013911,
+        "participants": [
+          {
+            "player": {
+              "id": 3062814,
+              "gamerTag": "BowWowBowser"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 12006875,
+        "participants": [
+          {
+            "player": {
+              "id": 2215941,
+              "gamerTag": "daviddotorg"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 12013353,
+        "participants": [
+          {
+            "player": {
+              "id": 2825786,
+              "gamerTag": "SwatGandalf"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 12007211,
+        "participants": [
+          {
+            "player": {
+              "id": 2439707,
+              "gamerTag": "LadiesMan217"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

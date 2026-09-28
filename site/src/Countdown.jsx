@@ -17,7 +17,7 @@ function tagSizeClass(tag) {
   return 'tag-short';
 }
 
-export default function Countdown({ data, results, settings }) {
+export default function Countdown({ data, results, settings, base }) {
   const [length, setLength] = useState(10);
   const [step, setStep] = useState(-1);
   const countdownLength = Math.min(length, results.ranked.length);
@@ -46,7 +46,7 @@ export default function Countdown({ data, results, settings }) {
     return (
       <section className="countdown countdown-intro">
         <h1 className="poster-title">
-          <span>The CHUD HOUSE</span>
+          <span>The {data.name}</span>
           <span>Power Rankings</span>
         </h1>
         <p className="poster-facts">
@@ -75,10 +75,10 @@ export default function Countdown({ data, results, settings }) {
         <h1 className="poster-title">
           <span>That’s the list.</span>
         </h1>
-        <Mentions results={results} settings={settings} />
+        <Mentions results={results} settings={settings} base={base} />
         <div className="countdown-actions">
           <button className="button-secondary" onClick={() => setStep(-1)}>Watch it again</button>
-          <a className="button-primary" href="#/rankings">See the full rankings</a>
+          <a className="button-primary" href={`${base}/rankings`}>See the full rankings</a>
         </div>
       </section>
     );
