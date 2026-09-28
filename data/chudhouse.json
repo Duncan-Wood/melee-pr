@@ -1,0 +1,7233 @@
+{
+  "name": "CHUD HOUSE",
+  "events": [
+    {
+      "slug": "tournament/open-house/event/melee-singles",
+      "tournamentSlug": "tournament/open-house",
+      "name": "Open House",
+      "date": "2025-04-19",
+      "numEntrants": 6,
+      "countsForPR": false,
+      "note": "The first of the bunch.",
+      "standings": [
+        {
+          "playerId": "127997",
+          "placement": 1
+        },
+        {
+          "playerId": "227792",
+          "placement": 2
+        },
+        {
+          "playerId": "36858",
+          "placement": 3
+        },
+        {
+          "playerId": "1479899",
+          "placement": 4
+        },
+        {
+          "playerId": "2456770",
+          "placement": 5
+        }
+      ]
+    },
+    {
+      "slug": "tournament/mudbug-melee-25/event/melee-singles",
+      "tournamentSlug": "tournament/mudbug-melee-25",
+      "name": "Mudbug Melee '25",
+      "date": "2025-05-17",
+      "numEntrants": 26,
+      "countsForPR": true,
+      "note": "Our first tournament in the new house. Flew out Spark.",
+      "standings": [
+        {
+          "playerId": "3357",
+          "placement": 1
+        },
+        {
+          "playerId": "127997",
+          "placement": 2
+        },
+        {
+          "playerId": "6544",
+          "placement": 3
+        },
+        {
+          "playerId": "67482",
+          "placement": 4
+        },
+        {
+          "playerId": "3848264",
+          "placement": 5
+        },
+        {
+          "playerId": "27953",
+          "placement": 5
+        },
+        {
+          "playerId": "2519878",
+          "placement": 7
+        },
+        {
+          "playerId": "36790",
+          "placement": 7
+        },
+        {
+          "playerId": "2456770",
+          "placement": 9
+        },
+        {
+          "playerId": "344753",
+          "placement": 9
+        },
+        {
+          "playerId": "2944004",
+          "placement": 9
+        },
+        {
+          "playerId": "2377958",
+          "placement": 9
+        },
+        {
+          "playerId": "329291",
+          "placement": 13
+        },
+        {
+          "playerId": "2299942",
+          "placement": 13
+        },
+        {
+          "playerId": "1479899",
+          "placement": 13
+        },
+        {
+          "playerId": "227792",
+          "placement": 13
+        },
+        {
+          "playerId": "914233",
+          "placement": 17
+        },
+        {
+          "playerId": "4540107",
+          "placement": 17
+        },
+        {
+          "playerId": "639252",
+          "placement": 17
+        },
+        {
+          "playerId": "3926194",
+          "placement": 17
+        },
+        {
+          "playerId": "1205344",
+          "placement": 17
+        },
+        {
+          "playerId": "1208288",
+          "placement": 17
+        },
+        {
+          "playerId": "4760929",
+          "placement": 17
+        },
+        {
+          "playerId": "4277784",
+          "placement": 17
+        },
+        {
+          "playerId": "14642",
+          "placement": 25
+        },
+        {
+          "playerId": "4070972",
+          "placement": 25
+        }
+      ]
+    },
+    {
+      "slug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "tournamentSlug": "tournament/star-spangled-shine-spike",
+      "name": "Star-Spangled Shine Spike",
+      "date": "2025-07-05",
+      "numEntrants": 10,
+      "countsForPR": true,
+      "note": "July 4th themed. CHUD House was born.",
+      "standings": [
+        {
+          "playerId": "127997",
+          "placement": 1
+        },
+        {
+          "playerId": "1479899",
+          "placement": 2
+        },
+        {
+          "playerId": "639252",
+          "placement": 3
+        },
+        {
+          "playerId": "227792",
+          "placement": 4
+        },
+        {
+          "playerId": "581512",
+          "placement": 5
+        },
+        {
+          "playerId": "14642",
+          "placement": 5
+        },
+        {
+          "playerId": "739959",
+          "placement": 7
+        },
+        {
+          "playerId": "4845400",
+          "placement": 7
+        },
+        {
+          "playerId": "4846427",
+          "placement": 9
+        },
+        {
+          "playerId": "4845423",
+          "placement": 9
+        }
+      ]
+    },
+    {
+      "slug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "tournamentSlug": "tournament/chudhouse-9-6-25",
+      "name": "ChudHouse 9.6.25",
+      "date": "2025-09-06",
+      "numEntrants": 28,
+      "countsForPR": true,
+      "note": "Magi and Jade entered as RASPUTIN, passing one controller back and forth. The chud cake got thousands of likes on Twitter.",
+      "standings": [
+        {
+          "playerId": "127997",
+          "placement": 1
+        },
+        {
+          "playerId": "26387",
+          "placement": 2
+        },
+        {
+          "playerId": "4780649",
+          "placement": 3
+        },
+        {
+          "playerId": "1205344",
+          "placement": 4
+        },
+        {
+          "playerId": "2126472",
+          "placement": 5
+        },
+        {
+          "playerId": "1208288",
+          "placement": 5
+        },
+        {
+          "playerId": "3064884",
+          "placement": 7
+        },
+        {
+          "playerId": "2944004",
+          "placement": 7
+        },
+        {
+          "playerId": "2377958",
+          "placement": 9
+        },
+        {
+          "playerId": "1286344",
+          "placement": 9
+        },
+        {
+          "playerId": "2456770",
+          "placement": 9
+        },
+        {
+          "playerId": "639252",
+          "placement": 9
+        },
+        {
+          "playerId": "4845400",
+          "placement": 13
+        },
+        {
+          "playerId": "4958694",
+          "placement": 13
+        },
+        {
+          "playerId": "4070972",
+          "placement": 13
+        },
+        {
+          "playerId": "1479899",
+          "placement": 13
+        },
+        {
+          "playerId": "329291",
+          "placement": 17
+        },
+        {
+          "playerId": "4339442",
+          "placement": 17
+        },
+        {
+          "playerId": "914233",
+          "placement": 17
+        },
+        {
+          "playerId": "4277784",
+          "placement": 17
+        },
+        {
+          "playerId": "227792",
+          "placement": 17
+        },
+        {
+          "playerId": "4960064",
+          "placement": 17
+        },
+        {
+          "playerId": "14642",
+          "placement": 17
+        },
+        {
+          "playerId": "2940753",
+          "placement": 17
+        },
+        {
+          "playerId": "5026289",
+          "placement": 25
+        },
+        {
+          "playerId": "4760929",
+          "placement": 25
+        },
+        {
+          "playerId": "4961509",
+          "placement": 25
+        },
+        {
+          "playerId": "4961512",
+          "placement": 25
+        }
+      ]
+    },
+    {
+      "slug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "tournamentSlug": "tournament/chudhouse-10-18-2025",
+      "name": "ChudHouse 10.18.2025",
+      "date": "2025-10-18",
+      "numEntrants": 14,
+      "countsForPR": true,
+      "note": "Monthlies start for real.",
+      "standings": [
+        {
+          "playerId": "127997",
+          "placement": 1
+        },
+        {
+          "playerId": "2126472",
+          "placement": 2
+        },
+        {
+          "playerId": "1479899",
+          "placement": 3
+        },
+        {
+          "playerId": "2456770",
+          "placement": 4
+        },
+        {
+          "playerId": "2944004",
+          "placement": 5
+        },
+        {
+          "playerId": "227792",
+          "placement": 5
+        },
+        {
+          "playerId": "1208288",
+          "placement": 7
+        },
+        {
+          "playerId": "4845400",
+          "placement": 7
+        },
+        {
+          "playerId": "4070972",
+          "placement": 9
+        },
+        {
+          "playerId": "4277784",
+          "placement": 9
+        },
+        {
+          "playerId": "1904919",
+          "placement": 9
+        },
+        {
+          "playerId": "5026289",
+          "placement": 9
+        },
+        {
+          "playerId": "5027067",
+          "placement": 13
+        },
+        {
+          "playerId": "5016661",
+          "placement": 13
+        }
+      ]
+    },
+    {
+      "slug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "tournamentSlug": "tournament/chudhouse-11-22-2025",
+      "name": "ChudHouse 11.22.2025",
+      "date": "2025-11-22",
+      "numEntrants": 19,
+      "countsForPR": true,
+      "note": "Memphis invasion. They ran home and told Iori to come out of hiding.",
+      "standings": [
+        {
+          "playerId": "127997",
+          "placement": 1
+        },
+        {
+          "playerId": "25362",
+          "placement": 2
+        },
+        {
+          "playerId": "2079504",
+          "placement": 3
+        },
+        {
+          "playerId": "407343",
+          "placement": 4
+        },
+        {
+          "playerId": "36858",
+          "placement": 5
+        },
+        {
+          "playerId": "2126472",
+          "placement": 5
+        },
+        {
+          "playerId": "1479899",
+          "placement": 7
+        },
+        {
+          "playerId": "1208288",
+          "placement": 7
+        },
+        {
+          "playerId": "1205344",
+          "placement": 9
+        },
+        {
+          "playerId": "227792",
+          "placement": 9
+        },
+        {
+          "playerId": "1286344",
+          "placement": 9
+        },
+        {
+          "playerId": "2456770",
+          "placement": 9
+        },
+        {
+          "playerId": "4958694",
+          "placement": 13
+        },
+        {
+          "playerId": "4339442",
+          "placement": 13
+        },
+        {
+          "playerId": "1904919",
+          "placement": 13
+        },
+        {
+          "playerId": "5090902",
+          "placement": 13
+        },
+        {
+          "playerId": "5016661",
+          "placement": 17
+        },
+        {
+          "playerId": "5026289",
+          "placement": 17
+        },
+        {
+          "playerId": "5095251",
+          "placement": 17
+        }
+      ]
+    },
+    {
+      "slug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "tournamentSlug": "tournament/chudhouse-12-13-2025",
+      "name": "ChudHouse 12/13/2025",
+      "date": "2025-12-13",
+      "numEntrants": 29,
+      "countsForPR": true,
+      "note": "Legendary bracket.",
+      "standings": [
+        {
+          "playerId": "434513",
+          "placement": 1
+        },
+        {
+          "playerId": "127997",
+          "placement": 2
+        },
+        {
+          "playerId": "25362",
+          "placement": 3
+        },
+        {
+          "playerId": "5048541",
+          "placement": 4
+        },
+        {
+          "playerId": "1208288",
+          "placement": 5
+        },
+        {
+          "playerId": "67482",
+          "placement": 5
+        },
+        {
+          "playerId": "690671",
+          "placement": 7
+        },
+        {
+          "playerId": "1479899",
+          "placement": 7
+        },
+        {
+          "playerId": "39725",
+          "placement": 9
+        },
+        {
+          "playerId": "1205344",
+          "placement": 9
+        },
+        {
+          "playerId": "2456770",
+          "placement": 9
+        },
+        {
+          "playerId": "5090902",
+          "placement": 9
+        },
+        {
+          "playerId": "2020580",
+          "placement": 13
+        },
+        {
+          "playerId": "639252",
+          "placement": 13
+        },
+        {
+          "playerId": "4958694",
+          "placement": 13
+        },
+        {
+          "playerId": "227792",
+          "placement": 13
+        },
+        {
+          "playerId": "2331874",
+          "placement": 17
+        },
+        {
+          "playerId": "2519878",
+          "placement": 17
+        },
+        {
+          "playerId": "1744516",
+          "placement": 17
+        },
+        {
+          "playerId": "4281550",
+          "placement": 17
+        },
+        {
+          "playerId": "3024075",
+          "placement": 21
+        },
+        {
+          "playerId": "1904919",
+          "placement": 21
+        },
+        {
+          "playerId": "4204074",
+          "placement": 21
+        },
+        {
+          "playerId": "4845400",
+          "placement": 21
+        },
+        {
+          "playerId": "5095251",
+          "placement": 25
+        },
+        {
+          "playerId": "4960064",
+          "placement": 25
+        },
+        {
+          "playerId": "4339442",
+          "placement": 25
+        },
+        {
+          "playerId": "5026289",
+          "placement": 25
+        },
+        {
+          "playerId": "5016661",
+          "placement": 29
+        }
+      ]
+    },
+    {
+      "slug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "tournamentSlug": "tournament/chudhouse-1-17-2026",
+      "name": "ChudHouse 1.17.2026",
+      "date": "2026-01-17",
+      "numEntrants": 28,
+      "countsForPR": true,
+      "note": "Mobile, AL invasion. Suezo holds it down.",
+      "standings": [
+        {
+          "playerId": "127997",
+          "placement": 1
+        },
+        {
+          "playerId": "14592",
+          "placement": 2
+        },
+        {
+          "playerId": "1998097",
+          "placement": 3
+        },
+        {
+          "playerId": "3670025",
+          "placement": 4
+        },
+        {
+          "playerId": "26387",
+          "placement": 5
+        },
+        {
+          "playerId": "1205344",
+          "placement": 5
+        },
+        {
+          "playerId": "2377958",
+          "placement": 7
+        },
+        {
+          "playerId": "2456770",
+          "placement": 7
+        },
+        {
+          "playerId": "639252",
+          "placement": 9
+        },
+        {
+          "playerId": "1208288",
+          "placement": 9
+        },
+        {
+          "playerId": "1479899",
+          "placement": 9
+        },
+        {
+          "playerId": "5048541",
+          "placement": 9
+        },
+        {
+          "playerId": "5090902",
+          "placement": 13
+        },
+        {
+          "playerId": "3305570",
+          "placement": 13
+        },
+        {
+          "playerId": "4845400",
+          "placement": 13
+        },
+        {
+          "playerId": "227792",
+          "placement": 13
+        },
+        {
+          "playerId": "5026289",
+          "placement": 17
+        },
+        {
+          "playerId": "3843115",
+          "placement": 17
+        },
+        {
+          "playerId": "4960064",
+          "placement": 17
+        },
+        {
+          "playerId": "4958694",
+          "placement": 17
+        },
+        {
+          "playerId": "1904919",
+          "placement": 17
+        },
+        {
+          "playerId": "5012611",
+          "placement": 17
+        },
+        {
+          "playerId": "3670864",
+          "placement": 17
+        },
+        {
+          "playerId": "5095251",
+          "placement": 17
+        },
+        {
+          "playerId": "739959",
+          "placement": 25
+        },
+        {
+          "playerId": "4070972",
+          "placement": 25
+        },
+        {
+          "playerId": "4339442",
+          "placement": 25
+        },
+        {
+          "playerId": "5016661",
+          "placement": 25
+        }
+      ]
+    },
+    {
+      "slug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "tournamentSlug": "tournament/chudhouse-2-28-2026",
+      "name": "ChudHouse 2.28.2026",
+      "date": "2026-02-28",
+      "numEntrants": 30,
+      "countsForPR": true,
+      "note": "Many consider this the best CHUD House: the party the night before, the massive entrant count, the group picture.",
+      "standings": [
+        {
+          "playerId": "127997",
+          "placement": 1
+        },
+        {
+          "playerId": "7277",
+          "placement": 2
+        },
+        {
+          "playerId": "2126472",
+          "placement": 3
+        },
+        {
+          "playerId": "26387",
+          "placement": 4
+        },
+        {
+          "playerId": "5240105",
+          "placement": 5
+        },
+        {
+          "playerId": "24901",
+          "placement": 5
+        },
+        {
+          "playerId": "263818",
+          "placement": 7
+        },
+        {
+          "playerId": "2377958",
+          "placement": 7
+        },
+        {
+          "playerId": "1286344",
+          "placement": 9
+        },
+        {
+          "playerId": "3670864",
+          "placement": 9
+        },
+        {
+          "playerId": "2456770",
+          "placement": 9
+        },
+        {
+          "playerId": "3670025",
+          "placement": 9
+        },
+        {
+          "playerId": "1479899",
+          "placement": 13
+        },
+        {
+          "playerId": "227792",
+          "placement": 13
+        },
+        {
+          "playerId": "1205344",
+          "placement": 13
+        },
+        {
+          "playerId": "2302944",
+          "placement": 13
+        },
+        {
+          "playerId": "4845400",
+          "placement": 17
+        },
+        {
+          "playerId": "4652005",
+          "placement": 17
+        },
+        {
+          "playerId": "1904919",
+          "placement": 17
+        },
+        {
+          "playerId": "3305570",
+          "placement": 17
+        },
+        {
+          "playerId": "2504721",
+          "placement": 17
+        },
+        {
+          "playerId": "5090902",
+          "placement": 17
+        },
+        {
+          "playerId": "3670385",
+          "placement": 17
+        },
+        {
+          "playerId": "5016661",
+          "placement": 17
+        },
+        {
+          "playerId": "3843115",
+          "placement": 25
+        },
+        {
+          "playerId": "739959",
+          "placement": 25
+        },
+        {
+          "playerId": "5016235",
+          "placement": 25
+        },
+        {
+          "playerId": "5095251",
+          "placement": 25
+        },
+        {
+          "playerId": "3024075",
+          "placement": 25
+        },
+        {
+          "playerId": "4339442",
+          "placement": 25
+        }
+      ]
+    },
+    {
+      "slug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "tournamentSlug": "tournament/chudhouse-3-21-2026",
+      "name": "ChudHouse 3.21.2026",
+      "date": "2026-03-21",
+      "numEntrants": 20,
+      "countsForPR": true,
+      "note": "SDJ visits. They were Tokyo drifting on the way there.",
+      "standings": [
+        {
+          "playerId": "325974",
+          "placement": 1
+        },
+        {
+          "playerId": "127997",
+          "placement": 2
+        },
+        {
+          "playerId": "2126472",
+          "placement": 3
+        },
+        {
+          "playerId": "1205344",
+          "placement": 4
+        },
+        {
+          "playerId": "1479899",
+          "placement": 5
+        },
+        {
+          "playerId": "2456770",
+          "placement": 5
+        },
+        {
+          "playerId": "4958694",
+          "placement": 7
+        },
+        {
+          "playerId": "725403",
+          "placement": 7
+        },
+        {
+          "playerId": "4960064",
+          "placement": 9
+        },
+        {
+          "playerId": "227792",
+          "placement": 9
+        },
+        {
+          "playerId": "639252",
+          "placement": 9
+        },
+        {
+          "playerId": "4845400",
+          "placement": 9
+        },
+        {
+          "playerId": "1904919",
+          "placement": 13
+        },
+        {
+          "playerId": "234597",
+          "placement": 13
+        },
+        {
+          "playerId": "5095251",
+          "placement": 13
+        },
+        {
+          "playerId": "3305570",
+          "placement": 13
+        },
+        {
+          "playerId": "4070972",
+          "placement": 17
+        },
+        {
+          "playerId": "5016661",
+          "placement": 17
+        },
+        {
+          "playerId": "5026289",
+          "placement": 17
+        },
+        {
+          "playerId": "5247051",
+          "placement": 17
+        }
+      ]
+    },
+    {
+      "slug": "tournament/mudbug2/event/melee-singles",
+      "tournamentSlug": "tournament/mudbug2",
+      "name": "Mudbug2",
+      "date": "2026-04-25",
+      "numEntrants": 26,
+      "countsForPR": true,
+      "note": "Second annual crawfish boil. Spark takes it, but Mario Party went differently.",
+      "standings": [
+        {
+          "playerId": "3357",
+          "placement": 1
+        },
+        {
+          "playerId": "14592",
+          "placement": 2
+        },
+        {
+          "playerId": "26387",
+          "placement": 3
+        },
+        {
+          "playerId": "690671",
+          "placement": 4
+        },
+        {
+          "playerId": "127997",
+          "placement": 5
+        },
+        {
+          "playerId": "407343",
+          "placement": 5
+        },
+        {
+          "playerId": "2377958",
+          "placement": 7
+        },
+        {
+          "playerId": "631620",
+          "placement": 7
+        },
+        {
+          "playerId": "2456770",
+          "placement": 9
+        },
+        {
+          "playerId": "1208288",
+          "placement": 9
+        },
+        {
+          "playerId": "1205344",
+          "placement": 9
+        },
+        {
+          "playerId": "1479899",
+          "placement": 9
+        },
+        {
+          "playerId": "1286344",
+          "placement": 13
+        },
+        {
+          "playerId": "4845400",
+          "placement": 13
+        },
+        {
+          "playerId": "2302944",
+          "placement": 13
+        },
+        {
+          "playerId": "5247051",
+          "placement": 13
+        },
+        {
+          "playerId": "3422494",
+          "placement": 17
+        },
+        {
+          "playerId": "2724383",
+          "placement": 17
+        },
+        {
+          "playerId": "5095251",
+          "placement": 17
+        },
+        {
+          "playerId": "4960064",
+          "placement": 17
+        },
+        {
+          "playerId": "5334924",
+          "placement": 17
+        },
+        {
+          "playerId": "3305570",
+          "placement": 17
+        },
+        {
+          "playerId": "5090902",
+          "placement": 17
+        },
+        {
+          "playerId": "1904919",
+          "placement": 17
+        },
+        {
+          "playerId": "5016661",
+          "placement": 25
+        },
+        {
+          "playerId": "4339442",
+          "placement": 25
+        }
+      ]
+    },
+    {
+      "slug": "tournament/open-house-2/event/melee-singles",
+      "tournamentSlug": "tournament/open-house-2",
+      "name": "Open House #2",
+      "date": "2026-05-30",
+      "numEntrants": 8,
+      "countsForPR": false,
+      "note": "W datsal.",
+      "standings": [
+        {
+          "playerId": "2456770",
+          "placement": 1
+        },
+        {
+          "playerId": "1479899",
+          "placement": 2
+        },
+        {
+          "playerId": "227792",
+          "placement": 3
+        },
+        {
+          "playerId": "5247051",
+          "placement": 4
+        },
+        {
+          "playerId": "1904919",
+          "placement": 5
+        },
+        {
+          "playerId": "4845400",
+          "placement": 5
+        },
+        {
+          "playerId": "4339442",
+          "placement": 7
+        },
+        {
+          "playerId": "5095251",
+          "placement": 7
+        }
+      ]
+    },
+    {
+      "slug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "tournamentSlug": "tournament/chudhouse-6-27-2026",
+      "name": "ChudHouse 6.27.2026",
+      "date": "2026-06-27",
+      "numEntrants": 13,
+      "countsForPR": true,
+      "note": null,
+      "standings": [
+        {
+          "playerId": "127997",
+          "placement": 1
+        },
+        {
+          "playerId": "1205344",
+          "placement": 2
+        },
+        {
+          "playerId": "2456770",
+          "placement": 3
+        },
+        {
+          "playerId": "1208288",
+          "placement": 4
+        },
+        {
+          "playerId": "227792",
+          "placement": 5
+        },
+        {
+          "playerId": "1479899",
+          "placement": 5
+        },
+        {
+          "playerId": "4845400",
+          "placement": 7
+        },
+        {
+          "playerId": "4566664",
+          "placement": 7
+        },
+        {
+          "playerId": "1904919",
+          "placement": 9
+        },
+        {
+          "playerId": "5095251",
+          "placement": 9
+        },
+        {
+          "playerId": "4339442",
+          "placement": 9
+        },
+        {
+          "playerId": "5391445",
+          "placement": 9
+        },
+        {
+          "playerId": "5016661",
+          "placement": 13
+        }
+      ]
+    },
+    {
+      "slug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "tournamentSlug": "tournament/chud-house-finale-7-18-26",
+      "name": "CHUD HOUSE FINALE 7.18.26",
+      "date": "2026-07-18",
+      "numEntrants": 23,
+      "countsForPR": true,
+      "note": "The last one.",
+      "standings": [
+        {
+          "playerId": "127997",
+          "placement": 1
+        },
+        {
+          "playerId": "690671",
+          "placement": 2
+        },
+        {
+          "playerId": "14592",
+          "placement": 3
+        },
+        {
+          "playerId": "2456770",
+          "placement": 4
+        },
+        {
+          "playerId": "227792",
+          "placement": 5
+        },
+        {
+          "playerId": "1208288",
+          "placement": 5
+        },
+        {
+          "playerId": "1205344",
+          "placement": 7
+        },
+        {
+          "playerId": "4958694",
+          "placement": 7
+        },
+        {
+          "playerId": "3305570",
+          "placement": 9
+        },
+        {
+          "playerId": "1479899",
+          "placement": 9
+        },
+        {
+          "playerId": "639252",
+          "placement": 9
+        },
+        {
+          "playerId": "2302944",
+          "placement": 9
+        },
+        {
+          "playerId": "1904919",
+          "placement": 13
+        },
+        {
+          "playerId": "4845400",
+          "placement": 13
+        },
+        {
+          "playerId": "5484684",
+          "placement": 13
+        },
+        {
+          "playerId": "5247051",
+          "placement": 13
+        },
+        {
+          "playerId": "4070972",
+          "placement": 17
+        },
+        {
+          "playerId": "5484671",
+          "placement": 17
+        },
+        {
+          "playerId": "739959",
+          "placement": 17
+        },
+        {
+          "playerId": "5090902",
+          "placement": 17
+        },
+        {
+          "playerId": "4339442",
+          "placement": 17
+        },
+        {
+          "playerId": "5485209",
+          "placement": 17
+        },
+        {
+          "playerId": "5016661",
+          "placement": 17
+        }
+      ]
+    }
+  ],
+  "players": {
+    "3357": {
+      "id": "3357",
+      "tag": "Spark"
+    },
+    "6544": {
+      "id": "6544",
+      "tag": "Magi"
+    },
+    "7277": {
+      "id": "7277",
+      "tag": "JSalt"
+    },
+    "14592": {
+      "id": "14592",
+      "tag": "Suezo"
+    },
+    "14642": {
+      "id": "14642",
+      "tag": "Qualia"
+    },
+    "24901": {
+      "id": "24901",
+      "tag": "patturn"
+    },
+    "25362": {
+      "id": "25362",
+      "tag": "Austin"
+    },
+    "26387": {
+      "id": "26387",
+      "tag": "Phantom Airline"
+    },
+    "27953": {
+      "id": "27953",
+      "tag": "Mr. K"
+    },
+    "36790": {
+      "id": "36790",
+      "tag": "Willy"
+    },
+    "36858": {
+      "id": "36858",
+      "tag": "Owl"
+    },
+    "39725": {
+      "id": "39725",
+      "tag": "Wheatley"
+    },
+    "67482": {
+      "id": "67482",
+      "tag": "LaFlarb"
+    },
+    "127997": {
+      "id": "127997",
+      "tag": "rabit!"
+    },
+    "227792": {
+      "id": "227792",
+      "tag": "Baskin"
+    },
+    "234597": {
+      "id": "234597",
+      "tag": "Varsity_Scooter"
+    },
+    "263818": {
+      "id": "263818",
+      "tag": "Cinna"
+    },
+    "325974": {
+      "id": "325974",
+      "tag": "SDJ"
+    },
+    "329291": {
+      "id": "329291",
+      "tag": "Gamer: Zvince"
+    },
+    "344753": {
+      "id": "344753",
+      "tag": "DrDepper"
+    },
+    "407343": {
+      "id": "407343",
+      "tag": "Larry Mozzarelli"
+    },
+    "434513": {
+      "id": "434513",
+      "tag": "Iori"
+    },
+    "581512": {
+      "id": "581512",
+      "tag": "GARY NEVER GARY AGAIN"
+    },
+    "631620": {
+      "id": "631620",
+      "tag": "Feroz"
+    },
+    "639252": {
+      "id": "639252",
+      "tag": "Luch"
+    },
+    "690671": {
+      "id": "690671",
+      "tag": "taqwim"
+    },
+    "725403": {
+      "id": "725403",
+      "tag": "Squishyy"
+    },
+    "739959": {
+      "id": "739959",
+      "tag": "Xorny"
+    },
+    "914233": {
+      "id": "914233",
+      "tag": "HighlyHylian"
+    },
+    "1205344": {
+      "id": "1205344",
+      "tag": "C.Y.R.U.S."
+    },
+    "1208288": {
+      "id": "1208288",
+      "tag": "Meta!?"
+    },
+    "1286344": {
+      "id": "1286344",
+      "tag": "skrat"
+    },
+    "1479899": {
+      "id": "1479899",
+      "tag": "cj"
+    },
+    "1744516": {
+      "id": "1744516",
+      "tag": "Courier"
+    },
+    "1904919": {
+      "id": "1904919",
+      "tag": "Rusky4038"
+    },
+    "1998097": {
+      "id": "1998097",
+      "tag": "Zapdosion"
+    },
+    "2020580": {
+      "id": "2020580",
+      "tag": "Parker"
+    },
+    "2079504": {
+      "id": "2079504",
+      "tag": "swade"
+    },
+    "2126472": {
+      "id": "2126472",
+      "tag": "Fives"
+    },
+    "2299942": {
+      "id": "2299942",
+      "tag": "ultradill"
+    },
+    "2302944": {
+      "id": "2302944",
+      "tag": "Horsh"
+    },
+    "2331874": {
+      "id": "2331874",
+      "tag": "cool john"
+    },
+    "2377958": {
+      "id": "2377958",
+      "tag": "Ghoody"
+    },
+    "2456770": {
+      "id": "2456770",
+      "tag": "datsal"
+    },
+    "2504721": {
+      "id": "2504721",
+      "tag": "Merkin"
+    },
+    "2519878": {
+      "id": "2519878",
+      "tag": "ShowMeTheMoney"
+    },
+    "2724383": {
+      "id": "2724383",
+      "tag": "RubRub"
+    },
+    "2940753": {
+      "id": "2940753",
+      "tag": "Stepping"
+    },
+    "2944004": {
+      "id": "2944004",
+      "tag": "TommyMotherFreakingAcorn"
+    },
+    "3024075": {
+      "id": "3024075",
+      "tag": "thwizo"
+    },
+    "3064884": {
+      "id": "3064884",
+      "tag": "Ricky_Nguyen"
+    },
+    "3305570": {
+      "id": "3305570",
+      "tag": "Dilby"
+    },
+    "3422494": {
+      "id": "3422494",
+      "tag": "CarsonBeck"
+    },
+    "3670025": {
+      "id": "3670025",
+      "tag": "Octo_328"
+    },
+    "3670385": {
+      "id": "3670385",
+      "tag": "Tezzer"
+    },
+    "3670864": {
+      "id": "3670864",
+      "tag": "BlackSquecil"
+    },
+    "3843115": {
+      "id": "3843115",
+      "tag": "Kipkin"
+    },
+    "3848264": {
+      "id": "3848264",
+      "tag": "DubbleRex"
+    },
+    "3926194": {
+      "id": "3926194",
+      "tag": "Dispect"
+    },
+    "4070972": {
+      "id": "4070972",
+      "tag": "Mike Flow"
+    },
+    "4204074": {
+      "id": "4204074",
+      "tag": "Eggy"
+    },
+    "4277784": {
+      "id": "4277784",
+      "tag": "dubious"
+    },
+    "4281550": {
+      "id": "4281550",
+      "tag": "Mr. Pretzel"
+    },
+    "4339442": {
+      "id": "4339442",
+      "tag": "cigarette mom"
+    },
+    "4540107": {
+      "id": "4540107",
+      "tag": "Alex"
+    },
+    "4566664": {
+      "id": "4566664",
+      "tag": "Sean"
+    },
+    "4652005": {
+      "id": "4652005",
+      "tag": "Johnathan Vegetable"
+    },
+    "4760929": {
+      "id": "4760929",
+      "tag": "ProfRandle"
+    },
+    "4780649": {
+      "id": "4780649",
+      "tag": "RASPUTIN"
+    },
+    "4845400": {
+      "id": "4845400",
+      "tag": "Dork"
+    },
+    "4845423": {
+      "id": "4845423",
+      "tag": "Sasuke"
+    },
+    "4846427": {
+      "id": "4846427",
+      "tag": "Angel"
+    },
+    "4958694": {
+      "id": "4958694",
+      "tag": "cchalz"
+    },
+    "4960064": {
+      "id": "4960064",
+      "tag": "Wetdog"
+    },
+    "4961509": {
+      "id": "4961509",
+      "tag": "Finkleman"
+    },
+    "4961512": {
+      "id": "4961512",
+      "tag": "Stuff"
+    },
+    "5012611": {
+      "id": "5012611",
+      "tag": "Shrimps"
+    },
+    "5016235": {
+      "id": "5016235",
+      "tag": "Gardox"
+    },
+    "5016661": {
+      "id": "5016661",
+      "tag": "Solis"
+    },
+    "5026289": {
+      "id": "5026289",
+      "tag": "ZYLO"
+    },
+    "5027067": {
+      "id": "5027067",
+      "tag": "Soulless"
+    },
+    "5048541": {
+      "id": "5048541",
+      "tag": "ichigo"
+    },
+    "5090902": {
+      "id": "5090902",
+      "tag": "Electric Friend"
+    },
+    "5095251": {
+      "id": "5095251",
+      "tag": "Rose"
+    },
+    "5240105": {
+      "id": "5240105",
+      "tag": "Cyphr"
+    },
+    "5247051": {
+      "id": "5247051",
+      "tag": "Rhea"
+    },
+    "5334924": {
+      "id": "5334924",
+      "tag": "woah"
+    },
+    "5391445": {
+      "id": "5391445",
+      "tag": "BIG JAKE"
+    },
+    "5484671": {
+      "id": "5484671",
+      "tag": "Bongo"
+    },
+    "5484684": {
+      "id": "5484684",
+      "tag": "BAM"
+    },
+    "5485209": {
+      "id": "5485209",
+      "tag": "ACL"
+    }
+  },
+  "sets": [
+    {
+      "id": 88031450,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": 5,
+      "roundName": "Round 5",
+      "winnerId": "127997",
+      "loserId": "2456770",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 88031451,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": 5,
+      "roundName": "Round 5",
+      "winnerId": "1479899",
+      "loserId": "227792",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 88032638,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": 4,
+      "roundName": "Grand Final",
+      "winnerId": "127997",
+      "loserId": "227792",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 88031448,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "127997",
+      "loserId": "36858",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 88031449,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "2456770",
+      "loserId": "1479899",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 88032637,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": 3,
+      "roundName": "Winners Final",
+      "winnerId": "127997",
+      "loserId": "36858",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 88031446,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "127997",
+      "loserId": "1479899",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 88031447,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "36858",
+      "loserId": "227792",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 88032653,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": -6,
+      "roundName": "Losers Final",
+      "winnerId": "227792",
+      "loserId": "36858",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 88032652,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": -5,
+      "roundName": "Losers Semi-Final",
+      "winnerId": "227792",
+      "loserId": "1479899",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 88032635,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "127997",
+      "loserId": "1479899",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 88032636,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "36858",
+      "loserId": "2456770",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 88031444,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "127997",
+      "loserId": "227792",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 88031445,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "2456770",
+      "loserId": "36858",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 88032650,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "227792",
+      "loserId": "2456770",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 88032632,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "1479899",
+      "loserId": "227792",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 88031442,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "2456770",
+      "loserId": "227792",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 88031443,
+      "eventSlug": "tournament/open-house/event/melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "36858",
+      "loserId": "1479899",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 89187625,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 6,
+      "roundName": "Grand Final",
+      "winnerId": "3357",
+      "loserId": "127997",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 89187624,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 5,
+      "roundName": "Winners Final",
+      "winnerId": "3357",
+      "loserId": "127997",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 89187688,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -10,
+      "roundName": "Losers Final",
+      "winnerId": "127997",
+      "loserId": "6544",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 89187687,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -9,
+      "roundName": "Losers Semi-Final",
+      "winnerId": "6544",
+      "loserId": "67482",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 89187622,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 4,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "3357",
+      "loserId": "6544",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 89187623,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 4,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "127997",
+      "loserId": "67482",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 89187685,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -8,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "67482",
+      "loserId": "3848264",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 89187686,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -8,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "6544",
+      "loserId": "27953",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 89187683,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -7,
+      "roundName": "Losers Round 5",
+      "winnerId": "3848264",
+      "loserId": "2519878",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 89187684,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -7,
+      "roundName": "Losers Round 5",
+      "winnerId": "27953",
+      "loserId": "36790",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 89187618,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "3357",
+      "loserId": "3848264",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187619,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "6544",
+      "loserId": "344753",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187620,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "127997",
+      "loserId": "27953",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187621,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "67482",
+      "loserId": "36790",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187679,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "2519878",
+      "loserId": "344753",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187680,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "3848264",
+      "loserId": "2944004",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 89187681,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "36790",
+      "loserId": "2456770",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187682,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "27953",
+      "loserId": "2377958",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187675,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "2519878",
+      "loserId": "227792",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 89187676,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "2944004",
+      "loserId": "1479899",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187678,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "2377958",
+      "loserId": "329291",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187610,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "3357",
+      "loserId": "329291",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187611,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "3848264",
+      "loserId": "4760929",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187612,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "6544",
+      "loserId": "2456770",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187614,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "127997",
+      "loserId": "1479899",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187615,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "27953",
+      "loserId": "2944004",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187616,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "67482",
+      "loserId": "2519878",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 89187617,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "36790",
+      "loserId": "227792",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 89187667,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "227792",
+      "loserId": "914233",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187670,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "1479899",
+      "loserId": "639252",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 89187672,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "2456770",
+      "loserId": "4277784",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187673,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "2377958",
+      "loserId": "4760929",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187674,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "329291",
+      "loserId": "3926194",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187664,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "4277784",
+      "loserId": "4070972",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187595,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "329291",
+      "loserId": "914233",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 89187596,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "4760929",
+      "loserId": "1208288",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 89187599,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "2456770",
+      "loserId": "4540107",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 89187601,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "344753",
+      "loserId": "639252",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 89187603,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1479899",
+      "loserId": "2299942",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187604,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "27953",
+      "loserId": "4070972",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187605,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "2944004",
+      "loserId": "4277784",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187607,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "2519878",
+      "loserId": "2377958",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 89187609,
+      "eventSlug": "tournament/mudbug-melee-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "227792",
+      "loserId": "3926194",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 91092012,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": 5,
+      "roundName": "Grand Final",
+      "winnerId": "127997",
+      "loserId": "1479899",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 91092011,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": 4,
+      "roundName": "Winners Final",
+      "winnerId": "127997",
+      "loserId": "1479899",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 91092043,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": -8,
+      "roundName": "Losers Final",
+      "winnerId": "1479899",
+      "loserId": "639252",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 91092042,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": -7,
+      "roundName": "Losers Semi-Final",
+      "winnerId": "639252",
+      "loserId": "227792",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 91092009,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": 3,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "127997",
+      "loserId": "639252",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 91092010,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": 3,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "1479899",
+      "loserId": "227792",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 91092040,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": -6,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "639252",
+      "loserId": "581512",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 91092041,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": -6,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "227792",
+      "loserId": "14642",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 91092038,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 2",
+      "winnerId": "581512",
+      "loserId": "4845400",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 91092039,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 2",
+      "winnerId": "14642",
+      "loserId": "739959",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 91092005,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "127997",
+      "loserId": "739959",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 91092006,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "639252",
+      "loserId": "14642",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 91092007,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "227792",
+      "loserId": "581512",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 91092008,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "1479899",
+      "loserId": "4845400",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 91092034,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "4845400",
+      "loserId": "4846427",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 91092036,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "14642",
+      "loserId": "4845423",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 91091998,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "739959",
+      "loserId": "4846427",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 91092002,
+      "eventSlug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "581512",
+      "loserId": "4845423",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 93585169,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 6,
+      "roundName": "Grand Final",
+      "winnerId": "127997",
+      "loserId": "26387",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 93585168,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 5,
+      "roundName": "Winners Final",
+      "winnerId": "127997",
+      "loserId": "26387",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 93585232,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -10,
+      "roundName": "Losers Final",
+      "winnerId": "26387",
+      "loserId": "4780649",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 93585231,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -9,
+      "roundName": "Losers Semi-Final",
+      "winnerId": "4780649",
+      "loserId": "1205344",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 93585166,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 4,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "127997",
+      "loserId": "4780649",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 93585167,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 4,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "26387",
+      "loserId": "2126472",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 93585229,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -8,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "1205344",
+      "loserId": "2126472",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 93585230,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -8,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "4780649",
+      "loserId": "1208288",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 93585227,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -7,
+      "roundName": "Losers Round 5",
+      "winnerId": "1205344",
+      "loserId": "3064884",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 93585228,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -7,
+      "roundName": "Losers Round 5",
+      "winnerId": "1208288",
+      "loserId": "2944004",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 93585162,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "127997",
+      "loserId": "3064884",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585163,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "4780649",
+      "loserId": "1205344",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 93585164,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "2126472",
+      "loserId": "2944004",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585165,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "26387",
+      "loserId": "1208288",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585223,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "1205344",
+      "loserId": "639252",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585224,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "3064884",
+      "loserId": "2377958",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 93585225,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "1208288",
+      "loserId": "1286344",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585226,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "2944004",
+      "loserId": "2456770",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 93585219,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "639252",
+      "loserId": "4070972",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585220,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "2377958",
+      "loserId": "1479899",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 93585221,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "1286344",
+      "loserId": "4958694",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 93585222,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "2456770",
+      "loserId": "4845400",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 93585154,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "127997",
+      "loserId": "4845400",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585155,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "3064884",
+      "loserId": "2456770",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 93585156,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "4780649",
+      "loserId": "4958694",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585157,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "1205344",
+      "loserId": "227792",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585158,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "2126472",
+      "loserId": "2377958",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585159,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "2944004",
+      "loserId": "1479899",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585160,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "26387",
+      "loserId": "914233",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585161,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "1208288",
+      "loserId": "639252",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 93585211,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "639252",
+      "loserId": "329291",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585212,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "4070972",
+      "loserId": "914233",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585214,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "2377958",
+      "loserId": "4960064",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585215,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "1286344",
+      "loserId": "227792",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 93585216,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "4958694",
+      "loserId": "14642",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 93585217,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "2456770",
+      "loserId": "4277784",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585218,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "4845400",
+      "loserId": "2940753",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585204,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "4070972",
+      "loserId": "5026289",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585208,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "14642",
+      "loserId": "4961509",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585210,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "2940753",
+      "loserId": "4961512",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 93585139,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "4845400",
+      "loserId": "329291",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 93585140,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "2456770",
+      "loserId": "4070972",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585141,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "3064884",
+      "loserId": "5026289",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585143,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "4958694",
+      "loserId": "4339442",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585145,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "227792",
+      "loserId": "4960064",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585147,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "2377958",
+      "loserId": "1286344",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585148,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "2944004",
+      "loserId": "4961509",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585149,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1479899",
+      "loserId": "14642",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 93585151,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "914233",
+      "loserId": "4277784",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 93585152,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1208288",
+      "loserId": "4961512",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 93585153,
+      "eventSlug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "639252",
+      "loserId": "2940753",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 95213261,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": 5,
+      "roundName": "Grand Final",
+      "winnerId": "127997",
+      "loserId": "2126472",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 95213260,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Winners Final",
+      "winnerId": "127997",
+      "loserId": "2126472",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 95213292,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": -8,
+      "roundName": "Losers Final",
+      "winnerId": "2126472",
+      "loserId": "1479899",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 95213291,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": -7,
+      "roundName": "Losers Semi-Final",
+      "winnerId": "1479899",
+      "loserId": "2456770",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 95213258,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "127997",
+      "loserId": "2944004",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 95213259,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "2126472",
+      "loserId": "2456770",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 95213289,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "1479899",
+      "loserId": "2944004",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 95213290,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "2456770",
+      "loserId": "227792",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 95213287,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "1479899",
+      "loserId": "1208288",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 95213288,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "227792",
+      "loserId": "4845400",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 95213254,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "127997",
+      "loserId": "4070972",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 95213255,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "2944004",
+      "loserId": "227792",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 95213256,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "2126472",
+      "loserId": "1479899",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 95213257,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "2456770",
+      "loserId": "1208288",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 95213283,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "1208288",
+      "loserId": "4277784",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 95213284,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "1479899",
+      "loserId": "5026289",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 95213285,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "227792",
+      "loserId": "1904919",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 95213286,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "4845400",
+      "loserId": "4070972",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 95213282,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "4845400",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 95213247,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "4070972",
+      "loserId": "4277784",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 95213249,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "227792",
+      "loserId": "5026289",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 95213251,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1479899",
+      "loserId": "1904919",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 95213252,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1208288",
+      "loserId": "4845400",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 95213253,
+      "eventSlug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "2456770",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96688281,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Grand Final",
+      "winnerId": "127997",
+      "loserId": "25362",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 96686427,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "25362",
+      "loserId": "1205344",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96686428,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "227792",
+      "loserId": "4958694",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96685702,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "5090902",
+      "loserId": "5095251",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96685902,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "1904919",
+      "loserId": "5026289",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96686169,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "1208288",
+      "loserId": "1479899",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96685703,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "407343",
+      "loserId": "2456770",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 96685903,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "1286344",
+      "loserId": "36858",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 96686170,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "4339442",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96688280,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Final",
+      "winnerId": "127997",
+      "loserId": "2079504",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 96683500,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "1205344",
+      "loserId": "227792",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96683501,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "25362",
+      "loserId": "4958694",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96682992,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "2126472",
+      "loserId": "407343",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96683605,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "127997",
+      "loserId": "1208288",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 96685135,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "2079504",
+      "loserId": "1286344",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96682993,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "2456770",
+      "loserId": "5090902",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96683606,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "1479899",
+      "loserId": "4339442",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96685136,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "36858",
+      "loserId": "1904919",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96688312,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": -8,
+      "roundName": "Losers Final",
+      "winnerId": "25362",
+      "loserId": "2079504",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 96688311,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": -7,
+      "roundName": "Losers Semi-Final",
+      "winnerId": "25362",
+      "loserId": "407343",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 96688278,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "2079504",
+      "loserId": "2126472",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 96688279,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "127997",
+      "loserId": "25362",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 96682944,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "25362",
+      "loserId": "1205344",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96681984,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "2126472",
+      "loserId": "2456770",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96682071,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "127997",
+      "loserId": "1479899",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96682945,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "227792",
+      "loserId": "4958694",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96683487,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "2079504",
+      "loserId": "36858",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96681985,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "407343",
+      "loserId": "5095251",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96682072,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "1208288",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96683488,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "1286344",
+      "loserId": "5026289",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96688309,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "407343",
+      "loserId": "2126472",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 96688310,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "25362",
+      "loserId": "36858",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 96688307,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 2",
+      "winnerId": "407343",
+      "loserId": "1479899",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 96688308,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 2",
+      "winnerId": "36858",
+      "loserId": "1208288",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 96688274,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "2126472",
+      "loserId": "1205344",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 96688275,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "2079504",
+      "loserId": "1208288",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 96688276,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "25362",
+      "loserId": "1286344",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 96688277,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "127997",
+      "loserId": "407343",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 96680805,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "127997",
+      "loserId": "4339442",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96681014,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "2126472",
+      "loserId": "5090902",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96681578,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "25362",
+      "loserId": "227792",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96682066,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "2079504",
+      "loserId": "1904919",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96680806,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "1479899",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96681015,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "2456770",
+      "loserId": "5095251",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96681579,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "1205344",
+      "loserId": "4958694",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96682067,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "36858",
+      "loserId": "5026289",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 96688303,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "407343",
+      "loserId": "227792",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 96688304,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "1479899",
+      "loserId": "1286344",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 96688305,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "1208288",
+      "loserId": "2456770",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 96688306,
+      "eventSlug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "36858",
+      "loserId": "1205344",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 97385107,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 5,
+      "roundName": "Grand Final",
+      "winnerId": "434513",
+      "loserId": "127997",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 97385106,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Winners Final",
+      "winnerId": "434513",
+      "loserId": "127997",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 97380768,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "1479899",
+      "loserId": "1205344",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 97383446,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "690671",
+      "loserId": "2020580",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97383531,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "5048541",
+      "loserId": "4281550",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97383830,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "1208288",
+      "loserId": "2456770",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 97380769,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "434513",
+      "loserId": "2519878",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97383447,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "127997",
+      "loserId": "2331874",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97383532,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "67482",
+      "loserId": "227792",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 97383831,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "25362",
+      "loserId": "1744516",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97380770,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "639252",
+      "loserId": "1904919",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97383448,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "39725",
+      "loserId": "3024075",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97383533,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "4845400",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97383534,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "5090902",
+      "loserId": "5026289",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97383833,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 4,
+      "roundName": "Round 4",
+      "winnerId": "4204074",
+      "loserId": "4339442",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97385138,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": -8,
+      "roundName": "Losers Final",
+      "winnerId": "127997",
+      "loserId": "25362",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 97385137,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": -7,
+      "roundName": "Losers Semi-Final",
+      "winnerId": "25362",
+      "loserId": "5048541",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 97385104,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "127997",
+      "loserId": "5048541",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 97385105,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "434513",
+      "loserId": "25362",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 97378476,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "434513",
+      "loserId": "1479899",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97379609,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "25362",
+      "loserId": "2456770",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97379962,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "67482",
+      "loserId": "5048541",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 97381378,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "690671",
+      "loserId": "2331874",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97378477,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "1205344",
+      "loserId": "2519878",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 97379610,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "1208288",
+      "loserId": "4958694",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 97379963,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "227792",
+      "loserId": "4845400",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 97381379,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "127997",
+      "loserId": "2020580",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97379964,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "4281550",
+      "loserId": "5026289",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97378479,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "639252",
+      "loserId": "4960064",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97379612,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "1744516",
+      "loserId": "4204074",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97379965,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "5090902",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97381381,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 3,
+      "roundName": "Round 3",
+      "winnerId": "3024075",
+      "loserId": "5095251",
+      "winnerScore": null,
+      "loserScore": null
+    },
+    {
+      "id": 97385135,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "5048541",
+      "loserId": "1208288",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 97385136,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "25362",
+      "loserId": "67482",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 97385133,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 2",
+      "winnerId": "1208288",
+      "loserId": "1479899",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 97385134,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 2",
+      "winnerId": "67482",
+      "loserId": "690671",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 97385100,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "127997",
+      "loserId": "690671",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 97385101,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "5048541",
+      "loserId": "67482",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 97385102,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "434513",
+      "loserId": "39725",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 97385103,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "25362",
+      "loserId": "1208288",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 97377020,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "434513",
+      "loserId": "1205344",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97378335,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "127997",
+      "loserId": "690671",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97378363,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "25362",
+      "loserId": "1208288",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 97378480,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "67482",
+      "loserId": "4281550",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97378336,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "39725",
+      "loserId": "5095251",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97378481,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "5048541",
+      "loserId": "227792",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 97377022,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "2519878",
+      "loserId": "639252",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97378337,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "2020580",
+      "loserId": "3024075",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97378365,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "2456770",
+      "loserId": "1744516",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97378482,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "5026289",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97377023,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "1904919",
+      "loserId": "4960064",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 97378366,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "4958694",
+      "loserId": "4339442",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97378483,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 2,
+      "roundName": "Round 2",
+      "winnerId": "4845400",
+      "loserId": "5090902",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 97385129,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "1208288",
+      "loserId": "1205344",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 97385130,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "1479899",
+      "loserId": "39725",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 97385131,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "67482",
+      "loserId": "5090902",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 97385132,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "690671",
+      "loserId": "2456770",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 97385093,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "690671",
+      "loserId": "1205344",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 97385095,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "67482",
+      "loserId": "1479899",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 97385097,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "39725",
+      "loserId": "5090902",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 97385099,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1208288",
+      "loserId": "2456770",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 97375188,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "25362",
+      "loserId": "4958694",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97375576,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "434513",
+      "loserId": "639252",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97375651,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "5048541",
+      "loserId": "4845400",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97376626,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "127997",
+      "loserId": "3024075",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97375189,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "1208288",
+      "loserId": "4339442",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97375577,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "1205344",
+      "loserId": "1904919",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97375652,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "67482",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97376627,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "690671",
+      "loserId": "39725",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97375190,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "2456770",
+      "loserId": "4204074",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97375578,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "1479899",
+      "loserId": "4960064",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 97375653,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "227792",
+      "loserId": "5026289",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 97376628,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "2331874",
+      "loserId": "5095251",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 97375654,
+      "eventSlug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "round": 1,
+      "roundName": "Round 1",
+      "winnerId": "4281550",
+      "loserId": "5090902",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300977,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 6,
+      "roundName": "Grand Final",
+      "winnerId": "127997",
+      "loserId": "14592",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 98300976,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 5,
+      "roundName": "Winners Final",
+      "winnerId": "127997",
+      "loserId": "14592",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 98301040,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -10,
+      "roundName": "Losers Final",
+      "winnerId": "14592",
+      "loserId": "1998097",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 98301039,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -9,
+      "roundName": "Losers Semi-Final",
+      "winnerId": "1998097",
+      "loserId": "3670025",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 98300974,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 4,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "127997",
+      "loserId": "1998097",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 98300975,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 4,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "14592",
+      "loserId": "26387",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98301037,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -8,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "3670025",
+      "loserId": "26387",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 98301038,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -8,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "1998097",
+      "loserId": "1205344",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 98301035,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -7,
+      "roundName": "Losers Round 5",
+      "winnerId": "3670025",
+      "loserId": "2377958",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300970,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "127997",
+      "loserId": "1208288",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300971,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "1998097",
+      "loserId": "3670025",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300972,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "14592",
+      "loserId": "1205344",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 98300973,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "26387",
+      "loserId": "2456770",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98301031,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "3670025",
+      "loserId": "5048541",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98301032,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "2377958",
+      "loserId": "1208288",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 98301033,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "2456770",
+      "loserId": "639252",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 98301034,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "1205344",
+      "loserId": "1479899",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 98301027,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "5048541",
+      "loserId": "3305570",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98301028,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "2377958",
+      "loserId": "4845400",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98301029,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "639252",
+      "loserId": "227792",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98301030,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "1479899",
+      "loserId": "5090902",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300962,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "127997",
+      "loserId": "5090902",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300963,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "1208288",
+      "loserId": "1479899",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300964,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "1998097",
+      "loserId": "639252",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300965,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "3670025",
+      "loserId": "227792",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 98300966,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "14592",
+      "loserId": "3843115",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300967,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "1205344",
+      "loserId": "3670864",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 98300968,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "26387",
+      "loserId": "4958694",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300969,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "2456770",
+      "loserId": "5048541",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98301019,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "5048541",
+      "loserId": "5026289",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98301020,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "3305570",
+      "loserId": "4958694",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 98301021,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "2377958",
+      "loserId": "3670864",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 98301022,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "4845400",
+      "loserId": "3843115",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 98301023,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "227792",
+      "loserId": "4960064",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 98301024,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "639252",
+      "loserId": "5012611",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98301025,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "1479899",
+      "loserId": "1904919",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98301026,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "5090902",
+      "loserId": "5095251",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98301012,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "3305570",
+      "loserId": "739959",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98301014,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "4845400",
+      "loserId": "4070972",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98301016,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "5012611",
+      "loserId": "4339442",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98301018,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "5095251",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300947,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "5090902",
+      "loserId": "5026289",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300948,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1208288",
+      "loserId": "739959",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300949,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1479899",
+      "loserId": "3305570",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300951,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "639252",
+      "loserId": "2377958",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300952,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "3670025",
+      "loserId": "4845400",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300953,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "227792",
+      "loserId": "4070972",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300955,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "3843115",
+      "loserId": "4960064",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 98300956,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1205344",
+      "loserId": "5012611",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300957,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "3670864",
+      "loserId": "4339442",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300959,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "4958694",
+      "loserId": "1904919",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300960,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "5048541",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 98300961,
+      "eventSlug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "2456770",
+      "loserId": "5095251",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914450,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 6,
+      "roundName": "Grand Final",
+      "winnerId": "127997",
+      "loserId": "7277",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 99914451,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 6,
+      "roundName": "Grand Final Reset",
+      "winnerId": "127997",
+      "loserId": "7277",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 99914449,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 5,
+      "roundName": "Winners Final",
+      "winnerId": "7277",
+      "loserId": "127997",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 99914513,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -10,
+      "roundName": "Losers Final",
+      "winnerId": "127997",
+      "loserId": "2126472",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 99914512,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -9,
+      "roundName": "Losers Semi-Final",
+      "winnerId": "2126472",
+      "loserId": "26387",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 99914447,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 4,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "127997",
+      "loserId": "26387",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 99914448,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 4,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "7277",
+      "loserId": "2126472",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 99914510,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -8,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "2126472",
+      "loserId": "24901",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 99914511,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -8,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "26387",
+      "loserId": "5240105",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 99914508,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -7,
+      "roundName": "Losers Round 5",
+      "winnerId": "24901",
+      "loserId": "263818",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 99914509,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -7,
+      "roundName": "Losers Round 5",
+      "winnerId": "5240105",
+      "loserId": "2377958",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 99914443,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "127997",
+      "loserId": "263818",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914444,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "26387",
+      "loserId": "24901",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914445,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "7277",
+      "loserId": "2456770",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914446,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "2126472",
+      "loserId": "2377958",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914504,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "24901",
+      "loserId": "3670025",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 99914505,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "263818",
+      "loserId": "1286344",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914506,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "2377958",
+      "loserId": "3670864",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 99914507,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "5240105",
+      "loserId": "2456770",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914500,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "3670025",
+      "loserId": "2302944",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914501,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "1286344",
+      "loserId": "1205344",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 99914502,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "3670864",
+      "loserId": "227792",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 99914503,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "5240105",
+      "loserId": "1479899",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914435,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "127997",
+      "loserId": "1479899",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914436,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "263818",
+      "loserId": "5240105",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914437,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "26387",
+      "loserId": "3670864",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914438,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "24901",
+      "loserId": "227792",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 99914439,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "7277",
+      "loserId": "1286344",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914440,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "2456770",
+      "loserId": "1205344",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 99914441,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "2126472",
+      "loserId": "2302944",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914442,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "2377958",
+      "loserId": "3670025",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 99914492,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "3670025",
+      "loserId": "4845400",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914493,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "2302944",
+      "loserId": "1904919",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914494,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "1205344",
+      "loserId": "3305570",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 99914495,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "1286344",
+      "loserId": "2504721",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 99914496,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "227792",
+      "loserId": "4652005",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914497,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "3670864",
+      "loserId": "5090902",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914498,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "5240105",
+      "loserId": "3670385",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914499,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "1479899",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914485,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "1904919",
+      "loserId": "3843115",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914486,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "3305570",
+      "loserId": "739959",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914487,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "2504721",
+      "loserId": "5016235",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914489,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "5090902",
+      "loserId": "5095251",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 99914490,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "3670385",
+      "loserId": "3024075",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 99914420,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1479899",
+      "loserId": "4845400",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914421,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "5240105",
+      "loserId": "3843115",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914422,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "263818",
+      "loserId": "1904919",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914423,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "26387",
+      "loserId": "739959",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914424,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "3670864",
+      "loserId": "3305570",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 99914425,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "24901",
+      "loserId": "5016235",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914426,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "227792",
+      "loserId": "2504721",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914428,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1286344",
+      "loserId": "4652005",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 99914429,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1205344",
+      "loserId": "5090902",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914430,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "2456770",
+      "loserId": "5095251",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914431,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "2126472",
+      "loserId": "3670385",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914432,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "2302944",
+      "loserId": "3024075",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 99914433,
+      "eventSlug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "3670025",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100701009,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 6,
+      "roundName": "Grand Final",
+      "winnerId": "325974",
+      "loserId": "127997",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 100701008,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 5,
+      "roundName": "Winners Final",
+      "winnerId": "325974",
+      "loserId": "127997",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 100701072,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -10,
+      "roundName": "Losers Final",
+      "winnerId": "127997",
+      "loserId": "2126472",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 100701071,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -9,
+      "roundName": "Losers Semi-Final",
+      "winnerId": "2126472",
+      "loserId": "1205344",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 100701006,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 4,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "325974",
+      "loserId": "1205344",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 100701007,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 4,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "127997",
+      "loserId": "2126472",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 100701069,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -8,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "2126472",
+      "loserId": "2456770",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 100701070,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -8,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "1205344",
+      "loserId": "1479899",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 100701067,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -7,
+      "roundName": "Losers Round 4",
+      "winnerId": "2456770",
+      "loserId": "4958694",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 100701068,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -7,
+      "roundName": "Losers Round 4",
+      "winnerId": "1479899",
+      "loserId": "725403",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 100701002,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "325974",
+      "loserId": "227792",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100701003,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "1205344",
+      "loserId": "2456770",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100701004,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "127997",
+      "loserId": "639252",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100701005,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "2126472",
+      "loserId": "725403",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100701063,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 3",
+      "winnerId": "2456770",
+      "loserId": "4845400",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100701064,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 3",
+      "winnerId": "4958694",
+      "loserId": "227792",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100701065,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 3",
+      "winnerId": "725403",
+      "loserId": "4960064",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100701066,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 3",
+      "winnerId": "1479899",
+      "loserId": "639252",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100701060,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 2",
+      "winnerId": "4958694",
+      "loserId": "234597",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 100701061,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 2",
+      "winnerId": "4960064",
+      "loserId": "3305570",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 100701062,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 2",
+      "winnerId": "1479899",
+      "loserId": "1904919",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100701059,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 2",
+      "winnerId": "4845400",
+      "loserId": "5095251",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100700994,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "325974",
+      "loserId": "1904919",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100700995,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "227792",
+      "loserId": "1479899",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100700996,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "1205344",
+      "loserId": "4960064",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100700997,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "2456770",
+      "loserId": "3305570",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100700998,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "127997",
+      "loserId": "234597",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100700999,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "639252",
+      "loserId": "4958694",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100701000,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "2126472",
+      "loserId": "5095251",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100701001,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "725403",
+      "loserId": "4845400",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100701051,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "4845400",
+      "loserId": "4070972",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100701053,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "4958694",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100701055,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "3305570",
+      "loserId": "5026289",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100701057,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "1479899",
+      "loserId": "5247051",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100700979,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1904919",
+      "loserId": "4070972",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100700983,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "4960064",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100700987,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "234597",
+      "loserId": "5026289",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 100700991,
+      "eventSlug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "5095251",
+      "loserId": "5247051",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058787,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 6,
+      "roundName": "Grand Final Reset",
+      "winnerId": "3357",
+      "loserId": "14592",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 102058786,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 6,
+      "roundName": "Grand Final",
+      "winnerId": "14592",
+      "loserId": "3357",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 102058785,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 5,
+      "roundName": "Winners Final",
+      "winnerId": "3357",
+      "loserId": "26387",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 102058849,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -10,
+      "roundName": "Losers Final",
+      "winnerId": "14592",
+      "loserId": "26387",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 102058848,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -9,
+      "roundName": "Losers Semi-Final",
+      "winnerId": "14592",
+      "loserId": "690671",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 102058783,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 4,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "3357",
+      "loserId": "14592",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 102058784,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 4,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "26387",
+      "loserId": "407343",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 102058846,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -8,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "690671",
+      "loserId": "407343",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 102058847,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -8,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "14592",
+      "loserId": "127997",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 102058844,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -7,
+      "roundName": "Losers Round 5",
+      "winnerId": "690671",
+      "loserId": "2377958",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 102058845,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -7,
+      "roundName": "Losers Round 5",
+      "winnerId": "127997",
+      "loserId": "631620",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 102058779,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "3357",
+      "loserId": "690671",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058780,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "14592",
+      "loserId": "2377958",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058781,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "407343",
+      "loserId": "127997",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058782,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "26387",
+      "loserId": "631620",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058840,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "2377958",
+      "loserId": "1208288",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 102058841,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "690671",
+      "loserId": "1479899",
+      "winnerScore": 1,
+      "loserScore": 0
+    },
+    {
+      "id": 102058842,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "631620",
+      "loserId": "2456770",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058843,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 4",
+      "winnerId": "127997",
+      "loserId": "1205344",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058836,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "1208288",
+      "loserId": "2302944",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058837,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "1479899",
+      "loserId": "4845400",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 102058838,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "2456770",
+      "loserId": "1286344",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 102058839,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "1205344",
+      "loserId": "5247051",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058771,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "3357",
+      "loserId": "3422494",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058772,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "690671",
+      "loserId": "1205344",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058773,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "14592",
+      "loserId": "1286344",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058774,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "2377958",
+      "loserId": "2456770",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058775,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "127997",
+      "loserId": "4845400",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 102058776,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "407343",
+      "loserId": "1479899",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058777,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "26387",
+      "loserId": "2302944",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 102058778,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "631620",
+      "loserId": "1208288",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058828,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "1208288",
+      "loserId": "2724383",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058829,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "2302944",
+      "loserId": "5090902",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 102058830,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "1479899",
+      "loserId": "5095251",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 102058831,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "4845400",
+      "loserId": "4960064",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058832,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "2456770",
+      "loserId": "5334924",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058833,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "1286344",
+      "loserId": "1904919",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 102058834,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "1205344",
+      "loserId": "3305570",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 102058835,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "5247051",
+      "loserId": "3422494",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 102058821,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "5090902",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 102058825,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "1904919",
+      "loserId": "4339442",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058756,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "3422494",
+      "loserId": "2724383",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058757,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "690671",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058758,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1205344",
+      "loserId": "5090902",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058760,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1286344",
+      "loserId": "5095251",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058762,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "2456770",
+      "loserId": "4960064",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058764,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "4845400",
+      "loserId": "5334924",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058765,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "407343",
+      "loserId": "4339442",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058766,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1479899",
+      "loserId": "1904919",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 102058768,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "2302944",
+      "loserId": "3305570",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 102058770,
+      "eventSlug": "tournament/mudbug2/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1208288",
+      "loserId": "5247051",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 103555442,
+      "eventSlug": "tournament/open-house-2/event/melee-singles",
+      "round": 4,
+      "roundName": "Grand Final",
+      "winnerId": "2456770",
+      "loserId": "1479899",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 103555441,
+      "eventSlug": "tournament/open-house-2/event/melee-singles",
+      "round": 3,
+      "roundName": "Winners Final",
+      "winnerId": "2456770",
+      "loserId": "1479899",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 103555457,
+      "eventSlug": "tournament/open-house-2/event/melee-singles",
+      "round": -6,
+      "roundName": "Losers Final",
+      "winnerId": "1479899",
+      "loserId": "227792",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 103555456,
+      "eventSlug": "tournament/open-house-2/event/melee-singles",
+      "round": -5,
+      "roundName": "Losers Semi-Final",
+      "winnerId": "227792",
+      "loserId": "5247051",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 103555439,
+      "eventSlug": "tournament/open-house-2/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "2456770",
+      "loserId": "5247051",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 103555440,
+      "eventSlug": "tournament/open-house-2/event/melee-singles",
+      "round": 2,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "1479899",
+      "loserId": "227792",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 103555454,
+      "eventSlug": "tournament/open-house-2/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "227792",
+      "loserId": "1904919",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 103555455,
+      "eventSlug": "tournament/open-house-2/event/melee-singles",
+      "round": -4,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "5247051",
+      "loserId": "4845400",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 103555452,
+      "eventSlug": "tournament/open-house-2/event/melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "1904919",
+      "loserId": "4339442",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 103555453,
+      "eventSlug": "tournament/open-house-2/event/melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "4845400",
+      "loserId": "5095251",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 103555435,
+      "eventSlug": "tournament/open-house-2/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "2456770",
+      "loserId": "4339442",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 103555436,
+      "eventSlug": "tournament/open-house-2/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "5247051",
+      "loserId": "1904919",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 103555437,
+      "eventSlug": "tournament/open-house-2/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "227792",
+      "loserId": "5095251",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 103555438,
+      "eventSlug": "tournament/open-house-2/event/melee-singles",
+      "round": 1,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "1479899",
+      "loserId": "4845400",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 104731570,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": 5,
+      "roundName": "Grand Final",
+      "winnerId": "127997",
+      "loserId": "1205344",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 104731569,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": 4,
+      "roundName": "Winners Final",
+      "winnerId": "127997",
+      "loserId": "1205344",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 104731601,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": -8,
+      "roundName": "Losers Final",
+      "winnerId": "1205344",
+      "loserId": "2456770",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 104731600,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": -7,
+      "roundName": "Losers Semi-Final",
+      "winnerId": "2456770",
+      "loserId": "1208288",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 104731567,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "127997",
+      "loserId": "1208288",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 104731568,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "1205344",
+      "loserId": "2456770",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 104731598,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "1208288",
+      "loserId": "227792",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 104731599,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "2456770",
+      "loserId": "1479899",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 104731596,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "227792",
+      "loserId": "4566664",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 104731597,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 3",
+      "winnerId": "1479899",
+      "loserId": "4845400",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 104731563,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "127997",
+      "loserId": "4845400",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 104731564,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "1208288",
+      "loserId": "1479899",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 104731565,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "1205344",
+      "loserId": "4566664",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 104731566,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "2456770",
+      "loserId": "227792",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 104731592,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "227792",
+      "loserId": "1904919",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 104731593,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "4566664",
+      "loserId": "5391445",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 104731594,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "1479899",
+      "loserId": "5095251",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 104731595,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 2",
+      "winnerId": "4845400",
+      "loserId": "4339442",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 104731589,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": -3,
+      "roundName": "Losers Round 1",
+      "winnerId": "5391445",
+      "loserId": "5016661",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 104731556,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "4845400",
+      "loserId": "1904919",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 104731557,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1208288",
+      "loserId": "5016661",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 104731558,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1479899",
+      "loserId": "5391445",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 104731560,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "4566664",
+      "loserId": "5095251",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 104731562,
+      "eventSlug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "227792",
+      "loserId": "4339442",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 105473540,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 6,
+      "roundName": "Grand Final",
+      "winnerId": "127997",
+      "loserId": "690671",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 105473539,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 5,
+      "roundName": "Winners Final",
+      "winnerId": "127997",
+      "loserId": "14592",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 105473603,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -10,
+      "roundName": "Losers Final",
+      "winnerId": "690671",
+      "loserId": "14592",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 105473602,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -9,
+      "roundName": "Losers Semi-Final",
+      "winnerId": "690671",
+      "loserId": "2456770",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 105473537,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 4,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "127997",
+      "loserId": "690671",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 105473538,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 4,
+      "roundName": "Winners Semi-Final",
+      "winnerId": "14592",
+      "loserId": "227792",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 105473600,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -8,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "2456770",
+      "loserId": "227792",
+      "winnerScore": 3,
+      "loserScore": 2
+    },
+    {
+      "id": 105473601,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -8,
+      "roundName": "Losers Quarter-Final",
+      "winnerId": "690671",
+      "loserId": "1208288",
+      "winnerScore": 3,
+      "loserScore": 0
+    },
+    {
+      "id": 105473598,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -7,
+      "roundName": "Losers Round 4",
+      "winnerId": "2456770",
+      "loserId": "4958694",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 105473599,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -7,
+      "roundName": "Losers Round 4",
+      "winnerId": "1208288",
+      "loserId": "1205344",
+      "winnerScore": 3,
+      "loserScore": 1
+    },
+    {
+      "id": 105473533,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "127997",
+      "loserId": "1479899",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473534,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "690671",
+      "loserId": "2456770",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473535,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "14592",
+      "loserId": "1208288",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 105473536,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 3,
+      "roundName": "Winners Quarter-Final",
+      "winnerId": "227792",
+      "loserId": "1205344",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473594,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 3",
+      "winnerId": "2456770",
+      "loserId": "2302944",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473595,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 3",
+      "winnerId": "4958694",
+      "loserId": "1479899",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473596,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 3",
+      "winnerId": "1205344",
+      "loserId": "3305570",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473597,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -6,
+      "roundName": "Losers Round 3",
+      "winnerId": "1208288",
+      "loserId": "639252",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473590,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 2",
+      "winnerId": "2302944",
+      "loserId": "5247051",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473591,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 2",
+      "winnerId": "4958694",
+      "loserId": "5484684",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 105473592,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 2",
+      "winnerId": "3305570",
+      "loserId": "4845400",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 105473593,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -5,
+      "roundName": "Losers Round 2",
+      "winnerId": "639252",
+      "loserId": "1904919",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473525,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "127997",
+      "loserId": "1904919",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473526,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "1479899",
+      "loserId": "639252",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473527,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "2456770",
+      "loserId": "4845400",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473528,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "690671",
+      "loserId": "3305570",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473529,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "14592",
+      "loserId": "5484684",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473530,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "1208288",
+      "loserId": "4958694",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 105473531,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "1205344",
+      "loserId": "5247051",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473532,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 2,
+      "roundName": "Winners Round 2",
+      "winnerId": "227792",
+      "loserId": "2302944",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473585,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "5484684",
+      "loserId": "739959",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473586,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "3305570",
+      "loserId": "5090902",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473587,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "4845400",
+      "loserId": "4339442",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473588,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "639252",
+      "loserId": "5485209",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473589,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "1904919",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473582,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "2302944",
+      "loserId": "4070972",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473584,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": -4,
+      "roundName": "Losers Round 1",
+      "winnerId": "4958694",
+      "loserId": "5484671",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 105473510,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "1904919",
+      "loserId": "4070972",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473514,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "4845400",
+      "loserId": "5484671",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 105473516,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "3305570",
+      "loserId": "739959",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473518,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "5484684",
+      "loserId": "5090902",
+      "winnerScore": 2,
+      "loserScore": 1
+    },
+    {
+      "id": 105473520,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "4958694",
+      "loserId": "4339442",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473522,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "5247051",
+      "loserId": "5485209",
+      "winnerScore": 2,
+      "loserScore": 0
+    },
+    {
+      "id": 105473524,
+      "eventSlug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "round": 1,
+      "roundName": "Winners Round 1",
+      "winnerId": "227792",
+      "loserId": "5016661",
+      "winnerScore": 2,
+      "loserScore": 0
+    }
+  ]
+}

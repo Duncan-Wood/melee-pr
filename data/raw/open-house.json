@@ -1,0 +1,988 @@
+{
+  "slug": "tournament/open-house/event/melee-singles",
+  "event": {
+    "id": 1359721,
+    "name": "Melee Singles",
+    "startAt": 1745104980,
+    "numEntrants": 6,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "Open House",
+      "slug": "tournament/open-house"
+    }
+  },
+  "sets": [
+    {
+      "id": 88031450,
+      "winnerId": 19835081,
+      "displayScore": "rabit! 3 - AFC | datsal 0",
+      "fullRoundText": "Round 5",
+      "round": 5,
+      "completedAt": 1745112900,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19835081,
+            "participants": [
+              {
+                "player": {
+                  "id": 127997,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19834581,
+            "participants": [
+              {
+                "player": {
+                  "id": 2456770,
+                  "gamerTag": "datsal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 88031451,
+      "winnerId": 19825926,
+      "displayScore": "MSU | transrights420 3 - Baskin 2",
+      "fullRoundText": "Round 5",
+      "round": 5,
+      "completedAt": 1745113026,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19825926,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19825811,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 88032638,
+      "winnerId": 19835081,
+      "displayScore": "rabit! 3 - Baskin 0",
+      "fullRoundText": "Grand Final",
+      "round": 4,
+      "completedAt": 1745127200,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19835081,
+            "participants": [
+              {
+                "player": {
+                  "id": 127997,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19825811,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 88031448,
+      "winnerId": 19835081,
+      "displayScore": "rabit! 3 - Owl 0",
+      "fullRoundText": "Round 4",
+      "round": 4,
+      "completedAt": 1745112911,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19835081,
+            "participants": [
+              {
+                "player": {
+                  "id": 127997,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19836417,
+            "participants": [
+              {
+                "player": {
+                  "id": 36858,
+                  "gamerTag": "Owl"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 88031449,
+      "winnerId": 19834581,
+      "displayScore": "MSU | transrights420 1 - AFC | datsal 3",
+      "fullRoundText": "Round 4",
+      "round": 4,
+      "completedAt": 1745112970,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19825926,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19834581,
+            "participants": [
+              {
+                "player": {
+                  "id": 2456770,
+                  "gamerTag": "datsal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 88032637,
+      "winnerId": 19835081,
+      "displayScore": "rabit! 3 - Owl 0",
+      "fullRoundText": "Winners Final",
+      "round": 3,
+      "completedAt": 1745116721,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19835081,
+            "participants": [
+              {
+                "player": {
+                  "id": 127997,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19836417,
+            "participants": [
+              {
+                "player": {
+                  "id": 36858,
+                  "gamerTag": "Owl"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 88031446,
+      "winnerId": 19835081,
+      "displayScore": "rabit! 3 - MSU | transrights420 0",
+      "fullRoundText": "Round 3",
+      "round": 3,
+      "completedAt": 1745112920,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19835081,
+            "participants": [
+              {
+                "player": {
+                  "id": 127997,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19825926,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 88031447,
+      "winnerId": 19836417,
+      "displayScore": "Baskin 2 - Owl 3",
+      "fullRoundText": "Round 3",
+      "round": 3,
+      "completedAt": 1745113015,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19825811,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19836417,
+            "participants": [
+              {
+                "player": {
+                  "id": 36858,
+                  "gamerTag": "Owl"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 88032653,
+      "winnerId": 19825811,
+      "displayScore": "Owl 2 - Baskin 3",
+      "fullRoundText": "Losers Final",
+      "round": -6,
+      "completedAt": 1745118185,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19836417,
+            "participants": [
+              {
+                "player": {
+                  "id": 36858,
+                  "gamerTag": "Owl"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19825811,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 88032652,
+      "winnerId": 19825811,
+      "displayScore": "Baskin 3 - MSU | transrights420 1",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -5,
+      "completedAt": 1745116680,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19825811,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19825926,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 88032635,
+      "winnerId": 19835081,
+      "displayScore": "rabit! 3 - MSU | transrights420 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 2,
+      "completedAt": 1745114870,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19835081,
+            "participants": [
+              {
+                "player": {
+                  "id": 127997,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19825926,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 88032636,
+      "winnerId": 19836417,
+      "displayScore": "AFC | datsal 0 - Owl 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 2,
+      "completedAt": 1745114375,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19834581,
+            "participants": [
+              {
+                "player": {
+                  "id": 2456770,
+                  "gamerTag": "datsal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19836417,
+            "participants": [
+              {
+                "player": {
+                  "id": 36858,
+                  "gamerTag": "Owl"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 88031444,
+      "winnerId": 19835081,
+      "displayScore": "rabit! 3 - Baskin 0",
+      "fullRoundText": "Round 2",
+      "round": 2,
+      "completedAt": 1745112934,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19835081,
+            "participants": [
+              {
+                "player": {
+                  "id": 127997,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19825811,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 88031445,
+      "winnerId": 19834581,
+      "displayScore": "AFC | datsal 3 - Owl 2",
+      "fullRoundText": "Round 2",
+      "round": 2,
+      "completedAt": 1745112960,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19834581,
+            "participants": [
+              {
+                "player": {
+                  "id": 2456770,
+                  "gamerTag": "datsal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19836417,
+            "participants": [
+              {
+                "player": {
+                  "id": 36858,
+                  "gamerTag": "Owl"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 88032650,
+      "winnerId": 19825811,
+      "displayScore": "AFC | datsal 2 - Baskin 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -4,
+      "completedAt": 1745116676,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19834581,
+            "participants": [
+              {
+                "player": {
+                  "id": 2456770,
+                  "gamerTag": "datsal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19825811,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 88032632,
+      "winnerId": 19825926,
+      "displayScore": "MSU | transrights420 3 - Baskin 0",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 1,
+      "completedAt": 1745114369,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19825926,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19825811,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 88031442,
+      "winnerId": 19834581,
+      "displayScore": "AFC | datsal 3 - Baskin 2",
+      "fullRoundText": "Round 1",
+      "round": 1,
+      "completedAt": 1745112986,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19834581,
+            "participants": [
+              {
+                "player": {
+                  "id": 2456770,
+                  "gamerTag": "datsal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19825811,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 88031443,
+      "winnerId": 19836417,
+      "displayScore": "Owl 3 - MSU | transrights420 1",
+      "fullRoundText": "Round 1",
+      "round": 1,
+      "completedAt": 1745113002,
+      "slots": [
+        {
+          "entrant": {
+            "id": 19836417,
+            "participants": [
+              {
+                "player": {
+                  "id": 36858,
+                  "gamerTag": "Owl"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 19825926,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 19835081,
+        "participants": [
+          {
+            "player": {
+              "id": 127997,
+              "gamerTag": "rabit!"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 19825811,
+        "participants": [
+          {
+            "player": {
+              "id": 227792,
+              "gamerTag": "Baskin"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 19836417,
+        "participants": [
+          {
+            "player": {
+              "id": 36858,
+              "gamerTag": "Owl"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 19825926,
+        "participants": [
+          {
+            "player": {
+              "id": 1479899,
+              "gamerTag": "cj"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 19834581,
+        "participants": [
+          {
+            "player": {
+              "id": 2456770,
+              "gamerTag": "datsal"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

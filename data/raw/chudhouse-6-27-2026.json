@@ -1,0 +1,1400 @@
+{
+  "slug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+  "event": {
+    "id": 1628647,
+    "name": "4:00 PM - Melee Singles",
+    "startAt": 1782590100,
+    "numEntrants": 13,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "ChudHouse 6.27.2026",
+      "slug": "tournament/chudhouse-6-27-2026"
+    }
+  },
+  "sets": [
+    {
+      "id": 104731570,
+      "winnerId": 23886815,
+      "displayScore": "rabit! 3 - Cyrus 0",
+      "fullRoundText": "Grand Final",
+      "round": 5,
+      "completedAt": 1782611976,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23886815,
+            "participants": [
+              {
+                "player": {
+                  "id": 127997,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23951545,
+            "participants": [
+              {
+                "player": {
+                  "id": 1205344,
+                  "gamerTag": "C.Y.R.U.S."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731569,
+      "winnerId": 23886815,
+      "displayScore": "rabit! 3 - Cyrus 0",
+      "fullRoundText": "Winners Final",
+      "round": 4,
+      "completedAt": 1782604958,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23886815,
+            "participants": [
+              {
+                "player": {
+                  "id": 127997,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23951545,
+            "participants": [
+              {
+                "player": {
+                  "id": 1205344,
+                  "gamerTag": "C.Y.R.U.S."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731601,
+      "winnerId": 23951545,
+      "displayScore": "Cyrus 3 - AFC | datsal 0",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1782611971,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23951545,
+            "participants": [
+              {
+                "player": {
+                  "id": 1205344,
+                  "gamerTag": "C.Y.R.U.S."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23847013,
+            "participants": [
+              {
+                "player": {
+                  "id": 2456770,
+                  "gamerTag": "datsal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731600,
+      "winnerId": 23847013,
+      "displayScore": "Ponchy | Meta!? 0 - AFC | datsal 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1782607612,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23915898,
+            "participants": [
+              {
+                "player": {
+                  "id": 1208288,
+                  "gamerTag": "Meta!?"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23847013,
+            "participants": [
+              {
+                "player": {
+                  "id": 2456770,
+                  "gamerTag": "datsal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731567,
+      "winnerId": 23886815,
+      "displayScore": "rabit! 3 - Ponchy | Meta!? 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1782603814,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23886815,
+            "participants": [
+              {
+                "player": {
+                  "id": 127997,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23915898,
+            "participants": [
+              {
+                "player": {
+                  "id": 1208288,
+                  "gamerTag": "Meta!?"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731568,
+      "winnerId": 23951545,
+      "displayScore": "Cyrus 3 - AFC | datsal 0",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 3,
+      "completedAt": 1782603476,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23951545,
+            "participants": [
+              {
+                "player": {
+                  "id": 1205344,
+                  "gamerTag": "C.Y.R.U.S."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23847013,
+            "participants": [
+              {
+                "player": {
+                  "id": 2456770,
+                  "gamerTag": "datsal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731598,
+      "winnerId": 23915898,
+      "displayScore": "Ponchy | Meta!? 3 - Chud | Baskin 1",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1782607608,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23915898,
+            "participants": [
+              {
+                "player": {
+                  "id": 1208288,
+                  "gamerTag": "Meta!?"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23962584,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731599,
+      "winnerId": 23847013,
+      "displayScore": "AFC | datsal 3 - cj 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1782606907,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23847013,
+            "participants": [
+              {
+                "player": {
+                  "id": 2456770,
+                  "gamerTag": "datsal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23834323,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731596,
+      "winnerId": 23962584,
+      "displayScore": "Chud | Baskin 3 - Sean 0",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1782604101,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23962584,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23710733,
+            "participants": [
+              {
+                "player": {
+                  "id": 4566664,
+                  "gamerTag": "Sean"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731597,
+      "winnerId": 23834323,
+      "displayScore": "cj 3 - 601 | Dork 0",
+      "fullRoundText": "Losers Round 3",
+      "round": -5,
+      "completedAt": 1782604980,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23834323,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23962677,
+            "participants": [
+              {
+                "player": {
+                  "id": 4845400,
+                  "gamerTag": "Dork"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731563,
+      "winnerId": 23886815,
+      "displayScore": "rabit! 3 - 601 | Dork 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1782602472,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23886815,
+            "participants": [
+              {
+                "player": {
+                  "id": 127997,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23962677,
+            "participants": [
+              {
+                "player": {
+                  "id": 4845400,
+                  "gamerTag": "Dork"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731564,
+      "winnerId": 23915898,
+      "displayScore": "Ponchy | Meta!? 3 - cj 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1782602572,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23915898,
+            "participants": [
+              {
+                "player": {
+                  "id": 1208288,
+                  "gamerTag": "Meta!?"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23834323,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731565,
+      "winnerId": 23951545,
+      "displayScore": "Cyrus 3 - Sean 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1782601622,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23951545,
+            "participants": [
+              {
+                "player": {
+                  "id": 1205344,
+                  "gamerTag": "C.Y.R.U.S."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23710733,
+            "participants": [
+              {
+                "player": {
+                  "id": 4566664,
+                  "gamerTag": "Sean"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731566,
+      "winnerId": 23847013,
+      "displayScore": "AFC | datsal 3 - Chud | Baskin 1",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 2,
+      "completedAt": 1782601651,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23847013,
+            "participants": [
+              {
+                "player": {
+                  "id": 2456770,
+                  "gamerTag": "datsal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23962584,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731592,
+      "winnerId": 23962584,
+      "displayScore": "Chud | Baskin 3 - Rusky | Rusky4038 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1782602526,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23962584,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23960584,
+            "participants": [
+              {
+                "player": {
+                  "id": 1904919,
+                  "gamerTag": "Rusky4038"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731593,
+      "winnerId": 23710733,
+      "displayScore": "Sean 3 - BIG JAKE 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1782602586,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23710733,
+            "participants": [
+              {
+                "player": {
+                  "id": 4566664,
+                  "gamerTag": "Sean"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23962294,
+            "participants": [
+              {
+                "player": {
+                  "id": 5391445,
+                  "gamerTag": "BIG JAKE"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731594,
+      "winnerId": 23834323,
+      "displayScore": "cj 3 - Rose 1",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1782603378,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23834323,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23586104,
+            "participants": [
+              {
+                "player": {
+                  "id": 5095251,
+                  "gamerTag": "Rose"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731595,
+      "winnerId": 23962677,
+      "displayScore": "601 | Dork 3 - Ponchy | cigarette mom 0",
+      "fullRoundText": "Losers Round 2",
+      "round": -4,
+      "completedAt": 1782603170,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23962677,
+            "participants": [
+              {
+                "player": {
+                  "id": 4845400,
+                  "gamerTag": "Dork"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23586052,
+            "participants": [
+              {
+                "player": {
+                  "id": 4339442,
+                  "gamerTag": "cigarette mom"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731589,
+      "winnerId": 23962294,
+      "displayScore": "Crush | Solis 0 - BIG JAKE 3",
+      "fullRoundText": "Losers Round 1",
+      "round": -3,
+      "completedAt": 1782601843,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23960786,
+            "participants": [
+              {
+                "player": {
+                  "id": 5016661,
+                  "gamerTag": "Solis"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23962294,
+            "participants": [
+              {
+                "player": {
+                  "id": 5391445,
+                  "gamerTag": "BIG JAKE"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731556,
+      "winnerId": 23962677,
+      "displayScore": "601 | Dork 3 - Rusky | Rusky4038 2",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1782599783,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23962677,
+            "participants": [
+              {
+                "player": {
+                  "id": 4845400,
+                  "gamerTag": "Dork"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23960584,
+            "participants": [
+              {
+                "player": {
+                  "id": 1904919,
+                  "gamerTag": "Rusky4038"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731557,
+      "winnerId": 23915898,
+      "displayScore": "Ponchy | Meta!? 3 - Crush | Solis 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1782600659,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23915898,
+            "participants": [
+              {
+                "player": {
+                  "id": 1208288,
+                  "gamerTag": "Meta!?"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23960786,
+            "participants": [
+              {
+                "player": {
+                  "id": 5016661,
+                  "gamerTag": "Solis"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731558,
+      "winnerId": 23834323,
+      "displayScore": "cj 3 - BIG JAKE 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1782598982,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23834323,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23962294,
+            "participants": [
+              {
+                "player": {
+                  "id": 5391445,
+                  "gamerTag": "BIG JAKE"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731560,
+      "winnerId": 23710733,
+      "displayScore": "Sean 3 - Rose 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1782598934,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23710733,
+            "participants": [
+              {
+                "player": {
+                  "id": 4566664,
+                  "gamerTag": "Sean"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23586104,
+            "participants": [
+              {
+                "player": {
+                  "id": 5095251,
+                  "gamerTag": "Rose"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 104731562,
+      "winnerId": 23962584,
+      "displayScore": "Chud | Baskin 3 - Ponchy | cigarette mom 0",
+      "fullRoundText": "Winners Round 1",
+      "round": 1,
+      "completedAt": 1782600679,
+      "slots": [
+        {
+          "entrant": {
+            "id": 23962584,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 23586052,
+            "participants": [
+              {
+                "player": {
+                  "id": 4339442,
+                  "gamerTag": "cigarette mom"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 23886815,
+        "participants": [
+          {
+            "player": {
+              "id": 127997,
+              "gamerTag": "rabit!"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 23951545,
+        "participants": [
+          {
+            "player": {
+              "id": 1205344,
+              "gamerTag": "C.Y.R.U.S."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 23847013,
+        "participants": [
+          {
+            "player": {
+              "id": 2456770,
+              "gamerTag": "datsal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 23915898,
+        "participants": [
+          {
+            "player": {
+              "id": 1208288,
+              "gamerTag": "Meta!?"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 23962584,
+        "participants": [
+          {
+            "player": {
+              "id": 227792,
+              "gamerTag": "Baskin"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 23834323,
+        "participants": [
+          {
+            "player": {
+              "id": 1479899,
+              "gamerTag": "cj"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 23962677,
+        "participants": [
+          {
+            "player": {
+              "id": 4845400,
+              "gamerTag": "Dork"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 23710733,
+        "participants": [
+          {
+            "player": {
+              "id": 4566664,
+              "gamerTag": "Sean"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 23960584,
+        "participants": [
+          {
+            "player": {
+              "id": 1904919,
+              "gamerTag": "Rusky4038"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 23586104,
+        "participants": [
+          {
+            "player": {
+              "id": 5095251,
+              "gamerTag": "Rose"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 23586052,
+        "participants": [
+          {
+            "player": {
+              "id": 4339442,
+              "gamerTag": "cigarette mom"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 23962294,
+        "participants": [
+          {
+            "player": {
+              "id": 5391445,
+              "gamerTag": "BIG JAKE"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 23960786,
+        "participants": [
+          {
+            "player": {
+              "id": 5016661,
+              "gamerTag": "Solis"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

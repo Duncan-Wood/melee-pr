@@ -1,0 +1,85 @@
+{
+  "name": "CHUD HOUSE",
+  "timezone": "America/Chicago",
+  "events": [
+    {
+      "slug": "tournament/open-house/event/melee-singles",
+      "countsForPR": false,
+      "note": "The first of the bunch."
+    },
+    {
+      "slug": "tournament/mudbug-melee-25/event/melee-singles",
+      "countsForPR": true,
+      "note": "Our first tournament in the new house. Flew out Spark."
+    },
+    {
+      "slug": "tournament/star-spangled-shine-spike/event/melee-singles",
+      "countsForPR": true,
+      "note": "July 4th themed. CHUD House was born."
+    },
+    {
+      "slug": "tournament/chudhouse-9-6-25/event/melee-singles",
+      "countsForPR": true,
+      "note": "Magi and Jade entered as RASPUTIN, passing one controller back and forth. The chud cake got thousands of likes on Twitter."
+    },
+    {
+      "slug": "tournament/chudhouse-10-18-2025/event/5-30-pm-melee-singles",
+      "countsForPR": true,
+      "note": "Monthlies start for real."
+    },
+    {
+      "slug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+      "countsForPR": true,
+      "note": "Memphis invasion. They ran home and told Iori to come out of hiding."
+    },
+    {
+      "slug": "tournament/chudhouse-12-13-2025/event/5-30-pm-melee-singles",
+      "countsForPR": true,
+      "note": "Legendary bracket."
+    },
+    {
+      "slug": "tournament/chudhouse-1-17-2026/event/5-00-pm-melee-singles",
+      "countsForPR": true,
+      "note": "Mobile, AL invasion. Suezo holds it down."
+    },
+    {
+      "slug": "tournament/chudhouse-2-28-2026/event/5-00-pm-melee-singles",
+      "countsForPR": true,
+      "note": "Many consider this the best CHUD House: the party the night before, the massive entrant count, the group picture."
+    },
+    {
+      "slug": "tournament/chudhouse-3-21-2026/event/5-00-pm-melee-singles",
+      "countsForPR": true,
+      "note": "SDJ visits. They were Tokyo drifting on the way there."
+    },
+    {
+      "slug": "tournament/mudbug2/event/melee-singles",
+      "countsForPR": true,
+      "note": "Second annual crawfish boil. Spark takes it, but Mario Party went differently."
+    },
+    {
+      "slug": "tournament/open-house-2/event/melee-singles",
+      "countsForPR": false,
+      "note": "W datsal."
+    },
+    {
+      "slug": "tournament/chudhouse-6-27-2026/event/4-00-pm-melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/chud-house-finale-7-18-26/event/5-00-pm-melee-singles",
+      "countsForPR": true,
+      "note": "The last one."
+    }
+  ],
+  "aliases": {
+    "213466": "4070972",
+    "2512827": "127997",
+    "4961345": "5026289",
+    "5043778": "1286344",
+    "5132243": "690671"
+  },
+  "tagOverrides": {
+    "690671": "taqwim"
+  }
+}

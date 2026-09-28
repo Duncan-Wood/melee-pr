@@ -1,0 +1,2784 @@
+{
+  "slug": "tournament/chudhouse-11-22-2025/event/5-30-pm-melee-singles",
+  "event": {
+    "id": 1478810,
+    "name": "5:30 PM - Melee Singles",
+    "startAt": 1763854200,
+    "numEntrants": 19,
+    "state": "COMPLETED",
+    "tournament": {
+      "name": "ChudHouse 11.22.2025",
+      "slug": "tournament/chudhouse-11-22-2025"
+    }
+  },
+  "sets": [
+    {
+      "id": 96688281,
+      "winnerId": 21941182,
+      "displayScore": "rabit! 3 - Austin 1",
+      "fullRoundText": "Grand Final",
+      "round": 4,
+      "completedAt": 1763922398,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21941182,
+            "participants": [
+              {
+                "player": {
+                  "id": 2512827,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21766666,
+            "participants": [
+              {
+                "player": {
+                  "id": 25362,
+                  "gamerTag": "Austin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96686427,
+      "winnerId": 21766666,
+      "displayScore": "Austin 2 - Ponchy | Cyrus 0",
+      "fullRoundText": "Round 4",
+      "round": 4,
+      "completedAt": 1763861390,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21766666,
+            "participants": [
+              {
+                "player": {
+                  "id": 25362,
+                  "gamerTag": "Austin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21847139,
+            "participants": [
+              {
+                "player": {
+                  "id": 1205344,
+                  "gamerTag": "C.Y.R.U.S."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96686428,
+      "winnerId": 21653587,
+      "displayScore": "Baskin 2 - cchalz 0",
+      "fullRoundText": "Round 4",
+      "round": 4,
+      "completedAt": 1763861062,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21653587,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21916999,
+            "participants": [
+              {
+                "player": {
+                  "id": 4958694,
+                  "gamerTag": "cchalz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96685702,
+      "winnerId": 21916336,
+      "displayScore": "Electric Friend 2 - Rose 0",
+      "fullRoundText": "Round 4",
+      "round": 4,
+      "completedAt": 1763861131,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21916336,
+            "participants": [
+              {
+                "player": {
+                  "id": 5090902,
+                  "gamerTag": "Electric Friend"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21943431,
+            "participants": [
+              {
+                "player": {
+                  "id": 5095251,
+                  "gamerTag": "Rose"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96685902,
+      "winnerId": 21919454,
+      "displayScore": "ZYLO 0 - Rusky | Rusky4038 2",
+      "fullRoundText": "Round 4",
+      "round": 4,
+      "completedAt": 1763861844,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21941171,
+            "participants": [
+              {
+                "player": {
+                  "id": 5026289,
+                  "gamerTag": "ZYLO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21919454,
+            "participants": [
+              {
+                "player": {
+                  "id": 1904919,
+                  "gamerTag": "Rusky4038"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96686169,
+      "winnerId": 21846994,
+      "displayScore": "Ponchy | Meta!? 2 - claire johnson 0",
+      "fullRoundText": "Round 4",
+      "round": 4,
+      "completedAt": 1763861798,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21846994,
+            "participants": [
+              {
+                "player": {
+                  "id": 1208288,
+                  "gamerTag": "Meta!?"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21654054,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96685703,
+      "winnerId": 21695813,
+      "displayScore": "AFC | datsal 1 - Larry Mozzarelli 2",
+      "fullRoundText": "Round 4",
+      "round": 4,
+      "completedAt": 1763860909,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21657343,
+            "participants": [
+              {
+                "player": {
+                  "id": 2456770,
+                  "gamerTag": "datsal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21695813,
+            "participants": [
+              {
+                "player": {
+                  "id": 407343,
+                  "gamerTag": "Larry Mozzarelli"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96685903,
+      "winnerId": 21907990,
+      "displayScore": "Owl 1 - skrat 2",
+      "fullRoundText": "Round 4",
+      "round": 4,
+      "completedAt": 1763861866,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21917008,
+            "participants": [
+              {
+                "player": {
+                  "id": 36858,
+                  "gamerTag": "Owl"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21907990,
+            "participants": [
+              {
+                "player": {
+                  "id": 1286344,
+                  "gamerTag": "skrat"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96686170,
+      "winnerId": 21695604,
+      "displayScore": ":3c | cigarette mom 2 - Crush | Solis 0",
+      "fullRoundText": "Round 4",
+      "round": 4,
+      "completedAt": 1763861500,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21695604,
+            "participants": [
+              {
+                "player": {
+                  "id": 4339442,
+                  "gamerTag": "cigarette mom"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21658842,
+            "participants": [
+              {
+                "player": {
+                  "id": 5016661,
+                  "gamerTag": "Solis"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96688280,
+      "winnerId": 21941182,
+      "displayScore": "swade 0 - rabit! 3",
+      "fullRoundText": "Winners Final",
+      "round": 3,
+      "completedAt": 1763921911,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21916990,
+            "participants": [
+              {
+                "player": {
+                  "id": 2079504,
+                  "gamerTag": "swade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21941182,
+            "participants": [
+              {
+                "player": {
+                  "id": 2512827,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96683500,
+      "winnerId": 21847139,
+      "displayScore": "Baskin 0 - Ponchy | Cyrus 2",
+      "fullRoundText": "Round 3",
+      "round": 3,
+      "completedAt": 1763861005,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21653587,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21847139,
+            "participants": [
+              {
+                "player": {
+                  "id": 1205344,
+                  "gamerTag": "C.Y.R.U.S."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96683501,
+      "winnerId": 21766666,
+      "displayScore": "Austin 2 - cchalz 0",
+      "fullRoundText": "Round 3",
+      "round": 3,
+      "completedAt": 1763859437,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21766666,
+            "participants": [
+              {
+                "player": {
+                  "id": 25362,
+                  "gamerTag": "Austin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21916999,
+            "participants": [
+              {
+                "player": {
+                  "id": 4958694,
+                  "gamerTag": "cchalz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96682992,
+      "winnerId": 21937963,
+      "displayScore": "Larry Mozzarelli 0 - RTSG | Fives 2",
+      "fullRoundText": "Round 3",
+      "round": 3,
+      "completedAt": 1763860360,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21695813,
+            "participants": [
+              {
+                "player": {
+                  "id": 407343,
+                  "gamerTag": "Larry Mozzarelli"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21937963,
+            "participants": [
+              {
+                "player": {
+                  "id": 2126472,
+                  "gamerTag": "Fives"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96683605,
+      "winnerId": 21941182,
+      "displayScore": "Ponchy | Meta!? 1 - rabit! 2",
+      "fullRoundText": "Round 3",
+      "round": 3,
+      "completedAt": 1763860732,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21846994,
+            "participants": [
+              {
+                "player": {
+                  "id": 1208288,
+                  "gamerTag": "Meta!?"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21941182,
+            "participants": [
+              {
+                "player": {
+                  "id": 2512827,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96685135,
+      "winnerId": 21916990,
+      "displayScore": "skrat 0 - swade 2",
+      "fullRoundText": "Round 3",
+      "round": 3,
+      "completedAt": 1763860423,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21907990,
+            "participants": [
+              {
+                "player": {
+                  "id": 1286344,
+                  "gamerTag": "skrat"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21916990,
+            "participants": [
+              {
+                "player": {
+                  "id": 2079504,
+                  "gamerTag": "swade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96682993,
+      "winnerId": 21657343,
+      "displayScore": "Electric Friend 0 - AFC | datsal 2",
+      "fullRoundText": "Round 3",
+      "round": 3,
+      "completedAt": 1763858732,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21916336,
+            "participants": [
+              {
+                "player": {
+                  "id": 5090902,
+                  "gamerTag": "Electric Friend"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21657343,
+            "participants": [
+              {
+                "player": {
+                  "id": 2456770,
+                  "gamerTag": "datsal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96683606,
+      "winnerId": 21654054,
+      "displayScore": ":3c | cigarette mom 0 - claire johnson 2",
+      "fullRoundText": "Round 3",
+      "round": 3,
+      "completedAt": 1763859965,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21695604,
+            "participants": [
+              {
+                "player": {
+                  "id": 4339442,
+                  "gamerTag": "cigarette mom"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21654054,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96685136,
+      "winnerId": 21917008,
+      "displayScore": "Rusky | Rusky4038 0 - Owl 2",
+      "fullRoundText": "Round 3",
+      "round": 3,
+      "completedAt": 1763861080,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21919454,
+            "participants": [
+              {
+                "player": {
+                  "id": 1904919,
+                  "gamerTag": "Rusky4038"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21917008,
+            "participants": [
+              {
+                "player": {
+                  "id": 36858,
+                  "gamerTag": "Owl"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96688312,
+      "winnerId": 21766666,
+      "displayScore": "swade 1 - Austin 3",
+      "fullRoundText": "Losers Final",
+      "round": -8,
+      "completedAt": 1763922186,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21916990,
+            "participants": [
+              {
+                "player": {
+                  "id": 2079504,
+                  "gamerTag": "swade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21766666,
+            "participants": [
+              {
+                "player": {
+                  "id": 25362,
+                  "gamerTag": "Austin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96688311,
+      "winnerId": 21766666,
+      "displayScore": "Larry Mozzarelli 1 - Austin 3",
+      "fullRoundText": "Losers Semi-Final",
+      "round": -7,
+      "completedAt": 1763921954,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21695813,
+            "participants": [
+              {
+                "player": {
+                  "id": 407343,
+                  "gamerTag": "Larry Mozzarelli"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21766666,
+            "participants": [
+              {
+                "player": {
+                  "id": 25362,
+                  "gamerTag": "Austin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96688278,
+      "winnerId": 21916990,
+      "displayScore": "RTSG | Fives 2 - swade 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 2,
+      "completedAt": 1763866743,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21937963,
+            "participants": [
+              {
+                "player": {
+                  "id": 2126472,
+                  "gamerTag": "Fives"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21916990,
+            "participants": [
+              {
+                "player": {
+                  "id": 2079504,
+                  "gamerTag": "swade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96688279,
+      "winnerId": 21941182,
+      "displayScore": "Austin 0 - rabit! 3",
+      "fullRoundText": "Winners Semi-Final",
+      "round": 2,
+      "completedAt": 1763864025,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21766666,
+            "participants": [
+              {
+                "player": {
+                  "id": 25362,
+                  "gamerTag": "Austin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21941182,
+            "participants": [
+              {
+                "player": {
+                  "id": 2512827,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96682944,
+      "winnerId": 21766666,
+      "displayScore": "Ponchy | Cyrus 0 - Austin 2",
+      "fullRoundText": "Round 2",
+      "round": 2,
+      "completedAt": 1763858387,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21847139,
+            "participants": [
+              {
+                "player": {
+                  "id": 1205344,
+                  "gamerTag": "C.Y.R.U.S."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21766666,
+            "participants": [
+              {
+                "player": {
+                  "id": 25362,
+                  "gamerTag": "Austin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96681984,
+      "winnerId": 21937963,
+      "displayScore": "AFC | datsal 0 - RTSG | Fives 2",
+      "fullRoundText": "Round 2",
+      "round": 2,
+      "completedAt": 1763858093,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21657343,
+            "participants": [
+              {
+                "player": {
+                  "id": 2456770,
+                  "gamerTag": "datsal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21937963,
+            "participants": [
+              {
+                "player": {
+                  "id": 2126472,
+                  "gamerTag": "Fives"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96682071,
+      "winnerId": 21941182,
+      "displayScore": "rabit! 2 - claire johnson 0",
+      "fullRoundText": "Round 2",
+      "round": 2,
+      "completedAt": 1763857786,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21941182,
+            "participants": [
+              {
+                "player": {
+                  "id": 2512827,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21654054,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96682945,
+      "winnerId": 21653587,
+      "displayScore": "cchalz 0 - Baskin 2",
+      "fullRoundText": "Round 2",
+      "round": 2,
+      "completedAt": 1763858677,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21916999,
+            "participants": [
+              {
+                "player": {
+                  "id": 4958694,
+                  "gamerTag": "cchalz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21653587,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96683487,
+      "winnerId": 21916990,
+      "displayScore": "Owl 0 - swade 2",
+      "fullRoundText": "Round 2",
+      "round": 2,
+      "completedAt": 1763859827,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21917008,
+            "participants": [
+              {
+                "player": {
+                  "id": 36858,
+                  "gamerTag": "Owl"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21916990,
+            "participants": [
+              {
+                "player": {
+                  "id": 2079504,
+                  "gamerTag": "swade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96681985,
+      "winnerId": 21695813,
+      "displayScore": "Rose 0 - Larry Mozzarelli 2",
+      "fullRoundText": "Round 2",
+      "round": 2,
+      "completedAt": 1763857816,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21943431,
+            "participants": [
+              {
+                "player": {
+                  "id": 5095251,
+                  "gamerTag": "Rose"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21695813,
+            "participants": [
+              {
+                "player": {
+                  "id": 407343,
+                  "gamerTag": "Larry Mozzarelli"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96682072,
+      "winnerId": 21846994,
+      "displayScore": "Ponchy | Meta!? 2 - Crush | Solis 0",
+      "fullRoundText": "Round 2",
+      "round": 2,
+      "completedAt": 1763858950,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21846994,
+            "participants": [
+              {
+                "player": {
+                  "id": 1208288,
+                  "gamerTag": "Meta!?"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21658842,
+            "participants": [
+              {
+                "player": {
+                  "id": 5016661,
+                  "gamerTag": "Solis"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96683488,
+      "winnerId": 21907990,
+      "displayScore": "skrat 2 - ZYLO 0",
+      "fullRoundText": "Round 2",
+      "round": 2,
+      "completedAt": 1763858637,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21907990,
+            "participants": [
+              {
+                "player": {
+                  "id": 1286344,
+                  "gamerTag": "skrat"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21941171,
+            "participants": [
+              {
+                "player": {
+                  "id": 5026289,
+                  "gamerTag": "ZYLO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96688309,
+      "winnerId": 21695813,
+      "displayScore": "RTSG | Fives 1 - Larry Mozzarelli 3",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1763921901,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21937963,
+            "participants": [
+              {
+                "player": {
+                  "id": 2126472,
+                  "gamerTag": "Fives"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21695813,
+            "participants": [
+              {
+                "player": {
+                  "id": 407343,
+                  "gamerTag": "Larry Mozzarelli"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96688310,
+      "winnerId": 21766666,
+      "displayScore": "Austin 3 - Owl 0",
+      "fullRoundText": "Losers Quarter-Final",
+      "round": -6,
+      "completedAt": 1763921882,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21766666,
+            "participants": [
+              {
+                "player": {
+                  "id": 25362,
+                  "gamerTag": "Austin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21917008,
+            "participants": [
+              {
+                "player": {
+                  "id": 36858,
+                  "gamerTag": "Owl"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96688307,
+      "winnerId": 21695813,
+      "displayScore": "Larry Mozzarelli 3 - claire johnson 1",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1763866653,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21695813,
+            "participants": [
+              {
+                "player": {
+                  "id": 407343,
+                  "gamerTag": "Larry Mozzarelli"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21654054,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96688308,
+      "winnerId": 21917008,
+      "displayScore": "Ponchy | Meta!? 0 - Owl 3",
+      "fullRoundText": "Losers Round 2",
+      "round": -5,
+      "completedAt": 1763866719,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21846994,
+            "participants": [
+              {
+                "player": {
+                  "id": 1208288,
+                  "gamerTag": "Meta!?"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21917008,
+            "participants": [
+              {
+                "player": {
+                  "id": 36858,
+                  "gamerTag": "Owl"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96688274,
+      "winnerId": 21937963,
+      "displayScore": "Ponchy | Cyrus 1 - RTSG | Fives 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 1,
+      "completedAt": 1763863161,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21847139,
+            "participants": [
+              {
+                "player": {
+                  "id": 1205344,
+                  "gamerTag": "C.Y.R.U.S."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21937963,
+            "participants": [
+              {
+                "player": {
+                  "id": 2126472,
+                  "gamerTag": "Fives"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96688275,
+      "winnerId": 21916990,
+      "displayScore": "Ponchy | Meta!? 1 - swade 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 1,
+      "completedAt": 1763863228,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21846994,
+            "participants": [
+              {
+                "player": {
+                  "id": 1208288,
+                  "gamerTag": "Meta!?"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 1
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21916990,
+            "participants": [
+              {
+                "player": {
+                  "id": 2079504,
+                  "gamerTag": "swade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96688276,
+      "winnerId": 21766666,
+      "displayScore": "skrat 0 - Austin 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 1,
+      "completedAt": 1763862760,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21907990,
+            "participants": [
+              {
+                "player": {
+                  "id": 1286344,
+                  "gamerTag": "skrat"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21766666,
+            "participants": [
+              {
+                "player": {
+                  "id": 25362,
+                  "gamerTag": "Austin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96688277,
+      "winnerId": 21941182,
+      "displayScore": "Larry Mozzarelli 2 - rabit! 3",
+      "fullRoundText": "Winners Quarter-Final",
+      "round": 1,
+      "completedAt": 1763863380,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21695813,
+            "participants": [
+              {
+                "player": {
+                  "id": 407343,
+                  "gamerTag": "Larry Mozzarelli"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21941182,
+            "participants": [
+              {
+                "player": {
+                  "id": 2512827,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96680805,
+      "winnerId": 21941182,
+      "displayScore": "rabit! 2 - :3c | cigarette mom 0",
+      "fullRoundText": "Round 1",
+      "round": 1,
+      "completedAt": 1763857458,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21941182,
+            "participants": [
+              {
+                "player": {
+                  "id": 2512827,
+                  "gamerTag": "rabit!"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21695604,
+            "participants": [
+              {
+                "player": {
+                  "id": 4339442,
+                  "gamerTag": "cigarette mom"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96681014,
+      "winnerId": 21937963,
+      "displayScore": "RTSG | Fives 2 - Electric Friend 0",
+      "fullRoundText": "Round 1",
+      "round": 1,
+      "completedAt": 1763857297,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21937963,
+            "participants": [
+              {
+                "player": {
+                  "id": 2126472,
+                  "gamerTag": "Fives"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21916336,
+            "participants": [
+              {
+                "player": {
+                  "id": 5090902,
+                  "gamerTag": "Electric Friend"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96681578,
+      "winnerId": 21766666,
+      "displayScore": "Austin 2 - Baskin 0",
+      "fullRoundText": "Round 1",
+      "round": 1,
+      "completedAt": 1763856950,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21766666,
+            "participants": [
+              {
+                "player": {
+                  "id": 25362,
+                  "gamerTag": "Austin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21653587,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96682066,
+      "winnerId": 21916990,
+      "displayScore": "swade 2 - Rusky | Rusky4038 0",
+      "fullRoundText": "Round 1",
+      "round": 1,
+      "completedAt": 1763857379,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21916990,
+            "participants": [
+              {
+                "player": {
+                  "id": 2079504,
+                  "gamerTag": "swade"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21919454,
+            "participants": [
+              {
+                "player": {
+                  "id": 1904919,
+                  "gamerTag": "Rusky4038"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96680806,
+      "winnerId": 21654054,
+      "displayScore": "claire johnson 2 - Crush | Solis 0",
+      "fullRoundText": "Round 1",
+      "round": 1,
+      "completedAt": 1763856603,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21654054,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21658842,
+            "participants": [
+              {
+                "player": {
+                  "id": 5016661,
+                  "gamerTag": "Solis"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96681015,
+      "winnerId": 21657343,
+      "displayScore": "AFC | datsal 2 - Rose 0",
+      "fullRoundText": "Round 1",
+      "round": 1,
+      "completedAt": 1763856799,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21657343,
+            "participants": [
+              {
+                "player": {
+                  "id": 2456770,
+                  "gamerTag": "datsal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21943431,
+            "participants": [
+              {
+                "player": {
+                  "id": 5095251,
+                  "gamerTag": "Rose"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96681579,
+      "winnerId": 21847139,
+      "displayScore": "Ponchy | Cyrus 2 - cchalz 0",
+      "fullRoundText": "Round 1",
+      "round": 1,
+      "completedAt": 1763858039,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21847139,
+            "participants": [
+              {
+                "player": {
+                  "id": 1205344,
+                  "gamerTag": "C.Y.R.U.S."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21916999,
+            "participants": [
+              {
+                "player": {
+                  "id": 4958694,
+                  "gamerTag": "cchalz"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96682067,
+      "winnerId": 21917008,
+      "displayScore": "Owl 2 - ZYLO 0",
+      "fullRoundText": "Round 1",
+      "round": 1,
+      "completedAt": 1763858620,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21917008,
+            "participants": [
+              {
+                "player": {
+                  "id": 36858,
+                  "gamerTag": "Owl"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21941171,
+            "participants": [
+              {
+                "player": {
+                  "id": 5026289,
+                  "gamerTag": "ZYLO"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96688303,
+      "winnerId": 21695813,
+      "displayScore": "Larry Mozzarelli 3 - Baskin 0",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1763866649,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21695813,
+            "participants": [
+              {
+                "player": {
+                  "id": 407343,
+                  "gamerTag": "Larry Mozzarelli"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21653587,
+            "participants": [
+              {
+                "player": {
+                  "id": 227792,
+                  "gamerTag": "Baskin"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96688304,
+      "winnerId": 21654054,
+      "displayScore": "skrat 0 - claire johnson 3",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1763863913,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21907990,
+            "participants": [
+              {
+                "player": {
+                  "id": 1286344,
+                  "gamerTag": "skrat"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21654054,
+            "participants": [
+              {
+                "player": {
+                  "id": 1479899,
+                  "gamerTag": "cj"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96688305,
+      "winnerId": 21846994,
+      "displayScore": "Ponchy | Meta!? 3 - AFC | datsal 0",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1763864546,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21846994,
+            "participants": [
+              {
+                "player": {
+                  "id": 1208288,
+                  "gamerTag": "Meta!?"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21657343,
+            "participants": [
+              {
+                "player": {
+                  "id": 2456770,
+                  "gamerTag": "datsal"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 96688306,
+      "winnerId": 21917008,
+      "displayScore": "Ponchy | Cyrus 2 - Owl 3",
+      "fullRoundText": "Losers Round 1",
+      "round": -4,
+      "completedAt": 1763866713,
+      "slots": [
+        {
+          "entrant": {
+            "id": 21847139,
+            "participants": [
+              {
+                "player": {
+                  "id": 1205344,
+                  "gamerTag": "C.Y.R.U.S."
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 2
+              }
+            }
+          }
+        },
+        {
+          "entrant": {
+            "id": 21917008,
+            "participants": [
+              {
+                "player": {
+                  "id": 36858,
+                  "gamerTag": "Owl"
+                }
+              }
+            ]
+          },
+          "standing": {
+            "stats": {
+              "score": {
+                "value": 3
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "placement": 1,
+      "entrant": {
+        "id": 21941182,
+        "participants": [
+          {
+            "player": {
+              "id": 2512827,
+              "gamerTag": "rabit!"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 2,
+      "entrant": {
+        "id": 21766666,
+        "participants": [
+          {
+            "player": {
+              "id": 25362,
+              "gamerTag": "Austin"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 3,
+      "entrant": {
+        "id": 21916990,
+        "participants": [
+          {
+            "player": {
+              "id": 2079504,
+              "gamerTag": "swade"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 4,
+      "entrant": {
+        "id": 21695813,
+        "participants": [
+          {
+            "player": {
+              "id": 407343,
+              "gamerTag": "Larry Mozzarelli"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 21917008,
+        "participants": [
+          {
+            "player": {
+              "id": 36858,
+              "gamerTag": "Owl"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 5,
+      "entrant": {
+        "id": 21937963,
+        "participants": [
+          {
+            "player": {
+              "id": 2126472,
+              "gamerTag": "Fives"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 21654054,
+        "participants": [
+          {
+            "player": {
+              "id": 1479899,
+              "gamerTag": "cj"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 7,
+      "entrant": {
+        "id": 21846994,
+        "participants": [
+          {
+            "player": {
+              "id": 1208288,
+              "gamerTag": "Meta!?"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 21847139,
+        "participants": [
+          {
+            "player": {
+              "id": 1205344,
+              "gamerTag": "C.Y.R.U.S."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 21653587,
+        "participants": [
+          {
+            "player": {
+              "id": 227792,
+              "gamerTag": "Baskin"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 21907990,
+        "participants": [
+          {
+            "player": {
+              "id": 1286344,
+              "gamerTag": "skrat"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 9,
+      "entrant": {
+        "id": 21657343,
+        "participants": [
+          {
+            "player": {
+              "id": 2456770,
+              "gamerTag": "datsal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 21916999,
+        "participants": [
+          {
+            "player": {
+              "id": 4958694,
+              "gamerTag": "cchalz"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 21695604,
+        "participants": [
+          {
+            "player": {
+              "id": 4339442,
+              "gamerTag": "cigarette mom"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 21919454,
+        "participants": [
+          {
+            "player": {
+              "id": 1904919,
+              "gamerTag": "Rusky4038"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 13,
+      "entrant": {
+        "id": 21916336,
+        "participants": [
+          {
+            "player": {
+              "id": 5090902,
+              "gamerTag": "Electric Friend"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 21658842,
+        "participants": [
+          {
+            "player": {
+              "id": 5016661,
+              "gamerTag": "Solis"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 21941171,
+        "participants": [
+          {
+            "player": {
+              "id": 5026289,
+              "gamerTag": "ZYLO"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "placement": 17,
+      "entrant": {
+        "id": 21943431,
+        "participants": [
+          {
+            "player": {
+              "id": 5095251,
+              "gamerTag": "Rose"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
