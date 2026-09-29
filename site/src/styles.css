@@ -1108,7 +1108,7 @@ main {
   }
 }
 
-:root[data-series='scss'] {
+:root[data-theme='scss'] {
   --page: #040a06;
   --page-texture: linear-gradient(177deg, transparent 8%, rgba(255, 96, 32, 0.34) 16%, transparent 27%),
     linear-gradient(181deg, transparent 38%, rgba(33, 200, 80, 0.26) 47%, transparent 58%),
@@ -1134,7 +1134,7 @@ main {
   color-scheme: dark;
 }
 
-:root[data-series='scss'] .numeral {
+:root[data-theme='scss'] .numeral {
   filter: drop-shadow(0 0 28px rgba(43, 214, 92, 0.35));
 }
 

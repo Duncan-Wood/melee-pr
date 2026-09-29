@@ -1,0 +1,295 @@
+{
+  "name": "SCSS East Coast",
+  "timezone": "America/New_York",
+  "defaults": {
+    "minimumEvents": 10
+  },
+  "events": [
+    {
+      "slug": "tournament/scss-33/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-34/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-35/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-36/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-37/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-38/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-39/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-40/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-41/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-42/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-43/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-44/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-45/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-46/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-47/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-48/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-49/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-50-1/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-51/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-52/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-53/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-54/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-55/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-56/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-57/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-58/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-59/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-60/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-61/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-62/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-63/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-64/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-65/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-66/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-67/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-68-1/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-69/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-70/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-71/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-72/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-73/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-74/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-75/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-76/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-77/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-78/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-79/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-80/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-81/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-82/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-83/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-84/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-85/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-86/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-87/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-88/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-89/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-90/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-91/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-92/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-93/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-94/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-95/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-96/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-97/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-98/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-99/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-100/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-101/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-102/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-east-coast-103-the-finale-for-now/event/melee-singles",
+      "countsForPR": true
+    }
+  ],
+  "aliases": {},
+  "tagOverrides": {}
+}

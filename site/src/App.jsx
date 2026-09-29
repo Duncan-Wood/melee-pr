@@ -90,7 +90,7 @@ function SeriesSwitcher({ current, page }) {
           {SERIES.map((series) => (
             <li key={series.id}>
               <a href={`#/${series.id}/${samePage}`} aria-current={series.id === current.id} onClick={() => setOpen(false)}>
-                <span className={`series-swatch series-swatch-${series.id}`} aria-hidden="true" />
+                <span className={`series-swatch series-swatch-${series.theme}`} aria-hidden="true" />
                 <strong>{series.name}</strong>
                 <small>{series.description}</small>
               </a>
@@ -132,7 +132,7 @@ export default function App() {
   const currentPage = page === 'player' ? 'rankings' : page;
 
   useEffect(() => {
-    document.documentElement.dataset.series = seriesId;
+    document.documentElement.dataset.theme = series.theme;
     document.title = `${series.name} Power Rankings`;
   }, [seriesId, series]);
 
