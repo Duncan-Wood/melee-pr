@@ -1,6 +1,7 @@
 import Numeral from './Numeral.jsx';
 import RatingChart from './RatingChart.jsx';
 import Stamps from './Stamps.jsx';
+import WhyRank from './WhyRank.jsx';
 import { eventTitle, fullDate, ordinal, setRecord, startggUrl } from './format.js';
 
 function OpponentList({ entries, tagOf, base }) {
@@ -58,6 +59,8 @@ export default function Player({ data, results, settings, playerId, base }) {
         <RatingChart player={player} events={results.events} deviations={deviations} />
         <Stamps events={results.events} player={player} />
       </section>
+
+      <WhyRank player={player} results={results} settings={settings} tagOf={tagOf} base={base} />
 
       <div className="two-up">
         <section className="sheet">

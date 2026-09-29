@@ -787,6 +787,48 @@ main {
   gap: 4px;
 }
 
+.neighbor-list,
+.swing-list {
+  list-style: none;
+  margin: 0 0 1.2rem;
+  padding: 0;
+  display: grid;
+  gap: 12px;
+}
+
+.neighbor-list p {
+  margin: 0;
+}
+
+.why-rank h3 {
+  font-size: 1.05rem;
+  margin-bottom: 8px;
+}
+
+.swing-list li {
+  display: grid;
+  grid-template-columns: 3.2em minmax(0, 1fr);
+  gap: 8px;
+}
+
+.swing-change {
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.swing-up {
+  color: var(--cool);
+}
+
+.swing-down {
+  color: var(--warm);
+}
+
+.swing-sets {
+  display: block;
+  font-size: 0.9rem;
+}
+
 .event-sets + .event-sets {
   margin-top: 20px;
 }
