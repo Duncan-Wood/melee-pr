@@ -20,7 +20,6 @@ npm install
 echo 'STARTGG_TOKEN=your_token_here' > .env
 npm run fetch -- <series>   # download brackets into data/raw/ (cached; add --refetch to redownload)
 npm run build -- <series>   # clean them into data/<series>.json
-npm run rank -- <series>    # optional: write a markdown draft to output/
 npm run site                # local dashboard
 ```
 

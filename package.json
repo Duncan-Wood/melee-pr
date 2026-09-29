@@ -5,7 +5,6 @@
   "scripts": {
     "fetch": "node --env-file=.env scripts/fetch.mjs",
     "build": "node scripts/build.mjs",
-    "rank": "node scripts/rank.mjs",
     "site": "vite",
     "site:build": "vite build",
     "site:preview": "vite preview"
