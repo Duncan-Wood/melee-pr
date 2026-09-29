@@ -2,6 +2,7 @@ import Numeral from './Numeral.jsx';
 import RatingChart from './RatingChart.jsx';
 import Stamps from './Stamps.jsx';
 import WhyRank from './WhyRank.jsx';
+import CharacterIcons, { CharacterPortrait } from './CharacterIcons.jsx';
 import { eventTitle, fullDate, ordinal, setRecord, startggUrl } from './format.js';
 
 function OpponentList({ entries, tagOf, base }) {
@@ -46,6 +47,7 @@ export default function Player({ data, results, settings, playerId, base }) {
         {player.rank ? <Numeral value={player.rank} size="medium" /> : <span className="unranked-badge">Unranked</span>}
         <div>
           <h1 className="player-tag">{player.tag}</h1>
+          <CharacterIcons characters={data.players[playerId].characters} size="medium" />
           <p className="player-summary">
             {setRecord(player)} in sets across {player.eventsAttended} {player.eventsAttended === 1 ? 'event' : 'events'}
             {player.eventWins ? `, ${player.eventWins} ${player.eventWins === 1 ? 'title' : 'titles'}` : ''}. Rating {Math.round(player.rating)}
@@ -53,6 +55,7 @@ export default function Player({ data, results, settings, playerId, base }) {
             {!player.rank && ` Needs ${settings.minimumEvents} counted events to be ranked.`}
           </p>
         </div>
+        <CharacterPortrait characters={data.players[playerId].characters} className="player-portrait" />
       </header>
 
       <section className="sheet">

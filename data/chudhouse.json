@@ -1276,367 +1276,515 @@
   "players": {
     "3357": {
       "id": "3357",
-      "tag": "Spark"
+      "tag": "Spark",
+      "characters": [
+        "Marth"
+      ]
     },
     "6544": {
       "id": "6544",
-      "tag": "Magi"
+      "tag": "Magi",
+      "characters": []
     },
     "7277": {
       "id": "7277",
-      "tag": "JSalt"
+      "tag": "JSalt",
+      "characters": []
     },
     "14592": {
       "id": "14592",
-      "tag": "Suezo"
+      "tag": "Suezo",
+      "characters": [
+        "Sheik"
+      ]
     },
     "14642": {
       "id": "14642",
-      "tag": "Qualia"
+      "tag": "Qualia",
+      "characters": []
     },
     "24901": {
       "id": "24901",
-      "tag": "patturn"
+      "tag": "patturn",
+      "characters": []
     },
     "25362": {
       "id": "25362",
-      "tag": "Austin"
+      "tag": "Austin",
+      "characters": []
     },
     "26387": {
       "id": "26387",
-      "tag": "Phantom Airline"
+      "tag": "Phantom Airline",
+      "characters": [
+        "Marth"
+      ]
     },
     "27953": {
       "id": "27953",
-      "tag": "Mr. K"
+      "tag": "Mr. K",
+      "characters": []
     },
     "36790": {
       "id": "36790",
-      "tag": "Willy"
+      "tag": "Willy",
+      "characters": []
     },
     "36858": {
       "id": "36858",
-      "tag": "Owl"
+      "tag": "Owl",
+      "characters": []
     },
     "39725": {
       "id": "39725",
-      "tag": "Wheatley"
+      "tag": "Wheatley",
+      "characters": []
     },
     "67482": {
       "id": "67482",
-      "tag": "LaFlarb"
+      "tag": "LaFlarb",
+      "characters": []
     },
     "127997": {
       "id": "127997",
-      "tag": "rabit!"
+      "tag": "rabit!",
+      "characters": [
+        "Mario",
+        "Mewtwo",
+        "Fox"
+      ]
     },
     "227792": {
       "id": "227792",
-      "tag": "Baskin"
+      "tag": "Baskin",
+      "characters": []
     },
     "234597": {
       "id": "234597",
-      "tag": "Varsity_Scooter"
+      "tag": "Varsity_Scooter",
+      "characters": []
     },
     "263818": {
       "id": "263818",
-      "tag": "Cinna"
+      "tag": "Cinna",
+      "characters": []
     },
     "325974": {
       "id": "325974",
-      "tag": "SDJ"
+      "tag": "SDJ",
+      "characters": []
     },
     "329291": {
       "id": "329291",
-      "tag": "Gamer: Zvince"
+      "tag": "Gamer: Zvince",
+      "characters": []
     },
     "344753": {
       "id": "344753",
-      "tag": "DrDepper"
+      "tag": "DrDepper",
+      "characters": []
     },
     "407343": {
       "id": "407343",
-      "tag": "Larry Mozzarelli"
+      "tag": "Larry Mozzarelli",
+      "characters": [
+        "Falco"
+      ]
     },
     "434513": {
       "id": "434513",
-      "tag": "Iori"
+      "tag": "Iori",
+      "characters": []
     },
     "581512": {
       "id": "581512",
-      "tag": "GARY NEVER GARY AGAIN"
+      "tag": "GARY NEVER GARY AGAIN",
+      "characters": []
     },
     "631620": {
       "id": "631620",
-      "tag": "Feroz"
+      "tag": "Feroz",
+      "characters": [
+        "Sheik"
+      ]
     },
     "639252": {
       "id": "639252",
-      "tag": "Luch"
+      "tag": "Luch",
+      "characters": []
     },
     "690671": {
       "id": "690671",
-      "tag": "taqwim"
+      "tag": "taqwim",
+      "characters": [
+        "Fox"
+      ]
     },
     "725403": {
       "id": "725403",
-      "tag": "Squishyy"
+      "tag": "Squishyy",
+      "characters": []
     },
     "739959": {
       "id": "739959",
-      "tag": "Xorny"
+      "tag": "Xorny",
+      "characters": []
     },
     "914233": {
       "id": "914233",
-      "tag": "HighlyHylian"
+      "tag": "HighlyHylian",
+      "characters": []
     },
     "1205344": {
       "id": "1205344",
-      "tag": "C.Y.R.U.S."
+      "tag": "C.Y.R.U.S.",
+      "characters": [
+        "Samus"
+      ]
     },
     "1208288": {
       "id": "1208288",
-      "tag": "Meta!?"
+      "tag": "Meta!?",
+      "characters": [
+        "Captain Falcon"
+      ]
     },
     "1286344": {
       "id": "1286344",
-      "tag": "skrat"
+      "tag": "skrat",
+      "characters": [
+        "Falco"
+      ]
     },
     "1479899": {
       "id": "1479899",
-      "tag": "cj"
+      "tag": "cj",
+      "characters": [
+        "Peach"
+      ]
     },
     "1744516": {
       "id": "1744516",
-      "tag": "Courier"
+      "tag": "Courier",
+      "characters": []
     },
     "1904919": {
       "id": "1904919",
-      "tag": "Rusky4038"
+      "tag": "Rusky4038",
+      "characters": [
+        "Captain Falcon"
+      ]
     },
     "1998097": {
       "id": "1998097",
-      "tag": "Zapdosion"
+      "tag": "Zapdosion",
+      "characters": []
     },
     "2020580": {
       "id": "2020580",
-      "tag": "Parker"
+      "tag": "Parker",
+      "characters": []
     },
     "2079504": {
       "id": "2079504",
-      "tag": "swade"
+      "tag": "swade",
+      "characters": []
     },
     "2126472": {
       "id": "2126472",
-      "tag": "Fives"
+      "tag": "Fives",
+      "characters": []
     },
     "2299942": {
       "id": "2299942",
-      "tag": "ultradill"
+      "tag": "ultradill",
+      "characters": []
     },
     "2302944": {
       "id": "2302944",
-      "tag": "Horsh"
+      "tag": "Horsh",
+      "characters": [
+        "Fox"
+      ]
     },
     "2331874": {
       "id": "2331874",
-      "tag": "cool john"
+      "tag": "cool john",
+      "characters": []
     },
     "2377958": {
       "id": "2377958",
-      "tag": "Ghoody"
+      "tag": "Ghoody",
+      "characters": [
+        "Ganondorf"
+      ]
     },
     "2456770": {
       "id": "2456770",
-      "tag": "datsal"
+      "tag": "datsal",
+      "characters": [
+        "Falco"
+      ]
     },
     "2504721": {
       "id": "2504721",
-      "tag": "Merkin"
+      "tag": "Merkin",
+      "characters": []
     },
     "2519878": {
       "id": "2519878",
-      "tag": "ShowMeTheMoney"
+      "tag": "ShowMeTheMoney",
+      "characters": []
     },
     "2724383": {
       "id": "2724383",
-      "tag": "RubRub"
+      "tag": "RubRub",
+      "characters": [
+        "Marth",
+        "Sheik",
+        "Zelda"
+      ]
     },
     "2940753": {
       "id": "2940753",
-      "tag": "Stepping"
+      "tag": "Stepping",
+      "characters": []
     },
     "2944004": {
       "id": "2944004",
-      "tag": "TommyMotherFreakingAcorn"
+      "tag": "TommyMotherFreakingAcorn",
+      "characters": []
     },
     "3024075": {
       "id": "3024075",
-      "tag": "thwizo"
+      "tag": "thwizo",
+      "characters": []
     },
     "3064884": {
       "id": "3064884",
-      "tag": "Ricky_Nguyen"
+      "tag": "Ricky_Nguyen",
+      "characters": []
     },
     "3305570": {
       "id": "3305570",
-      "tag": "Dilby"
+      "tag": "Dilby",
+      "characters": [
+        "Captain Falcon"
+      ]
     },
     "3422494": {
       "id": "3422494",
-      "tag": "CarsonBeck"
+      "tag": "CarsonBeck",
+      "characters": [
+        "Captain Falcon"
+      ]
     },
     "3670025": {
       "id": "3670025",
-      "tag": "Octo_328"
+      "tag": "Octo_328",
+      "characters": []
     },
     "3670385": {
       "id": "3670385",
-      "tag": "Tezzer"
+      "tag": "Tezzer",
+      "characters": []
     },
     "3670864": {
       "id": "3670864",
-      "tag": "BlackSquecil"
+      "tag": "BlackSquecil",
+      "characters": []
     },
     "3843115": {
       "id": "3843115",
-      "tag": "Kipkin"
+      "tag": "Kipkin",
+      "characters": []
     },
     "3848264": {
       "id": "3848264",
-      "tag": "DubbleRex"
+      "tag": "DubbleRex",
+      "characters": []
     },
     "3926194": {
       "id": "3926194",
-      "tag": "Dispect"
+      "tag": "Dispect",
+      "characters": []
     },
     "4070972": {
       "id": "4070972",
-      "tag": "Mike Flow"
+      "tag": "Mike Flow",
+      "characters": []
     },
     "4204074": {
       "id": "4204074",
-      "tag": "Eggy"
+      "tag": "Eggy",
+      "characters": []
     },
     "4277784": {
       "id": "4277784",
-      "tag": "dubious"
+      "tag": "dubious",
+      "characters": []
     },
     "4281550": {
       "id": "4281550",
-      "tag": "Mr. Pretzel"
+      "tag": "Mr. Pretzel",
+      "characters": []
     },
     "4339442": {
       "id": "4339442",
-      "tag": "cigarette mom"
+      "tag": "cigarette mom",
+      "characters": [
+        "Samus"
+      ]
     },
     "4540107": {
       "id": "4540107",
-      "tag": "Alex"
+      "tag": "Alex",
+      "characters": []
     },
     "4566664": {
       "id": "4566664",
-      "tag": "Sean"
+      "tag": "Sean",
+      "characters": []
     },
     "4652005": {
       "id": "4652005",
-      "tag": "Johnathan Vegetable"
+      "tag": "Johnathan Vegetable",
+      "characters": []
     },
     "4760929": {
       "id": "4760929",
-      "tag": "ProfRandle"
+      "tag": "ProfRandle",
+      "characters": []
     },
     "4780649": {
       "id": "4780649",
-      "tag": "RASPUTIN"
+      "tag": "RASPUTIN",
+      "characters": []
     },
     "4845400": {
       "id": "4845400",
-      "tag": "Dork"
+      "tag": "Dork",
+      "characters": [
+        "Mario",
+        "Dr. Mario"
+      ]
     },
     "4845423": {
       "id": "4845423",
-      "tag": "Sasuke"
+      "tag": "Sasuke",
+      "characters": []
     },
     "4846427": {
       "id": "4846427",
-      "tag": "Angel"
+      "tag": "Angel",
+      "characters": []
     },
     "4958694": {
       "id": "4958694",
-      "tag": "cchalz"
+      "tag": "cchalz",
+      "characters": []
     },
     "4960064": {
       "id": "4960064",
-      "tag": "Wetdog"
+      "tag": "Wetdog",
+      "characters": [
+        "Fox"
+      ]
     },
     "4961509": {
       "id": "4961509",
-      "tag": "Finkleman"
+      "tag": "Finkleman",
+      "characters": []
     },
     "4961512": {
       "id": "4961512",
-      "tag": "Stuff"
+      "tag": "Stuff",
+      "characters": []
     },
     "5012611": {
       "id": "5012611",
-      "tag": "Shrimps"
+      "tag": "Shrimps",
+      "characters": []
     },
     "5016235": {
       "id": "5016235",
-      "tag": "Gardox"
+      "tag": "Gardox",
+      "characters": []
     },
     "5016661": {
       "id": "5016661",
-      "tag": "Solis"
+      "tag": "Solis",
+      "characters": [
+        "Marth"
+      ]
     },
     "5026289": {
       "id": "5026289",
-      "tag": "ZYLO"
+      "tag": "ZYLO",
+      "characters": []
     },
     "5027067": {
       "id": "5027067",
-      "tag": "Soulless"
+      "tag": "Soulless",
+      "characters": []
     },
     "5048541": {
       "id": "5048541",
-      "tag": "ichigo"
+      "tag": "ichigo",
+      "characters": []
     },
     "5090902": {
       "id": "5090902",
-      "tag": "Electric Friend"
+      "tag": "Electric Friend",
+      "characters": [
+        "Kirby"
+      ]
     },
     "5095251": {
       "id": "5095251",
-      "tag": "Rose"
+      "tag": "Rose",
+      "characters": [
+        "Sheik"
+      ]
     },
     "5240105": {
       "id": "5240105",
-      "tag": "Cyphr"
+      "tag": "Cyphr",
+      "characters": []
     },
     "5247051": {
       "id": "5247051",
-      "tag": "Rhea"
+      "tag": "Rhea",
+      "characters": [
+        "Captain Falcon"
+      ]
     },
     "5334924": {
       "id": "5334924",
-      "tag": "woah"
+      "tag": "woah",
+      "characters": [
+        "Captain Falcon"
+      ]
     },
     "5391445": {
       "id": "5391445",
-      "tag": "BIG JAKE"
+      "tag": "BIG JAKE",
+      "characters": []
     },
     "5484671": {
       "id": "5484671",
-      "tag": "Bongo"
+      "tag": "Bongo",
+      "characters": []
     },
     "5484684": {
       "id": "5484684",
-      "tag": "BAM"
+      "tag": "BAM",
+      "characters": []
     },
     "5485209": {
       "id": "5485209",
-      "tag": "ACL"
+      "tag": "ACL",
+      "characters": []
     }
   },
   "sets": [

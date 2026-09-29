@@ -134,6 +134,7 @@ export default function App() {
   useEffect(() => {
     document.documentElement.dataset.theme = series.theme;
     document.title = `${series.name} Power Rankings`;
+    document.querySelector('link[rel="icon"]').href = series.icon;
   }, [seriesId, series]);
 
   return (

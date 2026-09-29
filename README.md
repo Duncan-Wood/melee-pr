@@ -40,5 +40,6 @@ Create `series/<name>.json` and register it in `site/src/series.js`:
 ```
 
 - `aliases` merges a player who entered under two accounts. `build` fails on anything it can't match, so merges never happen by guessing.
+- `characters` (optional) sets a player's character icons, such as `{ "<player id>": ["Fox", "Marth"] }`. Otherwise icons come from start.gg's reported games, where available.
 - `countsForPR: false` keeps an event on the dashboard but out of the ranking.
 - `defaults` (optional) overrides the dashboard's starting settings, such as `{ "minimumEvents": 10 }`.

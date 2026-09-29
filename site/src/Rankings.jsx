@@ -1,6 +1,7 @@
 import Settings from './Settings.jsx';
 import Sparkline from './Sparkline.jsx';
 import Mentions from './Mentions.jsx';
+import CharacterIcons from './CharacterIcons.jsx';
 import { setRecord } from './format.js';
 
 export function methodSummary(settings) {
@@ -14,7 +15,7 @@ export function methodSummary(settings) {
 }
 
 export default function Rankings(props) {
-  const { results, settings, base } = props;
+  const { data, results, settings, base } = props;
   const scoreLabel = settings.algorithm === 'glicko2' && settings.conservativeDeviations ? 'PR score' : 'Rating';
 
   if (results.events.length === 0) {
@@ -51,7 +52,10 @@ export default function Rankings(props) {
               <tr key={player.playerId} onClick={() => (window.location.hash = `${base}/player/${player.playerId}`)}>
                 <td className="numeric rank-cell">{player.rank}</td>
                 <th scope="row">
-                  <a href={`${base}/player/${player.playerId}`}>{player.tag}</a>
+                  <span className="player-cell">
+                    <a href={`${base}/player/${player.playerId}`}>{player.tag}</a>
+                    <CharacterIcons characters={data.players[player.playerId].characters} />
+                  </span>
                 </th>
                 <td className="trend-column">
                   <Sparkline history={player.history} />

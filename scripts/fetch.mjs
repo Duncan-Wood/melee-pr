@@ -1,7 +1,7 @@
 import { readFile, writeFile, access } from 'node:fs/promises';
 
 const API_URL = 'https://api.start.gg/gql/alpha';
-const SETS_PER_PAGE = 40;
+const SETS_PER_PAGE = 20;
 const STANDINGS_PER_PAGE = 100;
 const MINIMUM_MILLISECONDS_BETWEEN_REQUESTS = 800;
 
@@ -33,6 +33,7 @@ query Sets($slug: String!, $page: Int!, $perPage: Int!) {
           entrant { id participants { player { id gamerTag } } }
           standing { stats { score { value } } }
         }
+        games { selections { entrant { id } character { name } } }
       }
     }
   }

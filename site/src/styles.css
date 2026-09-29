@@ -11,6 +11,7 @@
   --sheet-shadow: 0 1px 0 rgba(60, 40, 10, 0.12), 0 10px 24px -16px rgba(60, 40, 10, 0.6);
   --popover-shadow: 0 16px 32px -12px rgba(60, 40, 10, 0.55);
   --numeral-blend: multiply;
+  --icon-outline: none;
   --on-strong: #fbf9f4;
   --tone-win-strong: #1d5ba6;
   --tone-win: #8db0da;
@@ -357,6 +358,35 @@ main {
   align-items: center;
   gap: clamp(16px, 4vw, 56px);
   cursor: pointer;
+}
+
+.character-portrait {
+  background: var(--sheet);
+  box-shadow: var(--sheet-shadow);
+  border-radius: 2px;
+  transform: rotate(-3deg);
+}
+
+.reveal-heading {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: end;
+  gap: 16px;
+}
+
+.reveal-portrait {
+  position: relative;
+  z-index: 1;
+  height: clamp(130px, 16vw, 200px);
+  margin-bottom: -48px;
+  animation: deal 450ms 320ms cubic-bezier(0.2, 0.9, 0.3, 1.2) both;
+}
+
+@keyframes deal {
+  from {
+    opacity: 0;
+    transform: translateY(24px) rotate(6deg);
+  }
 }
 
 .reveal-body {
@@ -750,6 +780,56 @@ main {
 }
 
 
+.character-icons {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  vertical-align: middle;
+}
+
+.character-icons img {
+  image-rendering: pixelated;
+  filter: var(--icon-outline);
+}
+
+.character-icons-small img {
+  width: 22px;
+  height: 22px;
+}
+
+.character-icons-medium {
+  margin-top: 10px;
+  gap: 6px;
+}
+
+.character-icons-medium img {
+  width: 36px;
+  height: 36px;
+}
+
+.character-icons-large {
+  gap: 8px;
+  margin-top: -6px;
+}
+
+.character-icons-large img {
+  width: 48px;
+  height: 48px;
+}
+
+.player-cell {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 10px;
+}
+
+.player-portrait {
+  height: 180px;
+  margin-left: auto;
+  flex-shrink: 0;
+}
+
 .player-header {
   display: flex;
   align-items: center;
@@ -1134,10 +1214,19 @@ main {
     padding-top: 0;
   }
 
+  .player-portrait {
+    height: 110px;
+  }
+
   .player-header {
-    align-items: flex-start;
-    flex-direction: column;
+    align-items: flex-end;
+    flex-wrap: wrap;
     gap: 8px;
+  }
+
+  .player-header > div {
+    order: 1;
+    flex-basis: 100%;
   }
 }
 
@@ -1157,6 +1246,7 @@ main {
   --sheet-shadow: 0 0 0 1px var(--glow), 0 24px 48px -24px rgba(0, 0, 0, 0.9);
   --popover-shadow: 0 0 0 1px var(--glow), 0 24px 48px -16px rgba(0, 0, 0, 0.9);
   --numeral-blend: screen;
+  --icon-outline: drop-shadow(0 0 1px rgba(242, 246, 240, 0.8));
   --tone-win-strong: var(--cool);
   --tone-loss-strong: var(--warm);
   --display: 'Alfa Slab One', Rockwell, serif;
