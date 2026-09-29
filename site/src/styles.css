@@ -1150,34 +1150,58 @@ main {
   }
 }
 
-:root[data-theme='scss'] {
-  --page: #040a06;
-  --page-texture: linear-gradient(177deg, transparent 8%, rgba(255, 96, 32, 0.34) 16%, transparent 27%),
-    linear-gradient(181deg, transparent 38%, rgba(33, 200, 80, 0.26) 47%, transparent 58%),
-    linear-gradient(178deg, transparent 72%, rgba(226, 230, 60, 0.2) 80%, transparent 90%),
-    radial-gradient(90% 60% at 100% 0%, rgba(255, 96, 32, 0.25), transparent 70%);
-  --sheet: #0b1710;
+:root[data-theme='scss-east'],
+:root[data-theme='scss-west'] {
   --ink: #f2f6f0;
-  --ink-soft: #a7b7aa;
-  --warm: #ff6a2b;
-  --cool: #2bd65c;
   --line: rgba(242, 246, 240, 0.16);
-  --row-hover: #12251a;
-  --sheet-shadow: 0 0 0 1px rgba(43, 214, 92, 0.28), 0 24px 48px -24px rgba(0, 0, 0, 0.9);
-  --popover-shadow: 0 0 0 1px rgba(43, 214, 92, 0.4), 0 24px 48px -16px rgba(0, 0, 0, 0.9);
+  --sheet-shadow: 0 0 0 1px var(--glow), 0 24px 48px -24px rgba(0, 0, 0, 0.9);
+  --popover-shadow: 0 0 0 1px var(--glow), 0 24px 48px -16px rgba(0, 0, 0, 0.9);
   --numeral-blend: screen;
-  --on-strong: #04110a;
-  --tone-win-strong: #2bd65c;
-  --tone-win: #145a2c;
-  --tone-even: #2a342d;
-  --tone-loss: #6b2c14;
-  --tone-loss-strong: #ff6a2b;
+  --tone-win-strong: var(--cool);
+  --tone-loss-strong: var(--warm);
   --display: 'Alfa Slab One', Rockwell, serif;
   color-scheme: dark;
 }
 
-:root[data-theme='scss'] .numeral {
-  filter: drop-shadow(0 0 28px rgba(43, 214, 92, 0.35));
+:root[data-theme='scss-east'] {
+  --page: #03140f;
+  --page-texture: radial-gradient(70% 55% at 0% 0%, rgba(255, 96, 32, 0.42), transparent 70%),
+    linear-gradient(178deg, transparent 30%, rgba(5, 150, 120, 0.3) 44%, transparent 58%),
+    linear-gradient(182deg, transparent 62%, rgba(5, 86, 73, 0.45) 72%, transparent 82%),
+    radial-gradient(45% 30% at 100% 100%, rgba(255, 240, 20, 0.28), transparent 70%);
+  --sheet: #06201a;
+  --ink-soft: #9fbcb3;
+  --warm: #ff6a2b;
+  --cool: #22d6a0;
+  --glow: rgba(34, 214, 160, 0.3);
+  --row-hover: #0b3027;
+  --on-strong: #03140f;
+  --tone-win: #0f5a48;
+  --tone-even: #213731;
+  --tone-loss: #6b2c14;
+}
+
+:root[data-theme='scss-west'] {
+  --page: #070f02;
+  --page-texture: radial-gradient(70% 55% at 100% 0%, rgba(208, 61, 0, 0.5), transparent 70%),
+    radial-gradient(45% 45% at 10% 15%, rgba(60, 230, 30, 0.3), transparent 70%),
+    linear-gradient(182deg, transparent 40%, rgba(41, 92, 3, 0.45) 52%, transparent 64%),
+    radial-gradient(45% 30% at 0% 100%, rgba(255, 240, 20, 0.3), transparent 70%);
+  --sheet: #0f1c07;
+  --ink-soft: #b1bf9f;
+  --warm: #f0501a;
+  --cool: #6bef2e;
+  --glow: rgba(107, 239, 46, 0.3);
+  --row-hover: #1a2e0c;
+  --on-strong: #070f02;
+  --tone-win: #2f5a12;
+  --tone-even: #2c3424;
+  --tone-loss: #6b2410;
+}
+
+:root[data-theme='scss-east'] .numeral,
+:root[data-theme='scss-west'] .numeral {
+  filter: drop-shadow(0 0 28px var(--glow));
 }
 
 .series-switcher {
@@ -1242,8 +1266,12 @@ main {
   background: conic-gradient(#cf3328 0 33%, #1d5ba6 0 66%, #c9a77b 0);
 }
 
-.series-swatch-scss {
-  background: conic-gradient(#2bd65c 0 40%, #ff6a2b 0 70%, #e2e63c 0 85%, #040a06 0);
+.series-swatch-scss-east {
+  background: conic-gradient(#ff6a2b 0 30%, #22d6a0 0 70%, #e2e63c 0 82%, #03140f 0);
+}
+
+.series-swatch-scss-west {
+  background: conic-gradient(#6bef2e 0 40%, #e2e63c 0 52%, #070f02 0 70%, #f0501a 0);
 }
 
 .series-menu strong {
