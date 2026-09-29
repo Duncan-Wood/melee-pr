@@ -9,33 +9,34 @@ const signed = (value) => (value > 0 ? `+${round(value)}` : `−${round(Math.abs
 
 function scoreSentence(player, deviations) {
   if (!deviations) return `Rating ${round(player.rating)}.`;
-  return `Rating ${round(player.rating)}, uncertain by ±${round(player.deviation)} after ${eventCount(player)}. PR score is ${round(player.rating)} − ${deviations} × ${round(player.deviation)} = ${round(player.conservativeRating)}.`;
+  return `PR score ${round(player.conservativeRating)}: rating ${round(player.rating)} minus ${deviations} × ${round(player.deviation)} uncertainty from ${eventCount(player)}.`;
 }
 
 function gapReason(ahead, behind, deviations) {
   if (deviations && ahead.rating < behind.rating) {
-    return `${behind.tag} has the higher rating (${round(behind.rating)} to ${round(ahead.rating)}), but ${ahead.tag}’s is more certain: ±${round(ahead.deviation)} over ${eventCount(ahead)}, against ±${round(behind.deviation)} over ${eventCount(behind)}.`;
+    const lessCertain = behind.eventsAttended < ahead.eventsAttended ? `from fewer events, ${behind.eventsAttended} to ${ahead.eventsAttended}` : 'less certain after time away';
+    return `${behind.tag} is rated higher, ${round(behind.rating)} to ${round(ahead.rating)}, but ${lessCertain}.`;
   }
-  return `${ahead.tag} has the higher rating, ${round(ahead.rating)} to ${round(behind.rating)}.`;
+  return `${ahead.tag} is rated higher, ${round(ahead.rating)} to ${round(behind.rating)}.`;
 }
 
 function Neighbor({ player, other, results, deviations, base }) {
-  const isAbove = other.rank < player.rank;
-  const [ahead, behind] = isAbove ? [other, player] : [player, other];
-  const gap = ahead.conservativeRating - behind.conservativeRating;
+  const isAhead = other.rank < player.rank;
+  const [ahead, behind] = isAhead ? [other, player] : [player, other];
+  const gap = round(ahead.conservativeRating - behind.conservativeRating);
   const record = results.headToHead(player.playerId, other.playerId);
   const played = record.wins + record.losses > 0;
   return (
     <li>
       <p>
         <strong>
-          {isAbove ? 'Above' : 'Below'}: <a href={`${base}/player/${other.playerId}`}>{other.tag}</a> (#{other.rank})
+          #{other.rank} <a href={`${base}/player/${other.playerId}`}>{other.tag}</a>
         </strong>
-        , {round(gap)} {gap === 1 ? 'point' : 'points'} {isAbove ? 'ahead' : 'behind'}.
+        , {gap} {gap === 1 ? 'point' : 'points'} {isAhead ? 'ahead' : 'behind'}
       </p>
       <p className="muted">
         {gapReason(ahead, behind, deviations)}{' '}
-        {played ? `${player.tag} is ${record.wins}–${record.losses} against them.` : 'They haven’t played each other in a counted event.'}
+        {played ? `Head-to-head ${record.wins}–${record.losses}.` : 'Never played in a counted event.'}
       </p>
     </li>
   );
@@ -103,7 +104,7 @@ export default function WhyRank({ player, results, settings, tagOf, base }) {
       <p className="sheet-intro">
         {scoreSentence(player, deviations)}
         {!player.rank &&
-          ` ${player.tag} has ${eventCount(player)} of the ${settings.minimumEvents} needed to be ranked. Today’s ${deviations ? 'score' : 'rating'} would place #${placeIfRanked}.`}
+          ` Needs ${settings.minimumEvents} events to be ranked. Today’s ${deviations ? 'score' : 'rating'} would rank #${placeIfRanked}.`}
       </p>
       {neighbors.length > 0 && (
         <ul className="neighbor-list">
@@ -113,8 +114,7 @@ export default function WhyRank({ player, results, settings, tagOf, base }) {
         </ul>
       )}
       <p className="sheet-intro">
-        Everyone starts at {STARTING_RATING}.{settings.algorithm === 'glicko2' && ' A player’s first few events move their rating the most, while it’s least certain.'} These events
-        moved {player.tag}’s rating the most:
+        Everyone starts at {STARTING_RATING}.{settings.algorithm === 'glicko2' && ' Early events swing a rating the most.'}
       </p>
       <div className="two-up">
         <SwingList title="Biggest boosts" swings={boosts} />
