@@ -12,7 +12,28 @@ function cellTone(wins, losses) {
   return 'loss-strong';
 }
 
-export default function HeadToHead({ results, base }) {
+const csvField = (value) => `"${String(value).replace(/"/g, '""')}"`;
+
+function downloadSpreadsheet(results, seriesName) {
+  const players = results.ranked;
+  const header = ['Rank', 'Player', ...players.map((player) => player.tag)];
+  const rows = players.map((row) => [
+    row.rank,
+    row.tag,
+    ...players.map((column) => {
+      if (row.playerId === column.playerId) return '';
+      const { wins, losses } = results.headToHead(row.playerId, column.playerId);
+      return wins + losses ? `${wins}–${losses}` : '';
+    }),
+  ]);
+  const csv = [header, ...rows].map((fields) => fields.map(csvField).join(',')).join('\r\n');
+  const link = document.createElement('a');
+  link.href = URL.createObjectURL(new Blob(['\uFEFF' + csv], { type: 'text/csv;charset=utf-8' }));
+  link.download = `${seriesName} head-to-head.csv`;
+  link.click();
+}
+
+export default function HeadToHead({ data, results, base }) {
   const [size, setSize] = useState(12);
   const [hovered, setHovered] = useState(null);
   const grid = results.ranked.slice(0, size);
@@ -85,6 +106,9 @@ export default function HeadToHead({ results, base }) {
         <li><span className="h2h-swatch h2h-loss" />Trails</li>
         <li><span className="h2h-swatch h2h-loss-strong" />Winless</li>
       </ul>
+      <button className="link-button" onClick={() => downloadSpreadsheet(results, data.name)}>
+        Download all {results.ranked.length} ranked players as a spreadsheet
+      </button>
     </div>
   );
 }

@@ -81,5 +81,14 @@
   },
   "tagOverrides": {
     "690671": "taqwim"
+  },
+  "characters": {
+    "2126472": ["Fox"],
+    "639252": ["Pikachu"],
+    "227792": ["Fox"],
+    "4958694": ["Marth"],
+    "1205344": ["Samus (Pink)"],
+    "2456770": ["Falco (Red)"],
+    "1286344": ["Falco (Green)"]
   }
 }

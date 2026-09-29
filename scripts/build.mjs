@@ -1,5 +1,5 @@
 import { readFile, writeFile, access } from 'node:fs/promises';
-import { characterIconSlug } from '../lib/characters.mjs';
+import { characterIconSlug, characterName } from '../lib/characters.mjs';
 
 const MAIN_SHARE_OF_GAMES = 0.2;
 const MAXIMUM_MAINS = 3;
@@ -120,13 +120,19 @@ for (const playerId of Object.keys(characterOverrides)) {
 }
 for (const player of Object.values(players)) {
   player.characters = characterOverrides[player.id] ?? mainsFromGames(gamesByCharacter.get(player.id) ?? new Map());
-  for (const name of player.characters) {
-    const iconPath = `site/public/characters/${characterIconSlug(name)}.png`;
-    try {
-      await access(iconPath);
-    } catch {
-      throw new Error(`No icon for character "${name}" (player ${player.id}); expected ${iconPath}`);
+  for (const main of player.characters) {
+    await requireFile(`site/public/characters/${characterIconSlug(characterName(main))}.png`, `No icon for character "${main}" (player ${player.id})`);
+    if (main !== characterName(main)) {
+      await requireFile(`site/public/portraits/${characterIconSlug(main)}.png`, `No costume "${main}" (player ${player.id})`);
     }
+  }
+}
+
+async function requireFile(path, message) {
+  try {
+    await access(path);
+  } catch {
+    throw new Error(`${message}; expected ${path}`);
   }
 }
 

@@ -1357,7 +1357,9 @@
     "227792": {
       "id": "227792",
       "tag": "Baskin",
-      "characters": []
+      "characters": [
+        "Fox"
+      ]
     },
     "234597": {
       "id": "234597",
@@ -1411,7 +1413,9 @@
     "639252": {
       "id": "639252",
       "tag": "Luch",
-      "characters": []
+      "characters": [
+        "Pikachu"
+      ]
     },
     "690671": {
       "id": "690671",
@@ -1439,7 +1443,7 @@
       "id": "1205344",
       "tag": "C.Y.R.U.S.",
       "characters": [
-        "Samus"
+        "Samus (Pink)"
       ]
     },
     "1208288": {
@@ -1453,7 +1457,7 @@
       "id": "1286344",
       "tag": "skrat",
       "characters": [
-        "Falco"
+        "Falco (Green)"
       ]
     },
     "1479899": {
@@ -1493,7 +1497,9 @@
     "2126472": {
       "id": "2126472",
       "tag": "Fives",
-      "characters": []
+      "characters": [
+        "Fox"
+      ]
     },
     "2299942": {
       "id": "2299942",
@@ -1523,7 +1529,7 @@
       "id": "2456770",
       "tag": "datsal",
       "characters": [
-        "Falco"
+        "Falco (Red)"
       ]
     },
     "2504721": {
@@ -1682,7 +1688,9 @@
     "4958694": {
       "id": "4958694",
       "tag": "cchalz",
-      "characters": []
+      "characters": [
+        "Marth"
+      ]
     },
     "4960064": {
       "id": "4960064",
