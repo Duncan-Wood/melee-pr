@@ -967,6 +967,14 @@ main {
 
 .h2h-sheet {
   overflow-x: auto;
+  padding-left: 0;
+}
+
+.h2h thead td {
+  position: sticky;
+  left: 0;
+  z-index: 1;
+  background: var(--sheet);
 }
 
 .h2h {
@@ -994,8 +1002,13 @@ main {
 }
 
 .h2h tbody th {
+  position: sticky;
+  left: 0;
+  z-index: 1;
+  background: var(--sheet);
   text-align: right;
-  padding-right: 10px;
+  padding: 0 10px 0 clamp(16px, 3vw, 28px);
+  box-shadow: 2px 0 0 var(--sheet);
   white-space: nowrap;
   font-weight: 500;
 }
@@ -1203,6 +1216,16 @@ main {
   .rankings-table th,
   .rankings-table td {
     padding: 10px 8px;
+  }
+
+  .rankings-table tbody th {
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+
+  .player-cell {
+    flex-direction: column;
+    align-items: flex-start;
   }
 
   .timeline-event {

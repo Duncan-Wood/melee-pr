@@ -23,7 +23,7 @@ npm run build -- <series>   # clean them into data/<series>.json
 npm run site                # local dashboard
 ```
 
-Pushing to `main` deploys the dashboard to GitHub Pages. It reads the committed `data/<series>.json`, so deploys don't need the token.
+Pushing to `main` deploys the dashboard to GitHub Pages. It reads the committed `data/<series>.json`, so deploys don't need the token. Each series also gets a share link, such as `/melee-pr/chudhouse/`, with its own link preview. The preview images are in `site/public/previews/`.
 
 ## Adding a series
 

@@ -6,7 +6,7 @@
     "fetch": "node --env-file=.env scripts/fetch.mjs",
     "build": "node scripts/build.mjs",
     "site": "vite",
-    "site:build": "vite build",
+    "site:build": "vite build && node scripts/share-pages.mjs",
     "site:preview": "vite preview"
   },
   "dependencies": {
