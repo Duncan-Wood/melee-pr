@@ -13,7 +13,7 @@ The ranking uses [Whole-History Rating](https://www.remi-coulom.fr/WHR/WHR.pdf) 
 - **Skill changes over time, slowly.** A player's rating can drift between events, by about 95 points a year on average. So recent results count a little more than old ones, and the backtest below measures how much.
 - **New players.** Everyone starts near 1500. A light prior (a quarter of a win and a quarter of a loss against a 1500 player) keeps someone with a few sets from getting an extreme rating.
 - **Uncertainty.** Each rating has an uncertainty (±) from how much evidence backs it. It's smaller for players who've had many sets against well-known opponents, and it grows while a player is away.
-- **The order.** Players are sorted by **PR score = rating − 2 × uncertainty**, so a rating backed by many events beats one hot run. Players need 3 counted events to be ranked.
+- **The order.** Players are sorted by **PR score = rating − 2 × uncertainty**, so a rating backed by many events beats one hot run. Each series sets how many counted events a player needs to be ranked: 4 for CHUD HOUSE and 10 for the SCSS series.
 
 The dashboard can change the rating system (Whole-History, Glicko-2, or Elo), minimum events, attendance weight, and which events count. Each player's page explains their rank, including the results that moved it most.
 
@@ -40,12 +40,12 @@ The comparisons are paired, set by set, and |z| above 2 means the difference is 
 
 ### Limits
 
-- **Neighbors often aren't separable.** Local series are small, and most neighboring ranks are within each other's uncertainty. In the CHUD HOUSE top 20, 17 of 19 neighboring pairs are, so the numbers separate tiers better than they separate #7 from #8.
+- **Neighbors often aren't separable.** Local series are small, and most neighboring ranks are within each other's uncertainty. In the CHUD HOUSE top 20, 16 of 19 neighboring pairs are, so the numbers separate tiers better than they separate #7 from #8.
 - **The panel makes the final call.** The ranking is a starting point for the PR panel. Results from events off start.gg, or ones that weren't reported, aren't in it.
 
 ## Running it
 
-Requires Node 20.6+ and a [start.gg API token](https://start.gg/admin/profile/developer).
+Requires Node 20.10+ and a [start.gg API token](https://start.gg/admin/profile/developer).
 
 ```sh
 npm install
@@ -59,7 +59,7 @@ Pushing to `main` deploys the dashboard to GitHub Pages. It reads the committed 
 
 ## Adding a series
 
-Create `series/<name>.json` and register it in `site/src/series.js`:
+Create `series/<name>.json`, then add it to `site/src/series.js` with an import and an entry giving its theme, icon, and description:
 
 ```json
 {
@@ -77,7 +77,7 @@ Create `series/<name>.json` and register it in `site/src/series.js`:
 - `defaults` (optional) overrides the dashboard's starting settings, such as `{ "minimumEvents": 10 }`.
 - **Player photos:** save a photo as `site/public/photos/<series>/<player id>.jpg` and it replaces that player's character portrait. The player id is at the end of their page's URL. Shrink photos first, e.g. `sips -Z 800 -s formatOptions 80 photo.jpg --out <path>`; the build rejects files over 300 KB.
 
-The site reads `name`, `defaults`, and each event's `note` and `countsForPR` straight from `series/<name>.json`, so editing them doesn't need a rebuild. Changing the event list, `aliases`, `tagOverrides`, or `characters` does: run `npm run build -- <series>`. If the event list and the built data disagree, the site shows an error instead of stale results.
+The site reads `name`, `defaults`, and each event's `note` and `countsForPR` straight from `series/<name>.json`, so editing them doesn't need a rebuild. Changing the event list, `aliases`, `tagOverrides`, or `characters`, or adding a photo, does: run `npm run build -- <series>`. If the event list and the built data disagree, the site shows an error instead of stale results.
 
 ## Testing ranking methods
 
