@@ -1,0 +1,232 @@
+{
+  "name": "Melee at Reesch's on Tuesdays",
+  "timezone": "America/Chicago",
+  "events": [
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-1/event/primary-bracket",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-2/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-3/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-4/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-5/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-6/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-7/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-8/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-9/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-10/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-11-spooky-edition/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-12/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-13/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-15/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-16/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-17/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-18/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-19/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-20/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-21-missouri-summit-qualifier/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-22-missouri-summit-qualifier/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-23/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-24/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-25/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-26-missouri-summit-qualifier/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-27/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-28-missouri-summit-qualifier/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-29/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-31/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-32/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-33/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-35/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-36/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-37/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-38/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-39/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-40/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-41/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-42/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-43/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-45/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-46/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-47/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-48/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-50/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-51/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-52/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-53/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-54/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-56/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-57/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-58/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-59/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-62/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-63/event/main-bracket-bo5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/melee-at-reesch-s-on-tuesdays-64/event/main-bracket-bo5",
+      "countsForPR": true
+    }
+  ],
+  "aliases": {},
+  "tagOverrides": {}
+}

@@ -2,8 +2,9 @@ import { characterIconSlug, characterName } from '../../lib/characters.mjs';
 
 const CHARACTERS_WITHOUT_PORTRAITS = new Set(['Sheik / Zelda', 'Random Character']);
 
-export function CharacterPortrait({ characters = [], className = '' }) {
-  const main = characters.find((name) => !CHARACTERS_WITHOUT_PORTRAITS.has(characterName(name)));
+export function PlayerPortrait({ player, className = '' }) {
+  if (player.photo) return <img className={`character-portrait player-photo ${className}`} src={`${import.meta.env.BASE_URL}${player.photo}`} alt={`${player.tag} at CHUD HOUSE`} />;
+  const main = player.characters.find((name) => !CHARACTERS_WITHOUT_PORTRAITS.has(characterName(name)));
   if (!main) return null;
   return <img className={`character-portrait ${className}`} src={`${import.meta.env.BASE_URL}portraits/${characterIconSlug(main)}.png`} alt={main} />;
 }

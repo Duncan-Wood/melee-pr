@@ -2,8 +2,9 @@ import Numeral from './Numeral.jsx';
 import RatingChart from './RatingChart.jsx';
 import Stamps from './Stamps.jsx';
 import WhyRank from './WhyRank.jsx';
-import CharacterIcons, { CharacterPortrait } from './CharacterIcons.jsx';
+import CharacterIcons, { PlayerPortrait } from './CharacterIcons.jsx';
 import { eventTitle, fullDate, ordinal, setRecord, startggUrl } from './format.js';
+import { ALGORITHMS } from '../../lib/rankings.mjs';
 
 function OpponentList({ entries, tagOf, base }) {
   if (entries.length === 0) return <p className="muted">None yet.</p>;
@@ -35,7 +36,7 @@ export default function Player({ data, results, settings, playerId, base }) {
     );
   }
 
-  const deviations = settings.algorithm === 'glicko2' ? settings.conservativeDeviations : 0;
+  const deviations = ALGORITHMS[settings.algorithm].hasUncertainty ? settings.conservativeDeviations : 0;
   const counted = new Set(results.events.map((event) => event.slug));
   const playerSets = data.sets.filter((set) => counted.has(set.eventSlug) && (set.winnerId === playerId || set.loserId === playerId));
   const eventsAttended = results.events.filter((event) => player.placements.some((entry) => entry.eventSlug === event.slug)).reverse();
@@ -55,7 +56,7 @@ export default function Player({ data, results, settings, playerId, base }) {
             {!player.rank && ` Needs ${settings.minimumEvents} counted events to be ranked.`}
           </p>
         </div>
-        <CharacterPortrait characters={data.players[playerId].characters} className="player-portrait" />
+        <PlayerPortrait player={data.players[playerId]} className="player-portrait" />
       </header>
 
       <section className="sheet">

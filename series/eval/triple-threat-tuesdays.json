@@ -1,0 +1,424 @@
+{
+  "name": "Triple Threat Tuesdays",
+  "timezone": "America/New_York",
+  "events": [
+    {
+      "slug": "tournament/triple-threat-tuesdays-1-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-2-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-3-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-4-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/50-ssbm-pot-bonus-triple-threat-tuesdays-5-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-6-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-7-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-8-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-9-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-10-the-peak-100-pot-bonus/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-11-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-12-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-13-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-14-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-15-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-16-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-17-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-18-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-19-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-20-the-peak-50-dubs-pot-bonus/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-21-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-22-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-23-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-24-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-25-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-26-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-27-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-28-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-29-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-30-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-31-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-32-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-33-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-34-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-35-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-36-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-37-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-38-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-39-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-40-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-41-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-42-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-43-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-44-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-45-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-46-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-47-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-48-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-49-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-50-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-51-the-peak-ft-rivals-of-aether/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-52-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-53-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-54-the-peak-1/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-55-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-56-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-57-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-58-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/thursday-edition-triple-threat-tuesday-59-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/thursday-edition-2-triple-threat-tuesdays-60-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-61-the-peak-1/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-62-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-63-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-64/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-65-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-66-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-67-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-68-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-69-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-70-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-71-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-72-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-73-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-74-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-75-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-76-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-77-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-78-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-79-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-80-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-81-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-82-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-83-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-84-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-85-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-86-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-87-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-88-the-peak-88-pot-bonus-for/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-89-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-90-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-91-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-92-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-93-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-94-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-95-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-96-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-97/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-98-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-99-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-100-the-peak-1/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-101-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-102-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-103-the-peak/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/triple-threat-tuesdays-104-absofest-edition/event/melee-singles-all-best-of-5",
+      "countsForPR": true
+    }
+  ],
+  "aliases": {},
+  "tagOverrides": {}
+}

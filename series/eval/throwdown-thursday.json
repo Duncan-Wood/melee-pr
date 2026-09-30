@@ -1,0 +1,188 @@
+{
+  "name": "Throwdown Thursday",
+  "timezone": "America/New_York",
+  "events": [
+    {
+      "slug": "tournament/throwdown-thursday-211/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-212-steve-kazuya-banned/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-214/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-215/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-216/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-217/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-218/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-219/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-221/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-222/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-223/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-224/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-225/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-226/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-227/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-228/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-229/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-230/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-231/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-232/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-233/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-234/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-235/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-237/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-238/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-239/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-240/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-241/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-242/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-243/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-244/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-245/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-246/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-247/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/halloween-throwdown-thursday-248/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-249/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-250/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-251/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-252/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-253/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-254/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-255/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-256/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-257/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/throwdown-thursday-finale/event/melee-singles",
+      "countsForPR": true
+    }
+  ],
+  "aliases": {},
+  "tagOverrides": {}
+}

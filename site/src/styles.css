@@ -367,6 +367,12 @@ main {
   transform: rotate(-3deg);
 }
 
+.player-photo {
+  aspect-ratio: 136 / 186;
+  object-fit: cover;
+  border: 5px solid var(--sheet);
+}
+
 .reveal-heading {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;

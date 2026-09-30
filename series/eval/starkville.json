@@ -1,0 +1,32 @@
+{
+  "name": "Starkville Melee Weekly",
+  "timezone": "America/Chicago",
+  "events": [
+    {
+      "slug": "tournament/untitled-starkville-melee-weekly-1/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/untitled-starkville-melee-weekly-4/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/untitled-starkville-melee-weekly-5-1/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/untitled-starkville-melee-weekly-7-1/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/untitled-starkville-melee-weekly-8/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/untitled-starkville-melee-weekly-9/event/melee-singles",
+      "countsForPR": true
+    }
+  ],
+  "aliases": {},
+  "tagOverrides": {}
+}

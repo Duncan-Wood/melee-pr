@@ -16,7 +16,7 @@ export default function Settings({ data, settings, setSettings, resetSettings })
     <section className="settings" aria-label="Ranking settings">
       <fieldset className="segmented">
         <legend>Rating system</legend>
-        {Object.entries(ALGORITHMS).map(([value, label]) => (
+        {Object.entries(ALGORITHMS).map(([value, { label }]) => (
           <label key={value}>
             <input type="radio" name="algorithm" checked={settings.algorithm === value} onChange={() => update({ algorithm: value })} />
             <span>{label}</span>
@@ -33,7 +33,7 @@ export default function Settings({ data, settings, setSettings, resetSettings })
         </span>
       </label>
 
-      {settings.algorithm === 'glicko2' && (
+      {ALGORITHMS[settings.algorithm].hasUncertainty && (
         <label className="control">
           <span>Attendance weight</span>
           <input

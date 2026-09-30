@@ -1,0 +1,408 @@
+{
+  "name": "Waddle Wednesday",
+  "timezone": "America/New_York",
+  "events": [
+    {
+      "slug": "tournament/waddle-wednesday-135/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-136/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-137/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-138/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-139/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-140/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-141/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-142/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-143/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-144/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-145/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-146/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-147/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-148/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-149/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-150/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-151/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-152/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-153/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-154/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-155/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-156/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-157/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-158/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-159/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-160/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-161/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-162/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-163/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-164/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-165/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-166/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-167/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-168/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-169/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-170/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-171/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-172/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-173/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-174/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-175/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-176/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-177/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-178/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-179/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-180/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-181/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-182/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-183/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-184/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-185/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-186/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-187/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-188/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-189/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-190/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-191/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-192/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-193/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-194/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-195/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-196/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-197/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-198/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-199/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-200/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-201/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-202/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-203/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-204/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-205/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-206/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-207/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-208/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-209/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-210/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-211/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-212/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-213/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-214/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-215/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-216/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-217/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-218/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-219/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-220/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-221/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-222/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-223/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-224/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-225/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-226/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-227/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-228/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-229/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-230/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-231/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-232/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-233/event/melee-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/waddle-wednesday-finale/event/melee-singles",
+      "countsForPR": true
+    }
+  ],
+  "aliases": {},
+  "tagOverrides": {}
+}

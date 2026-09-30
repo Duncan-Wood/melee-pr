@@ -7,7 +7,7 @@ import Player from './Player.jsx';
 import HeadToHead from './HeadToHead.jsx';
 import Events from './Events.jsx';
 
-const settingsKey = (seriesId) => `melee-pr:${seriesId}:settings`;
+const settingsKey = (seriesId) => `melee-pr:${seriesId}:settings:whole-history`;
 
 const defaultSettings = (data) => ({
   algorithm: DEFAULT_OPTIONS.algorithm,

@@ -3,7 +3,7 @@ import Numeral from './Numeral.jsx';
 import Stamps from './Stamps.jsx';
 import Sparkline from './Sparkline.jsx';
 import Mentions from './Mentions.jsx';
-import CharacterIcons, { CharacterPortrait } from './CharacterIcons.jsx';
+import CharacterIcons, { PlayerPortrait } from './CharacterIcons.jsx';
 import { fullDate, ordinal, setRecord } from './format.js';
 
 const LENGTH_CHOICES = [10, 15, 20];
@@ -99,7 +99,7 @@ export default function Countdown({ data, results, settings, base }) {
               <h1 className={`reveal-tag ${tagSizeClass(player.tag)}`}>{player.tag}</h1>
               <CharacterIcons characters={data.players[player.playerId].characters} size="large" />
             </div>
-            <CharacterPortrait characters={data.players[player.playerId].characters} className="reveal-portrait" />
+            <PlayerPortrait player={data.players[player.playerId]} className="reveal-portrait" />
           </div>
           <div className="sheet reveal-sheet">
             <dl className="facts">

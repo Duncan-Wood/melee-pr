@@ -1,4 +1,4 @@
-import { STARTING_RATING } from '../../lib/rankings.mjs';
+import { ALGORITHMS, STARTING_RATING } from '../../lib/rankings.mjs';
 import { eventTitle, monthYear, ordinal } from './format.js';
 
 const MAXIMUM_SWINGS = 3;
@@ -92,9 +92,80 @@ function SwingList({ title, swings }) {
   );
 }
 
-export default function WhyRank({ player, results, settings, tagOf, base }) {
-  const deviations = settings.algorithm === 'glicko2' ? settings.conservativeDeviations : 0;
+function setSurprises(player, results, tagOf) {
+  const ratingById = new Map(results.players.map((other) => [other.playerId, other.rating]));
+  const eventBySlug = new Map(results.events.map((event) => [event.slug, event]));
+  const sets = [
+    ...player.wins.map((set) => ({ set, won: true, opponentId: set.loserId })),
+    ...player.losses.map((set) => ({ set, won: false, opponentId: set.winnerId })),
+  ].map(({ set, won, opponentId }) => {
+    const winChance = 1 / (1 + 10 ** ((ratingById.get(opponentId) - player.rating) / 400));
+    return { id: set.id, won, winChance, surprise: (won ? 1 : 0) - winChance, opponent: tagOf(opponentId), event: eventBySlug.get(set.eventSlug) };
+  });
+  return {
+    upsets: sets.filter((entry) => entry.won).sort((a, b) => b.surprise - a.surprise).slice(0, MAXIMUM_SWINGS),
+    costliest: sets.filter((entry) => !entry.won).sort((a, b) => a.surprise - b.surprise).slice(0, MAXIMUM_SWINGS),
+  };
+}
+
+function SurpriseList({ title, entries }) {
+  return (
+    <div>
+      <h3>{title}</h3>
+      {entries.length === 0 ? (
+        <p className="muted">None yet.</p>
+      ) : (
+        <ul className="swing-list">
+          {entries.map((entry) => (
+            <li key={entry.id}>
+              <span className={`swing-change ${entry.won ? 'swing-up' : 'swing-down'}`}>{round(entry.winChance * 100)}%</span>
+              <span>
+                <strong>
+                  {entry.won ? 'Beat' : 'Lost to'} {entry.opponent}
+                </strong>
+                <span className="muted swing-sets">
+                  {eventTitle(entry.event)}, {monthYear(entry.event.date)}
+                </span>
+              </span>
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
+  );
+}
+
+function WholeHistoryResults({ player, results, tagOf }) {
+  const { upsets, costliest } = setSurprises(player, results, tagOf);
+  return (
+    <>
+      <p className="sheet-intro">Every set counts for how strong that opponent turned out to be. The least expected results move a rating most. The percent is the chance of winning that set, by final ratings.</p>
+      <div className="two-up">
+        <SurpriseList title="Best results" entries={upsets} />
+        <SurpriseList title="Costliest losses" entries={costliest} />
+      </div>
+    </>
+  );
+}
+
+function EventSwings({ player, results, settings, tagOf }) {
   const { boosts, hits } = ratingSwings(player, results.events, tagOf);
+  return (
+    <>
+      <p className="sheet-intro">
+        Everyone starts at {STARTING_RATING}.{settings.algorithm === 'glicko2' && ' Early events swing a rating the most.'}
+      </p>
+      <div className="two-up">
+        <SwingList title="Biggest boosts" swings={boosts} />
+        <SwingList title="Biggest drops" swings={hits} />
+      </div>
+    </>
+  );
+}
+
+export default function WhyRank({ player, results, settings, tagOf, base }) {
+  const deviations = ALGORITHMS[settings.algorithm].hasUncertainty ? settings.conservativeDeviations : 0;
+  const isWholeHistory = settings.algorithm === 'whr';
   const neighbors = player.rank ? [results.ranked[player.rank - 2], results.ranked[player.rank]].filter(Boolean) : [];
   const placeIfRanked = results.ranked.filter((other) => other.conservativeRating > player.conservativeRating).length + 1;
 
@@ -113,13 +184,7 @@ export default function WhyRank({ player, results, settings, tagOf, base }) {
           ))}
         </ul>
       )}
-      <p className="sheet-intro">
-        Everyone starts at {STARTING_RATING}.{settings.algorithm === 'glicko2' && ' Early events swing a rating the most.'}
-      </p>
-      <div className="two-up">
-        <SwingList title="Biggest boosts" swings={boosts} />
-        <SwingList title="Biggest drops" swings={hits} />
-      </div>
+      {isWholeHistory ? <WholeHistoryResults player={player} results={results} tagOf={tagOf} /> : <EventSwings player={player} results={results} settings={settings} tagOf={tagOf} />}
     </section>
   );
 }

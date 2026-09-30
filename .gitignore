@@ -1,10 +1,6 @@
 .env
 node_modules/
-claire_notes.md
-other_notes.md
-my_hosted_tournaments.md
 dist/
 .playwright-mcp/
-chudhouse_discord_questions.md
-melee-pr/
 data/raw/
+data/eval/

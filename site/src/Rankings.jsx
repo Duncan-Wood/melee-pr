@@ -3,6 +3,7 @@ import Sparkline from './Sparkline.jsx';
 import Mentions from './Mentions.jsx';
 import CharacterIcons from './CharacterIcons.jsx';
 import { setRecord } from './format.js';
+import { ALGORITHMS } from '../../lib/rankings.mjs';
 
 export function methodSummary(settings) {
   if (settings.algorithm === 'elo') {
@@ -11,12 +12,15 @@ export function methodSummary(settings) {
   const attendance = settings.conservativeDeviations
     ? ` Players are sorted by PR score: rating minus ${settings.conservativeDeviations}× its uncertainty, so a rating backed by lots of events beats one hot run.`
     : ' Players are sorted by rating alone.';
+  if (settings.algorithm === 'whr') {
+    return `Ratings are fit to every set at once, so a win counts for how strong that opponent turned out to be, not how they were rated that day. Skill can drift slowly between events, and each rating carries an uncertainty that shrinks the more a player shows up.${attendance}`;
+  }
   return `Every set updates a Glicko-2 rating, and beating a strong player counts for much more than beating a new one. The rating also carries an uncertainty that shrinks each time a player shows up.${attendance}`;
 }
 
 export default function Rankings(props) {
   const { data, results, settings, base } = props;
-  const scoreLabel = settings.algorithm === 'glicko2' && settings.conservativeDeviations ? 'PR score' : 'Rating';
+  const scoreLabel = ALGORITHMS[settings.algorithm].hasUncertainty && settings.conservativeDeviations ? 'PR score' : 'Rating';
 
   if (results.events.length === 0) {
     return (

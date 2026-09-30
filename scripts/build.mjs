@@ -1,7 +1,8 @@
-import { readFile, writeFile, access } from 'node:fs/promises';
+import { readFile, writeFile, access, readdir, stat } from 'node:fs/promises';
 import { characterIconSlug, characterName } from '../lib/characters.mjs';
 
 const MAIN_SHARE_OF_GAMES = 0.2;
+const MAXIMUM_PHOTO_BYTES = 300_000;
 const MAXIMUM_MAINS = 3;
 
 const seriesName = process.argv[2] ?? 'chudhouse';
@@ -126,6 +127,16 @@ for (const player of Object.values(players)) {
       await requireFile(`site/public/portraits/${characterIconSlug(main)}.png`, `No costume "${main}" (player ${player.id})`);
     }
   }
+}
+
+const photoDirectory = `site/public/photos/${seriesName}`;
+const photoFiles = await readdir(photoDirectory).catch((error) => (error.code === 'ENOENT' ? [] : Promise.reject(error)));
+for (const file of photoFiles) {
+  const playerId = file.replace(/\.jpg$/, '');
+  if (!file.endsWith('.jpg') || !players[playerId]) throw new Error(`${photoDirectory}/${file} should be named <player id>.jpg for a player in this series`);
+  const { size } = await stat(`${photoDirectory}/${file}`);
+  if (size > MAXIMUM_PHOTO_BYTES) throw new Error(`${photoDirectory}/${file} is ${Math.round(size / 1000)} KB; shrink it first (e.g. sips -Z 800 -s formatOptions 80)`);
+  players[playerId].photo = `photos/${seriesName}/${file}`;
 }
 
 async function requireFile(path, message) {
