@@ -4,6 +4,35 @@ Power rankings for Super Smash Bros. Melee tournament series, built from every s
 
 Live at https://duncan-wood.github.io/melee-pr/
 
+## Reading the rankings
+
+The site has five pages for each series:
+
+- **Countdown:** reveals the top 10, 15, or 20 one player at a time.
+- **Rankings:** the full list, plus settings you can change.
+- **Player pages:** every set a player has played and why they're ranked where they are. Click any name to open one.
+- **Head-to-head:** a grid of who has beaten whom, and a spreadsheet download of every record.
+- **Events:** every bracket, with notes from the TO.
+
+The rankings table shows:
+
+| Column | What it means |
+|---|---|
+| **PR score** | The number players are sorted by. It's a skill rating, lowered a bit for players with fewer events, since there's less evidence about them. |
+| **Sets** | Set wins and losses in the counted events. |
+| **Events** | Counted events entered. Each series has a minimum to be ranked (4 for CHUD HOUSE). Strong players below it show under honorable mentions. |
+| **Titles** | Events won. |
+| **Typical finish** | Average finish as a share of the bracket. 9th of 30 is "Top 30%", so a finish in a big bracket counts for more than the same place in a small one. |
+
+A few things that surprise people:
+
+- **Who you beat matters more than where you place.** Beating strong players raises a rating the most, and losing to weaker ones lowers it the most. That's why someone can rank above a player with better placements.
+- **Close scores are basically ties.** Most neighboring players are within each other's margin of error. The numbers are good at separating groups of players, less so #7 from #8.
+- **You can change the settings.** The rankings page lets anyone change the minimum events, how much attendance matters, the rating system, and which events count.
+- **It's a starting point, not the final word.** The PR panel makes the final call, and results that aren't on start.gg aren't included.
+
+To get a main, costume color, or photo added to your card, send it to the TO.
+
 ## How the ranking works
 
 The ranking uses [Whole-History Rating](https://www.remi-coulom.fr/WHR/WHR.pdf) (Coulom, 2008), fit to every completed set in the counted events. DQs and byes are dropped.
@@ -19,7 +48,9 @@ The dashboard can change the rating system (Whole-History, Glicko-2, or Elo), mi
 
 ### Why this method
 
-The method was chosen by how well it predicts real results, not by how any particular ranking looks. `scripts/evaluate.mjs` replays each series in order. Before every event, it rates players using only earlier events, then scores its predicted win chance for each set there, using log loss (lower is better; a coin flip scores 0.693). Sets involving a player's first event are skipped.
+The method was chosen by how well it predicts real results, not by how any particular ranking looks. `scripts/evaluate.mjs` replays each series in order. Before every event, it rates players using only earlier events, then predicts each set's winner there with a win chance. Sets involving a player's first event are skipped.
+
+Each method is scored by **log loss**, which measures how far its predicted win chances were from what actually happened, with confident wrong calls penalized most. Lower is better, and guessing 50/50 on every set scores 0.693.
 
 It ran on 14,278 sets across 8 series: CHUD HOUSE and both SCSS series, plus five test-only series from other scenes, in `series/eval/`. Those are the Starkville weeklies (MS), Reesch's Tuesdays (MO), Throwdown Thursday (VA), Triple Threat Tuesdays (NJ), and Waddle Wednesday (online).
 
@@ -32,7 +63,7 @@ It ran on 14,278 sets across 8 series: CHUD HOUSE and both SCSS series, plus fiv
 | Glicko-2 | 0.4491 | worse (z = 13.2), and on each of the 8 series |
 | Elo | 0.4895 | worse (z = 23.1) |
 
-The comparisons are paired, set by set, and |z| above 2 means the difference is unlikely to be chance. What this settled:
+The comparisons are made set by set on the same sets. **z** measures how sure we can be that a difference is real: above 2 means it's very unlikely to be chance. What this settled:
 
 - **Glicko-2 and Elo** update one event at a time and never revisit a win, and Glicko also lets a player's first events swing their rating the most. Both predict worse everywhere.
 - **"Should recent events count more?"** Yes, a little. Allowing slow drift beats a fixed rating, but faster drift doesn't help.
