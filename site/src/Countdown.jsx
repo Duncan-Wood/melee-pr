@@ -4,18 +4,12 @@ import Stamps from './Stamps.jsx';
 import Sparkline from './Sparkline.jsx';
 import Mentions from './Mentions.jsx';
 import CharacterIcons, { PlayerPortrait } from './CharacterIcons.jsx';
-import { fullDate, ordinal, setRecord } from './format.js';
+import { fullDate, ordinal, setRecord, tagSizeClass } from './format.js';
 
 const LENGTH_CHOICES = [10, 15, 20];
 
 function opponentNames(entries, tagOf, limit) {
   return entries.slice(0, limit).map((entry) => (entry.count > 1 ? `${tagOf(entry.opponentId)} ×${entry.count}` : tagOf(entry.opponentId)));
-}
-
-function tagSizeClass(tag) {
-  if (tag.length > 16) return 'tag-long';
-  if (tag.length > 9) return 'tag-medium';
-  return 'tag-short';
 }
 
 export default function Countdown({ data, results, settings, base }) {
@@ -62,7 +56,7 @@ export default function Countdown({ data, results, settings, base }) {
             </label>
           ))}
         </fieldset>
-        <button className="button-primary" onClick={next} autoFocus>
+        <button className="button-primary" onClick={next}>
           Start the countdown
         </button>
         <p className="hint">Tap the card or press → to reveal the next player.</p>
