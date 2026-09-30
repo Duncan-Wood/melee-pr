@@ -48,7 +48,7 @@ export default function Rankings(props) {
               <th scope="col" className="numeric">Sets</th>
               <th scope="col" className="numeric">Events</th>
               <th scope="col" className="numeric optional-column">Titles</th>
-              <th scope="col" className="numeric optional-column" title="Average finish as a share of each bracket, so 9th of 30 is top 30%">Avg top %</th>
+              <th scope="col" className="numeric optional-column" title="Average finish as a share of each bracket, so 9th of 30 is top 30%">Typical finish</th>
             </tr>
           </thead>
           <tbody>
@@ -68,7 +68,7 @@ export default function Rankings(props) {
                 <td className="numeric">{setRecord(player)}</td>
                 <td className="numeric">{player.eventsAttended}</td>
                 <td className="numeric optional-column">{player.eventWins || ''}</td>
-                <td className="numeric optional-column">{Math.round(player.averageTopPercent)}%</td>
+                <td className="numeric optional-column">Top {Math.round(player.averageTopPercent)}%</td>
               </tr>
             ))}
           </tbody>
