@@ -682,6 +682,9 @@ main {
   top: calc(100% + 8px);
   left: 0;
   width: min(340px, calc(100vw - 32px));
+  max-height: min(360px, 60vh);
+  overflow-y: auto;
+  overscroll-behavior: contain;
   margin: 0;
   padding: 10px 14px;
   list-style: none;
