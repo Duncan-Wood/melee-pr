@@ -1,6 +1,6 @@
 import { ordinal, setRecord } from './format.js';
 
-export function honorableMentions(results, settings, limit = 6) {
+export function honorableMentions(results, settings, limit = 8) {
   return results.players.filter((player) => player.eventsAttended < settings.minimumEvents).slice(0, limit);
 }
 

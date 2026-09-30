@@ -77,6 +77,8 @@ Create `series/<name>.json` and register it in `site/src/series.js`:
 - `defaults` (optional) overrides the dashboard's starting settings, such as `{ "minimumEvents": 10 }`.
 - **Player photos:** save a photo as `site/public/photos/<series>/<player id>.jpg` and it replaces that player's character portrait. The player id is at the end of their page's URL. Shrink photos first, e.g. `sips -Z 800 -s formatOptions 80 photo.jpg --out <path>`; the build rejects files over 300 KB.
 
+The site reads `name`, `defaults`, and each event's `note` and `countsForPR` straight from `series/<name>.json`, so editing them doesn't need a rebuild. Changing the event list, `aliases`, `tagOverrides`, or `characters` does: run `npm run build -- <series>`. If the event list and the built data disagree, the site shows an error instead of stale results.
+
 ## Testing ranking methods
 
 `node scripts/evaluate.mjs` reruns the backtest above for every method and setting, then prints the pooled results, the results for each series, and the paired comparisons. The test-only series in `series/eval/` have to be downloaded once with `npm run fetch -- eval/<name>` and `npm run build -- eval/<name>`. Their data stays out of git. Rerun it before changing the method or its settings (`lib/whr.mjs`, and `DEFAULT_OPTIONS` in `lib/rankings.mjs`).

@@ -1,8 +1,4 @@
 {
-  "name": "SCSS East Coast",
-  "defaults": {
-    "minimumEvents": 10
-  },
   "events": [
     {
       "slug": "tournament/scss-33/event/scss-singles",
@@ -10,8 +6,6 @@
       "name": "SCSS #33",
       "date": "2021-08-01",
       "numEntrants": 11,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "503063",
@@ -65,8 +59,6 @@
       "name": "SCSS #34",
       "date": "2021-08-08",
       "numEntrants": 15,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2133183",
@@ -136,8 +128,6 @@
       "name": "SCSS #35",
       "date": "2021-08-15",
       "numEntrants": 20,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "32190",
@@ -227,8 +217,6 @@
       "name": "SCSS #36",
       "date": "2021-08-22",
       "numEntrants": 24,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "133666",
@@ -334,8 +322,6 @@
       "name": "SCSS #37",
       "date": "2021-08-29",
       "numEntrants": 22,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "7482",
@@ -433,8 +419,6 @@
       "name": "SCSS #38",
       "date": "2021-09-05",
       "numEntrants": 29,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2133183",
@@ -560,8 +544,6 @@
       "name": "SCSS #39",
       "date": "2021-09-12",
       "numEntrants": 26,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "7277",
@@ -675,8 +657,6 @@
       "name": "SCSS #40",
       "date": "2021-09-19",
       "numEntrants": 13,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2059100",
@@ -738,8 +718,6 @@
       "name": "SCSS #41",
       "date": "2021-09-26",
       "numEntrants": 12,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2236887",
@@ -797,8 +775,6 @@
       "name": "SCSS #42",
       "date": "2021-10-03",
       "numEntrants": 13,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "657464",
@@ -860,8 +836,6 @@
       "name": "SCSS #43",
       "date": "2021-10-10",
       "numEntrants": 24,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "754351",
@@ -967,8 +941,6 @@
       "name": "SCSS #44",
       "date": "2021-10-17",
       "numEntrants": 19,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "7277",
@@ -1054,8 +1026,6 @@
       "name": "SCSS #45",
       "date": "2021-10-24",
       "numEntrants": 16,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "6952",
@@ -1129,8 +1099,6 @@
       "name": "SCSS #46",
       "date": "2021-10-31",
       "numEntrants": 6,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "657464",
@@ -1164,8 +1132,6 @@
       "name": "SCSS #47",
       "date": "2021-11-07",
       "numEntrants": 22,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "51240",
@@ -1263,8 +1229,6 @@
       "name": "SCSS #48",
       "date": "2021-11-14",
       "numEntrants": 17,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "9642",
@@ -1342,8 +1306,6 @@
       "name": "SCSS #49",
       "date": "2021-11-21",
       "numEntrants": 26,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "542693",
@@ -1457,8 +1419,6 @@
       "name": "SCSS #50",
       "date": "2021-12-05",
       "numEntrants": 29,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "129774",
@@ -1584,8 +1544,6 @@
       "name": "SCSS #51",
       "date": "2021-12-19",
       "numEntrants": 12,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "9642",
@@ -1643,8 +1601,6 @@
       "name": "SCSS #52",
       "date": "2021-12-26",
       "numEntrants": 10,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "127385",
@@ -1694,8 +1650,6 @@
       "name": "SCSS #53",
       "date": "2022-01-02",
       "numEntrants": 11,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1375808",
@@ -1749,8 +1703,6 @@
       "name": "SCSS #54",
       "date": "2022-01-09",
       "numEntrants": 19,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "45698",
@@ -1836,8 +1788,6 @@
       "name": "SCSS #55",
       "date": "2022-01-16",
       "numEntrants": 28,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "51240",
@@ -1959,8 +1909,6 @@
       "name": "SCSS #56",
       "date": "2022-01-23",
       "numEntrants": 25,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "7277",
@@ -2070,8 +2018,6 @@
       "name": "SCSS #57",
       "date": "2022-01-30",
       "numEntrants": 27,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "51240",
@@ -2189,8 +2135,6 @@
       "name": "SCSS #58",
       "date": "2022-02-06",
       "numEntrants": 24,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "51240",
@@ -2296,8 +2240,6 @@
       "name": "SCSS #59",
       "date": "2022-02-13",
       "numEntrants": 29,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "51240",
@@ -2423,8 +2365,6 @@
       "name": "SCSS #60",
       "date": "2022-02-20",
       "numEntrants": 21,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2416125",
@@ -2518,8 +2458,6 @@
       "name": "SCSS #61",
       "date": "2022-02-27",
       "numEntrants": 15,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2416125",
@@ -2589,8 +2527,6 @@
       "name": "SCSS #62",
       "date": "2022-03-06",
       "numEntrants": 14,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "54316",
@@ -2656,8 +2592,6 @@
       "name": "SCSS #63",
       "date": "2022-03-13",
       "numEntrants": 16,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "657464",
@@ -2731,8 +2665,6 @@
       "name": "SCSS #64",
       "date": "2022-03-20",
       "numEntrants": 18,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "51240",
@@ -2814,8 +2746,6 @@
       "name": "SCSS #65",
       "date": "2022-03-27",
       "numEntrants": 18,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "136379",
@@ -2897,8 +2827,6 @@
       "name": "SCSS #66",
       "date": "2022-04-03",
       "numEntrants": 8,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "3428",
@@ -2940,8 +2868,6 @@
       "name": "SCSS #67",
       "date": "2022-04-10",
       "numEntrants": 19,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "5702",
@@ -3027,8 +2953,6 @@
       "name": "SCSS #68",
       "date": "2022-04-24",
       "numEntrants": 28,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2627731",
@@ -3150,8 +3074,6 @@
       "name": "SCSS #69",
       "date": "2022-05-01",
       "numEntrants": 20,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "30219",
@@ -3241,8 +3163,6 @@
       "name": "SCSS #70",
       "date": "2022-05-08",
       "numEntrants": 40,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "51240",
@@ -3412,8 +3332,6 @@
       "name": "SCSS #71",
       "date": "2022-05-15",
       "numEntrants": 31,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "7277",
@@ -3547,8 +3465,6 @@
       "name": "SCSS #72",
       "date": "2022-05-22",
       "numEntrants": 43,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "53239",
@@ -3730,8 +3646,6 @@
       "name": "SCSS #73",
       "date": "2022-05-29",
       "numEntrants": 29,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "7277",
@@ -3857,8 +3771,6 @@
       "name": "SCSS #74",
       "date": "2022-06-05",
       "numEntrants": 27,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2627731",
@@ -3976,8 +3888,6 @@
       "name": "SCSS #75",
       "date": "2022-06-12",
       "numEntrants": 26,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "7277",
@@ -4091,8 +4001,6 @@
       "name": "SCSS #76",
       "date": "2022-06-19",
       "numEntrants": 45,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "9642",
@@ -4282,8 +4190,6 @@
       "name": "SCSS East Coast #77",
       "date": "2022-06-26",
       "numEntrants": 21,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "14592",
@@ -4377,8 +4283,6 @@
       "name": "SCSS East Coast #78",
       "date": "2022-07-03",
       "numEntrants": 13,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "7277",
@@ -4440,8 +4344,6 @@
       "name": "SCSS East Coast #79",
       "date": "2022-07-10",
       "numEntrants": 18,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "7277",
@@ -4523,8 +4425,6 @@
       "name": "SCSS East Coast #80",
       "date": "2022-07-17",
       "numEntrants": 39,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "5702",
@@ -4690,8 +4590,6 @@
       "name": "SCSS East Coast #81",
       "date": "2022-07-24",
       "numEntrants": 24,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2133183",
@@ -4797,8 +4695,6 @@
       "name": "SCSS East Coast #82",
       "date": "2022-07-31",
       "numEntrants": 50,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "7277",
@@ -5008,8 +4904,6 @@
       "name": "SCSS East Coast #83",
       "date": "2022-08-07",
       "numEntrants": 27,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "5702",
@@ -5127,8 +5021,6 @@
       "name": "SCSS East Coast #84",
       "date": "2022-08-21",
       "numEntrants": 20,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "54316",
@@ -5218,8 +5110,6 @@
       "name": "SCSS East Coast #85",
       "date": "2022-08-28",
       "numEntrants": 34,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "5702",
@@ -5365,8 +5255,6 @@
       "name": "SCSS East Coast #86",
       "date": "2022-09-04",
       "numEntrants": 33,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "7277",
@@ -5508,8 +5396,6 @@
       "name": "SCSS East Coast #87",
       "date": "2022-09-11",
       "numEntrants": 40,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "158524",
@@ -5679,8 +5565,6 @@
       "name": "SCSS East Coast #88",
       "date": "2022-09-25",
       "numEntrants": 40,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "7277",
@@ -5850,8 +5734,6 @@
       "name": "SCSS East Coast #89",
       "date": "2022-10-02",
       "numEntrants": 23,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "25924",
@@ -5953,8 +5835,6 @@
       "name": "SCSS East Coast #90",
       "date": "2022-10-16",
       "numEntrants": 25,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "144798",
@@ -6064,8 +5944,6 @@
       "name": "SCSS East Coast #91",
       "date": "2022-10-23",
       "numEntrants": 25,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "39430",
@@ -6175,8 +6053,6 @@
       "name": "SCSS East Coast #92",
       "date": "2022-10-30",
       "numEntrants": 35,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "63940",
@@ -6326,8 +6202,6 @@
       "name": "SCSS East Coast #93",
       "date": "2022-11-06",
       "numEntrants": 9,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2600974",
@@ -6373,8 +6247,6 @@
       "name": "SCSS East Coast #94",
       "date": "2022-11-13",
       "numEntrants": 17,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2785736",
@@ -6452,8 +6324,6 @@
       "name": "SCSS East Coast #95",
       "date": "2022-11-20",
       "numEntrants": 37,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "7277",
@@ -6611,8 +6481,6 @@
       "name": "SCSS East Coast #96",
       "date": "2022-11-27",
       "numEntrants": 42,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1335864",
@@ -6790,8 +6658,6 @@
       "name": "SCSS East Coast #97",
       "date": "2022-12-04",
       "numEntrants": 24,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2600974",
@@ -6897,8 +6763,6 @@
       "name": "SCSS East Coast #98",
       "date": "2022-12-11",
       "numEntrants": 9,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2600974",
@@ -6944,8 +6808,6 @@
       "name": "SCSS East Coast #99",
       "date": "2022-12-18",
       "numEntrants": 22,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1335864",
@@ -7043,8 +6905,6 @@
       "name": "SCSS East Coast #100",
       "date": "2023-01-01",
       "numEntrants": 27,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "25924",
@@ -7162,8 +7022,6 @@
       "name": "SCSS East Coast #101",
       "date": "2023-01-08",
       "numEntrants": 21,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "154507",
@@ -7257,8 +7115,6 @@
       "name": "SCSS East Coast #102",
       "date": "2023-01-15",
       "numEntrants": 21,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "224649",
@@ -7352,8 +7208,6 @@
       "name": "SCSS East Coast #103 - The Finale for Now",
       "date": "2023-01-22",
       "numEntrants": 15,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "657464",

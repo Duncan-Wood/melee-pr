@@ -48,7 +48,10 @@ function useSeriesData(seriesId) {
     if (loaded[seriesId]) return;
     seriesById(seriesId)
       .load()
-      .then((module) => setLoaded((current) => ({ ...current, [seriesId]: module.default })));
+      .then(
+        (data) => setLoaded((current) => ({ ...current, [seriesId]: data })),
+        (error) => setLoaded((current) => ({ ...current, [seriesId]: { error } })),
+      );
   }, [seriesId, loaded]);
   return loaded[seriesId];
 }
@@ -150,7 +153,9 @@ export default function App() {
         </nav>
       </header>
       <main>
-        {data ? (
+        {data?.error ? (
+          <p className="empty">{data.error.message}</p>
+        ) : data ? (
           <SeriesPages key={seriesId} seriesId={seriesId} data={data} page={page} parameter={parameter} />
         ) : (
           <p className="loading">Loading {series.name}…</p>

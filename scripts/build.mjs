@@ -101,8 +101,6 @@ for (const { config, raw } of rawEvents) {
     name: event.tournament.name,
     date: localDate.format(new Date(event.startAt * 1000)),
     numEntrants: event.numEntrants,
-    countsForPR: config.countsForPR,
-    note: config.note ?? null,
     standings,
   });
 }
@@ -147,7 +145,7 @@ async function requireFile(path, message) {
   }
 }
 
-await writeFile(`data/${seriesName}.json`, JSON.stringify({ name: series.name, defaults: series.defaults ?? {}, events, players, sets }, null, 2));
+await writeFile(`data/${seriesName}.json`, JSON.stringify({ events, players, sets }, null, 2));
 console.log(`${events.length} events, ${Object.keys(players).length} players, ${sets.length} sets`);
 console.log(`skipped: ${JSON.stringify(skipped)}`);
 console.log(`${Object.values(players).filter((player) => player.characters.length).length} players with characters`);

@@ -1,6 +1,7 @@
 {
   "name": "CHUD HOUSE",
   "timezone": "America/Chicago",
+  "defaults": { "minimumEvents": 4 },
   "events": [
     {
       "slug": "tournament/open-house/event/melee-singles",

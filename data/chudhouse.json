@@ -1,6 +1,4 @@
 {
-  "name": "CHUD HOUSE",
-  "defaults": {},
   "events": [
     {
       "slug": "tournament/open-house/event/melee-singles",
@@ -8,8 +6,6 @@
       "name": "Open House",
       "date": "2025-04-19",
       "numEntrants": 6,
-      "countsForPR": false,
-      "note": "The first of the bunch.",
       "standings": [
         {
           "playerId": "127997",
@@ -39,8 +35,6 @@
       "name": "Mudbug Melee '25",
       "date": "2025-05-17",
       "numEntrants": 26,
-      "countsForPR": true,
-      "note": "Our first tournament in the new house. Flew out Spark.",
       "standings": [
         {
           "playerId": "3357",
@@ -154,8 +148,6 @@
       "name": "Star-Spangled Shine Spike",
       "date": "2025-07-05",
       "numEntrants": 10,
-      "countsForPR": true,
-      "note": "July 4th themed. CHUD House was born.",
       "standings": [
         {
           "playerId": "127997",
@@ -205,8 +197,6 @@
       "name": "ChudHouse 9.6.25",
       "date": "2025-09-06",
       "numEntrants": 28,
-      "countsForPR": true,
-      "note": "Magi and Jade entered as RASPUTIN, passing one controller back and forth. The chud cake got thousands of likes on Twitter.",
       "standings": [
         {
           "playerId": "127997",
@@ -328,8 +318,6 @@
       "name": "ChudHouse 10.18.2025",
       "date": "2025-10-18",
       "numEntrants": 14,
-      "countsForPR": true,
-      "note": "Monthlies start for real.",
       "standings": [
         {
           "playerId": "127997",
@@ -395,8 +383,6 @@
       "name": "ChudHouse 11.22.2025",
       "date": "2025-11-22",
       "numEntrants": 19,
-      "countsForPR": true,
-      "note": "Memphis invasion. They ran home and told Iori to come out of hiding.",
       "standings": [
         {
           "playerId": "127997",
@@ -482,8 +468,6 @@
       "name": "ChudHouse 12/13/2025",
       "date": "2025-12-13",
       "numEntrants": 29,
-      "countsForPR": true,
-      "note": "Legendary bracket.",
       "standings": [
         {
           "playerId": "434513",
@@ -609,8 +593,6 @@
       "name": "ChudHouse 1.17.2026",
       "date": "2026-01-17",
       "numEntrants": 28,
-      "countsForPR": true,
-      "note": "Mobile, AL invasion. Suezo holds it down.",
       "standings": [
         {
           "playerId": "127997",
@@ -732,8 +714,6 @@
       "name": "ChudHouse 2.28.2026",
       "date": "2026-02-28",
       "numEntrants": 30,
-      "countsForPR": true,
-      "note": "Many consider this the best CHUD House: the party the night before, the massive entrant count, the group picture.",
       "standings": [
         {
           "playerId": "127997",
@@ -863,8 +843,6 @@
       "name": "ChudHouse 3.21.2026",
       "date": "2026-03-21",
       "numEntrants": 20,
-      "countsForPR": true,
-      "note": "SDJ visits. They were Tokyo drifting on the way there.",
       "standings": [
         {
           "playerId": "325974",
@@ -954,8 +932,6 @@
       "name": "Mudbug2",
       "date": "2026-04-25",
       "numEntrants": 26,
-      "countsForPR": true,
-      "note": "Second annual crawfish boil. Spark takes it, but Mario Party went differently.",
       "standings": [
         {
           "playerId": "3357",
@@ -1069,8 +1045,6 @@
       "name": "Open House #2",
       "date": "2026-05-30",
       "numEntrants": 8,
-      "countsForPR": false,
-      "note": "W datsal.",
       "standings": [
         {
           "playerId": "2456770",
@@ -1112,8 +1086,6 @@
       "name": "ChudHouse 6.27.2026",
       "date": "2026-06-27",
       "numEntrants": 13,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "127997",
@@ -1175,8 +1147,6 @@
       "name": "CHUD HOUSE FINALE 7.18.26",
       "date": "2026-07-18",
       "numEntrants": 23,
-      "countsForPR": true,
-      "note": "The last one.",
       "standings": [
         {
           "playerId": "127997",

@@ -1,8 +1,4 @@
 {
-  "name": "SCSS West Coast",
-  "defaults": {
-    "minimumEvents": 10
-  },
   "events": [
     {
       "slug": "tournament/scss-west-coast-1/event/scss-singles",
@@ -10,8 +6,6 @@
       "name": "SCSS West Coast 1",
       "date": "2021-03-07",
       "numEntrants": 8,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "664437",
@@ -53,8 +47,6 @@
       "name": "SCSS West Coast 2",
       "date": "2021-03-14",
       "numEntrants": 11,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "466221",
@@ -108,8 +100,6 @@
       "name": "SCSS WEST COAST#3",
       "date": "2021-03-21",
       "numEntrants": 10,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "664437",
@@ -159,8 +149,6 @@
       "name": "SCSS West coast #4 $100 Pot Bonus",
       "date": "2021-03-28",
       "numEntrants": 24,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "10485",
@@ -266,8 +254,6 @@
       "name": "SCSS West Coast #5",
       "date": "2021-04-04",
       "numEntrants": 13,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1228401",
@@ -329,8 +315,6 @@
       "name": "SCSS West Coast #6",
       "date": "2021-04-11",
       "numEntrants": 5,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1918774",
@@ -360,8 +344,6 @@
       "name": "SCSS West Coast #7",
       "date": "2021-04-18",
       "numEntrants": 16,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2140092",
@@ -435,8 +417,6 @@
       "name": "SCSS West Coast #8 $50 Pot Bonus",
       "date": "2021-04-25",
       "numEntrants": 33,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "393258",
@@ -578,8 +558,6 @@
       "name": "SCSS West Coast #9",
       "date": "2021-05-02",
       "numEntrants": 19,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2140092",
@@ -665,8 +643,6 @@
       "name": "SCSS West Coast #10 - $10 Pot Bonus",
       "date": "2021-05-09",
       "numEntrants": 25,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "135088",
@@ -776,8 +752,6 @@
       "name": "SCSS West Coast #11",
       "date": "2021-05-16",
       "numEntrants": 15,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "4259",
@@ -847,8 +821,6 @@
       "name": "SCSS West Coast #12",
       "date": "2021-05-23",
       "numEntrants": 15,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1228401",
@@ -918,8 +890,6 @@
       "name": "SCSS West Coast #13",
       "date": "2021-05-30",
       "numEntrants": 29,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "135091",
@@ -1045,8 +1015,6 @@
       "name": "SCSS West Coast #14",
       "date": "2021-06-06",
       "numEntrants": 9,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "245152",
@@ -1092,8 +1060,6 @@
       "name": "SCSS West Coast #15",
       "date": "2021-06-13",
       "numEntrants": 7,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "664437",
@@ -1131,8 +1097,6 @@
       "name": "SCSS West Coast #16",
       "date": "2021-06-20",
       "numEntrants": 7,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "570787",
@@ -1170,8 +1134,6 @@
       "name": "SCSS West Coast #17",
       "date": "2021-06-27",
       "numEntrants": 15,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "664437",
@@ -1241,8 +1203,6 @@
       "name": "SCSS West Coast #18",
       "date": "2021-07-04",
       "numEntrants": 15,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "135088",
@@ -1312,8 +1272,6 @@
       "name": "SCSS West Coast #19",
       "date": "2021-07-11",
       "numEntrants": 16,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1011310",
@@ -1387,8 +1345,6 @@
       "name": "SCSS West Coast #20",
       "date": "2021-07-25",
       "numEntrants": 14,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "731487",
@@ -1454,8 +1410,6 @@
       "name": "SCSS West Coast #21",
       "date": "2021-08-01",
       "numEntrants": 13,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "47293",
@@ -1517,8 +1471,6 @@
       "name": "SCSS West Coast #22",
       "date": "2021-08-08",
       "numEntrants": 11,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "594541",
@@ -1572,8 +1524,6 @@
       "name": "SCSS West Coast #23",
       "date": "2021-08-15",
       "numEntrants": 29,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "135088",
@@ -1699,8 +1649,6 @@
       "name": "SCSS West Coast #24",
       "date": "2021-08-22",
       "numEntrants": 21,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "4259",
@@ -1794,8 +1742,6 @@
       "name": "SCSS West Coast #25",
       "date": "2021-08-29",
       "numEntrants": 20,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "594541",
@@ -1885,8 +1831,6 @@
       "name": "SCSS West Coast #26",
       "date": "2021-09-05",
       "numEntrants": 29,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "664437",
@@ -2012,8 +1956,6 @@
       "name": "SCSS West Coast #27",
       "date": "2021-09-12",
       "numEntrants": 30,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "664437",
@@ -2143,8 +2085,6 @@
       "name": "SCSS West Coast #28",
       "date": "2021-09-19",
       "numEntrants": 22,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "153142",
@@ -2242,8 +2182,6 @@
       "name": "SCSS West Coast #29",
       "date": "2021-09-26",
       "numEntrants": 15,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1117046",
@@ -2313,8 +2251,6 @@
       "name": "SCSS West Coast #30",
       "date": "2021-10-03",
       "numEntrants": 14,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "10485",
@@ -2380,8 +2316,6 @@
       "name": "SCSS West Coast #31",
       "date": "2021-10-10",
       "numEntrants": 18,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "10485",
@@ -2463,8 +2397,6 @@
       "name": "SCSS West Coast #32",
       "date": "2021-10-17",
       "numEntrants": 11,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "594541",
@@ -2518,8 +2450,6 @@
       "name": "SCSS West Coast #33",
       "date": "2021-10-24",
       "numEntrants": 16,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1007304",
@@ -2593,8 +2523,6 @@
       "name": "SCSS West Coast #34",
       "date": "2021-10-31",
       "numEntrants": 5,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1007304",
@@ -2624,8 +2552,6 @@
       "name": "SCSS West Coast #35",
       "date": "2021-11-07",
       "numEntrants": 22,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "623487",
@@ -2723,8 +2649,6 @@
       "name": "SCSS West Coast #36",
       "date": "2021-11-14",
       "numEntrants": 9,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1957918",
@@ -2770,8 +2694,6 @@
       "name": "SCSS West Coast #37",
       "date": "2021-11-21",
       "numEntrants": 20,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1862410",
@@ -2861,8 +2783,6 @@
       "name": "SCSS West Coast #38",
       "date": "2021-12-05",
       "numEntrants": 13,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "223213",
@@ -2924,8 +2844,6 @@
       "name": "SCSS West Coast #39",
       "date": "2021-12-19",
       "numEntrants": 12,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "358739",
@@ -2983,8 +2901,6 @@
       "name": "SCSS West Coast #40",
       "date": "2021-12-26",
       "numEntrants": 12,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "135091",
@@ -3042,8 +2958,6 @@
       "name": "SCSS West Coast #41",
       "date": "2022-01-02",
       "numEntrants": 12,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "135091",
@@ -3101,8 +3015,6 @@
       "name": "SCSS West Coast #42",
       "date": "2022-01-09",
       "numEntrants": 15,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "175669",
@@ -3172,8 +3084,6 @@
       "name": "SCSS West Coast #43",
       "date": "2022-01-16",
       "numEntrants": 34,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "664437",
@@ -3319,8 +3229,6 @@
       "name": "SCSS West Coast #44",
       "date": "2022-01-23",
       "numEntrants": 21,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "135091",
@@ -3414,8 +3322,6 @@
       "name": "SCSS West Coast #45",
       "date": "2022-01-30",
       "numEntrants": 26,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1862410",
@@ -3529,8 +3435,6 @@
       "name": "SCSS West Coast #46",
       "date": "2022-02-06",
       "numEntrants": 24,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "22479",
@@ -3636,8 +3540,6 @@
       "name": "SCSS West Coast #47",
       "date": "2022-02-13",
       "numEntrants": 18,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "135091",
@@ -3719,8 +3621,6 @@
       "name": "SCSS West Coast #48",
       "date": "2022-02-20",
       "numEntrants": 19,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "358739",
@@ -3806,8 +3706,6 @@
       "name": "SCSS West Coast #49",
       "date": "2022-02-27",
       "numEntrants": 18,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "41492",
@@ -3889,8 +3787,6 @@
       "name": "SCSS West Coast #50",
       "date": "2022-03-06",
       "numEntrants": 16,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "135091",
@@ -3964,8 +3860,6 @@
       "name": "SCSS West Coast #51",
       "date": "2022-03-13",
       "numEntrants": 17,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "264211",
@@ -4043,8 +3937,6 @@
       "name": "SCSS West Coast #52",
       "date": "2022-03-20",
       "numEntrants": 11,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "264211",
@@ -4098,8 +3990,6 @@
       "name": "SCSS West Coast #53",
       "date": "2022-03-27",
       "numEntrants": 12,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "175669",
@@ -4157,8 +4047,6 @@
       "name": "SCSS West Coast #54",
       "date": "2022-04-03",
       "numEntrants": 17,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1007304",
@@ -4236,8 +4124,6 @@
       "name": "SCSS West Coast #55",
       "date": "2022-04-10",
       "numEntrants": 23,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "725320",
@@ -4339,8 +4225,6 @@
       "name": "SCSS West Coast #56",
       "date": "2022-04-24",
       "numEntrants": 10,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1007304",
@@ -4390,8 +4274,6 @@
       "name": "SCSS West Coast #57",
       "date": "2022-05-01",
       "numEntrants": 19,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1762998",
@@ -4477,8 +4359,6 @@
       "name": "SCSS West Coast #58",
       "date": "2022-05-08",
       "numEntrants": 14,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "322324",
@@ -4544,8 +4424,6 @@
       "name": "SCSS West Coast #59",
       "date": "2022-05-15",
       "numEntrants": 11,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "46752",
@@ -4599,8 +4477,6 @@
       "name": "SCSS West Coast #60",
       "date": "2022-05-22",
       "numEntrants": 29,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "135091",
@@ -4726,8 +4602,6 @@
       "name": "SCSS West Coast #61",
       "date": "2022-05-29",
       "numEntrants": 19,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "135091",
@@ -4813,8 +4687,6 @@
       "name": "SCSS West Coast #62",
       "date": "2022-06-05",
       "numEntrants": 15,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1007304",
@@ -4884,8 +4756,6 @@
       "name": "SCSS West Coast #63",
       "date": "2022-06-12",
       "numEntrants": 19,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1007304",
@@ -4971,8 +4841,6 @@
       "name": "SCSS West Coast #64",
       "date": "2022-06-19",
       "numEntrants": 15,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "725320",
@@ -5042,8 +4910,6 @@
       "name": "SCSS West Coast #65",
       "date": "2022-06-26",
       "numEntrants": 23,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "10485",
@@ -5145,8 +5011,6 @@
       "name": "SCSS West Coast #66",
       "date": "2022-07-03",
       "numEntrants": 9,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "975581",
@@ -5192,8 +5056,6 @@
       "name": "SCSS West Coast #67",
       "date": "2022-07-10",
       "numEntrants": 21,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "28053",
@@ -5287,8 +5149,6 @@
       "name": "SCSS West Coast #68",
       "date": "2022-07-17",
       "numEntrants": 16,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1300387",
@@ -5362,8 +5222,6 @@
       "name": "SCSS West Coast #69",
       "date": "2022-07-24",
       "numEntrants": 17,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "725320",
@@ -5441,8 +5299,6 @@
       "name": "SCSS West Coast #70",
       "date": "2022-07-31",
       "numEntrants": 14,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1007304",
@@ -5508,8 +5364,6 @@
       "name": "SCSS West Coast #71",
       "date": "2022-08-07",
       "numEntrants": 14,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "10485",
@@ -5575,8 +5429,6 @@
       "name": "SCSS West Coast #72",
       "date": "2022-08-14",
       "numEntrants": 14,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "912157",
@@ -5642,8 +5494,6 @@
       "name": "SCSS West Coast #73",
       "date": "2022-08-21",
       "numEntrants": 25,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "4176",
@@ -5753,8 +5603,6 @@
       "name": "SCSS West Coast #74",
       "date": "2022-08-28",
       "numEntrants": 16,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "4176",
@@ -5828,8 +5676,6 @@
       "name": "SCSS West Coast #75",
       "date": "2022-09-04",
       "numEntrants": 19,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "4176",
@@ -5915,8 +5761,6 @@
       "name": "SCSS West Coast #76",
       "date": "2022-09-11",
       "numEntrants": 25,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1762998",
@@ -6026,8 +5870,6 @@
       "name": "SCSS West Coast #77",
       "date": "2022-09-25",
       "numEntrants": 11,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1117046",
@@ -6081,8 +5923,6 @@
       "name": "SCSS West Coast #78",
       "date": "2022-10-02",
       "numEntrants": 15,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1007304",
@@ -6152,8 +5992,6 @@
       "name": "SCSS West Coast #79",
       "date": "2022-10-16",
       "numEntrants": 6,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1007304",
@@ -6187,8 +6025,6 @@
       "name": "SCSS West Coast #80",
       "date": "2022-10-23",
       "numEntrants": 7,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2156106",
@@ -6226,8 +6062,6 @@
       "name": "SCSS West Coast #81",
       "date": "2022-10-30",
       "numEntrants": 17,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1762998",
@@ -6305,8 +6139,6 @@
       "name": "SCSS West Coast #82",
       "date": "2022-11-06",
       "numEntrants": 8,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2156106",
@@ -6348,8 +6180,6 @@
       "name": "SCSS West Coast #83",
       "date": "2022-11-13",
       "numEntrants": 13,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1007304",
@@ -6411,8 +6241,6 @@
       "name": "SCSS West Coast #84",
       "date": "2022-11-20",
       "numEntrants": 12,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "41492",
@@ -6470,8 +6298,6 @@
       "name": "SCSS West Coast #85",
       "date": "2022-11-27",
       "numEntrants": 16,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "329937",
@@ -6545,8 +6371,6 @@
       "name": "SCSS West Coast #86",
       "date": "2022-12-04",
       "numEntrants": 11,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "41486",
@@ -6600,8 +6424,6 @@
       "name": "SCSS West Coast #87",
       "date": "2022-12-11",
       "numEntrants": 7,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1007304",
@@ -6639,8 +6461,6 @@
       "name": "SCSS West Coast #89",
       "date": "2023-01-01",
       "numEntrants": 6,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "19304",
@@ -6674,8 +6494,6 @@
       "name": "SCSS West Coast #90",
       "date": "2023-01-08",
       "numEntrants": 9,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2308456",
@@ -6721,8 +6539,6 @@
       "name": "SCSS West Coast #91",
       "date": "2023-01-15",
       "numEntrants": 2,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "2156106",
@@ -6740,8 +6556,6 @@
       "name": "SCSS West Coast #92 - The Finale for Now",
       "date": "2023-01-22",
       "numEntrants": 10,
-      "countsForPR": true,
-      "note": null,
       "standings": [
         {
           "playerId": "1007304",
