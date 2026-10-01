@@ -1,4 +1,4 @@
-import { ALGORITHMS, STARTING_RATING } from '../../lib/rankings.mjs';
+import { ALGORITHMS, STARTING_RATING, winChance } from '../../lib/rankings.mjs';
 import { eventTitle, monthYear, ordinal } from './format.js';
 
 const MAXIMUM_SWINGS = 3;
@@ -106,8 +106,8 @@ function setSurprises(player, results, tagOf) {
       grouped.get(key).count++;
       continue;
     }
-    const winChance = 1 / (1 + 10 ** ((ratingById.get(opponentId) - player.rating) / 400));
-    grouped.set(key, { id: key, won, count: 1, winChance, surprise: (won ? 1 : 0) - winChance, opponent: tagOf(opponentId), event: eventBySlug.get(set.eventSlug) });
+    const chance = winChance(player.rating, ratingById.get(opponentId));
+    grouped.set(key, { id: key, won, count: 1, winChance: chance, surprise: (won ? 1 : 0) - chance, opponent: tagOf(opponentId), event: eventBySlug.get(set.eventSlug) });
   }
   const entries = [...grouped.values()];
   return {

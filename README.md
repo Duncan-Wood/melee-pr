@@ -11,8 +11,8 @@ The site has five pages for each series:
 - **Countdown:** reveals the top 10, 15, or 20 one player at a time.
 - **Rankings:** the top 20, with everyone else who qualifies one click away, plus settings you can change.
 - **Player pages:** every set a player has played and why they're ranked where they are. Click any name to open one.
-- **Head-to-head:** a grid of who has beaten whom, and a spreadsheet download of every record.
-- **Events:** every bracket, with notes from the TO.
+- **Head-to-head:** a grid of who has beaten whom, the odds for their next set, and a spreadsheet download of every record.
+- **Events:** every bracket, with notes from the TO, plus highlights: the biggest upsets, most improved players, and most-played matchups.
 
 The rankings table shows:
 
@@ -68,6 +68,16 @@ The comparisons are made set by set on the same sets. **z** measures how sure we
 - **Glicko-2 and Elo** update one event at a time and never revisit a win, and Glicko also lets a player's first events swing their rating the most. Both predict worse everywhere.
 - **"Should recent events count more?"** Yes, a little. Allowing slow drift beats a fixed rating, but faster drift doesn't help.
 - **"Should head-to-head count extra?"** No. Every head-to-head set is already in the rating, and weighting them extra doesn't improve predictions.
+
+### Other numbers on the site
+
+These all come from the same ratings, so they change with the settings.
+
+- **Rank range** (the small "4–8" under a rank). The site reruns the ranking 2,000 times. Each time, every player's rating is moved by a random amount drawn from its own uncertainty, then players are re-sorted by PR score. The range covers where a player lands in the middle 80% of those runs. It treats each player's uncertainty as independent of everyone else's, which is a simplification. The random numbers are seeded, so the ranges are the same on every visit.
+- **Next-set odds** (head-to-head page). The chance one player beats another, from the gap between their ratings on the win-chance curve above. It ignores uncertainty and the head-to-head record itself.
+- **Biggest upsets.** The counted sets whose winner had the lowest chance to win, judged by both players' final ratings.
+- **Most improved.** The ranked players whose rating rose the most between their first event and their latest. This only appears under Whole-History, the one method that estimates how a player's skill changed over time.
+- **Most-played matchups.** The pairs of players with the most counted sets against each other, with the record.
 
 ### Limits
 

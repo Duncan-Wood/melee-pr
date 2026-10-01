@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { winChance } from '../../lib/rankings.mjs';
 
 const SIZE_CHOICES = [8, 12, 16];
 
@@ -42,8 +43,9 @@ export default function HeadToHead({ data, results, base }) {
     ? (() => {
         const { row, column } = hovered;
         const { wins, losses } = results.headToHead(row.playerId, column.playerId);
-        if (wins + losses === 0) return `${row.tag} and ${column.tag} haven’t played in a counted event.`;
-        return `${row.tag} is ${wins}–${losses} in sets against ${column.tag}.`;
+        const odds = `The ratings give ${row.tag} a ${Math.round(100 * winChance(row.rating, column.rating))}% chance in their next set.`;
+        if (wins + losses === 0) return `${row.tag} and ${column.tag} haven’t played in a counted event. ${odds}`;
+        return `${row.tag} is ${wins}–${losses} in sets against ${column.tag}. ${odds}`;
       })()
     : 'Hover or tap a square to read it.';
 

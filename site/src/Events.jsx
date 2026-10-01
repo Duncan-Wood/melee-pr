@@ -1,6 +1,7 @@
+import Highlights from './Highlights.jsx';
 import { eventTitle, fullDate, startggUrl } from './format.js';
 
-export default function Events({ data, settings, setSettings, base }) {
+export default function Events({ data, results, settings, setSettings, base }) {
   const included = new Set(settings.includedEventSlugs);
   const largest = Math.max(...data.events.map((event) => event.numEntrants));
 
@@ -18,6 +19,7 @@ export default function Events({ data, settings, setSettings, base }) {
         Every bracket in the series, oldest first. Uncheck an event to leave it out of the rankings.
       </p>
       {data.credits && <p className="page-intro muted">{data.credits}</p>}
+      <Highlights data={data} results={results} settings={settings} base={base} />
       <ol className="timeline">
         {data.events.map((event) => {
           const winner = event.standings.find((standing) => standing.placement === 1);

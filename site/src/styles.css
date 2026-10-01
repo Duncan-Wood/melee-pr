@@ -1113,6 +1113,30 @@ main {
 }
 
 
+.highlight-lists {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px 32px;
+}
+
+.highlights h3 {
+  font-size: var(--size-lead);
+  margin-bottom: 8px;
+}
+
+.highlights ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.highlights li span {
+  display: block;
+  font-size: var(--size-small);
+}
+
 .timeline {
   list-style: none;
   margin: 0;
