@@ -36,6 +36,7 @@ export default function Player({ data, results, settings, playerId, base }) {
           <h1 className={`player-tag ${tagSizeClass(player.tag)}`}>{player.tag}</h1>
           <CharacterIcons characters={data.players[playerId].characters} size="medium" />
           <p className="player-summary">
+            {player.rank && `${ordinal(player.rank)} of ${results.ranked.length} ranked. `}
             {setRecord(player)} in sets across {player.eventsAttended} {player.eventsAttended === 1 ? 'event' : 'events'}
             {player.eventWins ? `, ${player.eventWins} ${player.eventWins === 1 ? 'title' : 'titles'}` : ''}. Rating {Math.round(player.rating)}
             {deviations ? ` ± ${Math.round(player.deviation)}` : ''}.

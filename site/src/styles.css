@@ -718,6 +718,12 @@ main {
 }
 
 
+.ranked-count {
+  margin: 0 0 -8px;
+  color: var(--ink-soft);
+  font-size: var(--size-small);
+}
+
 .table-sheet {
   padding: 8px 0;
   overflow-x: auto;

@@ -6,6 +6,130 @@
   },
   "events": [
     {
+      "slug": "tournament/sky-claw-slippi-sundays/event/sky-claw-slippi-sundays-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/sky-claw-slippi-sundays-2/event/sky-claw-slippi-sundays-2",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/sky-claw-slippi-sundays-3/event/sky-claw-slippi-sundays-3",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/sky-claw-slippi-sundays-4/event/sky-claw-slippi-sundays-4",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/sky-claw-slippi-sundays-5/event/sky-claw-slippi-sundays-5",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/sky-claw-slippi-sundays-6/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/sky-claw-slippi-sundays-7-2/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/sky-claw-slippi-sundays-8-1/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/sky-claw-slippi-sundays-10-1/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/sky-claw-slippi-sundays-11/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/sky-claw-slippi-sundays-12/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss13/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-14/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-15/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-16-100-pot-bonus/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/sky-claw-slippi-sundays-17/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-18/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-19/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-20/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-21/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-22-1/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-23/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-24/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-25/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-26/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-27/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-28/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-29/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-30/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-31/event/scss-singles",
+      "countsForPR": true
+    },
+    {
+      "slug": "tournament/scss-32/event/scss-singles",
+      "countsForPR": true
+    },
+    {
       "slug": "tournament/scss-33/event/scss-singles",
       "countsForPR": true
     },

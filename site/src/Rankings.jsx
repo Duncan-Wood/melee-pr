@@ -37,6 +37,9 @@ export default function Rankings(props) {
       <h1 className="page-title">Rankings</h1>
       <p className="page-intro">{methodSummary(settings)} Change anything below and the list reorders.</p>
       <Settings {...props} />
+      <p className="ranked-count">
+        {results.ranked.length} {results.ranked.length === 1 ? 'player has' : 'players have'} the {settings.minimumEvents} counted {settings.minimumEvents === 1 ? 'event' : 'events'} needed to be ranked.
+      </p>
       <div className="sheet table-sheet">
         <table className="rankings-table">
           <thead>

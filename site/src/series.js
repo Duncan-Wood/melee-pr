@@ -26,7 +26,7 @@ const series = (id, config, settings, loadData) => ({
 
 export const SERIES = [
   series('chudhouse', chudhouse, { theme: 'chudhouse', icon: LOBSTER_ICON, description: 'Mississippi house series, 2025–26' }, () => import('../../data/chudhouse.json')),
-  series('scss-east', scssEast, { theme: 'scss-east', icon: skyClawIcon('east'), description: 'SkyClaw Slippi Sundays, 7:30 PM ET, 2021–23' }, () => import('../../data/scss-east.json')),
+  series('scss-east', scssEast, { theme: 'scss-east', icon: skyClawIcon('east'), description: 'SkyClaw Slippi Sundays, 7:30 PM ET, 2020–23' }, () => import('../../data/scss-east.json')),
   series('scss-west', scssWest, { theme: 'scss-west', icon: skyClawIcon('west'), description: 'SkyClaw Slippi Sundays, 5:30 PM PT, 2021–23' }, () => import('../../data/scss-west.json')),
 ];
 

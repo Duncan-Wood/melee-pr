@@ -98,13 +98,21 @@ function setSurprises(player, results, tagOf) {
   const sets = [
     ...player.wins.map((set) => ({ set, won: true, opponentId: set.loserId })),
     ...player.losses.map((set) => ({ set, won: false, opponentId: set.winnerId })),
-  ].map(({ set, won, opponentId }) => {
+  ];
+  const grouped = new Map();
+  for (const { set, won, opponentId } of sets) {
+    const key = `${won}:${opponentId}:${set.eventSlug}`;
+    if (grouped.has(key)) {
+      grouped.get(key).count++;
+      continue;
+    }
     const winChance = 1 / (1 + 10 ** ((ratingById.get(opponentId) - player.rating) / 400));
-    return { id: set.id, won, winChance, surprise: (won ? 1 : 0) - winChance, opponent: tagOf(opponentId), event: eventBySlug.get(set.eventSlug) };
-  });
+    grouped.set(key, { id: key, won, count: 1, winChance, surprise: (won ? 1 : 0) - winChance, opponent: tagOf(opponentId), event: eventBySlug.get(set.eventSlug) });
+  }
+  const entries = [...grouped.values()];
   return {
-    upsets: sets.filter((entry) => entry.won).sort((a, b) => b.surprise - a.surprise).slice(0, MAXIMUM_SWINGS),
-    costliest: sets.filter((entry) => !entry.won).sort((a, b) => a.surprise - b.surprise).slice(0, MAXIMUM_SWINGS),
+    upsets: entries.filter((entry) => entry.won).sort((a, b) => b.surprise - a.surprise).slice(0, MAXIMUM_SWINGS),
+    costliest: entries.filter((entry) => !entry.won).sort((a, b) => a.surprise - b.surprise).slice(0, MAXIMUM_SWINGS),
   };
 }
 
@@ -123,6 +131,7 @@ function SurpriseList({ title, entries }) {
                 <strong>
                   {entry.won ? 'Beat' : 'Lost to'} {entry.opponent}
                 </strong>
+                {entry.count > 1 && <span className="muted"> ×{entry.count}</span>}
                 <span className="muted swing-sets">
                   {eventTitle(entry.event)}, {monthYear(entry.event.date)}
                 </span>
