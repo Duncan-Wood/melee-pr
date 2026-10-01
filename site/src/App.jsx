@@ -6,6 +6,7 @@ import Rankings from './Rankings.jsx';
 import Player from './Player.jsx';
 import HeadToHead from './HeadToHead.jsx';
 import Events from './Events.jsx';
+import HowItWorks from './HowItWorks.jsx';
 
 const settingsKey = (seriesId) => `melee-pr:${seriesId}:settings:whole-history`;
 
@@ -61,6 +62,7 @@ const NAVIGATION = [
   { page: 'rankings', label: 'Rankings' },
   { page: 'head-to-head', label: 'Head-to-head' },
   { page: 'events', label: 'Events' },
+  { page: 'how-it-works', label: 'About' },
 ];
 
 function SeriesSwitcher({ current, page }) {
@@ -124,6 +126,7 @@ function SeriesPages({ seriesId, data, page, parameter }) {
       {page === 'player' && <Player {...shared} playerId={parameter} />}
       {page === 'head-to-head' && <HeadToHead {...shared} />}
       {page === 'events' && <Events {...shared} />}
+      {page === 'how-it-works' && <HowItWorks {...shared} />}
     </>
   );
 }

@@ -1137,6 +1137,17 @@ main {
   font-size: var(--size-small);
 }
 
+.explainer {
+  display: grid;
+  gap: 24px;
+  max-width: 760px;
+}
+
+.explainer p {
+  margin: 8px 0 0;
+  max-width: 64ch;
+}
+
 .timeline {
   list-style: none;
   margin: 0;

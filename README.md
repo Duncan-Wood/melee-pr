@@ -6,13 +6,14 @@ Live at https://duncan-wood.github.io/melee-pr/
 
 ## Reading the rankings
 
-The site has five pages for each series:
+The site has six pages for each series:
 
 - **Countdown:** reveals the top 10, 15, or 20 one player at a time.
 - **Rankings:** the top 20, with everyone else who qualifies one click away, plus settings you can change.
 - **Player pages:** every set a player has played and why they're ranked where they are. Click any name to open one.
 - **Head-to-head:** a grid of who has beaten whom, the odds for their next set, and a spreadsheet download of every record.
 - **Events:** every bracket, with notes from the TO, plus highlights: the biggest upsets, most improved players, and most-played matchups.
+- **About:** how the rankings work, in plain language with no math.
 
 The rankings table shows:
 
