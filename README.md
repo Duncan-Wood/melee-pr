@@ -9,7 +9,7 @@ Live at https://duncan-wood.github.io/melee-pr/
 The site has five pages for each series:
 
 - **Countdown:** reveals the top 10, 15, or 20 one player at a time.
-- **Rankings:** the full list, plus settings you can change.
+- **Rankings:** the top 20, with everyone else who qualifies one click away, plus settings you can change.
 - **Player pages:** every set a player has played and why they're ranked where they are. Click any name to open one.
 - **Head-to-head:** a grid of who has beaten whom, and a spreadsheet download of every record.
 - **Events:** every bracket, with notes from the TO.
@@ -105,10 +105,11 @@ Create `series/<name>.json`, then add it to `site/src/series.js` with an import 
 - `aliases` merges a player who entered under two accounts. `build` fails on anything it can't match, so merges never happen by guessing.
 - `characters` (optional) sets a player's character icons, such as `{ "<player id>": ["Fox", "Marth"] }`. Otherwise icons come from start.gg's reported games, where available. Add a costume color for the portrait, like `"Samus (Pink)"`; the available ones are the files in `site/public/portraits/`.
 - `countsForPR: false` keeps an event on the dashboard but out of the ranking.
+- `credits` (optional) is a line shown at the top of the series' Events page.
 - `defaults` (optional) overrides the dashboard's starting settings, such as `{ "minimumEvents": 10 }`.
 - **Player photos:** save a photo as `site/public/photos/<series>/<player id>.jpg` and it replaces that player's character portrait. The player id is at the end of their page's URL. Shrink photos first, e.g. `sips -Z 800 -s formatOptions 80 photo.jpg --out <path>`; the build rejects files over 300 KB.
 
-The site reads `name`, `defaults`, and each event's `note` and `countsForPR` straight from `series/<name>.json`, so editing them doesn't need a rebuild. Changing the event list, `aliases`, `tagOverrides`, or `characters`, or adding a photo, does: run `npm run build -- <series>`. If the event list and the built data disagree, the site shows an error instead of stale results.
+The site reads `name`, `credits`, `defaults`, and each event's `note` and `countsForPR` straight from `series/<name>.json`, so editing them doesn't need a rebuild. Changing the event list, `aliases`, `tagOverrides`, or `characters`, or adding a photo, does: run `npm run build -- <series>`. If the event list and the built data disagree, the site shows an error instead of stale results.
 
 ## Testing ranking methods
 

@@ -17,6 +17,7 @@ export default function Events({ data, settings, setSettings, base }) {
       <p className="page-intro">
         Every bracket in the series, oldest first. Uncheck an event to leave it out of the rankings.
       </p>
+      {data.credits && <p className="page-intro muted">{data.credits}</p>}
       <ol className="timeline">
         {data.events.map((event) => {
           const winner = event.standings.find((standing) => standing.placement === 1);

@@ -1,9 +1,12 @@
+import { useState } from 'react';
 import Settings from './Settings.jsx';
 import Sparkline from './Sparkline.jsx';
 import Mentions from './Mentions.jsx';
 import CharacterIcons from './CharacterIcons.jsx';
 import { setRecord } from './format.js';
 import { ALGORITHMS } from '../../lib/rankings.mjs';
+
+const POWER_RANKING_SIZE = 20;
 
 export function methodSummary(settings) {
   if (settings.algorithm === 'elo') {
@@ -21,6 +24,11 @@ export function methodSummary(settings) {
 export default function Rankings(props) {
   const { data, results, settings, base } = props;
   const scoreLabel = ALGORITHMS[settings.algorithm].hasUncertainty && settings.conservativeDeviations ? 'PR score' : 'Rating';
+  const [showsEveryone, setShowsEveryone] = useState(false);
+  const qualified = results.ranked.length;
+  const hasMore = qualified > POWER_RANKING_SIZE;
+  const shown = showsEveryone ? results.ranked : results.ranked.slice(0, POWER_RANKING_SIZE);
+  const requirement = `the ${settings.minimumEvents} counted ${settings.minimumEvents === 1 ? 'event' : 'events'} needed to be ranked`;
 
   if (results.events.length === 0) {
     return (
@@ -38,7 +46,9 @@ export default function Rankings(props) {
       <p className="page-intro">{methodSummary(settings)} Change anything below and the list reorders.</p>
       <Settings {...props} />
       <p className="ranked-count">
-        {results.ranked.length} {results.ranked.length === 1 ? 'player has' : 'players have'} the {settings.minimumEvents} counted {settings.minimumEvents === 1 ? 'event' : 'events'} needed to be ranked.
+        {hasMore
+          ? `The top ${POWER_RANKING_SIZE} of ${qualified} players with ${requirement}.`
+          : `${qualified} ${qualified === 1 ? 'player has' : 'players have'} ${requirement}.`}
       </p>
       <div className="sheet table-sheet">
         <table className="rankings-table">
@@ -55,7 +65,7 @@ export default function Rankings(props) {
             </tr>
           </thead>
           <tbody>
-            {results.ranked.map((player) => (
+            {shown.map((player) => (
               <tr key={player.playerId} onClick={() => (window.location.hash = `${base}/player/${player.playerId}`)}>
                 <td className="numeric rank-cell">{player.rank}</td>
                 <th scope="row">
@@ -77,6 +87,11 @@ export default function Rankings(props) {
           </tbody>
         </table>
       </div>
+      {hasMore && (
+        <button className="link-button" onClick={() => setShowsEveryone(!showsEveryone)}>
+          {showsEveryone ? `Show only the top ${POWER_RANKING_SIZE}` : `Show all ${qualified} qualifying players`}
+        </button>
+      )}
       <Mentions results={results} settings={settings} base={base} />
     </div>
   );

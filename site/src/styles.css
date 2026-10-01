@@ -380,7 +380,17 @@ main {
   border: 5px solid var(--sheet);
 }
 
+.reveal-heading:has(.reveal-portrait) {
+  --tag-reserved: 180px;
+}
+
+.player-header:has(.player-portrait) {
+  --tag-reserved: 350px;
+}
+
 .reveal-heading {
+  container-type: inline-size;
+  --tag-reserved: 0px;
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
   align-items: end;
@@ -411,21 +421,10 @@ main {
 .reveal-tag {
   font-family: var(--display);
   font-weight: 400;
+  font-size: clamp(1.25rem, calc((100cqw - var(--tag-reserved)) / (max(var(--tag-length), 4) * 0.86)), 6.5rem);
   line-height: 0.92;
   overflow-wrap: anywhere;
   animation: slam 500ms 180ms cubic-bezier(0.2, 0.9, 0.3, 1.2) both;
-}
-
-.reveal-tag.tag-short {
-  font-size: clamp(3rem, 9vw, 6.5rem);
-}
-
-.reveal-tag.tag-medium {
-  font-size: clamp(2.4rem, 6.5vw, 4.75rem);
-}
-
-.reveal-tag.tag-long {
-  font-size: clamp(1.8rem, 4.2vw, 3.2rem);
 }
 
 @keyframes slam {
@@ -854,21 +853,15 @@ main {
 }
 
 .player-header {
+  container-type: inline-size;
+  --tag-reserved: 190px;
   display: flex;
   align-items: center;
   gap: 24px;
 }
 
-.player-tag.tag-medium {
-  font-size: clamp(1.9rem, 5vw, 3.4rem);
-}
-
-.player-tag.tag-long {
-  font-size: clamp(1.6rem, 3.6vw, 2.6rem);
-}
-
 .player-tag {
-  font: 400 clamp(2.2rem, 7vw, 4.5rem)/0.95 var(--display);
+  font: 400 clamp(1.25rem, calc((100cqw - var(--tag-reserved)) / (max(var(--tag-length), 4) * 0.86)), 4.5rem)/0.95 var(--display);
   overflow-wrap: anywhere;
 }
 
@@ -1200,6 +1193,26 @@ main {
   background: var(--ink-soft);
 }
 
+@media (max-width: 960px) {
+  .reveal-card {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 8px;
+  }
+
+  .numeral-large {
+    font-size: clamp(7rem, 38vw, 11rem);
+  }
+
+  .countdown {
+    min-height: auto;
+    padding-top: 8px;
+  }
+
+  .trend-column {
+    display: none;
+  }
+}
+
 @media (max-width: 720px) {
   .masthead nav {
     gap: 4px 12px;
@@ -1210,29 +1223,14 @@ main {
     grid-template-columns: repeat(6, minmax(0, 1fr));
   }
 
-  .reveal-card {
-    grid-template-columns: minmax(0, 1fr);
-    gap: 8px;
-  }
-
-  .numeral-large {
-    font-size: clamp(7rem, 38vw, 11rem);
-  }
-
   .facts {
     grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-  .countdown {
-    min-height: auto;
-    padding-top: 8px;
   }
 
   .countdown-controls {
     justify-content: space-between;
   }
 
-  .trend-column,
   .optional-column {
     display: none;
   }
@@ -1263,6 +1261,15 @@ main {
 
   .player-portrait {
     height: 110px;
+  }
+
+  .player-header,
+  .player-header:has(.player-portrait) {
+    --tag-reserved: 0px;
+  }
+
+  .reveal-heading:has(.reveal-portrait) {
+    --tag-reserved: 120px;
   }
 
   .player-header {

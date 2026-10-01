@@ -13,6 +13,7 @@ function withSeriesConfig(id, config, data) {
     ...data,
     name: config.name,
     defaults: config.defaults ?? {},
+    credits: config.credits ?? null,
     events: data.events.map((event) => ({ ...event, countsForPR: configBySlug.get(event.slug).countsForPR, note: configBySlug.get(event.slug).note ?? null })),
   };
 }

@@ -18,9 +18,3 @@ export const eventTitle = (event) =>
 export const startggUrl = (event) => `https://www.start.gg/${event.slug}/standings`;
 
 export const setRecord = (player) => `${player.wins.length}–${player.losses.length}`;
-
-export function tagSizeClass(tag) {
-  if (tag.length > 16) return 'tag-long';
-  if (tag.length > 9) return 'tag-medium';
-  return 'tag-short';
-}

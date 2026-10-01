@@ -3,7 +3,7 @@ import RatingChart from './RatingChart.jsx';
 import Stamps from './Stamps.jsx';
 import WhyRank from './WhyRank.jsx';
 import CharacterIcons, { PlayerPortrait } from './CharacterIcons.jsx';
-import { eventTitle, fullDate, ordinal, setRecord, startggUrl, tagSizeClass } from './format.js';
+import { eventTitle, fullDate, ordinal, setRecord, startggUrl } from './format.js';
 import { ALGORITHMS } from '../../lib/rankings.mjs';
 
 export default function Player({ data, results, settings, playerId, base }) {
@@ -33,7 +33,7 @@ export default function Player({ data, results, settings, playerId, base }) {
       <header className="player-header">
         {player.rank ? <Numeral value={player.rank} size="medium" /> : <span className="unranked-badge">Unranked</span>}
         <div>
-          <h1 className={`player-tag ${tagSizeClass(player.tag)}`}>{player.tag}</h1>
+          <h1 className="player-tag" style={{ '--tag-length': player.tag.length }}>{player.tag}</h1>
           <CharacterIcons characters={data.players[playerId].characters} size="medium" />
           <p className="player-summary">
             {player.rank && `${ordinal(player.rank)} of ${results.ranked.length} ranked. `}

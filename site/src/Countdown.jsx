@@ -4,7 +4,7 @@ import Stamps from './Stamps.jsx';
 import Sparkline from './Sparkline.jsx';
 import Mentions from './Mentions.jsx';
 import CharacterIcons, { PlayerPortrait } from './CharacterIcons.jsx';
-import { fullDate, ordinal, setRecord, tagSizeClass } from './format.js';
+import { fullDate, ordinal, setRecord } from './format.js';
 
 const LENGTH_CHOICES = [10, 15, 20];
 
@@ -90,7 +90,7 @@ export default function Countdown({ data, results, settings, base }) {
         <div className="reveal-body">
           <div className="reveal-heading">
             <div>
-              <h1 className={`reveal-tag ${tagSizeClass(player.tag)}`}>{player.tag}</h1>
+              <h1 className="reveal-tag" style={{ '--tag-length': player.tag.length }}>{player.tag}</h1>
               <CharacterIcons characters={data.players[player.playerId].characters} size="large" />
             </div>
             <PlayerPortrait player={data.players[player.playerId]} className="reveal-portrait" />
