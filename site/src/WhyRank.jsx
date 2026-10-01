@@ -183,6 +183,10 @@ export default function WhyRank({ player, results, settings, tagOf, base }) {
       <h2>{player.rank ? `Why #${player.rank}` : 'Why unranked'}</h2>
       <p className="sheet-intro">
         {scoreSentence(player, deviations)}
+        {player.rankRange &&
+          (player.rankRange.best === player.rankRange.worst
+            ? ` Lands at #${player.rank} in at least 8 of 10 simulations.`
+            : ` Likely anywhere from #${player.rankRange.best} to #${player.rankRange.worst}, once the uncertainty is counted.`)}
         {!player.rank &&
           ` Needs ${settings.minimumEvents} events to be ranked. Today’s ${deviations ? 'score' : 'rating'} would rank #${placeIfRanked}.`}
       </p>

@@ -27,7 +27,7 @@ The rankings table shows:
 A few things that surprise people:
 
 - **Who you beat matters more than where you place.** Beating strong players raises a rating the most, and losing to weaker ones lowers it the most. That's why someone can rank above a player with better placements.
-- **Close scores are basically ties.** Most neighboring players are within each other's margin of error. The numbers are good at separating groups of players, less so #7 from #8.
+- **Close scores are basically ties.** Most neighboring players are within each other's margin of error. The small range under each rank, like 4–8, shows where that player lands in 8 of 10 simulations of that uncertainty. Players whose ranges overlap are effectively tied, so the numbers are good at separating groups of players, less so #7 from #8.
 - **You can change the settings.** The rankings page lets anyone change the minimum events, how much attendance matters, the rating system, and which events count.
 - **It's a starting point, not the final word.** The PR panel makes the final call, and results that aren't on start.gg aren't included.
 

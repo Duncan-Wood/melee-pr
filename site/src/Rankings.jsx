@@ -49,6 +49,7 @@ export default function Rankings(props) {
         {hasMore
           ? `The top ${POWER_RANKING_SIZE} of ${qualified} players with ${requirement}.`
           : `${qualified} ${qualified === 1 ? 'player has' : 'players have'} ${requirement}.`}
+        {results.ranked[0]?.rankRange && ' The small range under a rank is where that player lands in 8 of 10 simulations of the ratings’ uncertainty, so overlapping ranges mean a near-tie.'}
       </p>
       <div className="sheet table-sheet">
         <table className="rankings-table">
@@ -67,7 +68,14 @@ export default function Rankings(props) {
           <tbody>
             {shown.map((player) => (
               <tr key={player.playerId} onClick={() => (window.location.hash = `${base}/player/${player.playerId}`)}>
-                <td className="numeric rank-cell">{player.rank}</td>
+                <td className="numeric rank-cell">
+                  {player.rank}
+                  {player.rankRange && player.rankRange.best !== player.rankRange.worst && (
+                    <span className="rank-range">
+                      {player.rankRange.best}–{player.rankRange.worst}
+                    </span>
+                  )}
+                </td>
                 <th scope="row">
                   <span className="player-cell">
                     <a href={`${base}/player/${player.playerId}`}>{player.tag}</a>

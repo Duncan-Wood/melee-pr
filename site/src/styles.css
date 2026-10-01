@@ -771,6 +771,13 @@ main {
   font: 400 var(--size-large)/1 var(--display);
 }
 
+.rank-range {
+  display: block;
+  margin-top: 4px;
+  font: 400 var(--size-caption)/1 var(--body);
+  color: var(--ink-soft);
+}
+
 .rankings-table tbody tr:last-child > * {
   border-bottom: 0;
 }
